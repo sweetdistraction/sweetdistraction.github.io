@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distraction]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-11-07T23:18:49+07:00</updated>
+  <updated>2014-11-08T01:30:12+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://sweetdistraction.github.io/blog/test-post/"/>
+    <updated>2014-11-08T00:51:25+07:00</updated>
+    <id>http://sweetdistraction.github.io/blog/test-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
