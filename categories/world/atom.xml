@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: World, | sweet distraction]]></title>
+  <title><![CDATA[Category: World, | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/world/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-11-11T21:33:37+07:00</updated>
+  <updated>2014-11-11T22:20:52+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -18,7 +18,7 @@
     <link href="http://sweetdistraction.github.io/hello-world/"/>
     <updated>2014-11-08T00:51:25+07:00</updated>
     <id>http://sweetdistraction.github.io/hello-world</id>
-    <content type="html"><![CDATA[<p><em>Sweet distraction, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar.</p>
+    <content type="html"><![CDATA[<p><em>Sweet distractions, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar.</p>
 
 <p>Bukankah proses belajar bisa dilakukan di mana saja dan kapan saja? Situs ini pun hasil pembelajaran saya akan <a href="http://octopress.org">Octopress</a> sebuah situs statis berbasis Jekyll yang menggunakan bahasa pemrograman Ruby. Beberapa kelebihan dari Octopress yang membuat saya tertarik untuk mempelajarinya adalah sifatnya yang statis, tak perlu ribet mendaftar menggunakan email ataupun setting hosting bahkan bisa hosting gratis di <a href="http://pages.github.com">Github Pages</a> dan postingan cukup ditulis dengan format <a href="fireball.net/projects/markdown/">Markdown</a>.</p>
 
