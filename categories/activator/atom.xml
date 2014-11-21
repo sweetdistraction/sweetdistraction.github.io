@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Cydia | sweet distractions]]></title>
-  <link href="http://sweetdistraction.github.io/categories/cydia/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Activator | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/activator/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
   <updated>2014-11-22T00:42:46+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
@@ -41,34 +41,6 @@
 
 
 <p>Ya. itu dia seluruh tweak yang kini terinstall di perangkat iOS utama saya. Berkurang lumayan banyak jika dibandingkan dengan saat saya melakukan jailbreak sewaktu menggunakan iOS 7. iOS berkembang semakin kompleks dengan fitur baru yang ada dan tak jarang pula mengurangi alasan sebagian orang melakukan jailbreak seperti saya. Namun bukan berarti tak ada alasan untuk tak melakukan jailbreak.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iOS 8 Jailbreak]]></title>
-    <link href="http://sweetdistraction.github.io/ios-8-jailbreak/"/>
-    <updated>2014-11-14T22:46:11+07:00</updated>
-    <id>http://sweetdistraction.github.io/ios-8-jailbreak</id>
-    <content type="html"><![CDATA[<p>Tak lama setelah Apple mengeluarkan pembaharuan iOS 8 ke versi 8.1, Pangu merilis <em>tools</em> untuk melakukan jailbreak pada iOS 8.0-8.1. Meski terkesan terburu-buru dalam merilis <em>tools</em> tersebut, namun <a href="https://twitter.com/PanguTeam">Pangu</a> yang merupakan sekelompok tim pengembang yang berasal dari China berhasil membuktikan bahwa mereka mampu menciptakan sebuah <em>tool</em> jailbreak yang selama ini dimonopoli oleh para iOS hacker yang tergabung dalam <a href="https://twitter.com/evad3rs">@evad3rs</a>, meski <a href="https://twitter.com/i0n1c">@i0n1c</a> mengklaim bahwa Pangu menggunakan exploit miliknya yang didapat dari pelatihan <a href="http://www.sektioneins.de/blog/14-08-05-trainingFrankfurt.html">iOS Kernel Exploitation</a>. Pangu juga sebelumnya telah mengeluarkan <em>tools</em> untuk melakukan <a href="http://en.7.pangu.io/">jailbreak bagi iOS 7.0-7.1.2</a>.</p>
-
-<!--more-->
-
-
-<p>Versi awal dari <a href="http://en.pangu.io/">Pangu8</a> sendiri hanya dapat dijalankan di Windows dan hanya merupakan SSH jailbreak yang dikhususkan untuk para developer. Cydia yang menjadi alternatif dari App Store untuk mengunduh <em>tweaks</em>, tema serta aplikasi jailbreak belum secara langsung terinstall karena kurangnya koordinasi antara Pangu dan <a href="https://twitter.com/saurik">@saurik</a>. Pengguna pun sempat mengeluhkan masalah bootloop setelah melakukan jailbreak, terutama bagi mereka yang sebelumnya melakukan update iOS secara OTA(over-the-air).</p>
-
-<p>Kini, bagi yang ingin melakukan jailbreak maka lebih baik segera, karena kabarnya Apple telah melakukan <em>patch</em> sehingga iOS 8.1.1 yang kini sedang dalam tahap testing ke developer tidak bisa dijailbreak menggunakan <em>tools</em> yang ada dari Pangu saat ini. Pangu sendiri juga telah merilis <em>tools</em> jailbreak bagi para pengguna Mac.</p>
-
-<p>@saurik menilai bahwa jailbreak iOS 8 yang sekarang ada sudah <a href="https://twitter.com/saurik/status/530454505994076161">cukup stabil</a> bahkan para pengembang kini bisa menambahkan <a href="https://twitter.com/saurik/status/530454526302908417">kompatibilitas</a> terhadap iOS 8 di tweaks yang dibuatnya. Untuk meminimalkan kemungkinan error serta bootloop yang mungkin terjadi, ada baiknya pengguna melakukan <a href="http://support.apple.com/en-us/HT201252">restore</a> menggunakan iTunes terlebih dahulu sebelum melakukan jailbreak. Tentu saja, backup perangkat iOS tak boleh dilupakan sebelum melakukan restore perangkat iOS agar tak kehilangan data yang dimiliki.</p>
-
-<p>Berikut beberapa tutorial jailbreak iOS 8 baik untuk Mac ataupun Windows.</p>
-
-<ul>
-<li><a href="http://www.idownloadblog.com/2014/11/09/how-to-jailbreak-ios-8-1-with-pangu-for-mac/">How To Jailbreak iOS 8.1 with Pangu for Mac</a></li>
-<li><a href="http://www.idownloadblog.com/2014/10/31/how-to-jailbreak-ios-8-and-install-cydia-using-pangu-1-1-0-on-windows-video/">How To Jailbreak Using Pangu for Windows</a></li>
-</ul>
-
-
-<p>Dengan adanya iOS 8.1.1 yang dirilis ke developer, bersamaan dengan <em>patch</em> yang dilakukan oleh Apple terhadap <em>tools</em> jailbreak Pangu8, maka tak ada salahnya untuk segera melakukan upgrade ke iOS 8.1 bagi yang masih menggunakan iOS 7 ataupun 8.0.x.</p>
 ]]></content>
   </entry>
   
