@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Twitter | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/twitter/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2014-11-22T15:07:27+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Twitter Adds Ability to Share Tweets via Direct Message]]></title>
+    <link href="http://sweetdistraction.github.io/twitter-adds-ability-to-share-tweets-via-dm/"/>
+    <updated>2014-11-22T14:43:58+07:00</updated>
+    <id>http://sweetdistraction.github.io/twitter-adds-ability-to-share-tweets-via-dm</id>
+    <content type="html"><![CDATA[<blockquote><p>&hellip;the company has now added a shortcut to its web, iPhone, TweetDeck, and Android apps (no iPad, it seems) that lets you easily send a tweet privately to someone else.</p></blockquote>
+
+<p>Wah, ini dia bikin kegiatan gosip dan ngomongin (twit)orang di DM makin seru!</p>
+]]></content>
+  </entry>
+  
+</feed>
