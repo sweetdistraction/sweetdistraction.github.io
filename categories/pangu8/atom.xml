@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pangu8 | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/pangu8/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-11-22T00:46:32+07:00</updated>
+  <updated>2014-11-22T09:21:57+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Go Get 'Em!]]></title>
+    <link href="http://sweetdistraction.github.io/go-get-em/"/>
+    <updated>2014-11-22T08:27:08+07:00</updated>
+    <id>http://sweetdistraction.github.io/go-get-em</id>
+    <content type="html"><![CDATA[<blockquote><p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p></blockquote>
+
+<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Daftar Tweak Terinstall]]></title>
