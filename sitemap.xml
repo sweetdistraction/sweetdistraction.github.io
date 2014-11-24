@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang/</loc>
+    <lastmod>2014-11-24T18:36:34+07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://sweetdistraction.github.io/apple-red-campaign/</loc>
     <lastmod>2014-11-24T11:12:51+07:00</lastmod>
     <priority>0.8</priority>
@@ -47,19 +52,19 @@
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/archives/</loc>
-    <lastmod>2014-11-24T13:17:38+07:00</lastmod>
+    <lastmod>2014-11-24T19:29:17+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/</loc>
-    <lastmod>2014-11-24T13:17:38+07:00</lastmod>
+    <lastmod>2014-11-24T19:29:17+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/about/</loc>
-    <lastmod>2014-11-24T13:17:38+07:00</lastmod>
+    <lastmod>2014-11-24T19:29:17+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
