@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Campaign | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/campaign/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-11-24T11:56:50+07:00</updated>
+  <updated>2014-11-24T13:17:38+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -18,7 +18,7 @@
     <link href="http://sweetdistraction.github.io/apple-red-campaign/"/>
     <updated>2014-11-24T11:12:51+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-red-campaign</id>
-    <content type="html"><![CDATA[<p>{% img center /images/applered.PNG %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/applered.PNG"></p>
 
 <blockquote><p>CUPERTINO, California—November 23, 2014— To mark World AIDS Day 2014, Apple® and leading app developers are inviting customers to help (RED) achieve the goal of an AIDS-free generation. For the next two weeks, a special section of the App Store called Apps for (RED) will offer 25 apps with exclusive new content where all proceeds will go directly to the Global Fund to fight AIDS. In addition, Apple will donate a portion of sales at Apple’s retail and online stores around the world on two of the biggest shopping days of the year: Friday, November 28 and Monday, December 1.</p>
 
