@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Watchboard | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/watchboard/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2014-11-28T17:54:50+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[WatchBoard: A New Apple Watch SpringBoard Replacement for iPhone and iPad]]></title>
+    <link href="http://sweetdistraction.github.io/watchboar-apple-watch-springboard-iphone-ipad/"/>
+    <updated>2014-11-28T17:31:38+07:00</updated>
+    <id>http://sweetdistraction.github.io/watchboar-apple-watch-springboard-iphone-ipad</id>
+    <content type="html"><![CDATA[<p>Jeff Benjamin di <a href="www.idownloadblog.com.">iDownloadblog</a></p>
+
+<blockquote><p>The thing I really like about WatchBoard is that no resprings are required when enabling or disabling the tweak. Yes, even when you want to fully replace the iPhone’s SpringBoard with the Apple Watch UI, no resprings are required, which is one of the best features of WatchBoard.</p></blockquote>
+
+<p>Jika beberapa waktu sebelumnya Aeternum hadir sebagai jailbreak tweak yang membawa Apple Watch UI ke springboard iPhone atau iPad maka kini giliran WatchBoard dari Aaron Ash yang juga pencipta dari jailbreak tweak ternama, <a href="http://cydia.saurik.com/package/com.aaronash.barrel/">Barrel</a>.</p>
+
+<p>Salah satu kekurangan dari Apple Watch UI di iPhone atau iPad adalah bagaimana dengan cepat membuka sebuah aplikasi yang diinginkan (saya memakai Aeternum dan hal ini juga menjadi salah satu masalah dalam menggunakan Apple Watch UI di keseharian). Namun jangan khawatir karena WatchBoard memiliki fitur untuk mengaktfikan spotlight dengan mudah, caranya tinggal tap di tempat yang kosong.</p>
+
+<p>Ditawarkan dengan sedikit lebih mahal yaitu $3.99 dengan <a href="http://cydia.saurik.com/package/com.spiritoflogic.aeternum/">Aeternum</a>, WatchBoard mungkin dapat menjadi pilihan bagi yang tak sabar untuk mencoba Apple Watch UI di iPhone atau iPadnya.</p>
+]]></content>
+  </entry>
+  
+</feed>
