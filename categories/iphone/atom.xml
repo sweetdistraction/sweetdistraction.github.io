@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Iphone | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/iphone/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-11-28T17:54:50+07:00</updated>
+  <updated>2014-11-29T00:39:21+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How Apple Keeps AirDrop Files Private and Secure | iMore]]></title>
+    <link href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/"/>
+    <updated>2014-11-29T00:00:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:</p>
+
+<blockquote><h2>Encrypted identities</h2>
+
+<p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That&rsquo;ll be used later to identify you in a way that maintains your privacy and security.</p></blockquote>
+
+<p>Security! Security!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[#MacStoriesDeals Black Friday 2014: Best Deals for iPhone, iPad, and Mac Apps & Games]]></title>

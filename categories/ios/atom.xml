@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ios/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-11-28T17:54:50+07:00</updated>
+  <updated>2014-11-29T00:39:21+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How Apple Keeps AirDrop Files Private and Secure | iMore]]></title>
+    <link href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/"/>
+    <updated>2014-11-29T00:00:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:</p>
+
+<blockquote><h2>Encrypted identities</h2>
+
+<p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That&rsquo;ll be used later to identify you in a way that maintains your privacy and security.</p></blockquote>
+
+<p>Security! Security!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[#MacStoriesDeals Black Friday 2014: Best Deals for iPhone, iPad, and Mac Apps & Games]]></title>
@@ -76,17 +91,6 @@
 
 <p><img src="/images/notescomparison.png" title="Notes" >
 Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebagai system font di perangkat iOS. <a href="https://twitter.com/dbk1ng">Daniel B. King</a>, memporting font ini agar dapat digunakan di perangkat iOS. Caranya mudah, cukup install aplikasi Bytafont2 dari Cydia dan unduh San Fransisco font dari repo <code>http://dbk1ng.myrepospace.com</code>. Setelah itu, pilih San Fransisco yang ada di daftar font pada aplikasi Bytafont2 dan perangkat akan secara otomatis respring. Saya sendiri lebih menyukain San Fransisco daripada Helvetica Neue meski baru sebentar menggunakannya. Mungkin saja nantinya Apple berencana mengganti system font iOS 9 ke San Fransisco.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Go Get 'Em!]]></title>
-    <link href="http://sweetdistraction.github.io/go-get-em/"/>
-    <updated>2014-11-22T08:27:08+07:00</updated>
-    <id>http://sweetdistraction.github.io/go-get-em</id>
-    <content type="html"><![CDATA[<blockquote><p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p></blockquote>
-
-<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-11-28T17:54:50+07:00</updated>
+  <updated>2014-11-29T00:39:21+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[How Apple keeps AirDrop files private and secure | iMore ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://m.imore.com/how-apple-keeps-your-airdrop-files-private-and-secure"/>
+  	
+    <updated>2014-11-29T00:00:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
+    
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:</p>
+
+<blockquote><h2>Encrypted identities</h2>
+
+<p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That&rsquo;ll be used later to identify you in a way that maintains your privacy and security.</p></blockquote>
+
+<p>Security! Security!</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -438,26 +457,6 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 <p><em>Interactive notifications</em>, salah satu fitur yang dinanti-nantikan di iOS. Jika pada iOS 7 pengguna tak bisa membalas sebuah pesan yang muncul ketika sedang browsing tanpa membuka aplikasi <em>Messages</em> maka kini di iOS 8 pengguna bisa langsung membalas pesan dengan <em>pull-down</em> banner notifications pesan yang muncul. Tak hanya lewat banner yang muncul namun juga pengguna bisa membalas pesan dari notifikasi yang muncul di <em>lock screen</em>. Tak hanya membalas pesan, pengguna juga mengarsip, menghapus ataupun menjadwalkan follow up email di waktu tertentu berkat interactive notifications yang ada di iOS 8.</p>
 
 <p>Masih banyak lagi fitur yang dibawa oleh iOS 8, jika iOS 7 membawa perubahan besar bagi elemen user interface maka iOS 8 adalah penyempurnaan dari versi iOS 7. Bagaimana menurutmu?</p>
-]]></content>
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Hello World!]]></title>
-  	<link href="http://sweetdistraction.github.io/hello-world/"/>
-  	
-    <updated>2014-11-08T00:51:25+07:00</updated>
-    <id>http://sweetdistraction.github.io/hello-world</id>
-    
-    <content type="html"><![CDATA[<p><em>Sweet distractions, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar banyak hal baru.</p>
-
-<!--more-->
-
-
-<p>Bukankah proses belajar bisa dilakukan di mana saja dan kapan saja? Situs ini pun hasil pembelajaran saya akan <a href="http://octopress.org">Octopress</a> sebuah situs statis berbasis Jekyll yang menggunakan bahasa pemrograman Ruby. Beberapa kelebihan dari Octopress yang membuat saya tertarik untuk mempelajarinya adalah sifatnya yang statis, tak perlu ribet mendaftar menggunakan email ataupun setting hosting bahkan bisa hosting gratis di <a href="http://pages.github.com">Github Pages</a> dan postingan cukup ditulis dengan format <a href="fireball.net/projects/markdown/">Markdown</a>.</p>
-
-<p>Karena blog ini akan lebih banyak diisi ketika ada waktu luang maka menjaganya agar tetap sederhana baik itu dari segi tampilan maupun dalam proses pembuatan artikel hingga mempostingnya adalah hal yang utama. Tanpa berlama-lama lagi, selamat membaca dan semoga bermanfaat!</p>
 ]]></content>
   	
   </entry>
