@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Daftar Blog | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/daftar-blog/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2014-11-28T10:59:24+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Static Site Generators]]></title>
+    <link href="http://sweetdistraction.github.io/static-site-generators/"/>
+    <updated>2014-11-28T10:37:54+07:00</updated>
+    <id>http://sweetdistraction.github.io/static-site-generators</id>
+    <content type="html"><![CDATA[<p>Bingung mau ngeblog pakai apa? Males daftar-daftar di Wordpress, Blogger, Tumblr? Situs yang satu ini punya daftar yang panjang tentang blog statis! Choose your own story lane to start.</p>
+]]></content>
+  </entry>
+  
+</feed>
