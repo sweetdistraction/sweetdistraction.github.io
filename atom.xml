@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-11-28T10:59:24+07:00</updated>
+  <updated>2014-11-28T13:25:42+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,19 +14,26 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Static Site Generators]]></title>
-    <link href="http://sweetdistraction.github.io/static-site-generators/"/>
+    
+  	<title type="html"><![CDATA[Static Site Generators ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="https://staticsitegenerators.net/"/>
+  	
     <updated>2014-11-28T10:37:54+07:00</updated>
     <id>http://sweetdistraction.github.io/static-site-generators</id>
+    
     <content type="html"><![CDATA[<p>Bingung mau ngeblog pakai apa? Males daftar-daftar di Wordpress, Blogger, Tumblr? Situs yang satu ini punya daftar yang panjang tentang blog statis! Choose your own story lane to start.</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/static-site-generators/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[#MacStoriesDeals Black Friday 2014: Best Deals for iPhone, iPad, and Mac Apps & Games]]></title>
-    <link href="http://sweetdistraction.github.io/blackfriday-apps-deal/"/>
+    
+  	<title type="html"><![CDATA[#MacStoriesDeals Black Friday 2014: Best Deals for iPhone, iPad, and Mac Apps & Games ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.macstories.net/roundups/macstoriesdeals-black-friday-2014-best-deals-for-iphone-ipad-and-mac-apps-games/"/>
+  	
     <updated>2014-11-27T09:14:00+07:00</updated>
     <id>http://sweetdistraction.github.io/blackfriday-apps-deal</id>
+    
     <content type="html"><![CDATA[<p><a href="http://macstories.net">Macstories</a></p>
 
 <blockquote><p>Black Friday is upon us once again! #MacStoriesDeals is the best place to find great deals for iOS apps and games, Mac software, and more.</p></blockquote>
@@ -38,14 +45,18 @@
 <p>Selain deals di atas, <a href="http://smilesoftware.com/TextExpander/touch/index.html">Text Expander Touch</a> menjadi Rp. 12 Ribu di App Store Indonesia. Namun ketika saya membuka App Store US, harga dari Text Expander Touch masih sama yaitu $4.99.</p>
 
 <p>So, stay update!</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/blackfriday-apps-deal/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[iPhone - Blackberry Trade Up Offer]]></title>
-    <link href="http://sweetdistraction.github.io/iphone-blackberry-trade-up-program/"/>
+    
+  	<title type="html"><![CDATA[iPhone - Blackberry Trade Up Offer ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="https://tradeup.blackberry.com/en/us/web/passport.html"/>
+  	
     <updated>2014-11-26T01:37:00+07:00</updated>
     <id>http://sweetdistraction.github.io/iphone-blackberry-trade-up-program</id>
+    
     <content type="html"><![CDATA[<p>Blackberry di situsnya:</p>
 
 <blockquote><p>Trade your iPhone for a BlackBerry Passport and get up to $550!</p>
@@ -55,27 +66,35 @@
 <p>Upgrade to a BlackBerry® Passport and get up to $400 back for your iPhone and an additional $150 from BlackBerry.</p></blockquote>
 
 <p>Ada yang mau tukar iPhone 6-nya sama Blackberry Passport?</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/iphone-blackberry-trade-up-program/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Unread for iPad Relaunches as a Freemium App]]></title>
-    <link href="http://sweetdistraction.github.io/unread-ipad-jadi-freemium/"/>
+    
+  	<title type="html"><![CDATA[Unread for iPad relaunches as a freemium app ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.idownloadblog.com/2014/11/25/unread-for-ipad-relaunches-as-a-freemium-app/"/>
+  	
     <updated>2014-11-26T01:33:00+07:00</updated>
     <id>http://sweetdistraction.github.io/unread-ipad-jadi-freemium</id>
+    
     <content type="html"><![CDATA[<p>Dari iDownloadblog:</p>
 
 <blockquote><p>Previously costing five bucks a pop, Unread for iPad is now a free download with In-App Purchases to unlock advanced features. The app sports full-screen reading, has multiple themes for day, night and some such, features rich content sharing via OvershareKit and much more.</p></blockquote>
 
 <p>Sayang udah ngga punya iPad lagi, ada yang mau kasih?</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/unread-ipad-jadi-freemium/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[San Fransisco Sebagai System Font Di iOS]]></title>
-    <link href="http://sweetdistraction.github.io/san-fransisco-ios-fonts/"/>
+    
+  	<title type="html"><![CDATA[San Fransisco Sebagai System Font di iOS]]></title>
+  	<link href="http://sweetdistraction.github.io/san-fransisco-ios-fonts/"/>
+  	
     <updated>2014-11-25T22:08:00+07:00</updated>
     <id>http://sweetdistraction.github.io/san-fransisco-ios-fonts</id>
+    
     <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/settingcomparison.png" title="Settings" ></p>
 
 <p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>.</p>
@@ -86,13 +105,17 @@
 <p><img src="http://sweetdistraction.github.io/images/notescomparison.png" title="Notes" >
 Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebagai system font di perangkat iOS. <a href="https://twitter.com/dbk1ng">Daniel B. King</a>, memporting font ini agar dapat digunakan di perangkat iOS. Caranya mudah, cukup install aplikasi Bytafont2 dari Cydia dan unduh San Fransisco font dari repo <code>http://dbk1ng.myrepospace.com</code>. Setelah itu, pilih San Fransisco yang ada di daftar font pada aplikasi Bytafont2 dan perangkat akan secara otomatis respring. Saya sendiri lebih menyukain San Fransisco daripada Helvetica Neue meski baru sebentar menggunakannya. Mungkin saja nantinya Apple berencana mengganti system font iOS 9 ke San Fransisco.</p>
 ]]></content>
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[30 Tahun Setelah Apple Macintosh Pertama Dirilis]]></title>
-    <link href="http://sweetdistraction.github.io/30-tahun-setelah-apple-macintosh-pertama-dirilis/"/>
+    
+  	<title type="html"><![CDATA[30 Tahun Setelah Apple Macintosh Pertama Dirilis ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://thingsofinterest.com/2014/10/22/difference-30-years-makes-imac-retina-5k-display-vs-original-macintosh/"/>
+  	
     <updated>2014-11-25T08:26:53+07:00</updated>
     <id>http://sweetdistraction.github.io/30-tahun-setelah-apple-macintosh-pertama-dirilis</id>
+    
     <content type="html"><![CDATA[<p>Kent Akgungor di <a href="http://thingsofinterest.com/">Things Of Interest</a></p>
 
 <blockquote><p>When first released in 1984, the Apple Macintosh shipped with a black-and-white 512 x 342 display. Fast forward 30 years to the release of the iMac with Retina 5K display, which ships with a 5,120 x 2,880 display with support for millions of colours. That’s an increase from 175,000 pixels to more than 14.7 million – an 8,400% increase. 80 of the original Macintosh displays fit within a single Retina 5K display.</p></blockquote>
@@ -102,38 +125,50 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 <p>Mike Salomon di <a href="http://www.thecleverest.com/">The Cleverest</a> mencoba melakukan hal sebaliknya.</p>
 
 <blockquote><p>So I thought I’d take the opposite approach. Below are 1-to-1 pixel mockups of how Mac OSX Yosemite would have appeared on the original Macintosh’s 512×342 pixel screen.</p></blockquote>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/30-tahun-setelah-apple-macintosh-pertama-dirilis/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[YosemiteSanFranciscoFont]]></title>
-    <link href="http://sweetdistraction.github.io/san-fransisco-yosemite-font/"/>
+    
+  	<title type="html"><![CDATA[YosemiteSanFranciscoFont ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="https://github.com/wellsriley/YosemiteSanFranciscoFont"/>
+  	
     <updated>2014-11-24T22:52:00+07:00</updated>
     <id>http://sweetdistraction.github.io/san-fransisco-yosemite-font</id>
+    
     <content type="html"><![CDATA[<p>OS X Yosemite hadir dengan Helvetica Neue sebagai system font namun sayangnya, pada Mac dengan non-retina display font ini akan sedikit susah dibaca dan terkesan <em>blurry</em>. San Fransisco font, yang akan digunakan untuk Apple Watch ini mungkin bisa jadi solusi penganti Helvetica Neue di OS X Yosemite.</p>
 
 <p><img src="http://sweetdistraction.github.io/images/sanfransiscofonts1.png" title="YosemiteSanFransiscoFont1" ></p>
 
 <p><img src="http://sweetdistraction.github.io/images/sanfransiscofonts2.png" title="YosemiteSanFransiscoFont2" ></p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/san-fransisco-yosemite-font/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Keyboard Maestro Macro: Quoting a Website in Markdown — the Brooks Review]]></title>
-    <link href="http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown/"/>
+    
+  	<title type="html"><![CDATA[Keyboard Maestro Macro: Quoting a Website in Markdown — The Brooks Review ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="https://brooksreview.net/2013/07/keyboard-maestro-macro-quoting-a-website-in-markdown/"/>
+  	
     <updated>2014-11-24T22:27:00+07:00</updated>
     <id>http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown</id>
+    
     <content type="html"><![CDATA[<blockquote><p>The benefit is that now I can select text on a page, hit the hot key and paste to my document, saving a bunch of extra clicks. It’s not the best, but it sped things up a touch for me.</p></blockquote>
 
 <p>Waini! Makin mudah lagi bikin postingan <em>linked list</em>. Tapi kalau pas kerja di Windows tetep aja kudu copy-paste manual.</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Bekerja Multi-Platform Mac-Windows]]></title>
-    <link href="http://sweetdistraction.github.io/bekerja-multi-platform-mac-windows/"/>
+    
+  	<title type="html"><![CDATA[Bekerja Multi-Platform Mac-Windows]]></title>
+  	<link href="http://sweetdistraction.github.io/bekerja-multi-platform-mac-windows/"/>
+  	
     <updated>2014-11-24T19:37:21+07:00</updated>
     <id>http://sweetdistraction.github.io/bekerja-multi-platform-mac-windows</id>
+    
     <content type="html"><![CDATA[<p>Bekerja menggunakan dua sistem operasi yang berbeda pastilah menjadi pengalaman yang kurang menyenangkan. Aplikasi yang digunakan juga tak jarang hanya tersedia untuk satu platform sistem operasi tertentu. Sebagai seseorang yang bekerja di dua platform, Windows di kantor dan Mac ketika di rumah, setidaknya saya harus memastikan bahwa bekerja di kedua platform sistem operasi ini sedikit lebih menyenangkan dari biasanya. Ya, paling tidak untuk sementara waktu.</p>
 
 <!--more-->
@@ -177,13 +212,17 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <p>Masih banyak kekurangan ataupun hal yang kurang menyenangkan lainnya yang belum saya dapat atasi dari bekerja dengan menggunakan dua sistem operasi yang berbeda. Namun setidaknya saya masih bisa mentolerirnya untuk sementara waktu.</p>
 ]]></content>
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Apple Merilis OS X 10.10.2 Versi Beta Untuk Para Pengembang]]></title>
-    <link href="http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang/"/>
+    
+  	<title type="html"><![CDATA[Apple Merilis OS X 10.10.2 Versi Beta Untuk Para Pengembang]]></title>
+  	<link href="http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang/"/>
+  	
     <updated>2014-11-24T18:36:34+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang</id>
+    
     <content type="html"><![CDATA[<p><img class="center" src="http://sweetdistraction.github.io/images/yosemite10102beta.jpg" title="OS X 10.10.2 Beta" >
 3 hari setelah <a href="http://www.macrumors.com/2014/11/17/apple-10-10-1-release/">merilis pembaharuan OS X 10.10.1</a> kepada publik, Apple langsung merilis OS X 10.10.2 beta kepada para pengembang untuk diuji coba.</p>
 
@@ -192,13 +231,17 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <p>OS X Yosemite versi 10.10.1 yang dirilis bertujuan untuk memperbaiki bug yang terdapat pada wifi di OS X Yosemite dimana beberapa pengguna sering mengalami koneksi wifi yang terputus secara tiba-tiba meski nyatanya beberapa pengguna masih melaporkan bug yang sama setelah melakukan update ke OS X 10.10.1. Seperti update sebelumnya <a href="http://www.macrumors.com/2014/11/20/os-x-yosemite-10-10-2-beta/">OS X 10.10.2</a> nampaknya akan hadir sebagai pembaharuan versi minor yang akan lebih banyak bertujuan untuk meningkatkan performa serta stabilitas untuk OS X Yosemite sendiri. Dengan nomor <em>build</em> 14C68k, OS X Yosemite 10.10.2 juga menghadirkan Safari versi 8.0.2 dan aplikasi Mail versi 8.2.</p>
 ]]></content>
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Apple Bantu (RED) Dalam Kampanye Hari AIDS Dunia]]></title>
-    <link href="http://sweetdistraction.github.io/apple-red-campaign/"/>
+    
+  	<title type="html"><![CDATA[Apple Bantu (RED) Dalam Kampanye Hari AIDS Dunia ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="https://www.apple.com/pr/library/2014/11/24Apple-Announces-World-AIDS-Day-2014-Campaign-for-RED-.html"/>
+  	
     <updated>2014-11-24T11:12:51+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-red-campaign</id>
+    
     <content type="html"><![CDATA[<p><img class="center" src="http://sweetdistraction.github.io/images/applered.PNG"></p>
 
 <blockquote><p>CUPERTINO, California—November 23, 2014— To mark World AIDS Day 2014, Apple® and leading app developers are inviting customers to help (RED) achieve the goal of an AIDS-free generation. For the next two weeks, a special section of the App Store℠ called Apps for (RED) will offer 25 apps with exclusive new content where all proceeds will go directly to the Global Fund to fight AIDS. In addition, Apple will donate a portion of sales at Apple’s retail and online stores around the world on two of the biggest shopping days of the year: Friday, November 28 and Monday, December 1.</p>
@@ -219,49 +262,65 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 
 <p>serta masih banyak lagi aplikasi yang turut serta. Kampanye ini kan berlangsung selama dua minggu mulai tanggal 24 November hingga 7 Desember 2014.</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/apple-red-campaign/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[A Note to Re/code Readers]]></title>
-    <link href="http://sweetdistraction.github.io/a-note-to-recode-readers/"/>
+    
+  	<title type="html"><![CDATA[A Note to Re/code Readers ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://recode.net/2014/11/20/a-note-to-recode-readers/"/>
+  	
     <updated>2014-11-22T14:56:15+07:00</updated>
     <id>http://sweetdistraction.github.io/a-note-to-recode-readers</id>
+    
     <content type="html"><![CDATA[<p>Walt Mossberg and Kara Swisher:</p>
 
 <blockquote><p>We thought about this decision long and hard, since we do value reader opinion. But we concluded that, as social media has continued its robust growth, the bulk of discussion of our stories is increasingly taking place there, making onsite comments less and less used and less and less useful.</p></blockquote>
 
 <p>Ya, Recode mulai menghilangkan kolom komentar untuk para pembacanya dan saya rasa ada benarnya juga. Dengan pesatnya pertumbuhan media sosial yang ada, bukan tak mungkin nantinya kolom komentar akan berganti mentions ke akun Twitter si penulis.</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/a-note-to-recode-readers/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Twitter Adds Ability to Share Tweets via Direct Message]]></title>
-    <link href="http://sweetdistraction.github.io/twitter-adds-ability-to-share-tweets-via-dm/"/>
+    
+  	<title type="html"><![CDATA[Twitter Adds Ability to Share Tweets via Direct Message ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.macstories.net/ios/twitter-adds-ability-to-share-tweets-via-direct-message/"/>
+  	
     <updated>2014-11-22T14:43:58+07:00</updated>
     <id>http://sweetdistraction.github.io/twitter-adds-ability-to-share-tweets-via-dm</id>
+    
     <content type="html"><![CDATA[<blockquote><p>&hellip;the company has now added a shortcut to its web, iPhone, TweetDeck, and Android apps (no iPad, it seems) that lets you easily send a tweet privately to someone else.</p></blockquote>
 
 <p>Wah, ini dia bikin kegiatan gosip dan ngomongin (twit)orang di DM makin seru!</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/twitter-adds-ability-to-share-tweets-via-dm/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Go Get 'Em!]]></title>
-    <link href="http://sweetdistraction.github.io/go-get-em/"/>
+    
+  	<title type="html"><![CDATA[Go get 'em! ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="https://ipsw.me/all"/>
+  	
     <updated>2014-11-22T08:27:08+07:00</updated>
     <id>http://sweetdistraction.github.io/go-get-em</id>
+    
     <content type="html"><![CDATA[<blockquote><p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p></blockquote>
 
 <p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak.</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/go-get-em/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Daftar Tweak Terinstall]]></title>
-    <link href="http://sweetdistraction.github.io/daftar-tweak-install/"/>
+    
+  	<title type="html"><![CDATA[Daftar Tweak Terinstall]]></title>
+  	<link href="http://sweetdistraction.github.io/daftar-tweak-install/"/>
+  	
     <updated>2014-11-21T22:17:00+07:00</updated>
     <id>http://sweetdistraction.github.io/daftar-tweak-install</id>
+    
     <content type="html"><![CDATA[<p>Dengan <a href="http://sweetdistractions.net/ios-8-jailbreak/">rilisnya</a> <em>tools</em> untuk melakukan jailbreak pada perangkat iOS beberapa waktu yang lalu, sayapun tak berlama-lama lagi untuk menginstall Parallel Desktop. Ya, saya langsung mencoba untuk melakukan jailbreak menggunakan Pangu8 versi Windows. Untuk melakukan jailbreak di iOS 8 pun tak bisa dikatakan berjalan dengan mulus bahkan saya sempat mengalami bootloop karena pada <a href="http://en.pangu.io">Pangu8</a> versi awal terdapat bug dimana perangkat yang menggunakan passcode akan mengalami bootloop.</p>
 
 <!-- more -->
@@ -286,26 +345,34 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <p>Ya. itu dia seluruh tweak yang kini terinstall di perangkat iOS utama saya. Berkurang lumayan banyak jika dibandingkan dengan saat saya melakukan jailbreak sewaktu menggunakan iOS 7. iOS berkembang semakin kompleks dengan fitur baru yang ada dan tak jarang pula mengurangi alasan sebagian orang melakukan jailbreak seperti saya. Namun bukan berarti tak ada alasan untuk tak melakukan jailbreak.</p>
 ]]></content>
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[AppleScript and Friends: Octopress, TextExpander, and Ruby - Mild-Mannered Canadian Fury]]></title>
-    <link href="http://sweetdistraction.github.io/applescript-textexpander-octopress-post/"/>
+    
+  	<title type="html"><![CDATA[AppleScript and Friends: Octopress, TextExpander, and Ruby - Mild-Mannered Canadian Fury ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://canadian-fury.com/2012/09/06/applescript-and-friends-octopress-textexpander-and-ruby/"/>
+  	
     <updated>2014-11-18T22:08:00+07:00</updated>
     <id>http://sweetdistraction.github.io/applescript-textexpander-octopress-post</id>
+    
     <content type="html"><![CDATA[<blockquote><p>Enter my trusty friends, TextExpander + AppleScript.</p></blockquote>
 
 <p>Meski postingan tersebut sudah ada sejak 2 tahun yang lalu (dan saya entah lagi berada di mana waktu itu) namun rasanya menyenangkan menemukan suatu hal baru untuk dipelajari.</p>
 
 <p>So, let&rsquo;s automate all the things!</p>
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/applescript-textexpander-octopress-post/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[iOS 8 Jailbreak]]></title>
-    <link href="http://sweetdistraction.github.io/ios-8-jailbreak/"/>
+    
+  	<title type="html"><![CDATA[iOS 8 Jailbreak]]></title>
+  	<link href="http://sweetdistraction.github.io/ios-8-jailbreak/"/>
+  	
     <updated>2014-11-14T22:46:11+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8-jailbreak</id>
+    
     <content type="html"><![CDATA[<p>Tak lama setelah Apple mengeluarkan pembaharuan iOS 8 ke versi 8.1, Pangu merilis <em>tools</em> untuk melakukan jailbreak pada iOS 8.0-8.1. Meski terkesan terburu-buru dalam merilis <em>tools</em> tersebut, namun <a href="https://twitter.com/PanguTeam">Pangu</a> yang merupakan sekelompok tim pengembang yang berasal dari China berhasil membuktikan bahwa mereka mampu menciptakan sebuah <em>tool</em> jailbreak yang selama ini dimonopoli oleh para iOS hacker yang tergabung dalam <a href="https://twitter.com/evad3rs">@evad3rs</a>, meski <a href="https://twitter.com/i0n1c">@i0n1c</a> mengklaim bahwa Pangu menggunakan exploit miliknya yang didapat dari pelatihan <a href="http://www.sektioneins.de/blog/14-08-05-trainingFrankfurt.html">iOS Kernel Exploitation</a>. Pangu juga sebelumnya telah mengeluarkan <em>tools</em> untuk melakukan <a href="http://en.7.pangu.io/">jailbreak bagi iOS 7.0-7.1.2</a>.</p>
 
 <!--more-->
@@ -327,13 +394,17 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <p>Dengan adanya iOS 8.1.1 yang dirilis ke developer, bersamaan dengan <em>patch</em> yang dilakukan oleh Apple terhadap <em>tools</em> jailbreak Pangu8, maka tak ada salahnya untuk segera melakukan upgrade ke iOS 8.1 bagi yang masih menggunakan iOS 7 ataupun 8.0.x.</p>
 ]]></content>
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[iOS 8]]></title>
-    <link href="http://sweetdistraction.github.io/ios-8/"/>
+    
+  	<title type="html"><![CDATA[iOS 8]]></title>
+  	<link href="http://sweetdistraction.github.io/ios-8/"/>
+  	
     <updated>2014-11-14T22:44:10+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8</id>
+    
     <content type="html"><![CDATA[<p>Sejak diumumkan oleh Apple pada 2 Juni yang lalu di ajang WWDC, iOS 8 membuat saya semakin yakin bahwa Apple benar-benar ingin memperkaya pengalaman penggunanya lebih lagi. Meski dari tampilan Apple tak membawa perubahan besar dari iOS 7 namun fitur yang dibawa oleh iOS 8 tak bisa dibilang <a href="https://www.apple.com/ios/whats-new/">sedikit</a>. <em><a href="http://www.imore.com/extensibility">Extensibility</a>, <a href="http://www.imore.com/interactive-notifications-ios-8-explained">Interactive Notifications</a>, <a href="http://www.imore.com/handoff-ios-8-os-x-yosemite-explained">Handoff</a>, QuickType, Family Sharing</em> hingga <em>Continuity</em> dan <em><a href="http://www.imore.com/health-ios-8-explained">Health app</a></em> merupakan beberapa fitur teranyar yang hadir.</p>
 
 <!--more-->
@@ -347,13 +418,17 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <p>Masih banyak lagi fitur yang dibawa oleh iOS 8, jika iOS 7 membawa perubahan besar bagi elemen user interface maka iOS 8 adalah penyempurnaan dari versi iOS 7. Bagaimana menurutmu?</p>
 ]]></content>
+  	
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://sweetdistraction.github.io/hello-world/"/>
+    
+  	<title type="html"><![CDATA[Hello World!]]></title>
+  	<link href="http://sweetdistraction.github.io/hello-world/"/>
+  	
     <updated>2014-11-08T00:51:25+07:00</updated>
     <id>http://sweetdistraction.github.io/hello-world</id>
+    
     <content type="html"><![CDATA[<p><em>Sweet distractions, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar banyak hal baru.</p>
 
 <!--more-->
@@ -363,6 +438,7 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <p>Karena blog ini akan lebih banyak diisi ketika ada waktu luang maka menjaganya agar tetap sederhana baik itu dari segi tampilan maupun dalam proses pembuatan artikel hingga mempostingnya adalah hal yang utama. Tanpa berlama-lama lagi, selamat membaca dan semoga bermanfaat!</p>
 ]]></content>
+  	
   </entry>
   
-</feed>
+  </feed>
