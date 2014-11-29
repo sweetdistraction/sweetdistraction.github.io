@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-11-29T00:39:21+07:00</updated>
+  <updated>2014-11-29T23:54:39+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[iClarified - Apple News - Jailbreak of iOS 8.1.1 and iOS 8.2 Beta Released! ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://m.iclarified.com/entry/index.php?enid=45676"/>
+  	
+    <updated>2014-11-29T00:00:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/ios-8.1.1-jailbreak-release</id>
+    
+    <content type="html"><![CDATA[<p>Dari <a href="http://iclarified.com">iClarified</a></p>
+
+<blockquote><p>MuscleNerd <a href="https://twitter.com/MuscleNerd/status/538587620461522945">confirmed</a> the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p>
+
+<p><em>&ldquo;Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case&rdquo;</em></p>
+
+<p>TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG &lsquo;app store&rsquo; for cracked apps by default in China.</p></blockquote>
+<a rel="full-article" href="http://sweetdistraction.github.io/ios-8.1.1-jailbreak-release/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -433,30 +452,6 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 
 <p>Dengan adanya iOS 8.1.1 yang dirilis ke developer, bersamaan dengan <em>patch</em> yang dilakukan oleh Apple terhadap <em>tools</em> jailbreak Pangu8, maka tak ada salahnya untuk segera melakukan upgrade ke iOS 8.1 bagi yang masih menggunakan iOS 7 ataupun 8.0.x.</p>
-]]></content>
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[iOS 8]]></title>
-  	<link href="http://sweetdistraction.github.io/ios-8/"/>
-  	
-    <updated>2014-11-14T22:44:10+07:00</updated>
-    <id>http://sweetdistraction.github.io/ios-8</id>
-    
-    <content type="html"><![CDATA[<p>Sejak diumumkan oleh Apple pada 2 Juni yang lalu di ajang WWDC, iOS 8 membuat saya semakin yakin bahwa Apple benar-benar ingin memperkaya pengalaman penggunanya lebih lagi. Meski dari tampilan Apple tak membawa perubahan besar dari iOS 7 namun fitur yang dibawa oleh iOS 8 tak bisa dibilang <a href="https://www.apple.com/ios/whats-new/">sedikit</a>. <em><a href="http://www.imore.com/extensibility">Extensibility</a>, <a href="http://www.imore.com/interactive-notifications-ios-8-explained">Interactive Notifications</a>, <a href="http://www.imore.com/handoff-ios-8-os-x-yosemite-explained">Handoff</a>, QuickType, Family Sharing</em> hingga <em>Continuity</em> dan <em><a href="http://www.imore.com/health-ios-8-explained">Health app</a></em> merupakan beberapa fitur teranyar yang hadir.</p>
-
-<!--more-->
-
-
-<p>Tak ketinggalan pula iCloud pun mendapat pembaharuan dan berubah menjadi iCloud Drive yang kini dapat menjadi tempat penyimpanan berbasis cloud layaknya Dropbox ataupun Google Drive yang telah hadir lebih dahulu. Jika saja  meski jujur saja sampai sekarang saya belum memindahkan seluruh berkas saya di Dropbox ke dalam iCloud Drive karena bekerja multi-platform menuntut berkas saya siap untuk diakses di mana saja.</p>
-
-<p>Salah satu yang menarik adalah fitur <em>Extensibility</em>. Meski fitur ini tak langsung dirasakan ataupun digunakan oleh pengguna namun para pengembang aplikasi dapat memanfaatkan fitur ini untuk memperluas serta menambah fitur yang telah ada seperti menambahkan <em>widgets</em> di notifications center, custom sharing dan action options di share sheets, custom filter pada aplikasi Photos yang dapat menggunakan filter dari aplikasi pihak ketiga. Pada iOS, aplikasi dibatasi oleh sebuah limitasi sandboxes yang dibuat oleh Apple sehingga aplikasi tak dapat berinteraksi atau bertukar data baik itu dengan sistem di perangkat ataupun dengan aplikasi yang lain dengan demikian data hanya disimpan dalam sebuah aplikasi tersebut. Hadirnya  <em>extensibility</em>, Apple membuat aplikasi dapat saling berinteraksi, bertukar data dan pada saat yang sama menjaga datanya tetap aman. Kini pengguna bisa langsung menyimpan gambar dari Safari ke Pinterest atau login ke web dengan mudah berkat action extensions dari 1Password.</p>
-
-<p><em>Interactive notifications</em>, salah satu fitur yang dinanti-nantikan di iOS. Jika pada iOS 7 pengguna tak bisa membalas sebuah pesan yang muncul ketika sedang browsing tanpa membuka aplikasi <em>Messages</em> maka kini di iOS 8 pengguna bisa langsung membalas pesan dengan <em>pull-down</em> banner notifications pesan yang muncul. Tak hanya lewat banner yang muncul namun juga pengguna bisa membalas pesan dari notifikasi yang muncul di <em>lock screen</em>. Tak hanya membalas pesan, pengguna juga mengarsip, menghapus ataupun menjadwalkan follow up email di waktu tertentu berkat interactive notifications yang ada di iOS 8.</p>
-
-<p>Masih banyak lagi fitur yang dibawa oleh iOS 8, jika iOS 7 membawa perubahan besar bagi elemen user interface maka iOS 8 adalah penyempurnaan dari versi iOS 7. Bagaimana menurutmu?</p>
 ]]></content>
   	
   </entry>
