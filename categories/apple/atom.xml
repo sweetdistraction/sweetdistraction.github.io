@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Apple | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-01T21:35:08+07:00</updated>
+  <updated>2014-12-01T23:24:02+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple vs Jailbreak]]></title>
+    <link href="http://sweetdistraction.github.io/apple-vs-jailbreak/"/>
+    <updated>2014-12-01T23:03:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/apple-vs-jailbreak</id>
+    <content type="html"><![CDATA[<p><a href="http://www.apple.com/legal/sales-support/sales-policies/retail_us.html">Apple</a>:</p>
+
+<p><blockquote><p>Making unauthorized modifications to the software on an iPhone violates the iPhone software license agreement. The common term for modifying an iPhone is jail-breaking, with a particular emphasis on the second part of that term. That’s why we strongly, almost emphatically, recommend that you do not do so. Really. Should you be unable to use your iPhone due to an unauthorized software modification, its repair will not be covered under the warranty.</p></blockquote></p>
+
+<p>Apple memang sudah lama menentang ataupun tak mengijinkan penggunanya untuk melakukan jailbreak. Pada halaman <em>sales policy</em> di atas bahkan Apple tak bertanggung jawab atas kerusakan yang terjadi akibat modifikasi dari sistem operasi iOS dalam hal ini berarti hangusnya garansi perangkat.</p>
+
+<!--more-->
+
+
+<p>Keputusan untuk melakukan jailbreak memang sepenuhnya ada di tangan pengguna dan tak selamanya jailbreak berdampak buruk. Bagi seorang pengembang ataupun seseorang yang ingin mempelajari tentang sistem operasi terutama iOS, jailbreak bisa saja merupakan sebuah langkah untuk mendukung kegiatannya. Tak hanya itu, jailbreak yang membuka akses <em>root</em> perangkat juga memungkinkan pengguna untuk mengkustomisasi perangkat yang dimiliki mulai dari menginstall tema, mengubah ikon batere atau sinyal, menghilangkan UI yang dianggap mengganggu dan masih banyak lagi. Namun juga tak jarang beberapa orang melakukan jailbreak untuk mengunduh dan menginstall aplikasi bajakan yang tentu saja merugikan bagi pengembang aplikasi padahal banyak cara untuk mendapatkan sebuah aplikasi secara legal, memakai iTunes gift card misalnya.</p>
+
+<p>Memang secara teori, jailbreak bisa dihilangkan cukup dengan melakukan restore perangkat menggunakan iTunes apabila ingin melakukan klaim garansi, namun jika terjadi hal yang tak diinginkan semisal <em>brick</em> pada perangkat karena tak sengaja melakukan <em>Reset All Settings</em> maka siapa yang akan bertanggung jawab? Oleh sebab itu mengapa jailbreak selalu disertai dengan <em>disclaimer</em>: DWYOR (Do With Your Own Risk)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How Apple Keeps AirDrop Files Private and Secure | iMore]]></title>
@@ -70,34 +90,6 @@
 
 
 <p>OS X Yosemite versi 10.10.1 yang dirilis bertujuan untuk memperbaiki bug yang terdapat pada wifi di OS X Yosemite dimana beberapa pengguna sering mengalami koneksi wifi yang terputus secara tiba-tiba meski nyatanya beberapa pengguna masih melaporkan bug yang sama setelah melakukan update ke OS X 10.10.1. Seperti update sebelumnya <a href="http://www.macrumors.com/2014/11/20/os-x-yosemite-10-10-2-beta/">OS X 10.10.2</a> nampaknya akan hadir sebagai pembaharuan versi minor yang akan lebih banyak bertujuan untuk meningkatkan performa serta stabilitas untuk OS X Yosemite sendiri. Dengan nomor <em>build</em> 14C68k, OS X Yosemite 10.10.2 juga menghadirkan Safari versi 8.0.2 dan aplikasi Mail versi 8.2.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple Bantu (RED) Dalam Kampanye Hari AIDS Dunia]]></title>
-    <link href="http://sweetdistraction.github.io/apple-red-campaign/"/>
-    <updated>2014-11-24T11:12:51+07:00</updated>
-    <id>http://sweetdistraction.github.io/apple-red-campaign</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/applered.PNG"></p>
-
-<blockquote><p>CUPERTINO, California—November 23, 2014— To mark World AIDS Day 2014, Apple® and leading app developers are inviting customers to help (RED) achieve the goal of an AIDS-free generation. For the next two weeks, a special section of the App Store℠ called Apps for (RED) will offer 25 apps with exclusive new content where all proceeds will go directly to the Global Fund to fight AIDS. In addition, Apple will donate a portion of sales at Apple’s retail and online stores around the world on two of the biggest shopping days of the year: Friday, November 28 and Monday, December 1.</p>
-
-<p>“Apple is a proud supporter of (RED) because we believe the gift of life is the most important gift anyone can give,” said Tim Cook, Apple’s CEO. “For eight years, our customers have been helping fight AIDS in Africa by funding life-saving treatments which are having a profoundly positive impact. This year we are launching our biggest fundraising push yet with the participation of Apple’s retail and online stores, and some of the brightest minds in the App Store are lending their talents to the effort as well.”</p></blockquote>
-
-<p>Dalam memperingati hari AIDS dunia, Apple bekerja sama dengan <a href="http://www.red.org/en/">(RED)</a> menggelar kampanye yang bertujuan untuk mencapai generasi bebas AIDS. Dalam <a href="https://www.apple.com/red/">kampanyenya</a>, Apple akan mendonasikan penjualan yang didapat dari aplikasi atau melalui toko retailnya ke Global Funds untuk melawan AIDS. Beberapa aplikasi yang ikut mendukung kampanye ini adalah:</p>
-
-<ul>
-<li><a href="https://itunes.apple.com/us/app/angry-birds-hd/id364234221?mt=8&amp;ign-mpt=uo%3D4">Angry Birds HD</a></li>
-<li><a href="https://itunes.apple.com/us/app/clear-tasks-reminders-to-do/id493136154?mt=8&amp;ign-mpt=uo%3D4">Clear</a></li>
-<li><a href="https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8&amp;ign-mpt=uo%3D4">Monument Valley</a></li>
-<li><a href="https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Paper</a></li>
-<li><a href="https://itunes.apple.com/us/app/fifa-15-ultimate-team-by-ea/id870794720?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Fifa 15 Ultimate Team</a></li>
-<li><a href="https://itunes.apple.com/us/app/clash-of-clans/id529479190?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Clash Of Clans</a></li>
-<li><a href="https://itunes.apple.com/us/app/rayman-fiesta-run/id657811530?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Rayman Fiesta Run</a></li>
-</ul>
-
-
-<p>serta masih banyak lagi aplikasi yang turut serta. Kampanye ini kan berlangsung selama dua minggu mulai tanggal 24 November hingga 7 Desember 2014.</p>
 ]]></content>
   </entry>
   

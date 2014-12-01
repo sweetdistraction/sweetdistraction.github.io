@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ipad | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ipad/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-01T21:35:08+07:00</updated>
+  <updated>2014-12-01T23:24:02+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple vs Jailbreak]]></title>
+    <link href="http://sweetdistraction.github.io/apple-vs-jailbreak/"/>
+    <updated>2014-12-01T23:03:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/apple-vs-jailbreak</id>
+    <content type="html"><![CDATA[<p><a href="http://www.apple.com/legal/sales-support/sales-policies/retail_us.html">Apple</a>:</p>
+
+<p><blockquote><p>Making unauthorized modifications to the software on an iPhone violates the iPhone software license agreement. The common term for modifying an iPhone is jail-breaking, with a particular emphasis on the second part of that term. That’s why we strongly, almost emphatically, recommend that you do not do so. Really. Should you be unable to use your iPhone due to an unauthorized software modification, its repair will not be covered under the warranty.</p></blockquote></p>
+
+<p>Apple memang sudah lama menentang ataupun tak mengijinkan penggunanya untuk melakukan jailbreak. Pada halaman <em>sales policy</em> di atas bahkan Apple tak bertanggung jawab atas kerusakan yang terjadi akibat modifikasi dari sistem operasi iOS dalam hal ini berarti hangusnya garansi perangkat.</p>
+
+<!--more-->
+
+
+<p>Keputusan untuk melakukan jailbreak memang sepenuhnya ada di tangan pengguna dan tak selamanya jailbreak berdampak buruk. Bagi seorang pengembang ataupun seseorang yang ingin mempelajari tentang sistem operasi terutama iOS, jailbreak bisa saja merupakan sebuah langkah untuk mendukung kegiatannya. Tak hanya itu, jailbreak yang membuka akses <em>root</em> perangkat juga memungkinkan pengguna untuk mengkustomisasi perangkat yang dimiliki mulai dari menginstall tema, mengubah ikon batere atau sinyal, menghilangkan UI yang dianggap mengganggu dan masih banyak lagi. Namun juga tak jarang beberapa orang melakukan jailbreak untuk mengunduh dan menginstall aplikasi bajakan yang tentu saja merugikan bagi pengembang aplikasi padahal banyak cara untuk mendapatkan sebuah aplikasi secara legal, memakai iTunes gift card misalnya.</p>
+
+<p>Memang secara teori, jailbreak bisa dihilangkan cukup dengan melakukan restore perangkat menggunakan iTunes apabila ingin melakukan klaim garansi, namun jika terjadi hal yang tak diinginkan semisal <em>brick</em> pada perangkat karena tak sengaja melakukan <em>Reset All Settings</em> maka siapa yang akan bertanggung jawab? Oleh sebab itu mengapa jailbreak selalu disertai dengan <em>disclaimer</em>: DWYOR (Do With Your Own Risk)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The NEW 1WRITER WITH JAVASCRIPT ACTIONS]]></title>
