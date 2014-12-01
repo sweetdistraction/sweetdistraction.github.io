@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ios/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-01T10:16:26+07:00</updated>
+  <updated>2014-12-01T13:58:45+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[This App Lets You Unlock Your Mac With Touch ID]]></title>
+    <link href="http://sweetdistraction.github.io/unlock-macbook-with-touch-id/"/>
+    <updated>2014-12-01T13:13:47+07:00</updated>
+    <id>http://sweetdistraction.github.io/unlock-macbook-with-touch-id</id>
+    <content type="html"><![CDATA[<p>Via <a href="www.cultofmac.com">CultofMac</a></p>
+
+<p><blockquote><p></p></p><p><p>Called FingerKey, this new utility works by using Bluetooth 4.0 (what else?) to pair with your Mac, then forms a low latency, low energy wireless connection with an extra layer of 256-bit AES encryption on top to keep things secure.</p></p><p><p>Once you’ve got things paired, unlocking your Mac is as simple as getting into Bluetooth range, opening up the app, and putting your finger against the home button. There’s also a Notification Center Widget that makes things even easier, and FingerKey can actually unlock multiple Macs at a time.</p></p><p><p></p></blockquote></p>
+
+<p>Macbook dengan Touch ID bisa saja menjadi inovasi Apple selanjutnya, namun sebelum itu terjadi kini membuka Mac dengan Touch ID yang terdapat di iPhone sudah bisa dilakukan.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How Apple Keeps AirDrop Files Private and Secure | iMore]]></title>
@@ -74,23 +87,6 @@
 <blockquote><p>Previously costing five bucks a pop, Unread for iPad is now a free download with In-App Purchases to unlock advanced features. The app sports full-screen reading, has multiple themes for day, night and some such, features rich content sharing via OvershareKit and much more.</p></blockquote>
 
 <p>Sayang udah ngga punya iPad lagi, ada yang mau kasih?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[San Fransisco Sebagai System Font Di iOS]]></title>
-    <link href="http://sweetdistraction.github.io/san-fransisco-ios-fonts/"/>
-    <updated>2014-11-25T22:08:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/san-fransisco-ios-fonts</id>
-    <content type="html"><![CDATA[<p><img src="/images/settingcomparison.png" title="Settings" ></p>
-
-<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>.</p>
-
-<!--more-->
-
-
-<p><img src="/images/notescomparison.png" title="Notes" >
-Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebagai system font di perangkat iOS. <a href="https://twitter.com/dbk1ng">Daniel B. King</a>, memporting font ini agar dapat digunakan di perangkat iOS. Caranya mudah, cukup install aplikasi Bytafont2 dari Cydia dan unduh San Fransisco font dari repo <code>http://dbk1ng.myrepospace.com</code>. Setelah itu, pilih San Fransisco yang ada di daftar font pada aplikasi Bytafont2 dan perangkat akan secara otomatis respring. Saya sendiri lebih menyukain San Fransisco daripada Helvetica Neue meski baru sebentar menggunakannya. Mungkin saja nantinya Apple berencana mengganti system font iOS 9 ke San Fransisco.</p>
 ]]></content>
   </entry>
   

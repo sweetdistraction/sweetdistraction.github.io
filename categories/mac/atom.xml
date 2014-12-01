@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mac | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/mac/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-01T10:16:26+07:00</updated>
+  <updated>2014-12-01T13:58:45+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[This App Lets You Unlock Your Mac With Touch ID]]></title>
+    <link href="http://sweetdistraction.github.io/unlock-macbook-with-touch-id/"/>
+    <updated>2014-12-01T13:13:47+07:00</updated>
+    <id>http://sweetdistraction.github.io/unlock-macbook-with-touch-id</id>
+    <content type="html"><![CDATA[<p>Via <a href="www.cultofmac.com">CultofMac</a></p>
+
+<p><blockquote><p></p></p><p><p>Called FingerKey, this new utility works by using Bluetooth 4.0 (what else?) to pair with your Mac, then forms a low latency, low energy wireless connection with an extra layer of 256-bit AES encryption on top to keep things secure.</p></p><p><p>Once you’ve got things paired, unlocking your Mac is as simple as getting into Bluetooth range, opening up the app, and putting your finger against the home button. There’s also a Notification Center Widget that makes things even easier, and FingerKey can actually unlock multiple Macs at a time.</p></p><p><p></p></blockquote></p>
+
+<p>Macbook dengan Touch ID bisa saja menjadi inovasi Apple selanjutnya, namun sebelum itu terjadi kini membuka Mac dengan Touch ID yang terdapat di iPhone sudah bisa dilakukan.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[#MacStoriesDeals Black Friday 2014: Best Deals for iPhone, iPad, and Mac Apps & Games]]></title>
