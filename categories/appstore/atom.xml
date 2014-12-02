@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Appstore | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/appstore/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-01T23:33:58+07:00</updated>
+  <updated>2014-12-02T14:39:17+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apps Cannot Use Push Notifications to Send Promotions, Unless You’re Apple or Anyone Else]]></title>
+    <link href="http://sweetdistraction.github.io/app-store-rules/"/>
+    <updated>2014-12-02T10:20:38+07:00</updated>
+    <id>http://sweetdistraction.github.io/app-store-rules</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/marcoarment">Marco Arment</a>:
+<blockquote><p></p></p><p><p>If Apple won’t enforce its own standards against spamming and annoying customers — which really isn’t good enough — the least they can do is practice the rules themselves and be a good example.</p></p><p><p></p></blockquote></p>
+
+<p>Maybe Apple just being consistent to what its CEO said back to WWDC this year: &ldquo;This is something only Apple could do.&rdquo;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The NEW 1WRITER WITH JAVASCRIPT ACTIONS]]></title>

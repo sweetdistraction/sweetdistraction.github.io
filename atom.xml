@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-01T23:33:58+07:00</updated>
+  <updated>2014-12-02T14:39:17+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Apps cannot use Push Notifications to send promotions, unless you’re Apple or anyone else ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.marco.org/2014/12/01/app-store-rule-5-6"/>
+  	
+    <updated>2014-12-02T10:20:38+07:00</updated>
+    <id>http://sweetdistraction.github.io/app-store-rules</id>
+    
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/marcoarment">Marco Arment</a>:</p>
+
+<blockquote><p>If Apple won’t enforce its own standards against spamming and annoying customers — which really isn’t good enough — the least they can do is practice the rules themselves and be a good example.</p></blockquote>
+
+
+<p>Maybe Apple just being consistent to what its CEO said back to WWDC this year: &ldquo;This is something only Apple could do.&rdquo;</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/app-store-rules/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -416,21 +434,6 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <p>Wah, ini dia bikin kegiatan gosip dan ngomongin (twit)orang di DM makin seru!</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/twitter-adds-ability-to-share-tweets-via-dm/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Go get 'em! ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="https://ipsw.me/all"/>
-  	
-    <updated>2014-11-22T08:27:08+07:00</updated>
-    <id>http://sweetdistraction.github.io/go-get-em</id>
-    
-    <content type="html"><![CDATA[<blockquote><p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p></blockquote>
-
-<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak.</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/go-get-em/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
