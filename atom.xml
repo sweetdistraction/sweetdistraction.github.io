@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-02T22:58:25+07:00</updated>
+  <updated>2014-12-03T10:51:03+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Getting Started with JavaScript for Automation on Yosemite ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.macstories.net/tutorials/getting-started-with-javascript-for-automation-on-yosemite/"/>
+  	
+    <updated>2014-12-03T10:31:41+07:00</updated>
+    <id>http://sweetdistraction.github.io/javascript-for-automation</id>
+    
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/The_Axx">Alex Guyot</a> via <a href="www.macstories.net">Macstories</a>:</p>
+
+<blockquote><p>Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></blockquote>
+
+
+<p>Jika <a href="https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html">AppleScript</a> dan <a href="http://support.apple.com/en-us/ht2488">Automator</a> dirasa tak cukup untuk mengotomatisasi berbagi pekerjaan pada Mac maka JavaScript for Automation (JXA) boleh dicoba. <a href="https://twitter.com/The_Axx">Alex Guyot</a> melalui Macstories telah memberikan sedikit gambaran dan contoh bagaimana javascript dapat mendukung mempercepat workflow di OS X.</p>
+
+<p>Let&rsquo;s automate all the things!</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/javascript-for-automation/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Apple Watch Website Update ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="https://www.apple.com/watch/timekeeping/"/>
+  	
+    <updated>2014-12-03T10:25:36+07:00</updated>
+    <id>http://sweetdistraction.github.io/apple-watch-website-updates</id>
+    
+    <content type="html"><![CDATA[<p><a href="http://www.macstories.net/linked/apple-watch-website-update/">Macstories</a>:</p>
+
+<blockquote><p>The Watch microsite has been updated with more details for timekeeping and fitness features, revealing more details about customizable complications, watch faces, fitness and activity tracking, and more.</p></blockquote>
+
+
+
+<a rel="full-article" href="http://sweetdistraction.github.io/apple-watch-website-updates/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -395,55 +433,6 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <p>OS X Yosemite versi 10.10.1 yang dirilis bertujuan untuk memperbaiki bug yang terdapat pada wifi di OS X Yosemite dimana beberapa pengguna sering mengalami koneksi wifi yang terputus secara tiba-tiba meski nyatanya beberapa pengguna masih melaporkan bug yang sama setelah melakukan update ke OS X 10.10.1. Seperti update sebelumnya <a href="http://www.macrumors.com/2014/11/20/os-x-yosemite-10-10-2-beta/">OS X 10.10.2</a> nampaknya akan hadir sebagai pembaharuan versi minor yang akan lebih banyak bertujuan untuk meningkatkan performa serta stabilitas untuk OS X Yosemite sendiri. Dengan nomor <em>build</em> 14C68k, OS X Yosemite 10.10.2 juga menghadirkan Safari versi 8.0.2 dan aplikasi Mail versi 8.2.</p>
 ]]></content>
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Apple Bantu (RED) Dalam Kampanye Hari AIDS Dunia ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="https://www.apple.com/pr/library/2014/11/24Apple-Announces-World-AIDS-Day-2014-Campaign-for-RED-.html"/>
-  	
-    <updated>2014-11-24T11:12:51+07:00</updated>
-    <id>http://sweetdistraction.github.io/apple-red-campaign</id>
-    
-    <content type="html"><![CDATA[<p><img class="center" src="http://sweetdistraction.github.io/images/applered.PNG"></p>
-
-<blockquote><p>CUPERTINO, California—November 23, 2014— To mark World AIDS Day 2014, Apple® and leading app developers are inviting customers to help (RED) achieve the goal of an AIDS-free generation. For the next two weeks, a special section of the App Store℠ called Apps for (RED) will offer 25 apps with exclusive new content where all proceeds will go directly to the Global Fund to fight AIDS. In addition, Apple will donate a portion of sales at Apple’s retail and online stores around the world on two of the biggest shopping days of the year: Friday, November 28 and Monday, December 1.</p>
-
-<p>“Apple is a proud supporter of (RED) because we believe the gift of life is the most important gift anyone can give,” said Tim Cook, Apple’s CEO. “For eight years, our customers have been helping fight AIDS in Africa by funding life-saving treatments which are having a profoundly positive impact. This year we are launching our biggest fundraising push yet with the participation of Apple’s retail and online stores, and some of the brightest minds in the App Store are lending their talents to the effort as well.”</p></blockquote>
-
-<p>Dalam memperingati hari AIDS dunia, Apple bekerja sama dengan <a href="http://www.red.org/en/">(RED)</a> menggelar kampanye yang bertujuan untuk mencapai generasi bebas AIDS. Dalam <a href="https://www.apple.com/red/">kampanyenya</a>, Apple akan mendonasikan penjualan yang didapat dari aplikasi atau melalui toko retailnya ke Global Funds untuk melawan AIDS. Beberapa aplikasi yang ikut mendukung kampanye ini adalah:</p>
-
-<ul>
-<li><a href="https://itunes.apple.com/us/app/angry-birds-hd/id364234221?mt=8&amp;ign-mpt=uo%3D4">Angry Birds HD</a></li>
-<li><a href="https://itunes.apple.com/us/app/clear-tasks-reminders-to-do/id493136154?mt=8&amp;ign-mpt=uo%3D4">Clear</a></li>
-<li><a href="https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8&amp;ign-mpt=uo%3D4">Monument Valley</a></li>
-<li><a href="https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Paper</a></li>
-<li><a href="https://itunes.apple.com/us/app/fifa-15-ultimate-team-by-ea/id870794720?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Fifa 15 Ultimate Team</a></li>
-<li><a href="https://itunes.apple.com/us/app/clash-of-clans/id529479190?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Clash Of Clans</a></li>
-<li><a href="https://itunes.apple.com/us/app/rayman-fiesta-run/id657811530?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Rayman Fiesta Run</a></li>
-</ul>
-
-
-<p>serta masih banyak lagi aplikasi yang turut serta. Kampanye ini kan berlangsung selama dua minggu mulai tanggal 24 November hingga 7 Desember 2014.</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/apple-red-campaign/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[A Note to Re/code Readers ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://recode.net/2014/11/20/a-note-to-recode-readers/"/>
-  	
-    <updated>2014-11-22T14:56:15+07:00</updated>
-    <id>http://sweetdistraction.github.io/a-note-to-recode-readers</id>
-    
-    <content type="html"><![CDATA[<p>Walt Mossberg and Kara Swisher:</p>
-
-<blockquote><p>We thought about this decision long and hard, since we do value reader opinion. But we concluded that, as social media has continued its robust growth, the bulk of discussion of our stories is increasingly taking place there, making onsite comments less and less used and less and less useful.</p></blockquote>
-
-<p>Ya, Recode mulai menghilangkan kolom komentar untuk para pembacanya dan saya rasa ada benarnya juga. Dengan pesatnya pertumbuhan media sosial yang ada, bukan tak mungkin nantinya kolom komentar akan berganti mentions ke akun Twitter si penulis.</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/a-note-to-recode-readers/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
