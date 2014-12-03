@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-03T10:51:03+07:00</updated>
+  <updated>2014-12-03T17:34:28+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[A Better Way To Combine iPhone Screenshots with Keyboard Maestro ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.macstories.net/tutorials/a-better-way-to-combine-iphone-screenshots-with-keyboard-maestro/"/>
+  	
+    <updated>2014-12-03T17:09:30+07:00</updated>
+    <id>http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro</id>
+    
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/viticci">Federico Viticci</a> via <a href="http://www.macstories.net/">Macstories</a>:</p>
+
+<blockquote><p>This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></blockquote>
+
+
+<p>Menulis artikel tips dan trik untuk sebuah blog teknologi lokal terkadang dituntut adanya screenshot untuk mempermudah pemahaman dari topik yang sedang dibahas. Sebelumnya, untuk menggabungkan beberapa screenshot saya akan membuka Pixelmator dan menyusunnya. Hal ini tentu kurang efektif dan memakan waktu.</p>
+
+<p>Hari ini saya gembira karena menemukan artikel mengenai penggunaan Keyboard Maestro untuk melakukan resize screenshot dari iPhone dan menggabungkannya. Jika biasanya saya menggunakan Pixelmator untuk mengedit dan menggabungkan screenshot memakan waktu lebih dari 15 menit maka dengan macro dari <a href="http://twitter.com/macdrifter">Gabe</a> yang dibahas oleh <a href="http://twitter.com/viticci">@viticci</a> tersebut kini hanya perlu waktu kurang dari 5 detik.</p>
+
+<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun.</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -413,25 +435,6 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 <p>Windows? Jangan tanya. Meski banyak text editor yang mendukung markdown syntax namun tak ada yang benar-benar bagus ataupun setidaknya menyamai aplikasi yang ada pada platform Mac. Akhirnya saya melakukan kostumisasi sendiri menggunakan Sublime Text 3 dan Markdown Editing Package dari <a href="http://brettterpstra.com/2012/06/30/sublime-markdownediting-now-with-100-more-blue-cursor/">Brett Terpstra</a>. Cukup memuaskan meski masih jauh dari yang saya harapkan.</p>
 
 <p>Masih banyak kekurangan ataupun hal yang kurang menyenangkan lainnya yang belum saya dapat atasi dari bekerja dengan menggunakan dua sistem operasi yang berbeda. Namun setidaknya saya masih bisa mentolerirnya untuk sementara waktu.</p>
-]]></content>
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Apple Merilis OS X 10.10.2 Versi Beta Untuk Para Pengembang]]></title>
-  	<link href="http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang/"/>
-  	
-    <updated>2014-11-24T18:36:34+07:00</updated>
-    <id>http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang</id>
-    
-    <content type="html"><![CDATA[<p><img class="center" src="http://sweetdistraction.github.io/images/yosemite10102beta.jpg" title="OS X 10.10.2 Beta" >
-3 hari setelah <a href="http://www.macrumors.com/2014/11/17/apple-10-10-1-release/">merilis pembaharuan OS X 10.10.1</a> kepada publik, Apple langsung merilis OS X 10.10.2 beta kepada para pengembang untuk diuji coba.</p>
-
-<!-- more -->
-
-
-<p>OS X Yosemite versi 10.10.1 yang dirilis bertujuan untuk memperbaiki bug yang terdapat pada wifi di OS X Yosemite dimana beberapa pengguna sering mengalami koneksi wifi yang terputus secara tiba-tiba meski nyatanya beberapa pengguna masih melaporkan bug yang sama setelah melakukan update ke OS X 10.10.1. Seperti update sebelumnya <a href="http://www.macrumors.com/2014/11/20/os-x-yosemite-10-10-2-beta/">OS X 10.10.2</a> nampaknya akan hadir sebagai pembaharuan versi minor yang akan lebih banyak bertujuan untuk meningkatkan performa serta stabilitas untuk OS X Yosemite sendiri. Dengan nomor <em>build</em> 14C68k, OS X Yosemite 10.10.2 juga menghadirkan Safari versi 8.0.2 dan aplikasi Mail versi 8.2.</p>
 ]]></content>
   	
   </entry>
