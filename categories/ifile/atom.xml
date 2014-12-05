@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ifile | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/ifile/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2014-12-05T14:04:56+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[FileBrowser: An Alternative to iFile?]]></title>
+    <link href="http://sweetdistraction.github.io/filebrowser-ifile-alternatives/"/>
+    <updated>2014-12-05T09:16:41+07:00</updated>
+    <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>
+    <content type="html"><![CDATA[<p><a href="@JeffBenjam">Jeff Benjam</a> via <a href="www.idownloadblog.com">iDownloadblog</a>:
+<blockquote><p></p></p><p><p> FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy &amp; paste, create and delete folders, delete files, create and extract compressed files, and more.</p></p><p><p></p></blockquote></p>
+
+<p>Jika membaca review yang ditulis oleh Jeff, rasanya FileBrowser masih jauh baik secara fitur atau tampilan jika dibandingkan dengan iFile. Hadir secara gratis dengan adanya iklan dalam aplikasinya, FileBrowser bisa jadi alternatif untuk berjelajah antar direktori pada perangkat iOS. Namun jangan lupa bahwa iFile juga dapat digunakan secara gratis meski dengan fitur yang terbatas.</p>
+]]></content>
+  </entry>
+  
+</feed>

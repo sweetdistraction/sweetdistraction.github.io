@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-04T00:05:51+07:00</updated>
+  <updated>2014-12-05T14:04:56+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[FileBrowser: an alternative to iFile? ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.idownloadblog.com/2014/12/02/filebrowser-an-alternative-to-ifile/"/>
+  	
+    <updated>2014-12-05T09:16:41+07:00</updated>
+    <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>
+    
+    <content type="html"><![CDATA[<p><a href="@JeffBenjam">Jeff Benjam</a> via <a href="www.idownloadblog.com">iDownloadblog</a>:</p>
+
+<blockquote><p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy & paste, create and delete folders, delete files, create and extract compressed files, and more.</p></blockquote>
+
+
+<p>Jika membaca review yang ditulis oleh Jeff, rasanya FileBrowser masih jauh baik secara fitur atau tampilan jika dibandingkan dengan iFile. Hadir secara gratis dengan adanya iklan dalam aplikasinya, FileBrowser bisa jadi alternatif untuk berjelajah antar direktori pada perangkat iOS. Namun jangan lupa bahwa iFile juga dapat digunakan secara gratis meski dengan fitur yang terbatas.</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/filebrowser-ifile-alternatives/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -387,21 +405,6 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <p><img src="http://sweetdistraction.github.io/images/sanfransiscofonts2.png" title="YosemiteSanFransiscoFont2" ></p>
 <a rel="full-article" href="http://sweetdistraction.github.io/san-fransisco-yosemite-font/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Keyboard Maestro Macro: Quoting a Website in Markdown — The Brooks Review ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="https://brooksreview.net/2013/07/keyboard-maestro-macro-quoting-a-website-in-markdown/"/>
-  	
-    <updated>2014-11-24T22:27:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown</id>
-    
-    <content type="html"><![CDATA[<blockquote><p>The benefit is that now I can select text on a page, hit the hot key and paste to my document, saving a bunch of extra clicks. It’s not the best, but it sped things up a touch for me.</p></blockquote>
-
-<p>Waini! Makin mudah lagi bikin postingan <em>linked list</em>. Tapi kalau pas kerja di Windows tetep aja kudu copy-paste manual.</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
