@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tweaks | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/tweaks/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-05T17:12:10+07:00</updated>
+  <updated>2014-12-05T23:02:12+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[“iOS 8 Tweaks“]]></title>
+    <link href="http://sweetdistraction.github.io/ios-8-tweaks/"/>
+    <updated>2014-12-05T22:01:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/ios-8-tweaks</id>
+    <content type="html"><![CDATA[<p>Bagi para pengguna iOS yang belum melakukan update ke iOS 8.1.1 dan ingin melakukan jailbreak, kini bisa bernapas lega. Pasalnya versi iOS teranyar tersebut sudah bisa dijailbreak menggunakan <em>tools</em> yang dirilis oleh <a href="http://www.taig.com/en/">TaiG</a>. Apple juga telah menutup <em>signing window</em> untuk iOS 8.1 yang artinya setiap pembaharuan yang dilakukan pengguna akan langsung menuju iOS versi 8.1.1. Tools dari TaiG sendiri banyak mendapat respon positif dari <a href="http://www.reddit.com/r/jailbreak/">pengguna</a> yang telah menggunakannya dan dianggap lebih stabil daripada tools milik <a href="http://pangu.io/">Pangu</a>.</p>
+
+<!--more-->
+
+<p>Meski perangkat iOS saya sudah terjailbreak, namun saya belum memperbaharuinya ke iOS versi 8.1.1. Tweaks yang terinstall pun tak sebanyak dulu sewaktu iOS 7. Kini saya hanya mempunyai sekitar 12 tweak yang terpasang. Kira-kira hanya separuh dari jumlah tweaks yang terinstall pada iOS versi sebelumnya, dan berikut daftar tweaks tersebut:</p>
+
+<ul>
+  <li>Activator<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
+  <li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
+  <li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
+  <li>SwipeSelection<sup id="fnref:fn2"><a href="#fn:fn2" class="footnote">2</a></sup></li>
+  <li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:fn3"><a href="#fn:fn3" class="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
+  <li>Springtomize 3: Customize and declutter all the things!</li>
+  <li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
+  <li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
+  <li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
+  <li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan ‘memaksa’ sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan. </li>
+  <li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
+  <li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
+</ul>
+
+<p>Itu dia daftar tweak yang terinstall pada perangkat iOS saya. Jailbreak memang tak <a href="http://sweetdistractions.net/apple-vs-jailbreak">direkomendasikan oleh Apple</a>, bahkan Apple tak akan mengganti kerusakan akibat jailbreak yang dilakukan. Oleh sebab itu, disclaimer Do With Your Own Risk selalu melekat pada sebuah tools jailbreak. Menginstall tweak juga sebaiknya dari sumber yang terpercaya karena bagaimanapun jailbreak adalah membuka akses root dari sebuah perangkat iOS sehingga jika asal menginstall tweak bisa saja tweak tersebut memiliki kode yang berbahaya ataupun malware.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p>Wajib hukumnya <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn2">
+      <p>Ini juga wajib hukumnya <a href="#fnref:fn2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn3">
+      <p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com <a href="#fnref:fn3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[WatchBoard: A New Apple Watch SpringBoard Replacement for iPhone and iPad]]></title>
