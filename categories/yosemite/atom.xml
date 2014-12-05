@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Yosemite | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/yosemite/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-05T14:04:56+07:00</updated>
+  <updated>2014-12-05T17:12:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -19,11 +19,11 @@
     <updated>2014-12-03T10:31:41+07:00</updated>
     <id>http://sweetdistraction.github.io/javascript-for-automation</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/The_Axx">Alex Guyot</a> via <a href="www.macstories.net">Macstories</a>:
-<blockquote><p></p></p><p><p> Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p>Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></p><p><p></p></blockquote></p>
 
 <p>Jika <a href="https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html">AppleScript</a> dan <a href="http://support.apple.com/en-us/ht2488">Automator</a> dirasa tak cukup untuk mengotomatisasi berbagi pekerjaan pada Mac maka JavaScript for Automation (JXA) boleh dicoba. <a href="https://twitter.com/The_Axx">Alex Guyot</a> melalui Macstories telah memberikan sedikit gambaran dan contoh bagaimana javascript dapat mendukung mempercepat workflow di OS X.</p>
 
-<p>Let&rsquo;s automate all the things!</p>
+<p>Let’s automate all the things!</p>
 ]]></content>
   </entry>
   

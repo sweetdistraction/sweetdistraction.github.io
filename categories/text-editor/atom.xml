@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Text Editor | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/text-editor/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-05T14:04:56+07:00</updated>
+  <updated>2014-12-05T17:12:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -21,9 +21,9 @@
     <content type="html"><![CDATA[<p><a href="https://twitter.com/macsparky">David Sparks</a> via <a href="www.macsparky.com">Macsparky</a>:
 <blockquote><p></p></p><p><p>The thing about Byword is that it just delivers. The design is solid and unobtrusive. Its developers understand iteration and avoid change for the sake of change.</p></p><p><p></p></blockquote></p>
 
-<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya.</p>
+<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya. </p>
 
-<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger.</p>
+<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger. </p>
 ]]></content>
   </entry>
   
@@ -34,9 +34,13 @@
     <id>http://sweetdistraction.github.io/realmacsoftware-release-typed-text-editor</id>
     <content type="html"><![CDATA[<p><a href="www.realmacsoftware.com">Realmac Software</a>:</p>
 
-<blockquote><h2>Your Best Work Isn’t Written, It’s Typed.</h2>
+<blockquote>
+  <h2 id="your-best-work-isnt-written-its-typed">Your Best Work Isn’t Written, It’s Typed.</h2>
+</blockquote>
 
-<p>Typed is the stunning new writing app for the Mac, and the first that improves your focus so you can create great content. Typed makes writing for the web incredibly easy, and its Zen Mode features relaxing soundtracks that help you concentrate.</p></blockquote>
+<blockquote>
+  <p>Typed is the stunning new writing app for the Mac, and the first that improves your focus so you can create great content. Typed makes writing for the web incredibly easy, and its Zen Mode features relaxing soundtracks that help you concentrate.</p>
+</blockquote>
 
 <p>Realmac Software yang juga pengembang dari aplikasi dari <a href="http://realmacsoftware.com/clear">Clear</a>, <a href="http://realmacsoftware.com/ember">Ember</a>, <a href="http://realmacsoftware.com/rapidweaver">Rapidweaver</a> baru saja merilis aplikasi berupa teks editor yang diberi nama <a href="http://realmacsoftware.com/typed">Typed</a>.</p>
 
@@ -44,7 +48,7 @@
 
 <p>Penghitung kata, fitur export tulisan ke format HTML, RTF, keyboard shortcuts, auto save support merupakan beberapa fitur yang dihadirkan Realmac Software di Typed. Dirilis dengan harga $19,99 untuk waktu yang terbatas (harga asli $24.99), Typed memang lebih mahal daripada beberapa teks editor lain seperti Byword ($9.99) dan iA Writer ($9.99). Namun jangan khawati karena Realmac Software menyediakan trial aplikasinya selama 7 hari bagi pengguna sebelum membelinya. Saya sudah mencobanya dengan menuliskan artikel ini.  Terdapat efek blur pada latar belakang teks editor Typed selaras dengan OS X Yosemite ketika sedang digunakan dan saya sendiri kurang menyukainya karena bisa saja menimbulkan distraksi.</p>
 
-<p>Semakin banyak aplikasi berjenis teks editor yang dirilis di platform Mac. Dengan gimmick berupa fitur zen mode dimana Typed menyediakan soundtrack sebagai teman menulis, rasanya berkompromi dengan harga yang ditawarkan masih bisa dimaklumi.</p>
+<p>Semakin banyak aplikasi berjenis teks editor yang dirilis di platform Mac. Dengan gimmick berupa fitur zen mode dimana Typed menyediakan soundtrack sebagai teman menulis, rasanya berkompromi dengan harga yang ditawarkan masih bisa dimaklumi. </p>
 ]]></content>
   </entry>
   
@@ -55,11 +59,11 @@
     <id>http://sweetdistraction.github.io/the-new-1writer-javascript-actions</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/pgruneich">Philip Gruneich</a> di <a href="http://onetapless.com">OneTapLess</a>:</p>
 
-<p><blockquote><p></p></p><p><p> 1Writer 2.0 was the most delightful surprise this week and probably the best deal you could make this holiday if you write in your iOS devices. I’m sure it is only a matter of time until more actions pop up and improve the pool of options in this outstanding text editor.</p></p><p><p></p></blockquote></p>
+<p><blockquote><p></p></p><p><p>1Writer 2.0 was the most delightful surprise this week and probably the best deal you could make this holiday if you write in your iOS devices. I’m sure it is only a matter of time until more actions pop up and improve the pool of options in this outstanding text editor.</p></p><p><p></p></blockquote></p>
 
 <p><a href="http://1writerapp.com/">1Writer</a>, salah satu teks editor di iOS baru saja menerima pembaharuan besar. Penambahan <em>javascript action</em>, pengamanan tambahan dengan Touch ID, kustomisasi font serta tampilan, safari extensions, in-app-browser serta <em>today widget</em> untuk mengakses dokumen favorit secara cepat dan masih banyak lagi.</p>
 
-<p>Ngoc Luu juga menambahkan <em><a href="http://1writerapp.com/actiondir">action directory</a></em> bagi pengguna yang ingin menambahkan <em>javascript action</em> dengan mudah ke dalam aplikasi 1Writer. Tak hanya itu, bagi pengguna yang ingin belajar membuat <em>javascript action</em> sendiri, Ngoc Luu juga sudah menyiapkan <a href="http://1writerapp.com/docs/js">dokumen</a> pendukung yang dapat dipelajari dan digunakan.</p>
+<p>Ngoc Luu juga menambahkan <em><a href="http://1writerapp.com/actiondir">action directory</a></em> bagi pengguna yang ingin menambahkan <em>javascript action</em> dengan mudah ke dalam aplikasi 1Writer. Tak hanya itu, bagi pengguna yang ingin belajar membuat <em>javascript action</em> sendiri, Ngoc Luu juga sudah menyiapkan <a href="http://1writerapp.com/docs/js">dokumen</a> pendukung yang dapat dipelajari dan digunakan. </p>
 
 <p>Seperti biasa, Philip Gruneich juga telah membuat artikel mengenai update dari 1Writer di OneTapLess dengan contoh <em>javascript action-nya</em>.</p>
 ]]></content>

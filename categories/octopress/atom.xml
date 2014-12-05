@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/octopress/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-05T14:04:56+07:00</updated>
+  <updated>2014-12-05T17:12:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -18,11 +18,13 @@
     <link href="http://sweetdistraction.github.io/applescript-textexpander-octopress-post/"/>
     <updated>2014-11-18T22:08:00+07:00</updated>
     <id>http://sweetdistraction.github.io/applescript-textexpander-octopress-post</id>
-    <content type="html"><![CDATA[<blockquote><p>Enter my trusty friends, TextExpander + AppleScript.</p></blockquote>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Enter my trusty friends, TextExpander + AppleScript.</p>
+</blockquote>
 
 <p>Meski postingan tersebut sudah ada sejak 2 tahun yang lalu (dan saya entah lagi berada di mana waktu itu) namun rasanya menyenangkan menemukan suatu hal baru untuk dipelajari.</p>
 
-<p>So, let&rsquo;s automate all the things!</p>
+<p>So, let’s automate all the things!</p>
 ]]></content>
   </entry>
   
@@ -31,12 +33,10 @@
     <link href="http://sweetdistraction.github.io/hello-world/"/>
     <updated>2014-11-08T00:51:25+07:00</updated>
     <id>http://sweetdistraction.github.io/hello-world</id>
-    <content type="html"><![CDATA[<p><em>Sweet distractions, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar banyak hal baru.</p>
+    <content type="html"><![CDATA[<p><em>Sweet distractions, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar banyak hal baru. 
+<!--more--></p>
 
-<!--more-->
-
-
-<p>Bukankah proses belajar bisa dilakukan di mana saja dan kapan saja? Situs ini pun hasil pembelajaran saya akan <a href="http://octopress.org">Octopress</a> sebuah situs statis berbasis Jekyll yang menggunakan bahasa pemrograman Ruby. Beberapa kelebihan dari Octopress yang membuat saya tertarik untuk mempelajarinya adalah sifatnya yang statis, tak perlu ribet mendaftar menggunakan email ataupun setting hosting bahkan bisa hosting gratis di <a href="http://pages.github.com">Github Pages</a> dan postingan cukup ditulis dengan format <a href="fireball.net/projects/markdown/">Markdown</a>.</p>
+<p>Bukankah proses belajar bisa dilakukan di mana saja dan kapan saja? Situs ini pun hasil pembelajaran saya akan <a href="http://octopress.org">Octopress</a> sebuah situs statis berbasis Jekyll yang menggunakan bahasa pemrograman Ruby. Beberapa kelebihan dari Octopress yang membuat saya tertarik untuk mempelajarinya adalah sifatnya yang statis, tak perlu ribet mendaftar menggunakan email ataupun setting hosting bahkan bisa hosting gratis di <a href="http://pages.github.com">Github Pages</a> dan postingan cukup ditulis dengan format <a href="fireball.net/projects/markdown/">Markdown</a>. </p>
 
 <p>Karena blog ini akan lebih banyak diisi ketika ada waktu luang maka menjaganya agar tetap sederhana baik itu dari segi tampilan maupun dalam proses pembuatan artikel hingga mempostingnya adalah hal yang utama. Tanpa berlama-lama lagi, selamat membaca dan semoga bermanfaat!</p>
 ]]></content>

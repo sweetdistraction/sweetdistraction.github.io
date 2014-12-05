@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tech | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/tech/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2014-12-05T17:12:10+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[This Is How Much Interns Make at Top Tech Companies]]></title>
+    <link href="http://sweetdistraction.github.io/internships-at-top-companies/"/>
+    <updated>2014-12-05T16:34:31+07:00</updated>
+    <id>http://sweetdistraction.github.io/internships-at-top-companies</id>
+    <content type="html"><![CDATA[<p>Via <a href="http://theultralinx.com">Ultralinx</a>: </p>
+
+<p><img src="/images/internsalary.png"></p>
+
+<p><blockquote><p></p></p><p><p>Dropbox tops the list in terms of total takeaway every month at $13,500, with LinkedIn second at $12,600 and Amazon and Foursquare tied at third both offering $11,000.</p></p><p><p></p></blockquote></p>
+
+<p>Gile, ndro!<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p>menatap slip gaji dengan mata berkaca-kaca <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+</feed>

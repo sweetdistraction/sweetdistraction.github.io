@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Fonts | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/fonts/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-05T14:04:56+07:00</updated>
+  <updated>2014-12-05T17:12:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -20,10 +20,9 @@
     <id>http://sweetdistraction.github.io/san-fransisco-ios-fonts</id>
     <content type="html"><![CDATA[<p><img src="/images/settingcomparison.png" title="Settings" ></p>
 
-<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>.</p>
+<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>. </p>
 
 <!--more-->
-
 
 <p><img src="/images/notescomparison.png" title="Notes" >
 Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebagai system font di perangkat iOS. <a href="https://twitter.com/dbk1ng">Daniel B. King</a>, memporting font ini agar dapat digunakan di perangkat iOS. Caranya mudah, cukup install aplikasi Bytafont2 dari Cydia dan unduh San Fransisco font dari repo <code>http://dbk1ng.myrepospace.com</code>. Setelah itu, pilih San Fransisco yang ada di daftar font pada aplikasi Bytafont2 dan perangkat akan secara otomatis respring. Saya sendiri lebih menyukain San Fransisco daripada Helvetica Neue meski baru sebentar menggunakannya. Mungkin saja nantinya Apple berencana mengganti system font iOS 9 ke San Fransisco.</p>

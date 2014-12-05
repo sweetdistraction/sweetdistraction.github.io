@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Airdrop | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/airdrop/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-05T14:04:56+07:00</updated>
+  <updated>2014-12-05T17:12:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -18,13 +18,14 @@
     <link href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/"/>
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:</p>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:
+&gt; ## Encrypted identities</p>
 
-<blockquote><h2>Encrypted identities</h2>
+<blockquote>
+  <p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That’ll be used later to identify you in a way that maintains your privacy and security.</p>
+</blockquote>
 
-<p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That&rsquo;ll be used later to identify you in a way that maintains your privacy and security.</p></blockquote>
-
-<p>Security! Security!</p>
+<p>Security! Security! </p>
 ]]></content>
   </entry>
   

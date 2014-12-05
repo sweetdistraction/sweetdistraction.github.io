@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Cydia | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/cydia/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-05T14:04:56+07:00</updated>
+  <updated>2014-12-05T17:12:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -19,7 +19,7 @@
     <updated>2014-12-05T09:16:41+07:00</updated>
     <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>
     <content type="html"><![CDATA[<p><a href="@JeffBenjam">Jeff Benjam</a> via <a href="www.idownloadblog.com">iDownloadblog</a>:
-<blockquote><p></p></p><p><p> FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy &amp; paste, create and delete folders, delete files, create and extract compressed files, and more.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy &amp; paste, create and delete folders, delete files, create and extract compressed files, and more.</p></p><p><p></p></blockquote></p>
 
 <p>Jika membaca review yang ditulis oleh Jeff, rasanya FileBrowser masih jauh baik secara fitur atau tampilan jika dibandingkan dengan iFile. Hadir secara gratis dengan adanya iklan dalam aplikasinya, FileBrowser bisa jadi alternatif untuk berjelajah antar direktori pada perangkat iOS. Namun jangan lupa bahwa iFile juga dapat digunakan secara gratis meski dengan fitur yang terbatas.</p>
 ]]></content>
@@ -32,13 +32,15 @@
     <id>http://sweetdistraction.github.io/watchboar-apple-watch-springboard-iphone-ipad</id>
     <content type="html"><![CDATA[<p>Jeff Benjamin di <a href="www.idownloadblog.com.">iDownloadblog</a></p>
 
-<blockquote><p>The thing I really like about WatchBoard is that no resprings are required when enabling or disabling the tweak. Yes, even when you want to fully replace the iPhone’s SpringBoard with the Apple Watch UI, no resprings are required, which is one of the best features of WatchBoard.</p></blockquote>
+<blockquote>
+  <p>The thing I really like about WatchBoard is that no resprings are required when enabling or disabling the tweak. Yes, even when you want to fully replace the iPhone’s SpringBoard with the Apple Watch UI, no resprings are required, which is one of the best features of WatchBoard.</p>
+</blockquote>
 
 <p>Jika beberapa waktu sebelumnya Aeternum hadir sebagai jailbreak tweak yang membawa Apple Watch UI ke springboard iPhone atau iPad maka kini giliran WatchBoard dari Aaron Ash yang juga pencipta dari jailbreak tweak ternama, <a href="http://cydia.saurik.com/package/com.aaronash.barrel/">Barrel</a>.</p>
 
 <p>Salah satu kekurangan dari Apple Watch UI di iPhone atau iPad adalah bagaimana dengan cepat membuka sebuah aplikasi yang diinginkan (saya memakai Aeternum dan hal ini juga menjadi salah satu masalah dalam menggunakan Apple Watch UI di keseharian). Namun jangan khawatir karena WatchBoard memiliki fitur untuk mengaktfikan spotlight dengan mudah, caranya tinggal tap di tempat yang kosong.</p>
 
-<p>Ditawarkan dengan sedikit lebih mahal yaitu $3.99 dengan <a href="http://cydia.saurik.com/package/com.spiritoflogic.aeternum/">Aeternum</a>, WatchBoard mungkin dapat menjadi pilihan bagi yang tak sabar untuk mencoba Apple Watch UI di iPhone atau iPadnya.</p>
+<p>Ditawarkan dengan sedikit lebih mahal yaitu $3.99 dengan <a href="http://cydia.saurik.com/package/com.spiritoflogic.aeternum/">Aeternum</a>, WatchBoard mungkin dapat menjadi pilihan bagi yang tak sabar untuk mencoba Apple Watch UI di iPhone atau iPadnya. </p>
 ]]></content>
   </entry>
   
@@ -49,10 +51,9 @@
     <id>http://sweetdistraction.github.io/san-fransisco-ios-fonts</id>
     <content type="html"><![CDATA[<p><img src="/images/settingcomparison.png" title="Settings" ></p>
 
-<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>.</p>
+<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>. </p>
 
 <!--more-->
-
 
 <p><img src="/images/notescomparison.png" title="Notes" >
 Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebagai system font di perangkat iOS. <a href="https://twitter.com/dbk1ng">Daniel B. King</a>, memporting font ini agar dapat digunakan di perangkat iOS. Caranya mudah, cukup install aplikasi Bytafont2 dari Cydia dan unduh San Fransisco font dari repo <code>http://dbk1ng.myrepospace.com</code>. Setelah itu, pilih San Fransisco yang ada di daftar font pada aplikasi Bytafont2 dan perangkat akan secara otomatis respring. Saya sendiri lebih menyukain San Fransisco daripada Helvetica Neue meski baru sebentar menggunakannya. Mungkin saja nantinya Apple berencana mengganti system font iOS 9 ke San Fransisco.</p>
@@ -64,9 +65,12 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/go-get-em/"/>
     <updated>2014-11-22T08:27:08+07:00</updated>
     <id>http://sweetdistraction.github.io/go-get-em</id>
-    <content type="html"><![CDATA[<blockquote><p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p></blockquote>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p>
+</blockquote>
 
-<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak.</p>
+<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak. </p>
+
 ]]></content>
   </entry>
   
@@ -79,23 +83,21 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <!-- more -->
 
-
 <p>Pada saat Pangu8 dirilis untuk versi Mac, saya kembali melakukan restore dan jailbreak ulang dengan harapan versi Mac dari Pangu8 lebih stabil. Ternyata benar, setelah restore perangkat via iTunes, menonaktifkan Find My iPhone dan passcode, serta mengaktifkan Airplane Mode, Pangu8 versi Mac berjalan dengan lancar. Setelah Cydia terinstall, saya mulai mengingat-ingat <em>tweaks</em> serta aplikasi apa yang dulu pernah saya install di iOS 7. Jika tak salah, rasanya saya dulu hampir memiliki lebih dari 20 <em>tweaks</em> yang terinstall di iOS 7 dan kini dengan hadirnya iOS 8 yang menghadirkan banyak fitur baru seperti <em>interactive notifications</em>, <em>widgets</em>, <em>extensions</em> saya hanya memiliki 9 <em>tweaks</em> yang terpasang.</p>
 
 <p>Memang tak banyak, tweak quick replay yang di iOS 7 wajib untuk diinstall kini sudah hadir di iOS 8. Sharing data antar aplikasi semakin mudah dengan hadirnya fitur <em>extensions</em>. Tweak di bawah merupakan tweak terpasang di perangkat iOS saya:</p>
 
 <ul>
-<li><a href="http://cydia.saurik.com/package/libactivator/">Activator</a>. Siapa yang tak kenal dengan tweak yang satu ini? A must installed tweak for your jailbroken iOS devices!</li>
-<li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=circletDp">Circlet</a>.  Declutter your status bar! Circlet mengganti indikator sinyal dan battery menggunakan sebuah lingkaran. Much simpler, much cleaner.</li>
-<li><a href="http://rpetri.ch/cydia/littlebrother/">LittleBrother</a>. Dari developer Activator, LittleBrother membuat iPhone 5/5s/5c untuk dapat berjalan pada resolusi iPhone 6.</li>
-<li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=forcegoodfitDp">ForceGoodFit</a>. Karena iPhone saya berjalan dalam resolusi iPhone 6 maka tweak yang satu ini wajib hadir untuk menemani LittleBrother agar aplikasi yang belum diperbaharui untuk dukungan terhadap iPhone 6 dan 6+ dapat menyesuaikan dengan resolusi yang digunakan.</li>
-<li><a href="http://cydia.angelxwind.net/?page/net.angelxwind.mikoto">Mikoto</a>. All in one tweaks! Bisa diunduh di repo <a href="http://cydia.angelxwind.net/">http://cydia.angelxwind.net/</a></li>
-<li><a href="http://cydia.saurik.com/package/com.filippobiga.springtomize3/">Springtomize3</a>. Customize all the things. Menghilangkan nama aplikasi di bawah ikon, <em>resize</em> ikon aplikasi dan masih banyak lagi.</li>
-<li><a href="http://cydia.saurik.com/package/com.marcosinghof.noslowanimations/">NoSlowAnimations</a>. Ya, semenjak iOS 7 animasi yang dihadirkan memang terasa lebih lambat dibandingkan iOS 6. Untung ada tweak ini.</li>
-<li><a href="http://apt.thebigboss.org/onepackage.php?bundleid=com.clezz.tage">Tage</a>. Zephyr alternative for multitasking gesture!</li>
-<li><a href="http://cydia.saurik.com/package/winterboard/">Winterboard</a>. Cause iOS 8 icons are suck, so Ayeris for sure!</li>
+  <li><a href="http://cydia.saurik.com/package/libactivator/">Activator</a>. Siapa yang tak kenal dengan tweak yang satu ini? A must installed tweak for your jailbroken iOS devices!</li>
+  <li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=circletDp">Circlet</a>.  Declutter your status bar! Circlet mengganti indikator sinyal dan battery menggunakan sebuah lingkaran. Much simpler, much cleaner.</li>
+  <li><a href="http://rpetri.ch/cydia/littlebrother/">LittleBrother</a>. Dari developer Activator, LittleBrother membuat iPhone 5/5s/5c untuk dapat berjalan pada resolusi iPhone 6.</li>
+  <li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=forcegoodfitDp">ForceGoodFit</a>. Karena iPhone saya berjalan dalam resolusi iPhone 6 maka tweak yang satu ini wajib hadir untuk menemani LittleBrother agar aplikasi yang belum diperbaharui untuk dukungan terhadap iPhone 6 dan 6+ dapat menyesuaikan dengan resolusi yang digunakan.</li>
+  <li><a href="http://cydia.angelxwind.net/?page/net.angelxwind.mikoto">Mikoto</a>. All in one tweaks! Bisa diunduh di repo http://cydia.angelxwind.net/</li>
+  <li><a href="http://cydia.saurik.com/package/com.filippobiga.springtomize3/">Springtomize3</a>. Customize all the things. Menghilangkan nama aplikasi di bawah ikon, <em>resize</em> ikon aplikasi dan masih banyak lagi.</li>
+  <li><a href="http://cydia.saurik.com/package/com.marcosinghof.noslowanimations/">NoSlowAnimations</a>. Ya, semenjak iOS 7 animasi yang dihadirkan memang terasa lebih lambat dibandingkan iOS 6. Untung ada tweak ini.</li>
+  <li><a href="http://apt.thebigboss.org/onepackage.php?bundleid=com.clezz.tage">Tage</a>. Zephyr alternative for multitasking gesture!</li>
+  <li><a href="http://cydia.saurik.com/package/winterboard/">Winterboard</a>. Cause iOS 8 icons are suck, so Ayeris for sure!</li>
 </ul>
-
 
 <p>Ya. itu dia seluruh tweak yang kini terinstall di perangkat iOS utama saya. Berkurang lumayan banyak jika dibandingkan dengan saat saya melakukan jailbreak sewaktu menggunakan iOS 7. iOS berkembang semakin kompleks dengan fitur baru yang ada dan tak jarang pula mengurangi alasan sebagian orang melakukan jailbreak seperti saya. Namun bukan berarti tak ada alasan untuk tak melakukan jailbreak.</p>
 ]]></content>

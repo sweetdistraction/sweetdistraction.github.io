@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Jailbreak | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/jailbreak/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-05T14:04:56+07:00</updated>
+  <updated>2014-12-05T17:12:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -19,7 +19,7 @@
     <updated>2014-12-05T09:16:41+07:00</updated>
     <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>
     <content type="html"><![CDATA[<p><a href="@JeffBenjam">Jeff Benjam</a> via <a href="www.idownloadblog.com">iDownloadblog</a>:
-<blockquote><p></p></p><p><p> FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy &amp; paste, create and delete folders, delete files, create and extract compressed files, and more.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy &amp; paste, create and delete folders, delete files, create and extract compressed files, and more.</p></p><p><p></p></blockquote></p>
 
 <p>Jika membaca review yang ditulis oleh Jeff, rasanya FileBrowser masih jauh baik secara fitur atau tampilan jika dibandingkan dengan iFile. Hadir secara gratis dengan adanya iklan dalam aplikasinya, FileBrowser bisa jadi alternatif untuk berjelajah antar direktori pada perangkat iOS. Namun jangan lupa bahwa iFile juga dapat digunakan secara gratis meski dengan fitur yang terbatas.</p>
 ]]></content>
@@ -38,7 +38,6 @@
 
 <!--more-->
 
-
 <p>Keputusan untuk melakukan jailbreak memang sepenuhnya ada di tangan pengguna dan tak selamanya jailbreak berdampak buruk. Bagi seorang pengembang ataupun seseorang yang ingin mempelajari tentang sistem operasi terutama iOS, jailbreak bisa saja merupakan sebuah langkah untuk mendukung kegiatannya. Tak hanya itu, jailbreak yang membuka akses <em>root</em> perangkat juga memungkinkan pengguna untuk mengkustomisasi perangkat yang dimiliki mulai dari menginstall tema, mengubah ikon batere atau sinyal, menghilangkan UI yang dianggap mengganggu dan masih banyak lagi. Namun juga tak jarang beberapa orang melakukan jailbreak untuk mengunduh dan menginstall aplikasi bajakan yang tentu saja merugikan bagi pengembang aplikasi padahal banyak cara untuk mendapatkan sebuah aplikasi secara legal, memakai iTunes gift card misalnya.</p>
 
 <p>Memang secara teori, jailbreak bisa dihilangkan cukup dengan melakukan restore perangkat menggunakan iTunes apabila ingin melakukan klaim garansi, namun jika terjadi hal yang tak diinginkan semisal <em>brick</em> pada perangkat karena tak sengaja melakukan <em>Reset All Settings</em> maka siapa yang akan bertanggung jawab? Oleh sebab itu mengapa jailbreak selalu disertai dengan <em>disclaimer</em>: DWYOR (Do With Your Own Risk)</p>
@@ -51,7 +50,7 @@
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8.1.1-jailbreak-release</id>
     <content type="html"><![CDATA[<p>Dari <a href="http://iclarified.com">iClarified</a>:
-<blockquote><p></p></p><p><p>MuscleNerd confirmed the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p></p><p><p>&ldquo;Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case&rdquo;</p></p><p><p>TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG &lsquo;app store&rsquo; for cracked apps by default in China.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p>MuscleNerd confirmed the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p></p><p><p>“Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case”</p></p><p><p>TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG ‘app store’ for cracked apps by default in China.</p></p><p><p></p></blockquote></p>
 ]]></content>
   </entry>
   
@@ -62,13 +61,15 @@
     <id>http://sweetdistraction.github.io/watchboar-apple-watch-springboard-iphone-ipad</id>
     <content type="html"><![CDATA[<p>Jeff Benjamin di <a href="www.idownloadblog.com.">iDownloadblog</a></p>
 
-<blockquote><p>The thing I really like about WatchBoard is that no resprings are required when enabling or disabling the tweak. Yes, even when you want to fully replace the iPhone’s SpringBoard with the Apple Watch UI, no resprings are required, which is one of the best features of WatchBoard.</p></blockquote>
+<blockquote>
+  <p>The thing I really like about WatchBoard is that no resprings are required when enabling or disabling the tweak. Yes, even when you want to fully replace the iPhone’s SpringBoard with the Apple Watch UI, no resprings are required, which is one of the best features of WatchBoard.</p>
+</blockquote>
 
 <p>Jika beberapa waktu sebelumnya Aeternum hadir sebagai jailbreak tweak yang membawa Apple Watch UI ke springboard iPhone atau iPad maka kini giliran WatchBoard dari Aaron Ash yang juga pencipta dari jailbreak tweak ternama, <a href="http://cydia.saurik.com/package/com.aaronash.barrel/">Barrel</a>.</p>
 
 <p>Salah satu kekurangan dari Apple Watch UI di iPhone atau iPad adalah bagaimana dengan cepat membuka sebuah aplikasi yang diinginkan (saya memakai Aeternum dan hal ini juga menjadi salah satu masalah dalam menggunakan Apple Watch UI di keseharian). Namun jangan khawatir karena WatchBoard memiliki fitur untuk mengaktfikan spotlight dengan mudah, caranya tinggal tap di tempat yang kosong.</p>
 
-<p>Ditawarkan dengan sedikit lebih mahal yaitu $3.99 dengan <a href="http://cydia.saurik.com/package/com.spiritoflogic.aeternum/">Aeternum</a>, WatchBoard mungkin dapat menjadi pilihan bagi yang tak sabar untuk mencoba Apple Watch UI di iPhone atau iPadnya.</p>
+<p>Ditawarkan dengan sedikit lebih mahal yaitu $3.99 dengan <a href="http://cydia.saurik.com/package/com.spiritoflogic.aeternum/">Aeternum</a>, WatchBoard mungkin dapat menjadi pilihan bagi yang tak sabar untuk mencoba Apple Watch UI di iPhone atau iPadnya. </p>
 ]]></content>
   </entry>
   
@@ -79,10 +80,9 @@
     <id>http://sweetdistraction.github.io/san-fransisco-ios-fonts</id>
     <content type="html"><![CDATA[<p><img src="/images/settingcomparison.png" title="Settings" ></p>
 
-<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>.</p>
+<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>. </p>
 
 <!--more-->
-
 
 <p><img src="/images/notescomparison.png" title="Notes" >
 Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebagai system font di perangkat iOS. <a href="https://twitter.com/dbk1ng">Daniel B. King</a>, memporting font ini agar dapat digunakan di perangkat iOS. Caranya mudah, cukup install aplikasi Bytafont2 dari Cydia dan unduh San Fransisco font dari repo <code>http://dbk1ng.myrepospace.com</code>. Setelah itu, pilih San Fransisco yang ada di daftar font pada aplikasi Bytafont2 dan perangkat akan secara otomatis respring. Saya sendiri lebih menyukain San Fransisco daripada Helvetica Neue meski baru sebentar menggunakannya. Mungkin saja nantinya Apple berencana mengganti system font iOS 9 ke San Fransisco.</p>

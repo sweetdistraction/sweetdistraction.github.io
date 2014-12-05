@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Multi-platform | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/multi-platform/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-05T14:04:56+07:00</updated>
+  <updated>2014-12-05T17:12:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -22,38 +22,34 @@
 
 <!--more-->
 
-
-<h3>Windows Management</h3>
-
-<ul>
-<li>Mac: <a href="http://www.bettertouchtool.net/">BetterTouchTool</a></li>
-<li>Windows: <a href="http://www.winsplit-revolution.com/">WinSplit</a></li>
-</ul>
-
-
-<p>Melakukan <em>resize</em> jendela aplikasi meski sebentar pastilah tetap membutuhkan waktu, coba sesekali hitung akumulasi waktu tersebut dalam sehari? Bukan jumlah yang sedikit pastinya. <a href="https://twitter.com/sayzlim">Sayzlim</a> lewat tulisan di <a href="http://sayzlim.net/bettertouchtool-windows-management/">blognya</a> memaparkan dengan jelas bagaimana cara mengorganisir jendela aplikasi menggunakan BetterTouchTool dan cara ini saya pakai sampai sekarang ketika bekerja di Mac.</p>
-
-<p>Lain halnya di Windows, meski memiliki fitur Aero Snap untuk pengaturan ukuran jendela aplikasi namun untuk dapat menggunakannya pengguna harus melakukan <em>drag</em> jendela aplikasi ke pinggir layar dan menurut saya solusi ini kurang praktis dibandingkan dengan <em>keyboard shortcuts</em>. Setelah <em>googling</em> akhirnya saya menemukan sebuah aplikasi bernaman WinSplit Revolution yang sayangnya sudah discontinue, namun tenang karena SourceForge memiliki <em>mirror download link</em> (google always know where&rsquo;s the download link, anyway). Penggunaan WinSplit Revolution pun cukup praktis, cukup tekan CTRL+ALT dan angka di NumPad maka ukuran jendela aplikasi akan secara otomatis mengikuti ukuran pengaturan dari aplikasi WinSplit.</p>
-
-<h3>Autotext</h3>
+<h3 id="windows-management">Windows Management</h3>
 
 <ul>
-<li>Mac: <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a></li>
-<li>Windows: <a href="http://www.phraseexpress.com/">PhraseExpress</a></li>
+  <li>Mac: <a href="http://www.bettertouchtool.net/">BetterTouchTool</a></li>
+  <li>Windows: <a href="http://www.winsplit-revolution.com/">WinSplit</a></li>
 </ul>
 
+<p>Melakukan <em>resize</em> jendela aplikasi meski sebentar pastilah tetap membutuhkan waktu, coba sesekali hitung akumulasi waktu tersebut dalam sehari? Bukan jumlah yang sedikit pastinya. <a href="https://twitter.com/sayzlim">Sayzlim</a> lewat tulisan di <a href="http://sayzlim.net/bettertouchtool-windows-management/">blognya</a> memaparkan dengan jelas bagaimana cara mengorganisir jendela aplikasi menggunakan BetterTouchTool dan cara ini saya pakai sampai sekarang ketika bekerja di Mac. </p>
 
-<p>Mungkin sebagian masih ada yang berpikir mengapa masih menggunakan autotext untuk melakukan sebuah pekerjaan. Selain bekerja di kantor, saya juga menulis lepas untuk sebuah blog. Menulis menggunakan <a href="http://daringfireball.net/projects/markdown/">markdown</a> (one of the greatest thing that enhances writing experiences, try it!) akan jauh lebih menyenangkan menggunakan snippets yang berisi <em>markdown formatting syntax</em>. Dengan demikian yang perlu benar-benar dipikirkan adalah bagaimana menyelesaikan sebuah artikel atau tulisan yang sedang dikerjakan.</p>
+<p>Lain halnya di Windows, meski memiliki fitur Aero Snap untuk pengaturan ukuran jendela aplikasi namun untuk dapat menggunakannya pengguna harus melakukan <em>drag</em> jendela aplikasi ke pinggir layar dan menurut saya solusi ini kurang praktis dibandingkan dengan <em>keyboard shortcuts</em>. Setelah <em>googling</em> akhirnya saya menemukan sebuah aplikasi bernaman WinSplit Revolution yang sayangnya sudah discontinue, namun tenang karena SourceForge memiliki <em>mirror download link</em> (google always know where’s the download link, anyway). Penggunaan WinSplit Revolution pun cukup praktis, cukup tekan CTRL+ALT dan angka di NumPad maka ukuran jendela aplikasi akan secara otomatis mengikuti ukuran pengaturan dari aplikasi WinSplit. </p>
+
+<h3 id="autotext">Autotext</h3>
+
+<ul>
+  <li>Mac: <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a></li>
+  <li>Windows: <a href="http://www.phraseexpress.com/">PhraseExpress</a></li>
+</ul>
+
+<p>Mungkin sebagian masih ada yang berpikir mengapa masih menggunakan autotext untuk melakukan sebuah pekerjaan. Selain bekerja di kantor, saya juga menulis lepas untuk sebuah blog. Menulis menggunakan <a href="http://daringfireball.net/projects/markdown/">markdown</a> (one of the greatest thing that enhances writing experiences, try it!) akan jauh lebih menyenangkan menggunakan snippets yang berisi <em>markdown formatting syntax</em>. Dengan demikian yang perlu benar-benar dipikirkan adalah bagaimana menyelesaikan sebuah artikel atau tulisan yang sedang dikerjakan. </p>
 
 <p>Tak hanya snippets yang berisi <em>markdown formatting syntax</em> PhraseExpress ataupun TextExpander juga dapat membantu saya berpindah antar direktori dengan cepat. Terlebih Explorer di Windows memang tak menyenangkan bagi yang sering bekerja dengan banyak folder. Bikin saja snippets yang akan ter-<em>expand</em> menjadi alamat direktori yang sering dikunjungi dan tekan enter. Boom! Tiba deh di direktori atau folder yang diinginkan. Keduanya baik PhraseExpress ataupun TextExpander dapat mengakomodasi kebutuhan saya akan sebuah aplikasi autotext.</p>
 
-<h3>Text Editor</h3>
+<h3 id="text-editor">Text Editor</h3>
 
 <ul>
-<li>Mac: <a href="https://itunes.apple.com/us/app/byword/id420212497?mt=12">Byword</a> dan <a href="https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12&amp;uo=4&amp;at=10l4LV&amp;ct=w">iA Writer</a></li>
-<li>Windows: <a href="https://www.sublimetext.com/">Sublime Text 3</a></li>
+  <li>Mac: <a href="https://itunes.apple.com/us/app/byword/id420212497?mt=12">Byword</a> dan <a href="https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12&amp;uo=4&amp;at=10l4LV&amp;ct=w">iA Writer</a></li>
+  <li>Windows: <a href="https://www.sublimetext.com/">Sublime Text 3</a></li>
 </ul>
-
 
 <p>Menulis memang bukan hal baru lagi bagi saya namun baru akhir-akhir ini saya bekerja paruh waktu menulis untuk sebuah blog teknologi. Platform Mac sendiri tak pernah kehabisan atau sepi dari berbagai <em>text editor</em> yang berkualitas. Favorit saya ada dua Byword dan iA Writer. Byword karena terintegrasi dengan platform publishi seperti Wordpress, Tumblr dan Blogspot juga iA Writer yang memiliki <em>typhography</em> yang apik dalam aplikasinya menjadikan pengalaman menulis jauh lebih menyenangkan.</p>
 
