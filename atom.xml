@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-06T09:43:46+07:00</updated>
+  <updated>2014-12-08T13:16:20+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Jadi, Mana Yang Paling Penting?]]></title>
+  	<link href="http://sweetdistraction.github.io/jadi-mana-yang-terpenting/"/>
+  	
+    <updated>2014-12-08T10:04:35+07:00</updated>
+    <id>http://sweetdistraction.github.io/jadi-mana-yang-terpenting</id>
+    
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/patrickrhone">Patrick Rhone</a> di <a href="http://minimalmac.com/post/34081675157/the-best-upgrade-is-you">MinimalMac</a>:</p>
+
+<blockquote><p>I propose that, if we learned how to fully use what we already had better, such depth of knowledge and skill would have a far greater and more lasting impact. That, especially with those tools we use every day, getting better at them will reap the greatest reward. There is likely some feature or use-case that we don’t even realize we need until we know it and when we do we will be thankful we learned it.</p></blockquote>
+
+<!--more-->
+
+<p>Kristoffer Carter di <a href="http://www.becomingminimalist.com/choose-yourself/">becomingminimalist</a>:</p>
+
+<blockquote><p>To focus on choosing better work over more tools, I have begun to embrace the following principles when it comes to my art:
+<br />
+<br />1. Instead of choosing more tools, choose yourself.
+<br />2. Instead of investing money in the promise of better output, invest time, focus, and patience in creating your best impact. In my music, marriage, speaking career, distance running, and especially in my meditation practice I realize there are no shortcuts.
+<br />3. Tools can sometimes hack proficiency, but you can’t hack mastery. Period. There’s only showing up, and trying our best to do good work. Day after day, year after year.</p></blockquote>
+
+<p>Kadang kita berpikir bahwa dengan sebuah <em>‘tools’</em> yang tepat maka kita menjadi lebih efisien dan efektif dalam menyelesaikan pekerjaan. Namun juga terkadang kita lupa bahwa pengertian dan penguasaan terhadap sebuah <em>tools</em> yang dimiliki kadang menjadi jauh lebih penting dan jauh lebih menimbulkan pengaruh pada pekerjaan yang dilakukan. </p>
+
+<p>Saya sendiri menyadari bahwa tak mudah memang untuk menguasai sebuah aplikasi dan terkadang membutuhkan waktu yang tak sebentar. Perlu ketekunan dan juga kesabaran dalam melatih diri sendiri untuk dapat memaksimalkan fitur yang ada. <em>Keyboard shortcut</em> salah satunya, baik di platform <a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows/">Mac atau Windows</a>. Menghafalkan <em>hot-keys</em> serta <em>snippets</em> yang dimiliki terlebih jika jumlahnya tak sedikit diperlukan waktu. </p>
+
+<p>Seperti Patrick Rhone tulis, </p>
+<blockquote><p>Though this added a bit of time and effort at first, it has payed off tenfold since. I now spend a lot less time dealing with email simply because I now save a second or two on every action. When multiplied, those seconds quickly turn to minutes and hours.</p></blockquote>
+
+<p>Pilihannya sekarang tinggal dua, terus mengandalkan atau menambah jumlah pilihan aplikasi untuk mendukung menyelesaikan pekerjaan atau <em>mengupgrade</em> kemampuan kita dalam memahami dan menggunakan sebuah <em>tools</em> agar menjadi lebih produktif, bukan?<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p>Mumpung hari Senin jadi masih boleh serius.  <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  	
+  </entry>
   
   <entry>
     
@@ -417,26 +459,6 @@
 
 <p>Sayang udah ngga punya iPad lagi, ada yang mau kasih?</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/unread-ipad-jadi-freemium/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[San Fransisco Sebagai System Font di iOS]]></title>
-  	<link href="http://sweetdistraction.github.io/san-fransisco-ios-fonts/"/>
-  	
-    <updated>2014-11-25T22:08:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/san-fransisco-ios-fonts</id>
-    
-    <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/settingcomparison.png" title="Settings" /></p>
-
-<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>. </p>
-
-<!--more-->
-
-<p><img src="http://sweetdistraction.github.io/images/notescomparison.png" title="Notes" />
-Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebagai system font di perangkat iOS. <a href="https://twitter.com/dbk1ng">Daniel B. King</a>, memporting font ini agar dapat digunakan di perangkat iOS. Caranya mudah, cukup install aplikasi Bytafont2 dari Cydia dan unduh San Fransisco font dari repo <code>http://dbk1ng.myrepospace.com</code>. Setelah itu, pilih San Fransisco yang ada di daftar font pada aplikasi Bytafont2 dan perangkat akan secara otomatis respring. Saya sendiri lebih menyukain San Fransisco daripada Helvetica Neue meski baru sebentar menggunakannya. Mungkin saja nantinya Apple berencana mengganti system font iOS 9 ke San Fransisco.</p>
-]]></content>
   	
   </entry>
   
