@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sweetdistraction.github.io/twitter-clients-2014-macstories/</loc>
+    <lastmod>2014-12-11T10:58:41+07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://sweetdistraction.github.io/stunning-interstellar-posters-james-letcher/</loc>
+    <lastmod>2014-12-11T01:59:00+07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://sweetdistraction.github.io/jadi-mana-yang-terpenting/</loc>
     <lastmod>2014-12-08T10:04:35+07:00</lastmod>
     <priority>0.8</priority>
@@ -177,31 +187,31 @@
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/blog/archives/</loc>
-    <lastmod>2014-12-10T18:14:57+07:00</lastmod>
+    <lastmod>2014-12-12T08:20:02+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/</loc>
-    <lastmod>2014-12-10T18:14:57+07:00</lastmod>
+    <lastmod>2014-12-12T08:20:02+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/archives/</loc>
-    <lastmod>2014-12-10T18:14:57+07:00</lastmod>
+    <lastmod>2014-12-12T08:20:02+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/about/</loc>
-    <lastmod>2014-12-10T18:14:57+07:00</lastmod>
+    <lastmod>2014-12-12T08:20:02+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/search.html</loc>
-    <lastmod>2014-12-10T18:14:57+07:00</lastmod>
+    <lastmod>2014-12-12T08:20:02+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
