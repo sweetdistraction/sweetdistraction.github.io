@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sweetdistraction.github.io/path-update/</loc>
+    <lastmod>2014-12-16T09:50:50+07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://sweetdistraction.github.io/phraseexpress-docs/</loc>
+    <lastmod>2014-12-16T08:46:37+07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://sweetdistraction.github.io/twitter-clients-2014-macstories/</loc>
     <lastmod>2014-12-11T10:58:41+07:00</lastmod>
     <priority>0.8</priority>
@@ -187,31 +197,31 @@
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/blog/archives/</loc>
-    <lastmod>2014-12-15T12:02:37+07:00</lastmod>
+    <lastmod>2014-12-16T10:00:51+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/</loc>
-    <lastmod>2014-12-15T12:02:37+07:00</lastmod>
+    <lastmod>2014-12-16T10:00:51+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/archives/</loc>
-    <lastmod>2014-12-15T12:02:37+07:00</lastmod>
+    <lastmod>2014-12-16T10:00:51+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/about/</loc>
-    <lastmod>2014-12-15T12:02:37+07:00</lastmod>
+    <lastmod>2014-12-16T10:00:51+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/search.html</loc>
-    <lastmod>2014-12-15T12:02:37+07:00</lastmod>
+    <lastmod>2014-12-16T10:00:51+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
