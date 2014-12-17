@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-17T09:17:04+07:00</updated>
+  <updated>2014-12-17T09:50:20+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[THE PERILS OF ELECTRONIC COMMUNICATIONS ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://macsparky.com/blog/2014/12/the-perils-of-electronic-communications"/>
+  	
+    <updated>2014-12-17T09:37:58+07:00</updated>
+    <id>http://sweetdistraction.github.io/the-perils-of-electronic-communications</id>
+    
+    <content type="html"><![CDATA[<p>David Sparks via <a href="www.macsparky.com">Macsparky</a>:</p>
+<blockquote><p>I think it runs even deeper than the typical big brother paranoia. Digital communications is permanent and hurtful things said to friends and loved ones via email is equally permanent. If you are pissed at a friend, go confront him. Yell. Scream. Exercise your demons. Bloody noses heal and a shared beer a few hours later heals even better. A rage-filled email however drives a deep, and often permanent, wedge.</p></blockquote>
+
+<p><em>That’s damned truth!</em></p>
+
+<a rel="full-article" href="http://sweetdistraction.github.io/the-perils-of-electronic-communications/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -420,26 +437,6 @@
     <content type="html"><![CDATA[<p>Dari <a href="http://iclarified.com">iClarified</a>:</p>
 <blockquote><p>MuscleNerd confirmed the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p><p><br />&#8220;Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case&#8221;</p><p><br />TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG &#8216;app store&#8217; for cracked apps by default in China.</p></blockquote>
 <a rel="full-article" href="http://sweetdistraction.github.io/ios-8.1.1-jailbreak-release/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[How Apple keeps AirDrop files private and secure | iMore ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://m.imore.com/how-apple-keeps-your-airdrop-files-private-and-secure"/>
-  	
-    <updated>2014-11-29T00:00:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
-    
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:
-&gt; ## Encrypted identities</p>
-
-<blockquote>
-  <p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That’ll be used later to identify you in a way that maintains your privacy and security.</p>
-</blockquote>
-
-<p>Security! Security! </p>
-<a rel="full-article" href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
