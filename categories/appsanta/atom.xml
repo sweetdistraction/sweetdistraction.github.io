@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Appsanta | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/appsanta/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2014-12-17T09:17:04+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[App Santa 2014 Sale]]></title>
+    <link href="http://sweetdistraction.github.io/app-santa-2014-sale/"/>
+    <updated>2014-12-17T08:04:26+07:00</updated>
+    <id>http://sweetdistraction.github.io/app-santa-2014-sale</id>
+    <content type="html"><![CDATA[<p>Guys, <a href="http://appsanta.co/">App Santa</a> ngasih diskon untuk beberapa aplikasi pilihan. Bagi yang mau beli Tweetbot 3, sekarang cuma Rp. 35 Ribu. Cheaper than a cup of Starbucks’ double iced shaken espresso, no? </p>
+]]></content>
+  </entry>
+  
+</feed>
