@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-18T11:02:14+07:00</updated>
+  <updated>2014-12-18T23:23:18+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -15,7 +15,21 @@
   
   <entry>
     
-  	<title type="html"><![CDATA[“So, where did you two meet?” ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<title type="html"><![CDATA[What is Drafts for? - All this ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.leancrew.com/all-this/2014/12/what-is-drafts-for/"/>
+  	
+    <updated>2014-12-18T22:59:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/whats-drafts-for</id>
+    
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/drdrang">Dr. Drang</a> memberikan dua alasan mengapa <a href="https://itunes.apple.com/id/app/drafts-4-quickly-capture-notes/id905337691?mt=8&amp;uo=4">Drafts 4</a> layak berada di homescreen para pengguna perangkat iOS.</p>
+
+<a rel="full-article" href="http://sweetdistraction.github.io/whats-drafts-for/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[So, where did you two meet? ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
   	<link href="http://www.stickycomics.com/where-did-you-meet/"/>
   	
     <updated>2014-12-18T09:17:59+07:00</updated>
@@ -41,6 +55,8 @@
     <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/kurio3.jpg" /></p>
 
 <p>Saya percaya bahwa teknologi diciptakan untuk mempermudah hidup umat manusia. Dengan teknologi, bekerja kini tak lagi dituntut hanya sekedar selesai namun juga bagaimana menyelesaikannya dengan efektif dan efisien. Saya setuju dengan ungkapan <code>#KnowledgeIsPower</code>. Bagaimana tidak, dengan memiliki pengetahuan serta wawasan yang luas seseorang pasti dapat menyelesaikan berbagai macam permasalahan yang dihadapi dengan mudah.</p>
+
+<!--more-->
 
 <p>Informasi serta pengetahuan kini bisa didapatkan dengan mudah. Terlebih di era teknologi informasi seperti sekarang ini yang mana internet bukanlah lagi menjadi barang mahal. Kini seseorang dapat mengetahui berbagai macam informasi dimanapun dan kapanpun. Cukup install aplikasi mobile penyedia layanan berita ataupun tips-trik di gadget yang dimiliki maka informasi serta berbagai macam pengetahuan hanya sejauh genggaman tangan. Sederhananya, buka browser lalu ketik informasi yang diinginkan di kolom pencarian.</p>
 
@@ -442,27 +458,6 @@
 
 <p>Memang secara teori, jailbreak bisa dihilangkan cukup dengan melakukan restore perangkat menggunakan iTunes apabila ingin melakukan klaim garansi, namun jika terjadi hal yang tak diinginkan semisal <em>brick</em> pada perangkat karena tak sengaja melakukan <em>Reset All Settings</em> maka siapa yang akan bertanggung jawab? Oleh sebab itu mengapa jailbreak selalu disertai dengan <em>disclaimer</em>: DWYOR (Do With Your Own Risk)</p>
 ]]></content>
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[THE NEW 1WRITER WITH JAVASCRIPT ACTIONS ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="https://onetapless.com/new-1writer-with-javascript-actions"/>
-  	
-    <updated>2014-12-01T14:44:17+07:00</updated>
-    <id>http://sweetdistraction.github.io/the-new-1writer-javascript-actions</id>
-    
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/pgruneich">Philip Gruneich</a> di <a href="http://onetapless.com">OneTapLess</a>:</p>
-
-<blockquote><p>1Writer 2.0 was the most delightful surprise this week and probably the best deal you could make this holiday if you write in your iOS devices. I’m sure it is only a matter of time until more actions pop up and improve the pool of options in this outstanding text editor.</p></blockquote>
-
-<p><a href="http://1writerapp.com/">1Writer</a>, salah satu teks editor di iOS baru saja menerima pembaharuan besar. Penambahan <em>javascript action</em>, pengamanan tambahan dengan Touch ID, kustomisasi font serta tampilan, safari extensions, in-app-browser serta <em>today widget</em> untuk mengakses dokumen favorit secara cepat dan masih banyak lagi.</p>
-
-<p>Ngoc Luu juga menambahkan <em><a href="http://1writerapp.com/actiondir">action directory</a></em> bagi pengguna yang ingin menambahkan <em>javascript action</em> dengan mudah ke dalam aplikasi 1Writer. Tak hanya itu, bagi pengguna yang ingin belajar membuat <em>javascript action</em> sendiri, Ngoc Luu juga sudah menyiapkan <a href="http://1writerapp.com/docs/js">dokumen</a> pendukung yang dapat dipelajari dan digunakan. </p>
-
-<p>Seperti biasa, Philip Gruneich juga telah membuat artikel mengenai update dari 1Writer di OneTapLess dengan contoh <em>javascript action-nya</em>.</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/the-new-1writer-javascript-actions/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   

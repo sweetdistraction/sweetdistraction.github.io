@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-18T11:02:14+07:00</updated>
+  <updated>2014-12-18T23:23:18+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,18 @@
 
   
   <entry>
-    <title type="html"><![CDATA[“So, where did you two meet?”]]></title>
+    <title type="html"><![CDATA[What is Drafts for? - All this]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/whats-drafts-for/"/>
+    <updated>2014-12-18T22:59:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/whats-drafts-for</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/drdrang">Dr. Drang</a> memberikan dua alasan mengapa <a href="https://itunes.apple.com/id/app/drafts-4-quickly-capture-notes/id905337691?mt=8&amp;uo=4">Drafts 4</a> layak berada di homescreen para pengguna perangkat iOS.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[So, where did you two meet?]]></title>
     <summary><![CDATA[]]></summary>
     <link href="http://sweetdistraction.github.io/so-where-did-you-meet/"/>
     <updated>2014-12-18T09:17:59+07:00</updated>
@@ -36,6 +47,8 @@
     <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/kurio3.jpg" /></p>
 
 <p>Saya percaya bahwa teknologi diciptakan untuk mempermudah hidup umat manusia. Dengan teknologi, bekerja kini tak lagi dituntut hanya sekedar selesai namun juga bagaimana menyelesaikannya dengan efektif dan efisien. Saya setuju dengan ungkapan <code>#KnowledgeIsPower</code>. Bagaimana tidak, dengan memiliki pengetahuan serta wawasan yang luas seseorang pasti dapat menyelesaikan berbagai macam permasalahan yang dihadapi dengan mudah.</p>
+
+<!--more-->
 
 <p>Informasi serta pengetahuan kini bisa didapatkan dengan mudah. Terlebih di era teknologi informasi seperti sekarang ini yang mana internet bukanlah lagi menjadi barang mahal. Kini seseorang dapat mengetahui berbagai macam informasi dimanapun dan kapanpun. Cukup install aplikasi mobile penyedia layanan berita ataupun tips-trik di gadget yang dimiliki maka informasi serta berbagai macam pengetahuan hanya sejauh genggaman tangan. Sederhananya, buka browser lalu ketik informasi yang diinginkan di kolom pencarian.</p>
 

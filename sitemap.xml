@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sweetdistraction.github.io/whats-drafts-for/</loc>
+    <lastmod>2014-12-18T22:59:00+07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://sweetdistraction.github.io/so-where-did-you-meet/</loc>
     <lastmod>2014-12-18T09:17:59+07:00</lastmod>
     <priority>0.8</priority>
@@ -217,31 +222,31 @@
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/blog/archives/</loc>
-    <lastmod>2014-12-18T11:02:14+07:00</lastmod>
+    <lastmod>2014-12-18T23:23:18+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/</loc>
-    <lastmod>2014-12-18T11:02:14+07:00</lastmod>
+    <lastmod>2014-12-18T23:23:18+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/archives/</loc>
-    <lastmod>2014-12-18T11:02:14+07:00</lastmod>
+    <lastmod>2014-12-18T23:23:18+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/about/</loc>
-    <lastmod>2014-12-18T11:02:14+07:00</lastmod>
+    <lastmod>2014-12-18T23:23:18+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/search.html</loc>
-    <lastmod>2014-12-18T11:02:14+07:00</lastmod>
+    <lastmod>2014-12-18T23:23:18+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
