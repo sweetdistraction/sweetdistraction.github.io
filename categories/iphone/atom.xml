@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Iphone | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/iphone/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-18T23:23:18+07:00</updated>
+  <updated>2014-12-22T15:08:12+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Removing Photo Metadata With Metapho — MacSparky]]></title>
+    <link href="http://sweetdistraction.github.io/removing-photo-metadata-with-metapho/"/>
+    <updated>2014-12-22T14:57:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/removing-photo-metadata-with-metapho</id>
+    <content type="html"><![CDATA[<p><a href="!g" title="twitter macsparky">David Sparks</a>:
+<blockquote><p></p></p><p><p>The app is easy enough to use. Select an existing photo and push the big red button to remove the metadata.</p></p><p><p></p></blockquote></p>
+
+<p>Menghilangkan metadata dari sebuah foto kini menjadi mudah berkat <a href="https://itunes.apple.com/us/app/metapho-manage-photo-metadata/id914457352?ls=1&amp;mt=8?at=10laz7&amp;ct=blog">Metapho</a>. Bagi yang menaruh perhatian lebih terkait masalah keamanan atau privasi maka in-app-purchase seharga 2$ dalam aplikasi ini bukanlah sebuah masalah besar.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Better Way to Combine iPhone Screenshots With Keyboard Maestro]]></title>
@@ -78,24 +90,6 @@
 </blockquote>
 
 <p>Security! Security! </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[#MacStoriesDeals Black Friday 2014: Best Deals for iPhone, iPad, and Mac Apps & Games]]></title>
-    <link href="http://sweetdistraction.github.io/blackfriday-apps-deal/"/>
-    <updated>2014-11-27T09:14:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/blackfriday-apps-deal</id>
-    <content type="html"><![CDATA[<p><a href="http://macstories.net">Macstories</a>
-&gt; Black Friday is upon us once again! #MacStoriesDeals is the best place to find great deals for iOS apps and games, Mac software, and more.</p>
-
-<p>Macstories telah merangkum beberapa deals diskon aplikasi baik untuk iPhone, iPad hingga Mac menjelang Black Friday. </p>
-
-<p>Fantastical 2 yang menjadi aplikasi kalender favorit saya juga ada dalam daftar, kini hanya $1.99 untuk iPhone dan $4.99 untuk iPad serta $9.99 untuk Mac. Jika belum yakin untuk mencoba Fantastical 2 maka sebaiknya baca dulu <a href="http://www.macstories.net/reviews/fantastical-2-review/">review</a> dari Macstories.</p>
-
-<p>Selain deals di atas, <a href="http://smilesoftware.com/TextExpander/touch/index.html">Text Expander Touch</a> menjadi Rp. 12 Ribu di App Store Indonesia. Namun ketika saya membuka App Store US, harga dari Text Expander Touch masih sama yaitu $4.99. </p>
-
-<p>So, stay update!</p>
 ]]></content>
   </entry>
   
