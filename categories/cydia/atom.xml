@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Cydia | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/cydia/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-22T15:08:12+07:00</updated>
+  <updated>2014-12-22T17:02:25+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Allarm: A Cleverly Named Tweak That Toggles All Alarm Clocks Simultaneously]]></title>
+    <link href="http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously/"/>
+    <updated>2014-12-22T16:09:27+07:00</updated>
+    <id>http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously</id>
+    <content type="html"><![CDATA[<p><a href="http://www.twitter.com/jeffbenjam/">Jeff Benjamin</a> via <a href="www.idownloadblog.com">iDownbloadblog</a>:
+<blockquote><p></p></p><p><p>Once you install Allarm, simply head over to the alarm clock tab of the Clock app, and you’ll see a brand new Toggle All Alarms toggle at the top of the page.</p></p><p><p></p></blockquote></p>
+
+<p>Memiliki sebuah iPhone yang sudah terjailbreak dan suka mengatur alarm dengan selang waktu 15 menit (ehem!)? Tweak ini pastilah sangat berguna.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[iOS 8 Tweaks]]></title>
@@ -101,20 +114,6 @@
 
 <p><img src="/images/notescomparison.png" title="Notes" >
 Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebagai system font di perangkat iOS. <a href="https://twitter.com/dbk1ng">Daniel B. King</a>, memporting font ini agar dapat digunakan di perangkat iOS. Caranya mudah, cukup install aplikasi Bytafont2 dari Cydia dan unduh San Fransisco font dari repo <code>http://dbk1ng.myrepospace.com</code>. Setelah itu, pilih San Fransisco yang ada di daftar font pada aplikasi Bytafont2 dan perangkat akan secara otomatis respring. Saya sendiri lebih menyukain San Fransisco daripada Helvetica Neue meski baru sebentar menggunakannya. Mungkin saja nantinya Apple berencana mengganti system font iOS 9 ke San Fransisco.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Go Get 'Em!]]></title>
-    <link href="http://sweetdistraction.github.io/go-get-em/"/>
-    <updated>2014-11-22T08:27:08+07:00</updated>
-    <id>http://sweetdistraction.github.io/go-get-em</id>
-    <content type="html"><![CDATA[<blockquote>
-  <p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p>
-</blockquote>
-
-<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak. </p>
-
 ]]></content>
   </entry>
   

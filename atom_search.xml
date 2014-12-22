@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-22T15:08:12+07:00</updated>
+  <updated>2014-12-22T17:02:25+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Allarm: a cleverly named tweak that toggles all alarm clocks simultaneously]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously/"/>
+    <updated>2014-12-22T16:09:27+07:00</updated>
+    <id>http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously</id>
+    <content type="html"><![CDATA[<p><a href="http://www.twitter.com/jeffbenjam/">Jeff Benjamin</a> via <a href="www.idownloadblog.com">iDownbloadblog</a>:</p>
+<blockquote><p>Once you install Allarm, simply head over to the alarm clock tab of the Clock app, and you’ll see a brand new Toggle All Alarms toggle at the top of the page.</p></blockquote>
+
+<p>Memiliki sebuah iPhone yang sudah terjailbreak dan suka mengatur alarm dengan selang waktu 15 menit (ehem!)? Tweak ini pastilah sangat berguna.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Removing Photo Metadata with Metapho — MacSparky]]></title>
