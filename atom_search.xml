@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-22T17:02:25+07:00</updated>
+  <updated>2014-12-23T09:38:09+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Twitter Analytics di Twitter for iPhone]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone/"/>
+    <updated>2014-12-23T09:09:04+07:00</updated>
+    <id>http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone</id>
+    <content type="html"><![CDATA[<p><a href="https://support.twitter.com">Twitter Support Page</a>:</p>
+<blockquote><p>On mobile (currently available on Twitter for iPhone), click on one of your Tweets to get to the Tweet detail page, then tap “View Tweet activity.” Make sure you have installed the latest version of Twitter for iPhone.</p></blockquote>
+
+<p>Sekarang, saya memiliki satu alasan kenapa harus menginstall aplikasi resmi Twitter di perangkat iOS saya.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Allarm: a cleverly named tweak that toggles all alarm clocks simultaneously]]></title>
