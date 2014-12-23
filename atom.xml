@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-23T09:38:09+07:00</updated>
+  <updated>2014-12-23T09:55:33+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Apple Issues Network Time Protocol Security Fix for OS X Users ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.macrumors.com/2014/12/22/apple-issues-new-security-fix/"/>
+  	
+    <updated>2014-12-23T09:25:40+07:00</updated>
+    <id>http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix</id>
+    
+    <content type="html"><![CDATA[<p><a href="www.macrumors.com">MacRumors</a>:</p>
+<blockquote><p>Apple today released a new security update that’s designed to address a &#8220;critical security issue&#8221; with the Network Time Protocol service on OS X. Apple recommends that all Yosemite, Mavericks, and Mountain Lion users install the update &#8220;as soon as possible.&#8221;</p></blockquote>
+
+<p>Update! Update!</p>
+
+<a rel="full-article" href="http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -425,21 +442,6 @@
 
 <p>Let’s automate all the things!</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/javascript-for-automation/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Apple Watch Website Update ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="https://www.apple.com/watch/timekeeping/"/>
-  	
-    <updated>2014-12-03T10:25:36+07:00</updated>
-    <id>http://sweetdistraction.github.io/apple-watch-website-updates</id>
-    
-    <content type="html"><![CDATA[<p><a href="http://www.macstories.net/linked/apple-watch-website-update/">Macstories</a>:</p>
-<blockquote><p>The Watch microsite has been updated with more details for timekeeping and fitness features, revealing more details about customizable complications, watch faces, fitness and activity tracking, and more.</p></blockquote>
-
-<a rel="full-article" href="http://sweetdistraction.github.io/apple-watch-website-updates/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   

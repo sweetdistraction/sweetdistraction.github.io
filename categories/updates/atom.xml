@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Updates | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/updates/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-23T09:38:09+07:00</updated>
+  <updated>2014-12-23T09:55:33+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple Issues Network Time Protocol Security Fix for OS X Users]]></title>
+    <link href="http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix/"/>
+    <updated>2014-12-23T09:25:40+07:00</updated>
+    <id>http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix</id>
+    <content type="html"><![CDATA[<p><a href="www.macrumors.com">MacRumors</a>:
+<blockquote><p></p></p><p><p>Apple today released a new security update that’s designed to address a “critical security issue” with the Network Time Protocol service on OS X. Apple recommends that all Yosemite, Mavericks, and Mountain Lion users install the update “as soon as possible.” </p></p><p><p></p></blockquote></p>
+
+<p>Update! Update!</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The NEW 1WRITER WITH JAVASCRIPT ACTIONS]]></title>
