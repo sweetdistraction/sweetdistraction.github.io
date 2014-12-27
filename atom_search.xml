@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-25T23:08:29+07:00</updated>
+  <updated>2014-12-27T20:58:11+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vitag: batch Finder tagging from the command line]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/bretttrepstra-vitag-release/"/>
+    <updated>2014-12-27T20:44:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/bretttrepstra-vitag-release</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/ttscoff">Brett Trepstra</a>:</p>
+<blockquote><p>Run without arguments it grabs all files and folders in the current directory and opens your text editor with a list of them, each one followed by its current tags (if any) in square brackets. Edit what’s in the brackets, save and close, and those changes are immediately applied.</p></blockquote>
+
+<p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba! </p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Holidays! All Field Guides are On Sale — MacSparky]]></title>
