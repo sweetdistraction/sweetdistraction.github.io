@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Apple | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T02:47:02+07:00</updated>
+  <updated>2014-12-28T21:30:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p><a href="https://twitter.com/marcoarment">Marco Arment</a>:
 <blockquote><p></p></p><p><p>If Apple won’t enforce its own standards against spamming and annoying customers — which really isn’t good enough — the least they can do is practice the rules themselves and be a good example.</p></p><p><p></p></blockquote></p>
 
-<p>Maybe Apple just being consistent to what its CEO said back to WWDC this year: “This is something only Apple could do.”</p>
+<p>Maybe Apple just being consistent to what its CEO said back to WWDC this year: &ldquo;This is something only Apple could do.&rdquo;</p>
 ]]></content>
   </entry>
   
@@ -38,6 +38,7 @@
 
 <!--more-->
 
+
 <p>Keputusan untuk melakukan jailbreak memang sepenuhnya ada di tangan pengguna dan tak selamanya jailbreak berdampak buruk. Bagi seorang pengembang ataupun seseorang yang ingin mempelajari tentang sistem operasi terutama iOS, jailbreak bisa saja merupakan sebuah langkah untuk mendukung kegiatannya. Tak hanya itu, jailbreak yang membuka akses <em>root</em> perangkat juga memungkinkan pengguna untuk mengkustomisasi perangkat yang dimiliki mulai dari menginstall tema, mengubah ikon batere atau sinyal, menghilangkan UI yang dianggap mengganggu dan masih banyak lagi. Namun juga tak jarang beberapa orang melakukan jailbreak untuk mengunduh dan menginstall aplikasi bajakan yang tentu saja merugikan bagi pengembang aplikasi padahal banyak cara untuk mendapatkan sebuah aplikasi secara legal, memakai iTunes gift card misalnya.</p>
 
 <p>Memang secara teori, jailbreak bisa dihilangkan cukup dengan melakukan restore perangkat menggunakan iTunes apabila ingin melakukan klaim garansi, namun jika terjadi hal yang tak diinginkan semisal <em>brick</em> pada perangkat karena tak sengaja melakukan <em>Reset All Settings</em> maka siapa yang akan bertanggung jawab? Oleh sebab itu mengapa jailbreak selalu disertai dengan <em>disclaimer</em>: DWYOR (Do With Your Own Risk)</p>
@@ -49,14 +50,13 @@
     <link href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/"/>
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:
-&gt; ## Encrypted identities</p>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:</p>
 
-<blockquote>
-  <p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That’ll be used later to identify you in a way that maintains your privacy and security.</p>
-</blockquote>
+<blockquote><h2>Encrypted identities</h2>
 
-<p>Security! Security! </p>
+<p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That&rsquo;ll be used later to identify you in a way that maintains your privacy and security.</p></blockquote>
+
+<p>Security! Security!</p>
 ]]></content>
   </entry>
   
@@ -65,8 +65,9 @@
     <link href="http://sweetdistraction.github.io/unread-ipad-jadi-freemium/"/>
     <updated>2014-11-26T01:33:00+07:00</updated>
     <id>http://sweetdistraction.github.io/unread-ipad-jadi-freemium</id>
-    <content type="html"><![CDATA[<p>Dari iDownloadblog:
-&gt; Previously costing five bucks a pop, Unread for iPad is now a free download with In-App Purchases to unlock advanced features. The app sports full-screen reading, has multiple themes for day, night and some such, features rich content sharing via OvershareKit and much more.</p>
+    <content type="html"><![CDATA[<p>Dari iDownloadblog:</p>
+
+<blockquote><p>Previously costing five bucks a pop, Unread for iPad is now a free download with In-App Purchases to unlock advanced features. The app sports full-screen reading, has multiple themes for day, night and some such, features rich content sharing via OvershareKit and much more.</p></blockquote>
 
 <p>Sayang udah ngga punya iPad lagi, ada yang mau kasih?</p>
 ]]></content>
@@ -79,17 +80,13 @@
     <id>http://sweetdistraction.github.io/30-tahun-setelah-apple-macintosh-pertama-dirilis</id>
     <content type="html"><![CDATA[<p>Kent Akgungor di <a href="http://thingsofinterest.com/">Things Of Interest</a></p>
 
-<blockquote>
-  <p>When first released in 1984, the Apple Macintosh shipped with a black-and-white 512 x 342 display. Fast forward 30 years to the release of the iMac with Retina 5K display, which ships with a 5,120 x 2,880 display with support for millions of colours. That’s an increase from 175,000 pixels to more than 14.7 million – an 8,400% increase. 80 of the original Macintosh displays fit within a single Retina 5K display.</p>
-</blockquote>
+<blockquote><p>When first released in 1984, the Apple Macintosh shipped with a black-and-white 512 x 342 display. Fast forward 30 years to the release of the iMac with Retina 5K display, which ships with a 5,120 x 2,880 display with support for millions of colours. That’s an increase from 175,000 pixels to more than 14.7 million – an 8,400% increase. 80 of the original Macintosh displays fit within a single Retina 5K display.</p></blockquote>
 
-<p>It’s terrific what Apple could’ve done in 30 years and still counting. </p>
+<p>It&rsquo;s terrific what Apple could&rsquo;ve done in 30 years and still counting.</p>
 
 <p>Mike Salomon di <a href="http://www.thecleverest.com/">The Cleverest</a> mencoba melakukan hal sebaliknya.</p>
 
-<blockquote>
-  <p>So I thought I’d take the opposite approach. Below are 1-to-1 pixel mockups of how Mac OSX Yosemite would have appeared on the original Macintosh’s 512×342 pixel screen.</p>
-</blockquote>
+<blockquote><p>So I thought I’d take the opposite approach. Below are 1-to-1 pixel mockups of how Mac OSX Yosemite would have appeared on the original Macintosh’s 512×342 pixel screen.</p></blockquote>
 ]]></content>
   </entry>
   

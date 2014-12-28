@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tweaks | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/tweaks/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T02:47:02+07:00</updated>
+  <updated>2014-12-28T21:30:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -19,10 +19,9 @@
     <updated>2014-12-22T16:09:27+07:00</updated>
     <id>http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously</id>
     <content type="html"><![CDATA[<p><a href="http://www.twitter.com/jeffbenjam/">Jeff Benjamin</a> via <a href="www.idownloadblog.com">iDownbloadblog</a>:
-<blockquote><p></p></p><p><p>Once you install Allarm, simply head over to the alarm clock tab of the Clock app, and you’ll see a brand new Toggle All Alarms toggle at the top of the page.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p> Once you install Allarm, simply head over to the alarm clock tab of the Clock app, and you’ll see a brand new Toggle All Alarms toggle at the top of the page.</p></p><p><p></p></blockquote></p>
 
 <p>Memiliki sebuah iPhone yang sudah terjailbreak dan suka mengatur alarm dengan selang waktu 15 menit (ehem!)? Tweak ini pastilah sangat berguna.</p>
-
 ]]></content>
   </entry>
   
@@ -35,38 +34,38 @@
 
 <!--more-->
 
+
 <p>Meski perangkat iOS saya sudah terjailbreak, namun saya belum memperbaharuinya ke iOS versi 8.1.1. Tweaks yang terinstall pun tak sebanyak dulu sewaktu iOS 7. Kini saya hanya mempunyai sekitar 12 tweak yang terpasang. Kira-kira hanya separuh dari jumlah tweaks yang terinstall pada iOS versi sebelumnya, dan berikut daftar tweaks tersebut:</p>
 
 <ul>
-  <li>Activator<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
-  <li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
-  <li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
-  <li>SwipeSelection<sup id="fnref:fn2"><a href="#fn:fn2" class="footnote">2</a></sup></li>
-  <li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:fn3"><a href="#fn:fn3" class="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
-  <li>Springtomize 3: Customize and declutter all the things!</li>
-  <li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
-  <li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
-  <li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
-  <li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan ‘memaksa’ sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan. </li>
-  <li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
-  <li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
+<li>Activator<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
+<li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
+<li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
+<li>SwipeSelection<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></li>
+<li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
+<li>Springtomize 3: Customize and declutter all the things!</li>
+<li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
+<li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
+<li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
+<li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan &lsquo;memaksa&rsquo; sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan.</li>
+<li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
+<li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
 </ul>
 
-<p>Itu dia daftar tweak yang terinstall pada perangkat iOS saya. Jailbreak memang tak <a href="http://sweetdistractions.net/apple-vs-jailbreak">direkomendasikan oleh Apple</a>, bahkan Apple tak akan mengganti kerusakan akibat jailbreak yang dilakukan. Oleh sebab itu, disclaimer Do With Your Own Risk selalu melekat pada sebuah tools jailbreak. Menginstall tweak juga sebaiknya dari sumber yang terpercaya karena bagaimanapun jailbreak adalah membuka akses root dari sebuah perangkat iOS sehingga jika asal menginstall tweak bisa saja tweak tersebut memiliki kode yang berbahaya ataupun malware.</p>
 
+<p>Itu dia daftar tweak yang terinstall pada perangkat iOS saya. Jailbreak memang tak <a href="http://sweetdistractions.net/apple-vs-jailbreak">direkomendasikan oleh Apple</a>, bahkan Apple tak akan mengganti kerusakan akibat jailbreak yang dilakukan. Oleh sebab itu, disclaimer Do With Your Own Risk selalu melekat pada sebuah tools jailbreak. Menginstall tweak juga sebaiknya dari sumber yang terpercaya karena bagaimanapun jailbreak adalah membuka akses root dari sebuah perangkat iOS sehingga jika asal menginstall tweak bisa saja tweak tersebut memiliki kode yang berbahaya ataupun malware.</p>
 <div class="footnotes">
-  <ol>
-    <li id="fn:fn1">
-      <p>Wajib hukumnya <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:fn2">
-      <p>Ini juga wajib hukumnya <a href="#fnref:fn2" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:fn3">
-      <p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com <a href="#fnref:fn3" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Wajib hukumnya<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Ini juga wajib hukumnya<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+</ol>
 </div>
+
 ]]></content>
   </entry>
   
@@ -77,15 +76,13 @@
     <id>http://sweetdistraction.github.io/watchboar-apple-watch-springboard-iphone-ipad</id>
     <content type="html"><![CDATA[<p>Jeff Benjamin di <a href="www.idownloadblog.com.">iDownloadblog</a></p>
 
-<blockquote>
-  <p>The thing I really like about WatchBoard is that no resprings are required when enabling or disabling the tweak. Yes, even when you want to fully replace the iPhone’s SpringBoard with the Apple Watch UI, no resprings are required, which is one of the best features of WatchBoard.</p>
-</blockquote>
+<blockquote><p>The thing I really like about WatchBoard is that no resprings are required when enabling or disabling the tweak. Yes, even when you want to fully replace the iPhone’s SpringBoard with the Apple Watch UI, no resprings are required, which is one of the best features of WatchBoard.</p></blockquote>
 
 <p>Jika beberapa waktu sebelumnya Aeternum hadir sebagai jailbreak tweak yang membawa Apple Watch UI ke springboard iPhone atau iPad maka kini giliran WatchBoard dari Aaron Ash yang juga pencipta dari jailbreak tweak ternama, <a href="http://cydia.saurik.com/package/com.aaronash.barrel/">Barrel</a>.</p>
 
 <p>Salah satu kekurangan dari Apple Watch UI di iPhone atau iPad adalah bagaimana dengan cepat membuka sebuah aplikasi yang diinginkan (saya memakai Aeternum dan hal ini juga menjadi salah satu masalah dalam menggunakan Apple Watch UI di keseharian). Namun jangan khawatir karena WatchBoard memiliki fitur untuk mengaktfikan spotlight dengan mudah, caranya tinggal tap di tempat yang kosong.</p>
 
-<p>Ditawarkan dengan sedikit lebih mahal yaitu $3.99 dengan <a href="http://cydia.saurik.com/package/com.spiritoflogic.aeternum/">Aeternum</a>, WatchBoard mungkin dapat menjadi pilihan bagi yang tak sabar untuk mencoba Apple Watch UI di iPhone atau iPadnya. </p>
+<p>Ditawarkan dengan sedikit lebih mahal yaitu $3.99 dengan <a href="http://cydia.saurik.com/package/com.spiritoflogic.aeternum/">Aeternum</a>, WatchBoard mungkin dapat menjadi pilihan bagi yang tak sabar untuk mencoba Apple Watch UI di iPhone atau iPadnya.</p>
 ]]></content>
   </entry>
   

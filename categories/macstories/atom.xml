@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Macstories | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/macstories/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T02:47:02+07:00</updated>
+  <updated>2014-12-28T21:30:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -31,11 +31,11 @@
     <updated>2014-12-03T10:31:41+07:00</updated>
     <id>http://sweetdistraction.github.io/javascript-for-automation</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/The_Axx">Alex Guyot</a> via <a href="www.macstories.net">Macstories</a>:
-<blockquote><p></p></p><p><p>Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p> Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></p><p><p></p></blockquote></p>
 
 <p>Jika <a href="https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html">AppleScript</a> dan <a href="http://support.apple.com/en-us/ht2488">Automator</a> dirasa tak cukup untuk mengotomatisasi berbagi pekerjaan pada Mac maka JavaScript for Automation (JXA) boleh dicoba. <a href="https://twitter.com/The_Axx">Alex Guyot</a> melalui Macstories telah memberikan sedikit gambaran dan contoh bagaimana javascript dapat mendukung mempercepat workflow di OS X.</p>
 
-<p>Let’s automate all the things!</p>
+<p>Let&rsquo;s automate all the things!</p>
 ]]></content>
   </entry>
   
@@ -44,14 +44,15 @@
     <link href="http://sweetdistraction.github.io/blackfriday-apps-deal/"/>
     <updated>2014-11-27T09:14:00+07:00</updated>
     <id>http://sweetdistraction.github.io/blackfriday-apps-deal</id>
-    <content type="html"><![CDATA[<p><a href="http://macstories.net">Macstories</a>
-&gt; Black Friday is upon us once again! #MacStoriesDeals is the best place to find great deals for iOS apps and games, Mac software, and more.</p>
+    <content type="html"><![CDATA[<p><a href="http://macstories.net">Macstories</a></p>
 
-<p>Macstories telah merangkum beberapa deals diskon aplikasi baik untuk iPhone, iPad hingga Mac menjelang Black Friday. </p>
+<blockquote><p>Black Friday is upon us once again! #MacStoriesDeals is the best place to find great deals for iOS apps and games, Mac software, and more.</p></blockquote>
+
+<p>Macstories telah merangkum beberapa deals diskon aplikasi baik untuk iPhone, iPad hingga Mac menjelang Black Friday.</p>
 
 <p>Fantastical 2 yang menjadi aplikasi kalender favorit saya juga ada dalam daftar, kini hanya $1.99 untuk iPhone dan $4.99 untuk iPad serta $9.99 untuk Mac. Jika belum yakin untuk mencoba Fantastical 2 maka sebaiknya baca dulu <a href="http://www.macstories.net/reviews/fantastical-2-review/">review</a> dari Macstories.</p>
 
-<p>Selain deals di atas, <a href="http://smilesoftware.com/TextExpander/touch/index.html">Text Expander Touch</a> menjadi Rp. 12 Ribu di App Store Indonesia. Namun ketika saya membuka App Store US, harga dari Text Expander Touch masih sama yaitu $4.99. </p>
+<p>Selain deals di atas, <a href="http://smilesoftware.com/TextExpander/touch/index.html">Text Expander Touch</a> menjadi Rp. 12 Ribu di App Store Indonesia. Namun ketika saya membuka App Store US, harga dari Text Expander Touch masih sama yaitu $4.99.</p>
 
 <p>So, stay update!</p>
 ]]></content>

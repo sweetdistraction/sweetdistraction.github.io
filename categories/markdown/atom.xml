@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Markdown | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/markdown/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T02:47:02+07:00</updated>
+  <updated>2014-12-28T21:30:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -21,9 +21,9 @@
     <content type="html"><![CDATA[<p><a href="https://twitter.com/macsparky">David Sparks</a> via <a href="www.macsparky.com">Macsparky</a>:
 <blockquote><p></p></p><p><p>The thing about Byword is that it just delivers. The design is solid and unobtrusive. Its developers understand iteration and avoid change for the sake of change.</p></p><p><p></p></blockquote></p>
 
-<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya. </p>
+<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya.</p>
 
-<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger. </p>
+<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger.</p>
 ]]></content>
   </entry>
   
@@ -34,13 +34,9 @@
     <id>http://sweetdistraction.github.io/realmacsoftware-release-typed-text-editor</id>
     <content type="html"><![CDATA[<p><a href="www.realmacsoftware.com">Realmac Software</a>:</p>
 
-<blockquote>
-  <h2 id="your-best-work-isnt-written-its-typed">Your Best Work Isn’t Written, It’s Typed.</h2>
-</blockquote>
+<blockquote><h2>Your Best Work Isn’t Written, It’s Typed.</h2>
 
-<blockquote>
-  <p>Typed is the stunning new writing app for the Mac, and the first that improves your focus so you can create great content. Typed makes writing for the web incredibly easy, and its Zen Mode features relaxing soundtracks that help you concentrate.</p>
-</blockquote>
+<p>Typed is the stunning new writing app for the Mac, and the first that improves your focus so you can create great content. Typed makes writing for the web incredibly easy, and its Zen Mode features relaxing soundtracks that help you concentrate.</p></blockquote>
 
 <p>Realmac Software yang juga pengembang dari aplikasi dari <a href="http://realmacsoftware.com/clear">Clear</a>, <a href="http://realmacsoftware.com/ember">Ember</a>, <a href="http://realmacsoftware.com/rapidweaver">Rapidweaver</a> baru saja merilis aplikasi berupa teks editor yang diberi nama <a href="http://realmacsoftware.com/typed">Typed</a>.</p>
 
@@ -48,7 +44,7 @@
 
 <p>Penghitung kata, fitur export tulisan ke format HTML, RTF, keyboard shortcuts, auto save support merupakan beberapa fitur yang dihadirkan Realmac Software di Typed. Dirilis dengan harga $19,99 untuk waktu yang terbatas (harga asli $24.99), Typed memang lebih mahal daripada beberapa teks editor lain seperti Byword ($9.99) dan iA Writer ($9.99). Namun jangan khawati karena Realmac Software menyediakan trial aplikasinya selama 7 hari bagi pengguna sebelum membelinya. Saya sudah mencobanya dengan menuliskan artikel ini.  Terdapat efek blur pada latar belakang teks editor Typed selaras dengan OS X Yosemite ketika sedang digunakan dan saya sendiri kurang menyukainya karena bisa saja menimbulkan distraksi.</p>
 
-<p>Semakin banyak aplikasi berjenis teks editor yang dirilis di platform Mac. Dengan gimmick berupa fitur zen mode dimana Typed menyediakan soundtrack sebagai teman menulis, rasanya berkompromi dengan harga yang ditawarkan masih bisa dimaklumi. </p>
+<p>Semakin banyak aplikasi berjenis teks editor yang dirilis di platform Mac. Dengan gimmick berupa fitur zen mode dimana Typed menyediakan soundtrack sebagai teman menulis, rasanya berkompromi dengan harga yang ditawarkan masih bisa dimaklumi.</p>
 ]]></content>
   </entry>
   
@@ -57,10 +53,12 @@
     <link href="http://sweetdistraction.github.io/hello-world/"/>
     <updated>2014-11-08T00:51:25+07:00</updated>
     <id>http://sweetdistraction.github.io/hello-world</id>
-    <content type="html"><![CDATA[<p><em>Sweet distractions, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar banyak hal baru. 
-<!--more--></p>
+    <content type="html"><![CDATA[<p><em>Sweet distractions, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar banyak hal baru.</p>
 
-<p>Bukankah proses belajar bisa dilakukan di mana saja dan kapan saja? Situs ini pun hasil pembelajaran saya akan <a href="http://octopress.org">Octopress</a> sebuah situs statis berbasis Jekyll yang menggunakan bahasa pemrograman Ruby. Beberapa kelebihan dari Octopress yang membuat saya tertarik untuk mempelajarinya adalah sifatnya yang statis, tak perlu ribet mendaftar menggunakan email ataupun setting hosting bahkan bisa hosting gratis di <a href="http://pages.github.com">Github Pages</a> dan postingan cukup ditulis dengan format <a href="fireball.net/projects/markdown/">Markdown</a>. </p>
+<!--more-->
+
+
+<p>Bukankah proses belajar bisa dilakukan di mana saja dan kapan saja? Situs ini pun hasil pembelajaran saya akan <a href="http://octopress.org">Octopress</a> sebuah situs statis berbasis Jekyll yang menggunakan bahasa pemrograman Ruby. Beberapa kelebihan dari Octopress yang membuat saya tertarik untuk mempelajarinya adalah sifatnya yang statis, tak perlu ribet mendaftar menggunakan email ataupun setting hosting bahkan bisa hosting gratis di <a href="http://pages.github.com">Github Pages</a> dan postingan cukup ditulis dengan format <a href="fireball.net/projects/markdown/">Markdown</a>.</p>
 
 <p>Karena blog ini akan lebih banyak diisi ketika ada waktu luang maka menjaganya agar tetap sederhana baik itu dari segi tampilan maupun dalam proses pembuatan artikel hingga mempostingnya adalah hal yang utama. Tanpa berlama-lama lagi, selamat membaca dan semoga bermanfaat!</p>
 ]]></content>

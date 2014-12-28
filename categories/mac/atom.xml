@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mac | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/mac/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T02:47:02+07:00</updated>
+  <updated>2014-12-28T21:30:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -21,9 +21,9 @@
     <content type="html"><![CDATA[<p><a href="https://twitter.com/macsparky">David Sparks</a> via <a href="www.macsparky.com">Macsparky</a>:
 <blockquote><p></p></p><p><p>The thing about Byword is that it just delivers. The design is solid and unobtrusive. Its developers understand iteration and avoid change for the sake of change.</p></p><p><p></p></blockquote></p>
 
-<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya. </p>
+<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya.</p>
 
-<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger. </p>
+<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger.</p>
 ]]></content>
   </entry>
   
@@ -33,13 +33,13 @@
     <updated>2014-12-03T17:09:30+07:00</updated>
     <id>http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro</id>
     <content type="html"><![CDATA[<p><a href="http://twitter.com/viticci">Federico Viticci</a> via <a href="http://www.macstories.net/">Macstories</a>:
-<blockquote><p></p></p><p><p>This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p> This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
 
 <p>Menulis artikel tips dan trik untuk sebuah blog teknologi lokal terkadang dituntut adanya screenshot untuk mempermudah pemahaman dari topik yang sedang dibahas. Sebelumnya, untuk menggabungkan beberapa screenshot saya akan membuka Pixelmator dan menyusunnya. Hal ini tentu kurang efektif dan memakan waktu.</p>
 
 <p>Hari ini saya gembira karena menemukan artikel mengenai penggunaan Keyboard Maestro untuk melakukan resize screenshot dari iPhone dan menggabungkannya. Jika biasanya saya menggunakan Pixelmator untuk mengedit dan menggabungkan screenshot memakan waktu lebih dari 15 menit maka dengan macro dari <a href="http://twitter.com/macdrifter">Gabe</a> yang dibahas oleh <a href="http://twitter.com/viticci">@viticci</a> tersebut kini hanya perlu waktu kurang dari 5 detik.</p>
 
-<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun. </p>
+<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun.</p>
 ]]></content>
   </entry>
   
@@ -53,7 +53,6 @@
 <p><blockquote><p></p></p><p><p>Called FingerKey, this new utility works by using Bluetooth 4.0 (what else?) to pair with your Mac, then forms a low latency, low energy wireless connection with an extra layer of 256-bit AES encryption on top to keep things secure.</p></p><p><p>Once you’ve got things paired, unlocking your Mac is as simple as getting into Bluetooth range, opening up the app, and putting your finger against the home button. There’s also a Notification Center Widget that makes things even easier, and FingerKey can actually unlock multiple Macs at a time.</p></p><p><p></p></blockquote></p>
 
 <p>Macbook dengan Touch ID bisa saja menjadi inovasi Apple selanjutnya, namun sebelum itu terjadi kini membuka Mac dengan Touch ID yang terdapat di iPhone sudah bisa dilakukan.</p>
-
 ]]></content>
   </entry>
   
@@ -62,14 +61,15 @@
     <link href="http://sweetdistraction.github.io/blackfriday-apps-deal/"/>
     <updated>2014-11-27T09:14:00+07:00</updated>
     <id>http://sweetdistraction.github.io/blackfriday-apps-deal</id>
-    <content type="html"><![CDATA[<p><a href="http://macstories.net">Macstories</a>
-&gt; Black Friday is upon us once again! #MacStoriesDeals is the best place to find great deals for iOS apps and games, Mac software, and more.</p>
+    <content type="html"><![CDATA[<p><a href="http://macstories.net">Macstories</a></p>
 
-<p>Macstories telah merangkum beberapa deals diskon aplikasi baik untuk iPhone, iPad hingga Mac menjelang Black Friday. </p>
+<blockquote><p>Black Friday is upon us once again! #MacStoriesDeals is the best place to find great deals for iOS apps and games, Mac software, and more.</p></blockquote>
+
+<p>Macstories telah merangkum beberapa deals diskon aplikasi baik untuk iPhone, iPad hingga Mac menjelang Black Friday.</p>
 
 <p>Fantastical 2 yang menjadi aplikasi kalender favorit saya juga ada dalam daftar, kini hanya $1.99 untuk iPhone dan $4.99 untuk iPad serta $9.99 untuk Mac. Jika belum yakin untuk mencoba Fantastical 2 maka sebaiknya baca dulu <a href="http://www.macstories.net/reviews/fantastical-2-review/">review</a> dari Macstories.</p>
 
-<p>Selain deals di atas, <a href="http://smilesoftware.com/TextExpander/touch/index.html">Text Expander Touch</a> menjadi Rp. 12 Ribu di App Store Indonesia. Namun ketika saya membuka App Store US, harga dari Text Expander Touch masih sama yaitu $4.99. </p>
+<p>Selain deals di atas, <a href="http://smilesoftware.com/TextExpander/touch/index.html">Text Expander Touch</a> menjadi Rp. 12 Ribu di App Store Indonesia. Namun ketika saya membuka App Store US, harga dari Text Expander Touch masih sama yaitu $4.99.</p>
 
 <p>So, stay update!</p>
 ]]></content>
@@ -84,34 +84,38 @@
 
 <!--more-->
 
-<h3 id="windows-management">Windows Management</h3>
+
+<h3>Windows Management</h3>
 
 <ul>
-  <li>Mac: <a href="http://www.bettertouchtool.net/">BetterTouchTool</a></li>
-  <li>Windows: <a href="http://www.winsplit-revolution.com/">WinSplit</a></li>
+<li>Mac: <a href="http://www.bettertouchtool.net/">BetterTouchTool</a></li>
+<li>Windows: <a href="http://www.winsplit-revolution.com/">WinSplit</a></li>
 </ul>
 
-<p>Melakukan <em>resize</em> jendela aplikasi meski sebentar pastilah tetap membutuhkan waktu, coba sesekali hitung akumulasi waktu tersebut dalam sehari? Bukan jumlah yang sedikit pastinya. <a href="https://twitter.com/sayzlim">Sayzlim</a> lewat tulisan di <a href="http://sayzlim.net/bettertouchtool-windows-management/">blognya</a> memaparkan dengan jelas bagaimana cara mengorganisir jendela aplikasi menggunakan BetterTouchTool dan cara ini saya pakai sampai sekarang ketika bekerja di Mac. </p>
 
-<p>Lain halnya di Windows, meski memiliki fitur Aero Snap untuk pengaturan ukuran jendela aplikasi namun untuk dapat menggunakannya pengguna harus melakukan <em>drag</em> jendela aplikasi ke pinggir layar dan menurut saya solusi ini kurang praktis dibandingkan dengan <em>keyboard shortcuts</em>. Setelah <em>googling</em> akhirnya saya menemukan sebuah aplikasi bernaman WinSplit Revolution yang sayangnya sudah discontinue, namun tenang karena SourceForge memiliki <em>mirror download link</em> (google always know where’s the download link, anyway). Penggunaan WinSplit Revolution pun cukup praktis, cukup tekan CTRL+ALT dan angka di NumPad maka ukuran jendela aplikasi akan secara otomatis mengikuti ukuran pengaturan dari aplikasi WinSplit. </p>
+<p>Melakukan <em>resize</em> jendela aplikasi meski sebentar pastilah tetap membutuhkan waktu, coba sesekali hitung akumulasi waktu tersebut dalam sehari? Bukan jumlah yang sedikit pastinya. <a href="https://twitter.com/sayzlim">Sayzlim</a> lewat tulisan di <a href="http://sayzlim.net/bettertouchtool-windows-management/">blognya</a> memaparkan dengan jelas bagaimana cara mengorganisir jendela aplikasi menggunakan BetterTouchTool dan cara ini saya pakai sampai sekarang ketika bekerja di Mac.</p>
 
-<h3 id="autotext">Autotext</h3>
+<p>Lain halnya di Windows, meski memiliki fitur Aero Snap untuk pengaturan ukuran jendela aplikasi namun untuk dapat menggunakannya pengguna harus melakukan <em>drag</em> jendela aplikasi ke pinggir layar dan menurut saya solusi ini kurang praktis dibandingkan dengan <em>keyboard shortcuts</em>. Setelah <em>googling</em> akhirnya saya menemukan sebuah aplikasi bernaman WinSplit Revolution yang sayangnya sudah discontinue, namun tenang karena SourceForge memiliki <em>mirror download link</em> (google always know where&rsquo;s the download link, anyway). Penggunaan WinSplit Revolution pun cukup praktis, cukup tekan CTRL+ALT dan angka di NumPad maka ukuran jendela aplikasi akan secara otomatis mengikuti ukuran pengaturan dari aplikasi WinSplit.</p>
+
+<h3>Autotext</h3>
 
 <ul>
-  <li>Mac: <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a></li>
-  <li>Windows: <a href="http://www.phraseexpress.com/">PhraseExpress</a></li>
+<li>Mac: <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a></li>
+<li>Windows: <a href="http://www.phraseexpress.com/">PhraseExpress</a></li>
 </ul>
 
-<p>Mungkin sebagian masih ada yang berpikir mengapa masih menggunakan autotext untuk melakukan sebuah pekerjaan. Selain bekerja di kantor, saya juga menulis lepas untuk sebuah blog. Menulis menggunakan <a href="http://daringfireball.net/projects/markdown/">markdown</a> (one of the greatest thing that enhances writing experiences, try it!) akan jauh lebih menyenangkan menggunakan snippets yang berisi <em>markdown formatting syntax</em>. Dengan demikian yang perlu benar-benar dipikirkan adalah bagaimana menyelesaikan sebuah artikel atau tulisan yang sedang dikerjakan. </p>
+
+<p>Mungkin sebagian masih ada yang berpikir mengapa masih menggunakan autotext untuk melakukan sebuah pekerjaan. Selain bekerja di kantor, saya juga menulis lepas untuk sebuah blog. Menulis menggunakan <a href="http://daringfireball.net/projects/markdown/">markdown</a> (one of the greatest thing that enhances writing experiences, try it!) akan jauh lebih menyenangkan menggunakan snippets yang berisi <em>markdown formatting syntax</em>. Dengan demikian yang perlu benar-benar dipikirkan adalah bagaimana menyelesaikan sebuah artikel atau tulisan yang sedang dikerjakan.</p>
 
 <p>Tak hanya snippets yang berisi <em>markdown formatting syntax</em> PhraseExpress ataupun TextExpander juga dapat membantu saya berpindah antar direktori dengan cepat. Terlebih Explorer di Windows memang tak menyenangkan bagi yang sering bekerja dengan banyak folder. Bikin saja snippets yang akan ter-<em>expand</em> menjadi alamat direktori yang sering dikunjungi dan tekan enter. Boom! Tiba deh di direktori atau folder yang diinginkan. Keduanya baik PhraseExpress ataupun TextExpander dapat mengakomodasi kebutuhan saya akan sebuah aplikasi autotext.</p>
 
-<h3 id="text-editor">Text Editor</h3>
+<h3>Text Editor</h3>
 
 <ul>
-  <li>Mac: <a href="https://itunes.apple.com/us/app/byword/id420212497?mt=12">Byword</a> dan <a href="https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12&amp;uo=4&amp;at=10l4LV&amp;ct=w">iA Writer</a></li>
-  <li>Windows: <a href="https://www.sublimetext.com/">Sublime Text 3</a></li>
+<li>Mac: <a href="https://itunes.apple.com/us/app/byword/id420212497?mt=12">Byword</a> dan <a href="https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12&amp;uo=4&amp;at=10l4LV&amp;ct=w">iA Writer</a></li>
+<li>Windows: <a href="https://www.sublimetext.com/">Sublime Text 3</a></li>
 </ul>
+
 
 <p>Menulis memang bukan hal baru lagi bagi saya namun baru akhir-akhir ini saya bekerja paruh waktu menulis untuk sebuah blog teknologi. Platform Mac sendiri tak pernah kehabisan atau sepi dari berbagai <em>text editor</em> yang berkualitas. Favorit saya ada dua Byword dan iA Writer. Byword karena terintegrasi dengan platform publishi seperti Wordpress, Tumblr dan Blogspot juga iA Writer yang memiliki <em>typhography</em> yang apik dalam aplikasinya menjadikan pengalaman menulis jauh lebih menyenangkan.</p>
 

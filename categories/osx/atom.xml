@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Osx | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/osx/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T02:47:02+07:00</updated>
+  <updated>2014-12-28T21:30:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p><a href="https://twitter.com/ttscoff">Brett Trepstra</a>:
 <blockquote><p></p></p><p><p>Run without arguments it grabs all files and folders in the current directory and opens your text editor with a list of them, each one followed by its current tags (if any) in square brackets. Edit what’s in the brackets, save and close, and those changes are immediately applied.</p></p><p><p></p></blockquote></p>
 
-<p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba! </p>
+<p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba!</p>
 ]]></content>
   </entry>
   
@@ -31,10 +31,9 @@
     <updated>2014-12-23T09:25:40+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix</id>
     <content type="html"><![CDATA[<p><a href="www.macrumors.com">MacRumors</a>:
-<blockquote><p></p></p><p><p>Apple today released a new security update that’s designed to address a “critical security issue” with the Network Time Protocol service on OS X. Apple recommends that all Yosemite, Mavericks, and Mountain Lion users install the update “as soon as possible.” </p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p> Apple today released a new security update that’s designed to address a &ldquo;critical security issue&rdquo; with the Network Time Protocol service on OS X. Apple recommends that all Yosemite, Mavericks, and Mountain Lion users install the update &ldquo;as soon as possible.&rdquo;</p></p><p><p></p></blockquote></p>
 
 <p>Update! Update!</p>
-
 ]]></content>
   </entry>
   
@@ -44,13 +43,13 @@
     <updated>2014-12-03T17:09:30+07:00</updated>
     <id>http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro</id>
     <content type="html"><![CDATA[<p><a href="http://twitter.com/viticci">Federico Viticci</a> via <a href="http://www.macstories.net/">Macstories</a>:
-<blockquote><p></p></p><p><p>This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p> This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
 
 <p>Menulis artikel tips dan trik untuk sebuah blog teknologi lokal terkadang dituntut adanya screenshot untuk mempermudah pemahaman dari topik yang sedang dibahas. Sebelumnya, untuk menggabungkan beberapa screenshot saya akan membuka Pixelmator dan menyusunnya. Hal ini tentu kurang efektif dan memakan waktu.</p>
 
 <p>Hari ini saya gembira karena menemukan artikel mengenai penggunaan Keyboard Maestro untuk melakukan resize screenshot dari iPhone dan menggabungkannya. Jika biasanya saya menggunakan Pixelmator untuk mengedit dan menggabungkan screenshot memakan waktu lebih dari 15 menit maka dengan macro dari <a href="http://twitter.com/macdrifter">Gabe</a> yang dibahas oleh <a href="http://twitter.com/viticci">@viticci</a> tersebut kini hanya perlu waktu kurang dari 5 detik.</p>
 
-<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun. </p>
+<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun.</p>
 ]]></content>
   </entry>
   
@@ -60,11 +59,11 @@
     <updated>2014-12-03T10:31:41+07:00</updated>
     <id>http://sweetdistraction.github.io/javascript-for-automation</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/The_Axx">Alex Guyot</a> via <a href="www.macstories.net">Macstories</a>:
-<blockquote><p></p></p><p><p>Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p> Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></p><p><p></p></blockquote></p>
 
 <p>Jika <a href="https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html">AppleScript</a> dan <a href="http://support.apple.com/en-us/ht2488">Automator</a> dirasa tak cukup untuk mengotomatisasi berbagi pekerjaan pada Mac maka JavaScript for Automation (JXA) boleh dicoba. <a href="https://twitter.com/The_Axx">Alex Guyot</a> melalui Macstories telah memberikan sedikit gambaran dan contoh bagaimana javascript dapat mendukung mempercepat workflow di OS X.</p>
 
-<p>Let’s automate all the things!</p>
+<p>Let&rsquo;s automate all the things!</p>
 ]]></content>
   </entry>
   

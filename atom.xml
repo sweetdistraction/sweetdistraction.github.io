@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T02:47:02+07:00</updated>
+  <updated>2014-12-28T21:30:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -22,9 +22,11 @@
     <id>http://sweetdistraction.github.io/bretttrepstra-vitag-release</id>
     
     <content type="html"><![CDATA[<p><a href="https://twitter.com/ttscoff">Brett Trepstra</a>:</p>
+
 <blockquote><p>Run without arguments it grabs all files and folders in the current directory and opens your text editor with a list of them, each one followed by its current tags (if any) in square brackets. Edit what’s in the brackets, save and close, and those changes are immediately applied.</p></blockquote>
 
-<p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba! </p>
+
+<p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba!</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/bretttrepstra-vitag-release/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -38,7 +40,10 @@
     <id>http://sweetdistraction.github.io/macsparky-field-guides-sale</id>
     
     <content type="html"><![CDATA[<p><a href="https://twitter.com/macsparky">David Sparks</a>:</p>
+
 <blockquote><p>This holiday season I&#8217;ve put all of the MacSparky Field Guides on sale.</p></blockquote>
+
+
 <p>SALE! SALE! SALE! Happy holiday, guys!</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/macsparky-field-guides-sale/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
@@ -53,10 +58,11 @@
     <id>http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix</id>
     
     <content type="html"><![CDATA[<p><a href="www.macrumors.com">MacRumors</a>:</p>
+
 <blockquote><p>Apple today released a new security update that’s designed to address a &#8220;critical security issue&#8221; with the Network Time Protocol service on OS X. Apple recommends that all Yosemite, Mavericks, and Mountain Lion users install the update &#8220;as soon as possible.&#8221;</p></blockquote>
 
-<p>Update! Update!</p>
 
+<p>Update! Update!</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -70,10 +76,11 @@
     <id>http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone</id>
     
     <content type="html"><![CDATA[<p><a href="https://support.twitter.com">Twitter Support Page</a>:</p>
+
 <blockquote><p>On mobile (currently available on Twitter for iPhone), click on one of your Tweets to get to the Tweet detail page, then tap “View Tweet activity.” Make sure you have installed the latest version of Twitter for iPhone.</p></blockquote>
 
-<p>Sekarang, saya memiliki satu alasan kenapa harus menginstall aplikasi resmi Twitter di perangkat iOS saya.</p>
 
+<p>Sekarang, saya memiliki satu alasan kenapa harus menginstall aplikasi resmi Twitter di perangkat iOS saya.</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -87,10 +94,11 @@
     <id>http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously</id>
     
     <content type="html"><![CDATA[<p><a href="http://www.twitter.com/jeffbenjam/">Jeff Benjamin</a> via <a href="www.idownloadblog.com">iDownbloadblog</a>:</p>
+
 <blockquote><p>Once you install Allarm, simply head over to the alarm clock tab of the Clock app, and you’ll see a brand new Toggle All Alarms toggle at the top of the page.</p></blockquote>
 
-<p>Memiliki sebuah iPhone yang sudah terjailbreak dan suka mengatur alarm dengan selang waktu 15 menit (ehem!)? Tweak ini pastilah sangat berguna.</p>
 
+<p>Memiliki sebuah iPhone yang sudah terjailbreak dan suka mengatur alarm dengan selang waktu 15 menit (ehem!)? Tweak ini pastilah sangat berguna.</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -104,7 +112,9 @@
     <id>http://sweetdistraction.github.io/removing-photo-metadata-with-metapho</id>
     
     <content type="html"><![CDATA[<p><a href="!g" title="twitter macsparky">David Sparks</a>:</p>
+
 <blockquote><p>The app is easy enough to use. Select an existing photo and push the big red button to remove the metadata.</p></blockquote>
+
 
 <p>Menghilangkan metadata dari sebuah foto kini menjadi mudah berkat <a href="https://itunes.apple.com/us/app/metapho-manage-photo-metadata/id914457352?ls=1&amp;mt=8?at=10laz7&amp;ct=blog">Metapho</a>. Bagi yang menaruh perhatian lebih terkait masalah keamanan atau privasi maka in-app-purchase seharga 2$ dalam aplikasi ini bukanlah sebuah masalah besar.</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/removing-photo-metadata-with-metapho/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
@@ -120,7 +130,6 @@
     <id>http://sweetdistraction.github.io/whats-drafts-for</id>
     
     <content type="html"><![CDATA[<p><a href="https://twitter.com/drdrang">Dr. Drang</a> memberikan dua alasan mengapa <a href="https://itunes.apple.com/id/app/drafts-4-quickly-capture-notes/id905337691?mt=8&amp;uo=4">Drafts 4</a> layak berada di homescreen para pengguna perangkat iOS.</p>
-
 <a rel="full-article" href="http://sweetdistraction.github.io/whats-drafts-for/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -134,10 +143,11 @@
     <id>http://sweetdistraction.github.io/so-where-did-you-meet</id>
     
     <content type="html"><![CDATA[<p>Via <a href="http://www.stickycomics.com/">Sticky Comics</a>:</p>
-<blockquote><p><img class="center" src="http://sweetdistraction.github.io/images/os_couples.jpg" /></p></blockquote>
+
+<blockquote><p><img class="center" src="http://sweetdistraction.github.io/images/os_couples.jpg"></p></blockquote>
+
 
 <p>This explains a lot! xD</p>
-
 <a rel="full-article" href="http://sweetdistraction.github.io/so-where-did-you-meet/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -150,39 +160,40 @@
     <updated>2014-12-17T16:37:31+07:00</updated>
     <id>http://sweetdistraction.github.io/knowledge-is-power-to-make-meaningful-life</id>
     
-    <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/kurio3.jpg" /></p>
+    <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/kurio3.jpg"></p>
 
 <p>Saya percaya bahwa teknologi diciptakan untuk mempermudah hidup umat manusia. Dengan teknologi, bekerja kini tak lagi dituntut hanya sekedar selesai namun juga bagaimana menyelesaikannya dengan efektif dan efisien. Saya setuju dengan ungkapan <code>#KnowledgeIsPower</code>. Bagaimana tidak, dengan memiliki pengetahuan serta wawasan yang luas seseorang pasti dapat menyelesaikan berbagai macam permasalahan yang dihadapi dengan mudah.</p>
 
 <!--more-->
 
+
 <p>Informasi serta pengetahuan kini bisa didapatkan dengan mudah. Terlebih di era teknologi informasi seperti sekarang ini yang mana internet bukanlah lagi menjadi barang mahal. Kini seseorang dapat mengetahui berbagai macam informasi dimanapun dan kapanpun. Cukup install aplikasi mobile penyedia layanan berita ataupun tips-trik di gadget yang dimiliki maka informasi serta berbagai macam pengetahuan hanya sejauh genggaman tangan. Sederhananya, buka browser lalu ketik informasi yang diinginkan di kolom pencarian.</p>
 
-<p>Saya sendiri tak hanya mengamini ungkapan <code>#KnowledgeIsPower</code> namun juga merasakannya. Situs ini contohnya, berawal dari ketidakpuasan dari berbagai macam platform blogging yang ada macam Wordpress, Blogger ataupun Tumblr, akhirnya saya memilih untuk belajar membuat blog menggunakan <a href="http://octopress.org">Octopress</a>. Memang, dibutuhkan waktu untuk mengerti dan mempelajarinya, lebih lagi saya tak pernah sekalipun belajar bahasa programming Ruby sebagai dasar dari Octopress. Lagi-lagi <code>#KnowledgeIsPower</code>, dengan <em>googling</em>, baca sana-sini akhirnya saya bisa juga menjalankan Octopress untuk situs ini. Bagaimana dengan mengubah tampilan situs, bukankah diperlukan pengetahuan tentang HTML, CSS, dll? Google! </p>
+<p>Saya sendiri tak hanya mengamini ungkapan <code>#KnowledgeIsPower</code> namun juga merasakannya. Situs ini contohnya, berawal dari ketidakpuasan dari berbagai macam platform blogging yang ada macam Wordpress, Blogger ataupun Tumblr, akhirnya saya memilih untuk belajar membuat blog menggunakan <a href="http://octopress.org">Octopress</a>. Memang, dibutuhkan waktu untuk mengerti dan mempelajarinya, lebih lagi saya tak pernah sekalipun belajar bahasa programming Ruby sebagai dasar dari Octopress. Lagi-lagi <code>#KnowledgeIsPower</code>, dengan <em>googling</em>, baca sana-sini akhirnya saya bisa juga menjalankan Octopress untuk situs ini. Bagaimana dengan mengubah tampilan situs, bukankah diperlukan pengetahuan tentang HTML, CSS, dll? Google!</p>
 
-<p>Informasi yang semakin mudah dicari juga semestinya dapat digunakan untuk membantu menyelesaikan pekerjaan. Pengalaman tentang <code>#KnowledgeIsPower</code> lainnya adalah bagaimana cara saya mengatasi tantangan bekerja <a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows">multi-platform</a>. Lagi-lagi berkat informasi dan pengetahuan yang mudah didapat, bekerja antar platform sistem operasi kini jadi sedikit lebih menyenangkan. <code>#KnowledgeIsPower</code> bagi mereka yang ingin dan mau menggunakannya. </p>
+<p>Informasi yang semakin mudah dicari juga semestinya dapat digunakan untuk membantu menyelesaikan pekerjaan. Pengalaman tentang <code>#KnowledgeIsPower</code> lainnya adalah bagaimana cara saya mengatasi tantangan bekerja <a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows">multi-platform</a>. Lagi-lagi berkat informasi dan pengetahuan yang mudah didapat, bekerja antar platform sistem operasi kini jadi sedikit lebih menyenangkan. <code>#KnowledgeIsPower</code> bagi mereka yang ingin dan mau menggunakannya.</p>
 
-<p>Ketinggalan informasi pun bukan lagi alasan. Perkembangan politik, nilai tukar kurs perkembangan gaya hidup terbaru yang sedang terjadi kini bisa didapatkan dari <em>smartphone</em> yang dimiliki. Banyak aplikasi mobile yang menyediakan layanan berita namun pilihan saya jatuh kepada <a href="https://www.kurio.co.id">Kurio</a>. Kurio memiliki UI dan UX yang menarik untuk digunakan<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>. Integrasi dengan layanan <em>read-later</em> Pocket juga menambah salah satu alasan mengapa aplikasi Kurio ada dalam <em>homescreen</em> perangkat iOS saya.</p>
+<p>Ketinggalan informasi pun bukan lagi alasan. Perkembangan politik, nilai tukar kurs perkembangan gaya hidup terbaru yang sedang terjadi kini bisa didapatkan dari <em>smartphone</em> yang dimiliki. Banyak aplikasi mobile yang menyediakan layanan berita namun pilihan saya jatuh kepada <a href="https://www.kurio.co.id">Kurio</a>. Kurio memiliki UI dan UX yang menarik untuk digunakan<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. Integrasi dengan layanan <em>read-later</em> Pocket juga menambah salah satu alasan mengapa aplikasi Kurio ada dalam <em>homescreen</em> perangkat iOS saya.</p>
 
-<p><img src="http://sweetdistraction.github.io/images/kurio1.png" /></p>
+<p><img src="http://sweetdistraction.github.io/images/kurio1.png"></p>
 
-<p>Salah satu hal yang membuat saya betah menggunakan Kurio terlebih di malam hari adalah adanya fitur <em>night-mode</em> dimana latar belakang aplikasi menjadi gelap sehingga tak membuat mata lelah ketika membaca berita. </p>
+<p>Salah satu hal yang membuat saya betah menggunakan Kurio terlebih di malam hari adalah adanya fitur <em>night-mode</em> dimana latar belakang aplikasi menjadi gelap sehingga tak membuat mata lelah ketika membaca berita.</p>
 
-<p><img src="http://sweetdistraction.github.io/images/kurio2.png" /></p>
+<p><img src="http://sweetdistraction.github.io/images/kurio2.png"></p>
 
-<p>Kurio juga menyediakan sumber berita serta topik yang beragam dan yang lebih penting, Kurio tersedia di platform <a href="https://play.google.com/store/apps/details?id=com.merahputih.kurio">Android</a> dan <a href="https://itunes.apple.com/id/app/kuriosmobile/id797299757?mt=8&amp;uo=4">iOS</a>. </p>
+<p>Kurio juga menyediakan sumber berita serta topik yang beragam dan yang lebih penting, Kurio tersedia di platform <a href="https://play.google.com/store/apps/details?id=com.merahputih.kurio">Android</a> dan <a href="https://itunes.apple.com/id/app/kuriosmobile/id797299757?mt=8&amp;uo=4">iOS</a>.</p>
 
 <p>Seperti yang sudah saya tulis, mendapatkan informasi serta pengetahuan kini semakin mudah berkat kemajuan teknologi. Oleh karena itu, <code>#KnowledgeIsPower</code> tergantung sejauh mana keinginan kita belajar dan mengaplikasikannya pada persoalan yang tengah dihadapi. Serta dengan kemudahan akses terhadap informasi dan berita terkini maka tak ada lagi alasan ketinggalan informasi atau kudet alias kurang update.</p>
 
 <p>Bagaimana ceritamu?</p>
-
 <div class="footnotes">
-  <ol>
-    <li id="fn:fn1">
-      <p>Setidaknya jauh lebih baik dari aplikasi resmi portal berita online lain yang ada.  <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Setidaknya jauh lebih baik dari aplikasi resmi portal berita online lain yang ada. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
 </div>
+
 ]]></content>
   	
   </entry>
@@ -196,10 +207,11 @@
     <id>http://sweetdistraction.github.io/the-perils-of-electronic-communications</id>
     
     <content type="html"><![CDATA[<p>David Sparks via <a href="www.macsparky.com">Macsparky</a>:</p>
+
 <blockquote><p>I think it runs even deeper than the typical big brother paranoia. Digital communications is permanent and hurtful things said to friends and loved ones via email is equally permanent. If you are pissed at a friend, go confront him. Yell. Scream. Exercise your demons. Bloody noses heal and a shared beer a few hours later heals even better. A rage-filled email however drives a deep, and often permanent, wedge.</p></blockquote>
 
-<p><em>That’s damned truth!</em></p>
 
+<p><em>That&rsquo;s damned truth!</em></p>
 <a rel="full-article" href="http://sweetdistraction.github.io/the-perils-of-electronic-communications/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -212,7 +224,7 @@
     <updated>2014-12-17T08:04:26+07:00</updated>
     <id>http://sweetdistraction.github.io/app-santa-2014-sale</id>
     
-    <content type="html"><![CDATA[<p>Guys, <a href="http://appsanta.co/">App Santa</a> ngasih diskon untuk beberapa aplikasi pilihan. Bagi yang mau beli Tweetbot 3, sekarang cuma Rp. 35 Ribu. Cheaper than a cup of Starbucks’ double iced shaken espresso, no? </p>
+    <content type="html"><![CDATA[<p>Guys, <a href="http://appsanta.co/">App Santa</a> ngasih diskon untuk beberapa aplikasi pilihan. Bagi yang mau beli Tweetbot 3, sekarang cuma Rp. 35 Ribu. Cheaper than a cup of Starbucks&#8217; double iced shaken espresso, no?</p>
 ]]></content>
   	
   </entry>
@@ -226,10 +238,11 @@
     <id>http://sweetdistraction.github.io/path-update</id>
     
     <content type="html"><![CDATA[<p>Path via iTunes Store:</p>
+
 <blockquote><p>Muting: Now you can easily mute any moment that you&#8217;re tagged in. And, we want you to have even more control — change your settings so only your friends can tag you in moments.</p></blockquote>
 
-<p>Bagi yang sering kena tag berjamaah, kini kalian bisa bernapas lega.</p>
 
+<p>Bagi yang sering kena tag berjamaah, kini kalian bisa bernapas lega.</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/path-update/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -243,13 +256,13 @@
     <id>http://sweetdistraction.github.io/phraseexpress-docs</id>
     
     <content type="html"><![CDATA[<p>PhraseExpress Docs:</p>
-<blockquote><p>### Create/Alter a temporary variable
-<br /> Defines or changes the content of a temporary variable with the provided name and contents. You can create an unlimited number of temporary variables with either unformatted text and/or numbers. Such vars can be output with the `{#GETTEMP …}` macro function.</p></blockquote>
+
+<blockquote><p>### Create/Alter a temporary variable<br/> Defines or changes the content of a temporary variable with the provided name and contents. You can create an unlimited number of temporary variables with either unformatted text and/or numbers. Such vars can be output with the `{#GETTEMP …}` macro function.</p></blockquote>
+
 
 <p>Datang pagi ke kantor dan membuka kembali dokumen pendukung PhraseExpress lalu menemukan dokumentasi yang satu ini. Ketika bekerja di Mac, saya memiliki snippets <code>;ext</code> yang secara otomatis ter-<em>expand</em> menjadi sebuah <em><a href="https://en.wikipedia.org/wiki/Linklog">linklog</a></em> post lengkap dengan <em>YAML front-matternya</em> karena web saya menggunakan <a href="http://octopress.org/">Octopress</a>. Serta berkat adanya dukungan dari AppleScript, semua parameter YAML front-matter seperti judul, url, dan kalimat yang akan dikutip langsung otomatis muncul ketika snippets tersebut diaktifkan. AppleScript secara otomatis mengambil URL dan Title dari tab Safari yang aktif.</p>
 
 <p>Lain hal lagi ketika bekerja di Windows, saya menggunakan PhraseExpress untuk pengganti TextExpander. Snippets <code>;ext</code> juga saya atur persis dengan snippets pada Mac. Perbedaannya adalah kini saya harus melakukan 3 kali copy untuk URL, Judul serta teks kutipan dan membuatnya menjadi variable di PhraseExpress terlebih dahulu sebelum mengetik snippet <code>;ext</code> di teks editor. Meski belum sepenuhnya otomatis seperti ketika saya bekerja di Mac namun setidaknya kini saya tak perlu lagi bolak-balik teks editor-browser hanya untuk copy-paste judul, url ataupun teks kutipan.</p>
-
 <a rel="full-article" href="http://sweetdistraction.github.io/phraseexpress-docs/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -263,7 +276,9 @@
     <id>http://sweetdistraction.github.io/twitter-clients-2014-macstories</id>
     
     <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Frederico Viticci</a> via <a href="www.macstories.net">Macstories</a>:</p>
+
 <blockquote><p>Choosing a Twitter client is incredibly personal. This experiment reinforced my belief that most of my criticism for Tweetbot and Twitterrific stems from API limitations that Twitter won’t fix for third-party developers. For this reason, it would be wrong to judge third-party clients solely based on features they can’t implement.</p></blockquote>
+
 
 <p>Seperti biasa, Frederico Viticci melakukan pekerjaan yang mengaggumkan dengan menghadirkan ulasan yang komprehensif tentang berbagai macam <em>twitter client</em> di iOS seperti Tweetbot, Twitterific, dll. Namun meski banyak sekali pilihan aplikasi pihak ketiga untuk bermain Twitter namun bagi saya Tweetbot merupakan aplikasi yang paling pas dan menyenangkan untuk digunakan. Selamat membaca!</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/twitter-clients-2014-macstories/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
@@ -279,10 +294,11 @@
     <id>http://sweetdistraction.github.io/stunning-interstellar-posters-james-letcher</id>
     
     <content type="html"><![CDATA[<p>Via <a href="http://theultralinx.com">Ultralinx</a>:</p>
+
 <blockquote><p>I saw “Interstellar” last week and it blew my mind. It is a really good film that not only has you sitting on the edge of your seat for almost three hours, but also inspires you to extend your knowledge about the Universe and quantum physics.</p></blockquote>
 
-<p>Awesome! Also if you want Interstellar wallpaper for your iOS device, <a href="https://twitter.com/jim_gresham">Jim Gresham</a> has been posted it on <a href="http://www.idownloadblog.com/2014/12/07/interstellar-wallpapers-iphone-ipad/">iDownloadblog</a></p>
 
+<p>Awesome! Also if you want Interstellar wallpaper for your iOS device, <a href="https://twitter.com/jim_gresham">Jim Gresham</a> has been posted it on <a href="http://www.idownloadblog.com/2014/12/07/interstellar-wallpapers-iphone-ipad/">iDownloadblog</a></p>
 <a rel="full-article" href="http://sweetdistraction.github.io/stunning-interstellar-posters-james-letcher/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -299,32 +315,35 @@
 
 <blockquote><p>I propose that, if we learned how to fully use what we already had better, such depth of knowledge and skill would have a far greater and more lasting impact. That, especially with those tools we use every day, getting better at them will reap the greatest reward. There is likely some feature or use-case that we don’t even realize we need until we know it and when we do we will be thankful we learned it.</p></blockquote>
 
+
+
+
 <!--more-->
+
 
 <p>Kristoffer Carter di <a href="http://www.becomingminimalist.com/choose-yourself/">becomingminimalist</a>:</p>
 
-<blockquote><p>To focus on choosing better work over more tools, I have begun to embrace the following principles when it comes to my art:
-<br />
-<br />1. Instead of choosing more tools, choose yourself.
-<br />2. Instead of investing money in the promise of better output, invest time, focus, and patience in creating your best impact. In my music, marriage, speaking career, distance running, and especially in my meditation practice I realize there are no shortcuts.
-<br />3. Tools can sometimes hack proficiency, but you can’t hack mastery. Period. There’s only showing up, and trying our best to do good work. Day after day, year after year.</p></blockquote>
+<blockquote><p>To focus on choosing better work over more tools, I have begun to embrace the following principles when it comes to my art:<br/><br/>1. Instead of choosing more tools, choose yourself.<br/>2. Instead of investing money in the promise of better output, invest time, focus, and patience in creating your best impact. In my music, marriage, speaking career, distance running, and especially in my meditation practice I realize there are no shortcuts.<br/>3. Tools can sometimes hack proficiency, but you can’t hack mastery. Period. There’s only showing up, and trying our best to do good work. Day after day, year after year.</p></blockquote>
 
-<p>Kadang kita berpikir bahwa dengan sebuah <em>‘tools’</em> yang tepat maka kita menjadi lebih efisien dan efektif dalam menyelesaikan pekerjaan. Namun juga terkadang kita lupa bahwa pengertian dan penguasaan terhadap sebuah <em>tools</em> yang dimiliki kadang menjadi jauh lebih penting dan jauh lebih menimbulkan pengaruh pada pekerjaan yang dilakukan. </p>
 
-<p>Saya sendiri menyadari bahwa tak mudah memang untuk menguasai sebuah aplikasi dan terkadang membutuhkan waktu yang tak sebentar. Perlu ketekunan dan juga kesabaran dalam melatih diri sendiri untuk dapat memaksimalkan fitur yang ada. <em>Keyboard shortcut</em> salah satunya, baik di platform <a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows/">Mac atau Windows</a>. Menghafalkan <em>hot-keys</em> serta <em>snippets</em> yang dimiliki terlebih jika jumlahnya tak sedikit diperlukan waktu. </p>
+<p>Kadang kita berpikir bahwa dengan sebuah <em>&lsquo;tools&rsquo;</em> yang tepat maka kita menjadi lebih efisien dan efektif dalam menyelesaikan pekerjaan. Namun juga terkadang kita lupa bahwa pengertian dan penguasaan terhadap sebuah <em>tools</em> yang dimiliki kadang menjadi jauh lebih penting dan jauh lebih menimbulkan pengaruh pada pekerjaan yang dilakukan.</p>
 
-<p>Seperti Patrick Rhone tulis, </p>
+<p>Saya sendiri menyadari bahwa tak mudah memang untuk menguasai sebuah aplikasi dan terkadang membutuhkan waktu yang tak sebentar. Perlu ketekunan dan juga kesabaran dalam melatih diri sendiri untuk dapat memaksimalkan fitur yang ada. <em>Keyboard shortcut</em> salah satunya, baik di platform <a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows/">Mac atau Windows</a>. Menghafalkan <em>hot-keys</em> serta <em>snippets</em> yang dimiliki terlebih jika jumlahnya tak sedikit diperlukan waktu.</p>
+
+<p>Seperti Patrick Rhone tulis,</p>
+
 <blockquote><p>Though this added a bit of time and effort at first, it has payed off tenfold since. I now spend a lot less time dealing with email simply because I now save a second or two on every action. When multiplied, those seconds quickly turn to minutes and hours.</p></blockquote>
 
-<p>Pilihannya sekarang tinggal dua, terus mengandalkan atau menambah jumlah pilihan aplikasi untuk mendukung menyelesaikan pekerjaan atau <em>mengupgrade</em> kemampuan kita dalam memahami dan menggunakan sebuah <em>tools</em> agar menjadi lebih produktif, bukan?<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup></p>
 
+<p>Pilihannya sekarang tinggal dua, terus mengandalkan atau menambah jumlah pilihan aplikasi untuk mendukung menyelesaikan pekerjaan atau <em>mengupgrade</em> kemampuan kita dalam memahami dan menggunakan sebuah <em>tools</em> agar menjadi lebih produktif, bukan?<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 <div class="footnotes">
-  <ol>
-    <li id="fn:fn1">
-      <p>Mumpung hari Senin jadi masih boleh serius.  <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Mumpung hari Senin jadi masih boleh serius. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
 </div>
+
 ]]></content>
   	
   </entry>
@@ -341,38 +360,38 @@
 
 <!--more-->
 
+
 <p>Meski perangkat iOS saya sudah terjailbreak, namun saya belum memperbaharuinya ke iOS versi 8.1.1. Tweaks yang terinstall pun tak sebanyak dulu sewaktu iOS 7. Kini saya hanya mempunyai sekitar 12 tweak yang terpasang. Kira-kira hanya separuh dari jumlah tweaks yang terinstall pada iOS versi sebelumnya, dan berikut daftar tweaks tersebut:</p>
 
 <ul>
-  <li>Activator<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
-  <li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
-  <li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
-  <li>SwipeSelection<sup id="fnref:fn2"><a href="#fn:fn2" class="footnote">2</a></sup></li>
-  <li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:fn3"><a href="#fn:fn3" class="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
-  <li>Springtomize 3: Customize and declutter all the things!</li>
-  <li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
-  <li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
-  <li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
-  <li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan ‘memaksa’ sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan. </li>
-  <li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
-  <li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
+<li>Activator<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
+<li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
+<li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
+<li>SwipeSelection<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></li>
+<li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
+<li>Springtomize 3: Customize and declutter all the things!</li>
+<li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
+<li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
+<li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
+<li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan &lsquo;memaksa&rsquo; sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan.</li>
+<li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
+<li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
 </ul>
 
-<p>Itu dia daftar tweak yang terinstall pada perangkat iOS saya. Jailbreak memang tak <a href="http://sweetdistractions.net/apple-vs-jailbreak">direkomendasikan oleh Apple</a>, bahkan Apple tak akan mengganti kerusakan akibat jailbreak yang dilakukan. Oleh sebab itu, disclaimer Do With Your Own Risk selalu melekat pada sebuah tools jailbreak. Menginstall tweak juga sebaiknya dari sumber yang terpercaya karena bagaimanapun jailbreak adalah membuka akses root dari sebuah perangkat iOS sehingga jika asal menginstall tweak bisa saja tweak tersebut memiliki kode yang berbahaya ataupun malware.</p>
 
+<p>Itu dia daftar tweak yang terinstall pada perangkat iOS saya. Jailbreak memang tak <a href="http://sweetdistractions.net/apple-vs-jailbreak">direkomendasikan oleh Apple</a>, bahkan Apple tak akan mengganti kerusakan akibat jailbreak yang dilakukan. Oleh sebab itu, disclaimer Do With Your Own Risk selalu melekat pada sebuah tools jailbreak. Menginstall tweak juga sebaiknya dari sumber yang terpercaya karena bagaimanapun jailbreak adalah membuka akses root dari sebuah perangkat iOS sehingga jika asal menginstall tweak bisa saja tweak tersebut memiliki kode yang berbahaya ataupun malware.</p>
 <div class="footnotes">
-  <ol>
-    <li id="fn:fn1">
-      <p>Wajib hukumnya <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:fn2">
-      <p>Ini juga wajib hukumnya <a href="#fnref:fn2" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:fn3">
-      <p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com <a href="#fnref:fn3" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Wajib hukumnya<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Ini juga wajib hukumnya<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+</ol>
 </div>
+
 ]]></content>
   	
   </entry>
@@ -385,21 +404,14 @@
     <updated>2014-12-05T16:34:31+07:00</updated>
     <id>http://sweetdistraction.github.io/internships-at-top-companies</id>
     
-    <content type="html"><![CDATA[<p>Via <a href="http://theultralinx.com">Ultralinx</a>: </p>
+    <content type="html"><![CDATA[<p>Via <a href="http://theultralinx.com">Ultralinx</a>:</p>
 
-<p><img src="http://sweetdistraction.github.io/images/internsalary.png" /></p>
+<p><img src="http://sweetdistraction.github.io/images/internsalary.png"></p>
 
 <blockquote><p>Dropbox tops the list in terms of total takeaway every month at $13,500, with LinkedIn second at $12,600 and Amazon and Foursquare tied at third both offering $11,000.</p></blockquote>
 
-<p>Gile, ndro!<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup></p>
 
-<div class="footnotes">
-  <ol>
-    <li id="fn:fn1">
-      <p>menatap slip gaji dengan mata berkaca-kaca <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
+<p>Gile, ndro<img src="" title="menatap slip gaji dengan mata berkaca-kaca" alt="^fn1" /></p>
 <a rel="full-article" href="http://sweetdistraction.github.io/internships-at-top-companies/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
@@ -413,7 +425,9 @@
     <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>
     
     <content type="html"><![CDATA[<p><a href="@JeffBenjam">Jeff Benjam</a> via <a href="www.idownloadblog.com">iDownloadblog</a>:</p>
-<blockquote><p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy &amp; paste, create and delete folders, delete files, create and extract compressed files, and more.</p></blockquote>
+
+<blockquote><p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy & paste, create and delete folders, delete files, create and extract compressed files, and more.</p></blockquote>
+
 
 <p>Jika membaca review yang ditulis oleh Jeff, rasanya FileBrowser masih jauh baik secara fitur atau tampilan jika dibandingkan dengan iFile. Hadir secara gratis dengan adanya iklan dalam aplikasinya, FileBrowser bisa jadi alternatif untuk berjelajah antar direktori pada perangkat iOS. Namun jangan lupa bahwa iFile juga dapat digunakan secara gratis meski dengan fitur yang terbatas.</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/filebrowser-ifile-alternatives/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
@@ -429,11 +443,13 @@
     <id>http://sweetdistraction.github.io/byword-i-still-love-you</id>
     
     <content type="html"><![CDATA[<p><a href="https://twitter.com/macsparky">David Sparks</a> via <a href="www.macsparky.com">Macsparky</a>:</p>
+
 <blockquote><p>The thing about Byword is that it just delivers. The design is solid and unobtrusive. Its developers understand iteration and avoid change for the sake of change.</p></blockquote>
 
-<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya. </p>
 
-<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger. </p>
+<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya.</p>
+
+<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger.</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/byword-i-still-love-you/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>

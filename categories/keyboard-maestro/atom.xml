@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Keyboard Maestro | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/keyboard-maestro/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T02:47:02+07:00</updated>
+  <updated>2014-12-28T21:30:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -19,13 +19,13 @@
     <updated>2014-12-03T17:09:30+07:00</updated>
     <id>http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro</id>
     <content type="html"><![CDATA[<p><a href="http://twitter.com/viticci">Federico Viticci</a> via <a href="http://www.macstories.net/">Macstories</a>:
-<blockquote><p></p></p><p><p>This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p> This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
 
 <p>Menulis artikel tips dan trik untuk sebuah blog teknologi lokal terkadang dituntut adanya screenshot untuk mempermudah pemahaman dari topik yang sedang dibahas. Sebelumnya, untuk menggabungkan beberapa screenshot saya akan membuka Pixelmator dan menyusunnya. Hal ini tentu kurang efektif dan memakan waktu.</p>
 
 <p>Hari ini saya gembira karena menemukan artikel mengenai penggunaan Keyboard Maestro untuk melakukan resize screenshot dari iPhone dan menggabungkannya. Jika biasanya saya menggunakan Pixelmator untuk mengedit dan menggabungkan screenshot memakan waktu lebih dari 15 menit maka dengan macro dari <a href="http://twitter.com/macdrifter">Gabe</a> yang dibahas oleh <a href="http://twitter.com/viticci">@viticci</a> tersebut kini hanya perlu waktu kurang dari 5 detik.</p>
 
-<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun. </p>
+<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun.</p>
 ]]></content>
   </entry>
   
@@ -34,9 +34,7 @@
     <link href="http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown/"/>
     <updated>2014-11-24T22:27:00+07:00</updated>
     <id>http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown</id>
-    <content type="html"><![CDATA[<blockquote>
-  <p>The benefit is that now I can select text on a page, hit the hot key and paste to my document, saving a bunch of extra clicks. It’s not the best, but it sped things up a touch for me.</p>
-</blockquote>
+    <content type="html"><![CDATA[<blockquote><p>The benefit is that now I can select text on a page, hit the hot key and paste to my document, saving a bunch of extra clicks. It’s not the best, but it sped things up a touch for me.</p></blockquote>
 
 <p>Waini! Makin mudah lagi bikin postingan <em>linked list</em>. Tapi kalau pas kerja di Windows tetep aja kudu copy-paste manual.</p>
 ]]></content>

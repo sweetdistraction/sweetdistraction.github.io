@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Applescripts | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/applescripts/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T02:47:02+07:00</updated>
+  <updated>2014-12-28T21:30:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -18,13 +18,11 @@
     <link href="http://sweetdistraction.github.io/applescript-textexpander-octopress-post/"/>
     <updated>2014-11-18T22:08:00+07:00</updated>
     <id>http://sweetdistraction.github.io/applescript-textexpander-octopress-post</id>
-    <content type="html"><![CDATA[<blockquote>
-  <p>Enter my trusty friends, TextExpander + AppleScript.</p>
-</blockquote>
+    <content type="html"><![CDATA[<blockquote><p>Enter my trusty friends, TextExpander + AppleScript.</p></blockquote>
 
 <p>Meski postingan tersebut sudah ada sejak 2 tahun yang lalu (dan saya entah lagi berada di mana waktu itu) namun rasanya menyenangkan menemukan suatu hal baru untuk dipelajari.</p>
 
-<p>So, let’s automate all the things!</p>
+<p>So, let&rsquo;s automate all the things!</p>
 ]]></content>
   </entry>
   
