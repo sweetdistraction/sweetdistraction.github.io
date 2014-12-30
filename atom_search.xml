@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-28T21:30:27+07:00</updated>
+  <updated>2014-12-30T23:55:29+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Must-Have iPhone Apps, 2014 Edition – MacStories]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/must-have-iphone-apps-2014/"/>
+    <updated>2014-12-30T23:47:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/must-have-iphone-apps-2014</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Frederico Viticci</a>:</p>
+
+<blockquote><p>At the end of the article, you’ll also find my iPhone App of the Year and a Runner-up. Each app has a direct iTunes link, and, where possible, I’ve included links to previous MacStories coverage as well.</p></blockquote>
+
+
+<p>Saya selalu suka membaca setiap artikel <a href="https://twitter.com/viticci">Frederico Viticci</a> di <a href="http://www.macstories.net">Macstories</a>. Tak hanya menyajikan review, namun <a href="https://twitter.com/viticci">@viticci</a> juga mengulasnya secara komprehensif dan mendalam.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vitag: batch Finder tagging from the command line]]></title>
