@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-30T23:55:29+07:00</updated>
+  <updated>2015-01-01T22:39:30+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Happy New Year, guys!]]></title>
+  	<link href="http://sweetdistraction.github.io/happy-new-year/"/>
+  	
+    <updated>2015-01-01T22:19:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/happy-new-year</id>
+    
+    <content type="html"><![CDATA[<p><em>Happy New Year, guys!</em></p>
+
+<p>Tahun 2014 sudah berlalu dan tentu saja banyak pengalaman serta pembelajaran yang saya dapat. 2014 merupakan tahun yang luar biasa, penuh kesempatan, kejutan serta hal-hal tak terduga sebelumnya.</p>
+
+<p>Mendapat kesempatan untuk bekerja <em>part-time</em> di sebuah blog teknologi ternama di tanah air, belajar membuat blog tentang teknologi menggunakan platform <a href="!g" title="octopress">Octopress</a>, mengetahui serta belajar tentang <em>iOS automation</em> dari berbagai blog dan masih banyak lagi</p>
+
+<p>Jika ditanya tentang harapan di 2015 maka jawabannya adalah konsistensi. Ya, saya ingin punya konsistensi untuk mengerjakan hal yang telah saya mulai seperti halnya rajin menulis di blog ini yang pernah membuat saya tak tertidur di malam hari. Blog yang berisi kumpulan berita serta informasi tentang teknologi.</p>
+
+<p><em>Let&rsquo;s have an awesome 2015!</em></p>
+]]></content>
+  	
+  </entry>
   
   <entry>
     
@@ -431,24 +452,6 @@
 
 <p>Gile, ndro<img src="" title="menatap slip gaji dengan mata berkaca-kaca" alt="^fn1" /></p>
 <a rel="full-article" href="http://sweetdistraction.github.io/internships-at-top-companies/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[FileBrowser: an alternative to iFile? ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://www.idownloadblog.com/2014/12/02/filebrowser-an-alternative-to-ifile/"/>
-  	
-    <updated>2014-12-05T09:16:41+07:00</updated>
-    <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>
-    
-    <content type="html"><![CDATA[<p><a href="@JeffBenjam">Jeff Benjam</a> via <a href="www.idownloadblog.com">iDownloadblog</a>:</p>
-
-<blockquote><p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy & paste, create and delete folders, delete files, create and extract compressed files, and more.</p></blockquote>
-
-
-<p>Jika membaca review yang ditulis oleh Jeff, rasanya FileBrowser masih jauh baik secara fitur atau tampilan jika dibandingkan dengan iFile. Hadir secara gratis dengan adanya iklan dalam aplikasinya, FileBrowser bisa jadi alternatif untuk berjelajah antar direktori pada perangkat iOS. Namun jangan lupa bahwa iFile juga dapat digunakan secara gratis meski dengan fitur yang terbatas.</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/filebrowser-ifile-alternatives/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   

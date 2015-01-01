@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2014-12-30T23:55:29+07:00</updated>
+  <updated>2015-01-01T22:39:30+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy New Year, guys!]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/happy-new-year/"/>
+    <updated>2015-01-01T22:19:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/happy-new-year</id>
+    <content type="html"><![CDATA[<p><em>Happy New Year, guys!</em></p>
+
+<p>Tahun 2014 sudah berlalu dan tentu saja banyak pengalaman serta pembelajaran yang saya dapat. 2014 merupakan tahun yang luar biasa, penuh kesempatan, kejutan serta hal-hal tak terduga sebelumnya.</p>
+
+<p>Mendapat kesempatan untuk bekerja <em>part-time</em> di sebuah blog teknologi ternama di tanah air, belajar membuat blog tentang teknologi menggunakan platform <a href="!g" title="octopress">Octopress</a>, mengetahui serta belajar tentang <em>iOS automation</em> dari berbagai blog dan masih banyak lagi</p>
+
+<p>Jika ditanya tentang harapan di 2015 maka jawabannya adalah konsistensi. Ya, saya ingin punya konsistensi untuk mengerjakan hal yang telah saya mulai seperti halnya rajin menulis di blog ini yang pernah membuat saya tak tertidur di malam hari. Blog yang berisi kumpulan berita serta informasi tentang teknologi.</p>
+
+<p><em>Let&rsquo;s have an awesome 2015!</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My Must-Have iPhone Apps, 2014 Edition – MacStories]]></title>
