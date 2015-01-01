@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-01T22:39:30+07:00</updated>
+  <updated>2015-01-01T23:01:07+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Breathe life into an old Mac — 512 Pixels ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.512pixels.net/blog/2014/12/breathe-live-into-an-old-mac"/>
+  	
+    <updated>2015-01-01T22:49:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/breathe-life-into-old-mac</id>
+    
+    <content type="html"><![CDATA[<p>Joe Caiati menulis di <a href="http://www.512pixels.net">512 Pixels</a>:</p>
+
+<blockquote><p>Luckily, older Macs are more flexible with hardware upgrades and coupled with third-party software, you can unlock features that Apple doesn’t support on older models. Here is how to get the most life out of an aging Mac.</p></blockquote>
+
+
+<p>Perangkat Mac memang tak terbilang murah, untuk itulah pengguna harus pintar-pintar mencari cara bagaimana agar Mac yang telah lama dimiliki tetap memiliki performa yang baik. Biasanya, Mac versi lama memiliki beberapa komponen yang dapat diupgrade sendiri oleh pemiliknya dan mengganti RAM atau hard drive dengan spesifikasi yang lebih baik bisa menjadi alternatif untuk mengembalikan performa Mac yang dirasa sudah mulai menurun.</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/breathe-life-into-old-mac/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -432,26 +450,6 @@
 </div>
 
 ]]></content>
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[This Is How Much Interns Make At Top Tech Companies ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://theultralinx.com/2014/11/interns-top-tech-companies.html"/>
-  	
-    <updated>2014-12-05T16:34:31+07:00</updated>
-    <id>http://sweetdistraction.github.io/internships-at-top-companies</id>
-    
-    <content type="html"><![CDATA[<p>Via <a href="http://theultralinx.com">Ultralinx</a>:</p>
-
-<p><img src="http://sweetdistraction.github.io/images/internsalary.png"></p>
-
-<blockquote><p>Dropbox tops the list in terms of total takeaway every month at $13,500, with LinkedIn second at $12,600 and Amazon and Foursquare tied at third both offering $11,000.</p></blockquote>
-
-
-<p>Gile, ndro<img src="" title="menatap slip gaji dengan mata berkaca-kaca" alt="^fn1" /></p>
-<a rel="full-article" href="http://sweetdistraction.github.io/internships-at-top-companies/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   

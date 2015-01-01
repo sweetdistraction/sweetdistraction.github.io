@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Upgrade | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/upgrade/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-01-01T23:01:07+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Breathe Life Into an Old Mac — 512 Pixels]]></title>
+    <link href="http://sweetdistraction.github.io/breathe-life-into-old-mac/"/>
+    <updated>2015-01-01T22:49:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/breathe-life-into-old-mac</id>
+    <content type="html"><![CDATA[<p>Joe Caiati menulis di <a href="http://www.512pixels.net">512 Pixels</a>:
+<blockquote><p></p></p><p><p>Luckily, older Macs are more flexible with hardware upgrades and coupled with third-party software, you can unlock features that Apple doesn’t support on older models. Here is how to get the most life out of an aging Mac.</p></p><p><p></p></blockquote></p>
+
+<p>Perangkat Mac memang tak terbilang murah, untuk itulah pengguna harus pintar-pintar mencari cara bagaimana agar Mac yang telah lama dimiliki tetap memiliki performa yang baik. Biasanya, Mac versi lama memiliki beberapa komponen yang dapat diupgrade sendiri oleh pemiliknya dan mengganti RAM atau hard drive dengan spesifikasi yang lebih baik bisa menjadi alternatif untuk mengembalikan performa Mac yang dirasa sudah mulai menurun.</p>
+]]></content>
+  </entry>
+  
+</feed>
