@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-01T23:01:07+07:00</updated>
+  <updated>2015-01-02T21:22:24+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Quitting Family Sharing — MacSparky]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/family-sharing-problem/"/>
+    <updated>2015-01-02T21:13:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/family-sharing-problem</id>
+    <content type="html"><![CDATA[<p><a href="!g" title="twitter macsparky">David Spark</a> menulis tentang Family Sharing:</p>
+
+<blockquote><p>Family Sharing is a great idea. Families, like mine, have growing children that will one day leave the nest and need iTunes accounts of their own. Moreover, Apple now has multiple device categories resulting in families hitting their head against the 10-device limit as the kids start growing up and iPhones, iPads, and Macs multiply. For a few years now, we’ve had to decide which of our devices get iTunes Match and which don’t. It’s quite frustrating that we can’t share music we’ve paid for across all our devices.</p></blockquote>
+
+
+<p>Bagi sebuah keluarga yang menggunakan perangkat iOS dan Mac menggunakan Family Sharing memang lebih menguntungkan, pasalnya mereka dapat saling berbagi aplikasi, lagu, ataupun film yang cukup dibeli dari satu akun saja. Namun ternyata menggunakan Family Sharing tak semenyenagkan yang dibayangkan.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Breathe life into an old Mac — 512 Pixels]]></title>

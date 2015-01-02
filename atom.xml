@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-01T23:01:07+07:00</updated>
+  <updated>2015-01-02T21:22:24+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Quitting Family Sharing — MacSparky ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://macsparky.com/blog/2015/1/quitting-family-sharing"/>
+  	
+    <updated>2015-01-02T21:13:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/family-sharing-problem</id>
+    
+    <content type="html"><![CDATA[<p><a href="!g" title="twitter macsparky">David Spark</a> menulis tentang Family Sharing:</p>
+
+<blockquote><p>Family Sharing is a great idea. Families, like mine, have growing children that will one day leave the nest and need iTunes accounts of their own. Moreover, Apple now has multiple device categories resulting in families hitting their head against the 10-device limit as the kids start growing up and iPhones, iPads, and Macs multiply. For a few years now, we’ve had to decide which of our devices get iTunes Match and which don’t. It’s quite frustrating that we can’t share music we’ve paid for across all our devices.</p></blockquote>
+
+
+<p>Bagi sebuah keluarga yang menggunakan perangkat iOS dan Mac menggunakan Family Sharing memang lebih menguntungkan, pasalnya mereka dapat saling berbagi aplikasi, lagu, ataupun film yang cukup dibeli dari satu akun saja. Namun ternyata menggunakan Family Sharing tak semenyenagkan yang dibayangkan.</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/family-sharing-problem/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -398,54 +416,6 @@
 <ol>
 <li id="fn:1">
 <p>Mumpung hari Senin jadi masih boleh serius. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
-]]></content>
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[iOS 8 Tweaks]]></title>
-  	<link href="http://sweetdistraction.github.io/ios-8-tweaks/"/>
-  	
-    <updated>2014-12-05T22:01:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/ios-8-tweaks</id>
-    
-    <content type="html"><![CDATA[<p>Bagi para pengguna iOS yang belum melakukan update ke iOS 8.1.1 dan ingin melakukan jailbreak, kini bisa bernapas lega. Pasalnya versi iOS teranyar tersebut sudah bisa dijailbreak menggunakan <em>tools</em> yang dirilis oleh <a href="http://www.taig.com/en/">TaiG</a>. Apple juga telah menutup <em>signing window</em> untuk iOS 8.1 yang artinya setiap pembaharuan yang dilakukan pengguna akan langsung menuju iOS versi 8.1.1. Tools dari TaiG sendiri banyak mendapat respon positif dari <a href="http://www.reddit.com/r/jailbreak/">pengguna</a> yang telah menggunakannya dan dianggap lebih stabil daripada tools milik <a href="http://pangu.io/">Pangu</a>.</p>
-
-<!--more-->
-
-
-<p>Meski perangkat iOS saya sudah terjailbreak, namun saya belum memperbaharuinya ke iOS versi 8.1.1. Tweaks yang terinstall pun tak sebanyak dulu sewaktu iOS 7. Kini saya hanya mempunyai sekitar 12 tweak yang terpasang. Kira-kira hanya separuh dari jumlah tweaks yang terinstall pada iOS versi sebelumnya, dan berikut daftar tweaks tersebut:</p>
-
-<ul>
-<li>Activator<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
-<li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
-<li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
-<li>SwipeSelection<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></li>
-<li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
-<li>Springtomize 3: Customize and declutter all the things!</li>
-<li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
-<li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
-<li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
-<li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan &lsquo;memaksa&rsquo; sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan.</li>
-<li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
-<li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
-</ul>
-
-
-<p>Itu dia daftar tweak yang terinstall pada perangkat iOS saya. Jailbreak memang tak <a href="http://sweetdistractions.net/apple-vs-jailbreak">direkomendasikan oleh Apple</a>, bahkan Apple tak akan mengganti kerusakan akibat jailbreak yang dilakukan. Oleh sebab itu, disclaimer Do With Your Own Risk selalu melekat pada sebuah tools jailbreak. Menginstall tweak juga sebaiknya dari sumber yang terpercaya karena bagaimanapun jailbreak adalah membuka akses root dari sebuah perangkat iOS sehingga jika asal menginstall tweak bisa saja tweak tersebut memiliki kode yang berbahaya ataupun malware.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Wajib hukumnya<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-<li id="fn:2">
-<p>Ini juga wajib hukumnya<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
-<li id="fn:3">
-<p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
 </ol>
 </div>
 
