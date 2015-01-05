@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Theultralinx | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/theultralinx/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-01-05T22:29:01+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Amazing Resources for Designers: Colour]]></title>
+    <link href="http://sweetdistraction.github.io/amazing-resources-color-theultralinx/"/>
+    <updated>2015-01-05T11:43:45+07:00</updated>
+    <id>http://sweetdistraction.github.io/amazing-resources-color-theultralinx</id>
+    <content type="html"><![CDATA[<p><blockquote><p>Therefore, we’re presenting you with a collection of awesome resources that will help you convert colour values, generate swatches, and give a hint about what hues would go well with the one you client fell in love with.</p></blockquote></p>
+
+<p>GOLD!</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ios/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-02T21:22:24+07:00</updated>
+  <updated>2015-01-05T22:29:01+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[That Goddamn Truth]]></title>
+    <link href="http://sweetdistraction.github.io/that-goddamn-truth/"/>
+    <updated>2015-01-05T22:12:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/that-goddamn-truth</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/marcoarment">Marco Arment</a>:
+<blockquote><p></p></p><p><p>I suspect the rapid decline of Apple’s software is a sign that marketing is too high a priority at Apple today: having major new releases every year is clearly impossible for the engineering teams to keep up with while maintaining quality. Maybe it’s an engineering problem, but I suspect not — I doubt that any cohesive engineering team could keep up with these demands and maintain significantly higher quality.<br/>The problem seems to be quite simple: they’re doing too much, with unrealistic deadlines.</p></p><p><p>We don’t need major OS releases every year. We don’t need each OS release to have a huge list of new features. We need our computers, phones, and tablets to work well first so we can enjoy new features released at a healthy, gradual, sustainable pace.</p></p><p><p></p></blockquote></p>
+
+<p>That goddamn truth! I don&rsquo;t deny that iOS and OS X are rapidly growing over these 2 years. Many features and improvements they put at their software but it also increase the bugs, crashes and inconsistency. So many things are broken and need to be fixed. At least they need to slow down the software upgrade cycle and start to fix everything they broke.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[What Is Drafts for? - All This]]></title>
@@ -69,21 +81,6 @@
 <p><blockquote><p></p></p><p><p>Called FingerKey, this new utility works by using Bluetooth 4.0 (what else?) to pair with your Mac, then forms a low latency, low energy wireless connection with an extra layer of 256-bit AES encryption on top to keep things secure.</p></p><p><p>Once you’ve got things paired, unlocking your Mac is as simple as getting into Bluetooth range, opening up the app, and putting your finger against the home button. There’s also a Notification Center Widget that makes things even easier, and FingerKey can actually unlock multiple Macs at a time.</p></p><p><p></p></blockquote></p>
 
 <p>Macbook dengan Touch ID bisa saja menjadi inovasi Apple selanjutnya, namun sebelum itu terjadi kini membuka Mac dengan Touch ID yang terdapat di iPhone sudah bisa dilakukan.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How Apple Keeps AirDrop Files Private and Secure | iMore]]></title>
-    <link href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/"/>
-    <updated>2014-11-29T00:00:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:</p>
-
-<blockquote><h2>Encrypted identities</h2>
-
-<p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That&rsquo;ll be used later to identify you in a way that maintains your privacy and security.</p></blockquote>
-
-<p>Security! Security!</p>
 ]]></content>
   </entry>
   

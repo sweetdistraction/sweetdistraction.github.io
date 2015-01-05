@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-02T21:22:24+07:00</updated>
+  <updated>2015-01-05T22:29:01+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[That Goddamn Truth]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/that-goddamn-truth/"/>
+    <updated>2015-01-05T22:12:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/that-goddamn-truth</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/marcoarment">Marco Arment</a>:</p>
+
+<blockquote><p>I suspect the rapid decline of Apple’s software is a sign that marketing is too high a priority at Apple today: having major new releases every year is clearly impossible for the engineering teams to keep up with while maintaining quality. Maybe it’s an engineering problem, but I suspect not — I doubt that any cohesive engineering team could keep up with these demands and maintain significantly higher quality.<br/>The problem seems to be quite simple: they’re doing too much, with unrealistic deadlines.</p><p>We don’t need major OS releases every year. We don’t need each OS release to have a huge list of new features. We need our computers, phones, and tablets to work well first so we can enjoy new features released at a healthy, gradual, sustainable pace.</p></blockquote>
+
+
+<p>That goddamn truth! I don&rsquo;t deny that iOS and OS X are rapidly growing over these 2 years. Many features and improvements they put at their software but it also increase the bugs, crashes and inconsistency. So many things are broken and need to be fixed. At least they need to slow down the software upgrade cycle and start to fix everything they broke.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Amazing Resources for Designers: Colour]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/amazing-resources-color-theultralinx/"/>
+    <updated>2015-01-05T11:43:45+07:00</updated>
+    <id>http://sweetdistraction.github.io/amazing-resources-color-theultralinx</id>
+    <content type="html"><![CDATA[<blockquote><p>Therefore, we’re presenting you with a collection of awesome resources that will help you convert colour values, generate swatches, and give a hint about what hues would go well with the one you client fell in love with.</p></blockquote>
+
+
+<p>GOLD!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Quitting Family Sharing — MacSparky]]></title>

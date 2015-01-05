@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Osx | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/osx/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-02T21:22:24+07:00</updated>
+  <updated>2015-01-05T22:29:01+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[That Goddamn Truth]]></title>
+    <link href="http://sweetdistraction.github.io/that-goddamn-truth/"/>
+    <updated>2015-01-05T22:12:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/that-goddamn-truth</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/marcoarment">Marco Arment</a>:
+<blockquote><p></p></p><p><p>I suspect the rapid decline of Apple’s software is a sign that marketing is too high a priority at Apple today: having major new releases every year is clearly impossible for the engineering teams to keep up with while maintaining quality. Maybe it’s an engineering problem, but I suspect not — I doubt that any cohesive engineering team could keep up with these demands and maintain significantly higher quality.<br/>The problem seems to be quite simple: they’re doing too much, with unrealistic deadlines.</p></p><p><p>We don’t need major OS releases every year. We don’t need each OS release to have a huge list of new features. We need our computers, phones, and tablets to work well first so we can enjoy new features released at a healthy, gradual, sustainable pace.</p></p><p><p></p></blockquote></p>
+
+<p>That goddamn truth! I don&rsquo;t deny that iOS and OS X are rapidly growing over these 2 years. Many features and improvements they put at their software but it also increase the bugs, crashes and inconsistency. So many things are broken and need to be fixed. At least they need to slow down the software upgrade cycle and start to fix everything they broke.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Breathe Life Into an Old Mac — 512 Pixels]]></title>
@@ -62,20 +74,6 @@
 <p>Hari ini saya gembira karena menemukan artikel mengenai penggunaan Keyboard Maestro untuk melakukan resize screenshot dari iPhone dan menggabungkannya. Jika biasanya saya menggunakan Pixelmator untuk mengedit dan menggabungkan screenshot memakan waktu lebih dari 15 menit maka dengan macro dari <a href="http://twitter.com/macdrifter">Gabe</a> yang dibahas oleh <a href="http://twitter.com/viticci">@viticci</a> tersebut kini hanya perlu waktu kurang dari 5 detik.</p>
 
 <p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Getting Started With JavaScript for Automation on Yosemite]]></title>
-    <link href="http://sweetdistraction.github.io/javascript-for-automation/"/>
-    <updated>2014-12-03T10:31:41+07:00</updated>
-    <id>http://sweetdistraction.github.io/javascript-for-automation</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/The_Axx">Alex Guyot</a> via <a href="www.macstories.net">Macstories</a>:
-<blockquote><p></p></p><p><p> Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></p><p><p></p></blockquote></p>
-
-<p>Jika <a href="https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html">AppleScript</a> dan <a href="http://support.apple.com/en-us/ht2488">Automator</a> dirasa tak cukup untuk mengotomatisasi berbagi pekerjaan pada Mac maka JavaScript for Automation (JXA) boleh dicoba. <a href="https://twitter.com/The_Axx">Alex Guyot</a> melalui Macstories telah memberikan sedikit gambaran dan contoh bagaimana javascript dapat mendukung mempercepat workflow di OS X.</p>
-
-<p>Let&rsquo;s automate all the things!</p>
 ]]></content>
   </entry>
   
