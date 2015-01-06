@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Apple | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-05T22:45:11+07:00</updated>
+  <updated>2015-01-06T13:41:00+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Another Perspective]]></title>
+    <link href="http://sweetdistraction.github.io/another-perspective/"/>
+    <updated>2015-01-06T11:32:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/another-perspective</id>
+    <content type="html"><![CDATA[<p><a href="http://www.joecieplinski.com/blog/2015/01/05/compromises-have-consequences/">Joe Cieplinski</a> write responses about Marco&rsquo;s thought:</p>
+
+<blockquote><p>Almost two years ago, I suggested that Apple would be better off slowing down and taking a year off to fix bugs and enhance already existing features, rather than continue the fevered pace of innovation that it had maintained for so many years. Clearly, Tim Cook ignored my advice. And how could he not? After Jobs’ death, the world consistently questioned Cook’s ability to keep the company in its role as the richest, most powerful, and innovative tech company in the universe. He had a lot to prove. There were expectations that needed to be met, and so he met them.</p>
+
+<p>Unfortunately, meeting those expectations has had consequences.</p>
+
+<p>You can’t have it both ways. You can’t stay way ahead of the curve and not introduce some bugs along the way. This decline in software quality is a side-effect of the current strategy. It’s a compromise Apple has made in order to reassure the general public that the company isn’t “doomed” without Steve Jobs.</p></blockquote>
+
+<p>And he put this before closing paragraph:</p>
+
+<blockquote><p>The unfortunate reality is that “Here’s a new version that’s the same as the old version, except now everything works” is a tough sell.</p></blockquote>
+
+<p><a href="http://twitter.com/viticci">Federico Viticci</a> on <a href="http://www.macstories.net/stories/balance/">Macstories</a>:</p>
+
+<blockquote><p>What it comes down to, really, is balance. I believe that Apple used to be more disciplined at balancing its desire for new features and commitment to refinements.</p></blockquote>
+
+<p>Sure, Apple has a lot of things in their to do list. As I wrote <a href="http://sweetdistractions.net/that-goddamn-truth/">last night</a>, many new features will also bring a new bugs and maybe impact on stability. Does current Apple&rsquo;s software quality decline? Yes it does. Does it just work like ever before? Yes but I&rsquo;m not sure I&rsquo;ll answer it wholeheartedly.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apps Cannot Use Push Notifications to Send Promotions, Unless You’re Apple or Anyone Else]]></title>
@@ -70,23 +95,6 @@
 <blockquote><p>Previously costing five bucks a pop, Unread for iPad is now a free download with In-App Purchases to unlock advanced features. The app sports full-screen reading, has multiple themes for day, night and some such, features rich content sharing via OvershareKit and much more.</p></blockquote>
 
 <p>Sayang udah ngga punya iPad lagi, ada yang mau kasih?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[30 Tahun Setelah Apple Macintosh Pertama Dirilis]]></title>
-    <link href="http://sweetdistraction.github.io/30-tahun-setelah-apple-macintosh-pertama-dirilis/"/>
-    <updated>2014-11-25T08:26:53+07:00</updated>
-    <id>http://sweetdistraction.github.io/30-tahun-setelah-apple-macintosh-pertama-dirilis</id>
-    <content type="html"><![CDATA[<p>Kent Akgungor di <a href="http://thingsofinterest.com/">Things Of Interest</a></p>
-
-<blockquote><p>When first released in 1984, the Apple Macintosh shipped with a black-and-white 512 x 342 display. Fast forward 30 years to the release of the iMac with Retina 5K display, which ships with a 5,120 x 2,880 display with support for millions of colours. That’s an increase from 175,000 pixels to more than 14.7 million – an 8,400% increase. 80 of the original Macintosh displays fit within a single Retina 5K display.</p></blockquote>
-
-<p>It&rsquo;s terrific what Apple could&rsquo;ve done in 30 years and still counting.</p>
-
-<p>Mike Salomon di <a href="http://www.thecleverest.com/">The Cleverest</a> mencoba melakukan hal sebaliknya.</p>
-
-<blockquote><p>So I thought I’d take the opposite approach. Below are 1-to-1 pixel mockups of how Mac OSX Yosemite would have appeared on the original Macintosh’s 512×342 pixel screen.</p></blockquote>
 ]]></content>
   </entry>
   

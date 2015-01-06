@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-05T22:45:11+07:00</updated>
+  <updated>2015-01-06T13:41:00+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Another Perspective]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/another-perspective/"/>
+    <updated>2015-01-06T11:32:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/another-perspective</id>
+    <content type="html"><![CDATA[<p><a href="http://www.joecieplinski.com/blog/2015/01/05/compromises-have-consequences/">Joe Cieplinski</a> write responses about Marco&rsquo;s thought:</p>
+
+<blockquote><p>Almost two years ago, I suggested that Apple would be better off slowing down and taking a year off to fix bugs and enhance already existing features, rather than continue the fevered pace of innovation that it had maintained for so many years. Clearly, Tim Cook ignored my advice. And how could he not? After Jobs’ death, the world consistently questioned Cook’s ability to keep the company in its role as the richest, most powerful, and innovative tech company in the universe. He had a lot to prove. There were expectations that needed to be met, and so he met them.</p>
+
+<p>Unfortunately, meeting those expectations has had consequences.</p>
+
+<p>You can’t have it both ways. You can’t stay way ahead of the curve and not introduce some bugs along the way. This decline in software quality is a side-effect of the current strategy. It’s a compromise Apple has made in order to reassure the general public that the company isn’t “doomed” without Steve Jobs.</p></blockquote>
+
+<p>And he put this before closing paragraph:</p>
+
+<blockquote><p>The unfortunate reality is that “Here’s a new version that’s the same as the old version, except now everything works” is a tough sell.</p></blockquote>
+
+<p><a href="http://twitter.com/viticci">Federico Viticci</a> on <a href="http://www.macstories.net/stories/balance/">Macstories</a>:</p>
+
+<blockquote><p>What it comes down to, really, is balance. I believe that Apple used to be more disciplined at balancing its desire for new features and commitment to refinements.</p></blockquote>
+
+<p>Sure, Apple has a lot of things in their to do list. As I wrote <a href="http://sweetdistractions.net/that-goddamn-truth/">last night</a>, many new features will also bring a new bugs and maybe impact on stability. Does current Apple&rsquo;s software quality decline? Yes it does. Does it just work like ever before? Yes but I&rsquo;m not sure I&rsquo;ll answer it wholeheartedly.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[That Goddamn Truth]]></title>
