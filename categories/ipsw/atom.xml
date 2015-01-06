@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ipsw | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ipsw/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-06T13:41:00+07:00</updated>
+  <updated>2015-01-06T15:45:33+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -18,9 +18,12 @@
     <link href="http://sweetdistraction.github.io/go-get-em/"/>
     <updated>2014-11-22T08:27:08+07:00</updated>
     <id>http://sweetdistraction.github.io/go-get-em</id>
-    <content type="html"><![CDATA[<blockquote><p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p></blockquote>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p>
+</blockquote>
 
-<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak.</p>
+<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak. </p>
+
 ]]></content>
   </entry>
   

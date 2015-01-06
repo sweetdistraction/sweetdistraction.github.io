@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Iphone | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/iphone/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-06T13:41:00+07:00</updated>
+  <updated>2015-01-06T15:45:33+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -31,13 +31,13 @@
     <updated>2014-12-03T17:09:30+07:00</updated>
     <id>http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro</id>
     <content type="html"><![CDATA[<p><a href="http://twitter.com/viticci">Federico Viticci</a> via <a href="http://www.macstories.net/">Macstories</a>:
-<blockquote><p></p></p><p><p> This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p>This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
 
 <p>Menulis artikel tips dan trik untuk sebuah blog teknologi lokal terkadang dituntut adanya screenshot untuk mempermudah pemahaman dari topik yang sedang dibahas. Sebelumnya, untuk menggabungkan beberapa screenshot saya akan membuka Pixelmator dan menyusunnya. Hal ini tentu kurang efektif dan memakan waktu.</p>
 
 <p>Hari ini saya gembira karena menemukan artikel mengenai penggunaan Keyboard Maestro untuk melakukan resize screenshot dari iPhone dan menggabungkannya. Jika biasanya saya menggunakan Pixelmator untuk mengedit dan menggabungkan screenshot memakan waktu lebih dari 15 menit maka dengan macro dari <a href="http://twitter.com/macdrifter">Gabe</a> yang dibahas oleh <a href="http://twitter.com/viticci">@viticci</a> tersebut kini hanya perlu waktu kurang dari 5 detik.</p>
 
-<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun.</p>
+<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun. </p>
 ]]></content>
   </entry>
   
@@ -54,7 +54,6 @@
 
 <!--more-->
 
-
 <p>Keputusan untuk melakukan jailbreak memang sepenuhnya ada di tangan pengguna dan tak selamanya jailbreak berdampak buruk. Bagi seorang pengembang ataupun seseorang yang ingin mempelajari tentang sistem operasi terutama iOS, jailbreak bisa saja merupakan sebuah langkah untuk mendukung kegiatannya. Tak hanya itu, jailbreak yang membuka akses <em>root</em> perangkat juga memungkinkan pengguna untuk mengkustomisasi perangkat yang dimiliki mulai dari menginstall tema, mengubah ikon batere atau sinyal, menghilangkan UI yang dianggap mengganggu dan masih banyak lagi. Namun juga tak jarang beberapa orang melakukan jailbreak untuk mengunduh dan menginstall aplikasi bajakan yang tentu saja merugikan bagi pengembang aplikasi padahal banyak cara untuk mendapatkan sebuah aplikasi secara legal, memakai iTunes gift card misalnya.</p>
 
 <p>Memang secara teori, jailbreak bisa dihilangkan cukup dengan melakukan restore perangkat menggunakan iTunes apabila ingin melakukan klaim garansi, namun jika terjadi hal yang tak diinginkan semisal <em>brick</em> pada perangkat karena tak sengaja melakukan <em>Reset All Settings</em> maka siapa yang akan bertanggung jawab? Oleh sebab itu mengapa jailbreak selalu disertai dengan <em>disclaimer</em>: DWYOR (Do With Your Own Risk)</p>
@@ -68,11 +67,11 @@
     <id>http://sweetdistraction.github.io/the-new-1writer-javascript-actions</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/pgruneich">Philip Gruneich</a> di <a href="http://onetapless.com">OneTapLess</a>:</p>
 
-<p><blockquote><p></p></p><p><p> 1Writer 2.0 was the most delightful surprise this week and probably the best deal you could make this holiday if you write in your iOS devices. I’m sure it is only a matter of time until more actions pop up and improve the pool of options in this outstanding text editor.</p></p><p><p></p></blockquote></p>
+<p><blockquote><p></p></p><p><p>1Writer 2.0 was the most delightful surprise this week and probably the best deal you could make this holiday if you write in your iOS devices. I’m sure it is only a matter of time until more actions pop up and improve the pool of options in this outstanding text editor.</p></p><p><p></p></blockquote></p>
 
 <p><a href="http://1writerapp.com/">1Writer</a>, salah satu teks editor di iOS baru saja menerima pembaharuan besar. Penambahan <em>javascript action</em>, pengamanan tambahan dengan Touch ID, kustomisasi font serta tampilan, safari extensions, in-app-browser serta <em>today widget</em> untuk mengakses dokumen favorit secara cepat dan masih banyak lagi.</p>
 
-<p>Ngoc Luu juga menambahkan <em><a href="http://1writerapp.com/actiondir">action directory</a></em> bagi pengguna yang ingin menambahkan <em>javascript action</em> dengan mudah ke dalam aplikasi 1Writer. Tak hanya itu, bagi pengguna yang ingin belajar membuat <em>javascript action</em> sendiri, Ngoc Luu juga sudah menyiapkan <a href="http://1writerapp.com/docs/js">dokumen</a> pendukung yang dapat dipelajari dan digunakan.</p>
+<p>Ngoc Luu juga menambahkan <em><a href="http://1writerapp.com/actiondir">action directory</a></em> bagi pengguna yang ingin menambahkan <em>javascript action</em> dengan mudah ke dalam aplikasi 1Writer. Tak hanya itu, bagi pengguna yang ingin belajar membuat <em>javascript action</em> sendiri, Ngoc Luu juga sudah menyiapkan <a href="http://1writerapp.com/docs/js">dokumen</a> pendukung yang dapat dipelajari dan digunakan. </p>
 
 <p>Seperti biasa, Philip Gruneich juga telah membuat artikel mengenai update dari 1Writer di OneTapLess dengan contoh <em>javascript action-nya</em>.</p>
 ]]></content>
@@ -83,13 +82,14 @@
     <link href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/"/>
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:</p>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:
+&gt; ## Encrypted identities</p>
 
-<blockquote><h2>Encrypted identities</h2>
+<blockquote>
+  <p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That’ll be used later to identify you in a way that maintains your privacy and security.</p>
+</blockquote>
 
-<p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That&rsquo;ll be used later to identify you in a way that maintains your privacy and security.</p></blockquote>
-
-<p>Security! Security!</p>
+<p>Security! Security! </p>
 ]]></content>
   </entry>
   

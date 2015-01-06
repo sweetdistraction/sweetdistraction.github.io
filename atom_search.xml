@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-06T13:41:00+07:00</updated>
+  <updated>2015-01-06T15:45:33+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -19,13 +19,12 @@
     <link href="http://sweetdistraction.github.io/another-perspective/"/>
     <updated>2015-01-06T11:32:00+07:00</updated>
     <id>http://sweetdistraction.github.io/another-perspective</id>
-    <content type="html"><![CDATA[<p><a href="http://www.joecieplinski.com/blog/2015/01/05/compromises-have-consequences/">Joe Cieplinski</a> write responses about Marco&rsquo;s thought:</p>
-
-<blockquote><p>Almost two years ago, I suggested that Apple would be better off slowing down and taking a year off to fix bugs and enhance already existing features, rather than continue the fevered pace of innovation that it had maintained for so many years. Clearly, Tim Cook ignored my advice. And how could he not? After Jobs’ death, the world consistently questioned Cook’s ability to keep the company in its role as the richest, most powerful, and innovative tech company in the universe. He had a lot to prove. There were expectations that needed to be met, and so he met them.</p>
-
-<p>Unfortunately, meeting those expectations has had consequences.</p>
-
-<p>You can’t have it both ways. You can’t stay way ahead of the curve and not introduce some bugs along the way. This decline in software quality is a side-effect of the current strategy. It’s a compromise Apple has made in order to reassure the general public that the company isn’t “doomed” without Steve Jobs.</p></blockquote>
+    <content type="html"><![CDATA[<p><a href="http://www.joecieplinski.com/blog/2015/01/05/compromises-have-consequences/">Joe Cieplinski</a> write responses about Marco’s thought:</p>
+<blockquote><p>Almost two years ago, I suggested that Apple would be better off slowing down and taking a year off to fix bugs and enhance already existing features, rather than continue the fevered pace of innovation that it had maintained for so many years. Clearly, Tim Cook ignored my advice. And how could he not? After Jobs’ death, the world consistently questioned Cook’s ability to keep the company in its role as the richest, most powerful, and innovative tech company in the universe. He had a lot to prove. There were expectations that needed to be met, and so he met them.
+<br />
+<br />Unfortunately, meeting those expectations has had consequences.
+<br />
+<br />You can’t have it both ways. You can’t stay way ahead of the curve and not introduce some bugs along the way. This decline in software quality is a side-effect of the current strategy. It’s a compromise Apple has made in order to reassure the general public that the company isn’t “doomed” without Steve Jobs.</p></blockquote>
 
 <p>And he put this before closing paragraph:</p>
 
@@ -35,7 +34,7 @@
 
 <blockquote><p>What it comes down to, really, is balance. I believe that Apple used to be more disciplined at balancing its desire for new features and commitment to refinements.</p></blockquote>
 
-<p>Sure, Apple has a lot of things in their to do list. As I wrote <a href="http://sweetdistractions.net/that-goddamn-truth/">last night</a>, many new features will also bring a new bugs and maybe impact on stability. Does current Apple&rsquo;s software quality decline? Yes it does. Does it just work like ever before? Yes but I&rsquo;m not sure I&rsquo;ll answer it wholeheartedly.</p>
+<p>Sure, Apple has a lot of things in their to do list. As I wrote <a href="http://sweetdistractions.net/that-goddamn-truth/">last night</a>, many new features will also bring a new bugs and maybe impact on stability. Does current Apple’s software quality decline? Yes it does. Does it just work like ever before? Yes but I’m not sure I’ll answer it wholeheartedly. </p>
 ]]></content>
   </entry>
   
@@ -46,14 +45,9 @@
     <updated>2015-01-05T22:12:00+07:00</updated>
     <id>http://sweetdistraction.github.io/that-goddamn-truth</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/marcoarment">Marco Arment</a>:</p>
+<blockquote><p>I suspect the rapid decline of Apple’s software is a sign that marketing is too high a priority at Apple today: having major new releases every year is clearly impossible for the engineering teams to keep up with while maintaining quality. Maybe it’s an engineering problem, but I suspect not — I doubt that any cohesive engineering team could keep up with these demands and maintain significantly higher quality.</p><p><br />The problem seems to be quite simple: they’re doing too much, with unrealistic deadlines.</p><p><br />We don’t need major OS releases every year. We don’t need each OS release to have a huge list of new features. We need our computers, phones, and tablets to work well first so we can enjoy new features released at a healthy, gradual, sustainable pace.</p></blockquote>
 
-<blockquote><p>I suspect the rapid decline of Apple’s software is a sign that marketing is too high a priority at Apple today: having major new releases every year is clearly impossible for the engineering teams to keep up with while maintaining quality. Maybe it’s an engineering problem, but I suspect not — I doubt that any cohesive engineering team could keep up with these demands and maintain significantly higher quality.</p>
-
-<p>The problem seems to be quite simple: they’re doing too much, with unrealistic deadlines.</p>
-
-<p>We don’t need major OS releases every year. We don’t need each OS release to have a huge list of new features. We need our computers, phones, and tablets to work well first so we can enjoy new features released at a healthy, gradual, sustainable pace.</p></blockquote>
-
-<p>That goddamn truth! I don&rsquo;t deny that iOS and OS X are rapidly growing over these 2 years. Many features and improvements they put at their software but it also increase the bugs, crashes and inconsistency. So many things are broken and need to be fixed. At least they need to slow down the software upgrade cycle and start to fix everything they broke.</p>
+<p>That goddamn truth! I don’t deny that iOS and OS X are rapidly growing over these 2 years. Many features and improvements they put at their software but it also increase the bugs, crashes and inconsistency. So many things are broken and need to be fixed. At least they need to slow down the software upgrade cycle and start to fix everything they broke.</p>
 ]]></content>
   </entry>
   
@@ -65,8 +59,7 @@
     <id>http://sweetdistraction.github.io/amazing-resources-color-theultralinx</id>
     <content type="html"><![CDATA[<blockquote><p>Therefore, we’re presenting you with a collection of awesome resources that will help you convert colour values, generate swatches, and give a hint about what hues would go well with the one you client fell in love with.</p></blockquote>
 
-
-<p>GOLD!</p>
+<p>GOLD! </p>
 ]]></content>
   </entry>
   
@@ -77,11 +70,9 @@
     <updated>2015-01-02T21:13:00+07:00</updated>
     <id>http://sweetdistraction.github.io/family-sharing-problem</id>
     <content type="html"><![CDATA[<p><a href="!g" title="twitter macsparky">David Spark</a> menulis tentang Family Sharing:</p>
-
 <blockquote><p>Family Sharing is a great idea. Families, like mine, have growing children that will one day leave the nest and need iTunes accounts of their own. Moreover, Apple now has multiple device categories resulting in families hitting their head against the 10-device limit as the kids start growing up and iPhones, iPads, and Macs multiply. For a few years now, we’ve had to decide which of our devices get iTunes Match and which don’t. It’s quite frustrating that we can’t share music we’ve paid for across all our devices.</p></blockquote>
 
-
-<p>Bagi sebuah keluarga yang menggunakan perangkat iOS dan Mac menggunakan Family Sharing memang lebih menguntungkan, pasalnya mereka dapat saling berbagi aplikasi, lagu, ataupun film yang cukup dibeli dari satu akun saja. Namun ternyata menggunakan Family Sharing tak semenyenagkan yang dibayangkan.</p>
+<p>Bagi sebuah keluarga yang menggunakan perangkat iOS dan Mac menggunakan Family Sharing memang lebih menguntungkan, pasalnya mereka dapat saling berbagi aplikasi, lagu, ataupun film yang cukup dibeli dari satu akun saja. Namun ternyata menggunakan Family Sharing tak semenyenagkan yang dibayangkan. </p>
 ]]></content>
   </entry>
   
@@ -92,9 +83,7 @@
     <updated>2015-01-01T22:49:00+07:00</updated>
     <id>http://sweetdistraction.github.io/breathe-life-into-old-mac</id>
     <content type="html"><![CDATA[<p>Joe Caiati menulis di <a href="http://www.512pixels.net">512 Pixels</a>:</p>
-
 <blockquote><p>Luckily, older Macs are more flexible with hardware upgrades and coupled with third-party software, you can unlock features that Apple doesn’t support on older models. Here is how to get the most life out of an aging Mac.</p></blockquote>
-
 
 <p>Perangkat Mac memang tak terbilang murah, untuk itulah pengguna harus pintar-pintar mencari cara bagaimana agar Mac yang telah lama dimiliki tetap memiliki performa yang baik. Biasanya, Mac versi lama memiliki beberapa komponen yang dapat diupgrade sendiri oleh pemiliknya dan mengganti RAM atau hard drive dengan spesifikasi yang lebih baik bisa menjadi alternatif untuk mengembalikan performa Mac yang dirasa sudah mulai menurun.</p>
 ]]></content>
@@ -108,13 +97,13 @@
     <id>http://sweetdistraction.github.io/happy-new-year</id>
     <content type="html"><![CDATA[<p><em>Happy New Year, guys!</em></p>
 
-<p>Tahun 2014 sudah berlalu dan tentu saja banyak pengalaman serta pembelajaran yang saya dapat. 2014 merupakan tahun yang luar biasa, penuh kesempatan, kejutan serta hal-hal tak terduga sebelumnya.</p>
+<p>Tahun 2014 sudah berlalu dan tentu saja banyak pengalaman serta pembelajaran yang saya dapat. 2014 merupakan tahun yang luar biasa, penuh kesempatan, kejutan serta hal-hal tak terduga sebelumnya. </p>
 
 <p>Mendapat kesempatan untuk bekerja <em>part-time</em> di sebuah blog teknologi ternama di tanah air, belajar membuat blog tentang teknologi menggunakan platform <a href="!g" title="octopress">Octopress</a>, mengetahui serta belajar tentang <em>iOS automation</em> dari berbagai blog dan masih banyak lagi</p>
 
 <p>Jika ditanya tentang harapan di 2015 maka jawabannya adalah konsistensi. Ya, saya ingin punya konsistensi untuk mengerjakan hal yang telah saya mulai seperti halnya rajin menulis di blog ini yang pernah membuat saya tak tertidur di malam hari. Blog yang berisi kumpulan berita serta informasi tentang teknologi.</p>
 
-<p><em>Let&rsquo;s have an awesome 2015!</em></p>
+<p><em>Let’s have an awesome 2015!</em></p>
 ]]></content>
   </entry>
   
@@ -125,11 +114,10 @@
     <updated>2014-12-30T23:47:00+07:00</updated>
     <id>http://sweetdistraction.github.io/must-have-iphone-apps-2014</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Frederico Viticci</a>:</p>
-
 <blockquote><p>At the end of the article, you’ll also find my iPhone App of the Year and a Runner-up. Each app has a direct iTunes link, and, where possible, I’ve included links to previous MacStories coverage as well.</p></blockquote>
 
+<p>Saya selalu suka membaca setiap artikel <a href="https://twitter.com/viticci">Frederico Viticci</a> di <a href="http://www.macstories.net">Macstories</a>. Tak hanya menyajikan review, namun <a href="https://twitter.com/viticci">@viticci</a> juga mengulasnya secara komprehensif dan mendalam. </p>
 
-<p>Saya selalu suka membaca setiap artikel <a href="https://twitter.com/viticci">Frederico Viticci</a> di <a href="http://www.macstories.net">Macstories</a>. Tak hanya menyajikan review, namun <a href="https://twitter.com/viticci">@viticci</a> juga mengulasnya secara komprehensif dan mendalam.</p>
 ]]></content>
   </entry>
   
@@ -140,11 +128,9 @@
     <updated>2014-12-27T20:44:00+07:00</updated>
     <id>http://sweetdistraction.github.io/bretttrepstra-vitag-release</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/ttscoff">Brett Trepstra</a>:</p>
-
 <blockquote><p>Run without arguments it grabs all files and folders in the current directory and opens your text editor with a list of them, each one followed by its current tags (if any) in square brackets. Edit what’s in the brackets, save and close, and those changes are immediately applied.</p></blockquote>
 
-
-<p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba!</p>
+<p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba! </p>
 ]]></content>
   </entry>
   
@@ -155,10 +141,7 @@
     <updated>2014-12-25T22:38:00+07:00</updated>
     <id>http://sweetdistraction.github.io/macsparky-field-guides-sale</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/macsparky">David Sparks</a>:</p>
-
 <blockquote><p>This holiday season I&#8217;ve put all of the MacSparky Field Guides on sale.</p></blockquote>
-
-
 <p>SALE! SALE! SALE! Happy holiday, guys!</p>
 ]]></content>
   </entry>
@@ -170,11 +153,10 @@
     <updated>2014-12-23T09:25:40+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix</id>
     <content type="html"><![CDATA[<p><a href="www.macrumors.com">MacRumors</a>:</p>
-
 <blockquote><p>Apple today released a new security update that’s designed to address a &#8220;critical security issue&#8221; with the Network Time Protocol service on OS X. Apple recommends that all Yosemite, Mavericks, and Mountain Lion users install the update &#8220;as soon as possible.&#8221;</p></blockquote>
 
-
 <p>Update! Update!</p>
+
 ]]></content>
   </entry>
   
@@ -185,11 +167,10 @@
     <updated>2014-12-23T09:09:04+07:00</updated>
     <id>http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone</id>
     <content type="html"><![CDATA[<p><a href="https://support.twitter.com">Twitter Support Page</a>:</p>
-
 <blockquote><p>On mobile (currently available on Twitter for iPhone), click on one of your Tweets to get to the Tweet detail page, then tap “View Tweet activity.” Make sure you have installed the latest version of Twitter for iPhone.</p></blockquote>
 
-
 <p>Sekarang, saya memiliki satu alasan kenapa harus menginstall aplikasi resmi Twitter di perangkat iOS saya.</p>
+
 ]]></content>
   </entry>
   
@@ -200,11 +181,10 @@
     <updated>2014-12-22T16:09:27+07:00</updated>
     <id>http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously</id>
     <content type="html"><![CDATA[<p><a href="http://www.twitter.com/jeffbenjam/">Jeff Benjamin</a> via <a href="www.idownloadblog.com">iDownbloadblog</a>:</p>
-
 <blockquote><p>Once you install Allarm, simply head over to the alarm clock tab of the Clock app, and you’ll see a brand new Toggle All Alarms toggle at the top of the page.</p></blockquote>
 
-
 <p>Memiliki sebuah iPhone yang sudah terjailbreak dan suka mengatur alarm dengan selang waktu 15 menit (ehem!)? Tweak ini pastilah sangat berguna.</p>
+
 ]]></content>
   </entry>
   
@@ -215,9 +195,7 @@
     <updated>2014-12-22T14:57:00+07:00</updated>
     <id>http://sweetdistraction.github.io/removing-photo-metadata-with-metapho</id>
     <content type="html"><![CDATA[<p><a href="!g" title="twitter macsparky">David Sparks</a>:</p>
-
 <blockquote><p>The app is easy enough to use. Select an existing photo and push the big red button to remove the metadata.</p></blockquote>
-
 
 <p>Menghilangkan metadata dari sebuah foto kini menjadi mudah berkat <a href="https://itunes.apple.com/us/app/metapho-manage-photo-metadata/id914457352?ls=1&amp;mt=8?at=10laz7&amp;ct=blog">Metapho</a>. Bagi yang menaruh perhatian lebih terkait masalah keamanan atau privasi maka in-app-purchase seharga 2$ dalam aplikasi ini bukanlah sebuah masalah besar.</p>
 ]]></content>
@@ -230,6 +208,7 @@
     <updated>2014-12-18T22:59:00+07:00</updated>
     <id>http://sweetdistraction.github.io/whats-drafts-for</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/drdrang">Dr. Drang</a> memberikan dua alasan mengapa <a href="https://itunes.apple.com/id/app/drafts-4-quickly-capture-notes/id905337691?mt=8&amp;uo=4">Drafts 4</a> layak berada di homescreen para pengguna perangkat iOS.</p>
+
 ]]></content>
   </entry>
   
@@ -240,11 +219,10 @@
     <updated>2014-12-18T09:17:59+07:00</updated>
     <id>http://sweetdistraction.github.io/so-where-did-you-meet</id>
     <content type="html"><![CDATA[<p>Via <a href="http://www.stickycomics.com/">Sticky Comics</a>:</p>
-
-<blockquote><p><img class="center" src="http://sweetdistraction.github.io/images/os_couples.jpg"></p></blockquote>
-
+<blockquote><p><img class="center" src="http://sweetdistraction.github.io/images/os_couples.jpg" /></p></blockquote>
 
 <p>This explains a lot! xD</p>
+
 ]]></content>
   </entry>
   
@@ -254,40 +232,39 @@
     <link href="http://sweetdistraction.github.io/knowledge-is-power-to-make-meaningful-life/"/>
     <updated>2014-12-17T16:37:31+07:00</updated>
     <id>http://sweetdistraction.github.io/knowledge-is-power-to-make-meaningful-life</id>
-    <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/kurio3.jpg"></p>
+    <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/kurio3.jpg" /></p>
 
 <p>Saya percaya bahwa teknologi diciptakan untuk mempermudah hidup umat manusia. Dengan teknologi, bekerja kini tak lagi dituntut hanya sekedar selesai namun juga bagaimana menyelesaikannya dengan efektif dan efisien. Saya setuju dengan ungkapan <code>#KnowledgeIsPower</code>. Bagaimana tidak, dengan memiliki pengetahuan serta wawasan yang luas seseorang pasti dapat menyelesaikan berbagai macam permasalahan yang dihadapi dengan mudah.</p>
 
 <!--more-->
 
-
 <p>Informasi serta pengetahuan kini bisa didapatkan dengan mudah. Terlebih di era teknologi informasi seperti sekarang ini yang mana internet bukanlah lagi menjadi barang mahal. Kini seseorang dapat mengetahui berbagai macam informasi dimanapun dan kapanpun. Cukup install aplikasi mobile penyedia layanan berita ataupun tips-trik di gadget yang dimiliki maka informasi serta berbagai macam pengetahuan hanya sejauh genggaman tangan. Sederhananya, buka browser lalu ketik informasi yang diinginkan di kolom pencarian.</p>
 
-<p>Saya sendiri tak hanya mengamini ungkapan <code>#KnowledgeIsPower</code> namun juga merasakannya. Situs ini contohnya, berawal dari ketidakpuasan dari berbagai macam platform blogging yang ada macam Wordpress, Blogger ataupun Tumblr, akhirnya saya memilih untuk belajar membuat blog menggunakan <a href="http://octopress.org">Octopress</a>. Memang, dibutuhkan waktu untuk mengerti dan mempelajarinya, lebih lagi saya tak pernah sekalipun belajar bahasa programming Ruby sebagai dasar dari Octopress. Lagi-lagi <code>#KnowledgeIsPower</code>, dengan <em>googling</em>, baca sana-sini akhirnya saya bisa juga menjalankan Octopress untuk situs ini. Bagaimana dengan mengubah tampilan situs, bukankah diperlukan pengetahuan tentang HTML, CSS, dll? Google!</p>
+<p>Saya sendiri tak hanya mengamini ungkapan <code>#KnowledgeIsPower</code> namun juga merasakannya. Situs ini contohnya, berawal dari ketidakpuasan dari berbagai macam platform blogging yang ada macam Wordpress, Blogger ataupun Tumblr, akhirnya saya memilih untuk belajar membuat blog menggunakan <a href="http://octopress.org">Octopress</a>. Memang, dibutuhkan waktu untuk mengerti dan mempelajarinya, lebih lagi saya tak pernah sekalipun belajar bahasa programming Ruby sebagai dasar dari Octopress. Lagi-lagi <code>#KnowledgeIsPower</code>, dengan <em>googling</em>, baca sana-sini akhirnya saya bisa juga menjalankan Octopress untuk situs ini. Bagaimana dengan mengubah tampilan situs, bukankah diperlukan pengetahuan tentang HTML, CSS, dll? Google! </p>
 
-<p>Informasi yang semakin mudah dicari juga semestinya dapat digunakan untuk membantu menyelesaikan pekerjaan. Pengalaman tentang <code>#KnowledgeIsPower</code> lainnya adalah bagaimana cara saya mengatasi tantangan bekerja <a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows">multi-platform</a>. Lagi-lagi berkat informasi dan pengetahuan yang mudah didapat, bekerja antar platform sistem operasi kini jadi sedikit lebih menyenangkan. <code>#KnowledgeIsPower</code> bagi mereka yang ingin dan mau menggunakannya.</p>
+<p>Informasi yang semakin mudah dicari juga semestinya dapat digunakan untuk membantu menyelesaikan pekerjaan. Pengalaman tentang <code>#KnowledgeIsPower</code> lainnya adalah bagaimana cara saya mengatasi tantangan bekerja <a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows">multi-platform</a>. Lagi-lagi berkat informasi dan pengetahuan yang mudah didapat, bekerja antar platform sistem operasi kini jadi sedikit lebih menyenangkan. <code>#KnowledgeIsPower</code> bagi mereka yang ingin dan mau menggunakannya. </p>
 
-<p>Ketinggalan informasi pun bukan lagi alasan. Perkembangan politik, nilai tukar kurs perkembangan gaya hidup terbaru yang sedang terjadi kini bisa didapatkan dari <em>smartphone</em> yang dimiliki. Banyak aplikasi mobile yang menyediakan layanan berita namun pilihan saya jatuh kepada <a href="https://www.kurio.co.id">Kurio</a>. Kurio memiliki UI dan UX yang menarik untuk digunakan<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. Integrasi dengan layanan <em>read-later</em> Pocket juga menambah salah satu alasan mengapa aplikasi Kurio ada dalam <em>homescreen</em> perangkat iOS saya.</p>
+<p>Ketinggalan informasi pun bukan lagi alasan. Perkembangan politik, nilai tukar kurs perkembangan gaya hidup terbaru yang sedang terjadi kini bisa didapatkan dari <em>smartphone</em> yang dimiliki. Banyak aplikasi mobile yang menyediakan layanan berita namun pilihan saya jatuh kepada <a href="https://www.kurio.co.id">Kurio</a>. Kurio memiliki UI dan UX yang menarik untuk digunakan<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>. Integrasi dengan layanan <em>read-later</em> Pocket juga menambah salah satu alasan mengapa aplikasi Kurio ada dalam <em>homescreen</em> perangkat iOS saya.</p>
 
-<p><img src="http://sweetdistraction.github.io/images/kurio1.png"></p>
+<p><img src="http://sweetdistraction.github.io/images/kurio1.png" /></p>
 
-<p>Salah satu hal yang membuat saya betah menggunakan Kurio terlebih di malam hari adalah adanya fitur <em>night-mode</em> dimana latar belakang aplikasi menjadi gelap sehingga tak membuat mata lelah ketika membaca berita.</p>
+<p>Salah satu hal yang membuat saya betah menggunakan Kurio terlebih di malam hari adalah adanya fitur <em>night-mode</em> dimana latar belakang aplikasi menjadi gelap sehingga tak membuat mata lelah ketika membaca berita. </p>
 
-<p><img src="http://sweetdistraction.github.io/images/kurio2.png"></p>
+<p><img src="http://sweetdistraction.github.io/images/kurio2.png" /></p>
 
-<p>Kurio juga menyediakan sumber berita serta topik yang beragam dan yang lebih penting, Kurio tersedia di platform <a href="https://play.google.com/store/apps/details?id=com.merahputih.kurio">Android</a> dan <a href="https://itunes.apple.com/id/app/kuriosmobile/id797299757?mt=8&amp;uo=4">iOS</a>.</p>
+<p>Kurio juga menyediakan sumber berita serta topik yang beragam dan yang lebih penting, Kurio tersedia di platform <a href="https://play.google.com/store/apps/details?id=com.merahputih.kurio">Android</a> dan <a href="https://itunes.apple.com/id/app/kuriosmobile/id797299757?mt=8&amp;uo=4">iOS</a>. </p>
 
 <p>Seperti yang sudah saya tulis, mendapatkan informasi serta pengetahuan kini semakin mudah berkat kemajuan teknologi. Oleh karena itu, <code>#KnowledgeIsPower</code> tergantung sejauh mana keinginan kita belajar dan mengaplikasikannya pada persoalan yang tengah dihadapi. Serta dengan kemudahan akses terhadap informasi dan berita terkini maka tak ada lagi alasan ketinggalan informasi atau kudet alias kurang update.</p>
 
 <p>Bagaimana ceritamu?</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Setidaknya jauh lebih baik dari aplikasi resmi portal berita online lain yang ada. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
 
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p>Setidaknya jauh lebih baik dari aplikasi resmi portal berita online lain yang ada.  <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 ]]></content>
   </entry>
   
@@ -298,11 +275,10 @@
     <updated>2014-12-17T09:37:58+07:00</updated>
     <id>http://sweetdistraction.github.io/the-perils-of-electronic-communications</id>
     <content type="html"><![CDATA[<p>David Sparks via <a href="www.macsparky.com">Macsparky</a>:</p>
-
 <blockquote><p>I think it runs even deeper than the typical big brother paranoia. Digital communications is permanent and hurtful things said to friends and loved ones via email is equally permanent. If you are pissed at a friend, go confront him. Yell. Scream. Exercise your demons. Bloody noses heal and a shared beer a few hours later heals even better. A rage-filled email however drives a deep, and often permanent, wedge.</p></blockquote>
 
+<p><em>That’s damned truth!</em></p>
 
-<p><em>That&rsquo;s damned truth!</em></p>
 ]]></content>
   </entry>
   
@@ -312,7 +288,7 @@
     <link href="http://sweetdistraction.github.io/app-santa-2014-sale/"/>
     <updated>2014-12-17T08:04:26+07:00</updated>
     <id>http://sweetdistraction.github.io/app-santa-2014-sale</id>
-    <content type="html"><![CDATA[<p>Guys, <a href="http://appsanta.co/">App Santa</a> ngasih diskon untuk beberapa aplikasi pilihan. Bagi yang mau beli Tweetbot 3, sekarang cuma Rp. 35 Ribu. Cheaper than a cup of Starbucks&#8217; double iced shaken espresso, no?</p>
+    <content type="html"><![CDATA[<p>Guys, <a href="http://appsanta.co/">App Santa</a> ngasih diskon untuk beberapa aplikasi pilihan. Bagi yang mau beli Tweetbot 3, sekarang cuma Rp. 35 Ribu. Cheaper than a cup of Starbucks’ double iced shaken espresso, no? </p>
 ]]></content>
   </entry>
   
@@ -323,11 +299,10 @@
     <updated>2014-12-16T09:50:50+07:00</updated>
     <id>http://sweetdistraction.github.io/path-update</id>
     <content type="html"><![CDATA[<p>Path via iTunes Store:</p>
-
 <blockquote><p>Muting: Now you can easily mute any moment that you&#8217;re tagged in. And, we want you to have even more control — change your settings so only your friends can tag you in moments.</p></blockquote>
 
-
 <p>Bagi yang sering kena tag berjamaah, kini kalian bisa bernapas lega.</p>
+
 ]]></content>
   </entry>
   
@@ -338,13 +313,13 @@
     <updated>2014-12-16T08:46:37+07:00</updated>
     <id>http://sweetdistraction.github.io/phraseexpress-docs</id>
     <content type="html"><![CDATA[<p>PhraseExpress Docs:</p>
-
-<blockquote><p>### Create/Alter a temporary variable<br/> Defines or changes the content of a temporary variable with the provided name and contents. You can create an unlimited number of temporary variables with either unformatted text and/or numbers. Such vars can be output with the `{#GETTEMP …}` macro function.</p></blockquote>
-
+<blockquote><p>### Create/Alter a temporary variable
+<br /> Defines or changes the content of a temporary variable with the provided name and contents. You can create an unlimited number of temporary variables with either unformatted text and/or numbers. Such vars can be output with the `{#GETTEMP …}` macro function.</p></blockquote>
 
 <p>Datang pagi ke kantor dan membuka kembali dokumen pendukung PhraseExpress lalu menemukan dokumentasi yang satu ini. Ketika bekerja di Mac, saya memiliki snippets <code>;ext</code> yang secara otomatis ter-<em>expand</em> menjadi sebuah <em><a href="https://en.wikipedia.org/wiki/Linklog">linklog</a></em> post lengkap dengan <em>YAML front-matternya</em> karena web saya menggunakan <a href="http://octopress.org/">Octopress</a>. Serta berkat adanya dukungan dari AppleScript, semua parameter YAML front-matter seperti judul, url, dan kalimat yang akan dikutip langsung otomatis muncul ketika snippets tersebut diaktifkan. AppleScript secara otomatis mengambil URL dan Title dari tab Safari yang aktif.</p>
 
 <p>Lain hal lagi ketika bekerja di Windows, saya menggunakan PhraseExpress untuk pengganti TextExpander. Snippets <code>;ext</code> juga saya atur persis dengan snippets pada Mac. Perbedaannya adalah kini saya harus melakukan 3 kali copy untuk URL, Judul serta teks kutipan dan membuatnya menjadi variable di PhraseExpress terlebih dahulu sebelum mengetik snippet <code>;ext</code> di teks editor. Meski belum sepenuhnya otomatis seperti ketika saya bekerja di Mac namun setidaknya kini saya tak perlu lagi bolak-balik teks editor-browser hanya untuk copy-paste judul, url ataupun teks kutipan.</p>
+
 ]]></content>
   </entry>
   
@@ -355,9 +330,7 @@
     <updated>2014-12-11T10:58:41+07:00</updated>
     <id>http://sweetdistraction.github.io/twitter-clients-2014-macstories</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Frederico Viticci</a> via <a href="www.macstories.net">Macstories</a>:</p>
-
 <blockquote><p>Choosing a Twitter client is incredibly personal. This experiment reinforced my belief that most of my criticism for Tweetbot and Twitterrific stems from API limitations that Twitter won’t fix for third-party developers. For this reason, it would be wrong to judge third-party clients solely based on features they can’t implement.</p></blockquote>
-
 
 <p>Seperti biasa, Frederico Viticci melakukan pekerjaan yang mengaggumkan dengan menghadirkan ulasan yang komprehensif tentang berbagai macam <em>twitter client</em> di iOS seperti Tweetbot, Twitterific, dll. Namun meski banyak sekali pilihan aplikasi pihak ketiga untuk bermain Twitter namun bagi saya Tweetbot merupakan aplikasi yang paling pas dan menyenangkan untuk digunakan. Selamat membaca!</p>
 ]]></content>
@@ -370,11 +343,10 @@
     <updated>2014-12-11T01:59:00+07:00</updated>
     <id>http://sweetdistraction.github.io/stunning-interstellar-posters-james-letcher</id>
     <content type="html"><![CDATA[<p>Via <a href="http://theultralinx.com">Ultralinx</a>:</p>
-
 <blockquote><p>I saw “Interstellar” last week and it blew my mind. It is a really good film that not only has you sitting on the edge of your seat for almost three hours, but also inspires you to extend your knowledge about the Universe and quantum physics.</p></blockquote>
 
-
 <p>Awesome! Also if you want Interstellar wallpaper for your iOS device, <a href="https://twitter.com/jim_gresham">Jim Gresham</a> has been posted it on <a href="http://www.idownloadblog.com/2014/12/07/interstellar-wallpapers-iphone-ipad/">iDownloadblog</a></p>
+
 ]]></content>
   </entry>
   
@@ -388,35 +360,32 @@
 
 <blockquote><p>I propose that, if we learned how to fully use what we already had better, such depth of knowledge and skill would have a far greater and more lasting impact. That, especially with those tools we use every day, getting better at them will reap the greatest reward. There is likely some feature or use-case that we don’t even realize we need until we know it and when we do we will be thankful we learned it.</p></blockquote>
 
-
-
-
 <!--more-->
-
 
 <p>Kristoffer Carter di <a href="http://www.becomingminimalist.com/choose-yourself/">becomingminimalist</a>:</p>
 
-<blockquote><p>To focus on choosing better work over more tools, I have begun to embrace the following principles when it comes to my art:<br/><br/>1. Instead of choosing more tools, choose yourself.<br/>2. Instead of investing money in the promise of better output, invest time, focus, and patience in creating your best impact. In my music, marriage, speaking career, distance running, and especially in my meditation practice I realize there are no shortcuts.<br/>3. Tools can sometimes hack proficiency, but you can’t hack mastery. Period. There’s only showing up, and trying our best to do good work. Day after day, year after year.</p></blockquote>
+<blockquote><p>To focus on choosing better work over more tools, I have begun to embrace the following principles when it comes to my art:
+<br />
+<br />1. Instead of choosing more tools, choose yourself.
+<br />2. Instead of investing money in the promise of better output, invest time, focus, and patience in creating your best impact. In my music, marriage, speaking career, distance running, and especially in my meditation practice I realize there are no shortcuts.
+<br />3. Tools can sometimes hack proficiency, but you can’t hack mastery. Period. There’s only showing up, and trying our best to do good work. Day after day, year after year.</p></blockquote>
 
+<p>Kadang kita berpikir bahwa dengan sebuah <em>‘tools’</em> yang tepat maka kita menjadi lebih efisien dan efektif dalam menyelesaikan pekerjaan. Namun juga terkadang kita lupa bahwa pengertian dan penguasaan terhadap sebuah <em>tools</em> yang dimiliki kadang menjadi jauh lebih penting dan jauh lebih menimbulkan pengaruh pada pekerjaan yang dilakukan. </p>
 
-<p>Kadang kita berpikir bahwa dengan sebuah <em>&lsquo;tools&rsquo;</em> yang tepat maka kita menjadi lebih efisien dan efektif dalam menyelesaikan pekerjaan. Namun juga terkadang kita lupa bahwa pengertian dan penguasaan terhadap sebuah <em>tools</em> yang dimiliki kadang menjadi jauh lebih penting dan jauh lebih menimbulkan pengaruh pada pekerjaan yang dilakukan.</p>
+<p>Saya sendiri menyadari bahwa tak mudah memang untuk menguasai sebuah aplikasi dan terkadang membutuhkan waktu yang tak sebentar. Perlu ketekunan dan juga kesabaran dalam melatih diri sendiri untuk dapat memaksimalkan fitur yang ada. <em>Keyboard shortcut</em> salah satunya, baik di platform <a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows/">Mac atau Windows</a>. Menghafalkan <em>hot-keys</em> serta <em>snippets</em> yang dimiliki terlebih jika jumlahnya tak sedikit diperlukan waktu. </p>
 
-<p>Saya sendiri menyadari bahwa tak mudah memang untuk menguasai sebuah aplikasi dan terkadang membutuhkan waktu yang tak sebentar. Perlu ketekunan dan juga kesabaran dalam melatih diri sendiri untuk dapat memaksimalkan fitur yang ada. <em>Keyboard shortcut</em> salah satunya, baik di platform <a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows/">Mac atau Windows</a>. Menghafalkan <em>hot-keys</em> serta <em>snippets</em> yang dimiliki terlebih jika jumlahnya tak sedikit diperlukan waktu.</p>
-
-<p>Seperti Patrick Rhone tulis,</p>
-
+<p>Seperti Patrick Rhone tulis, </p>
 <blockquote><p>Though this added a bit of time and effort at first, it has payed off tenfold since. I now spend a lot less time dealing with email simply because I now save a second or two on every action. When multiplied, those seconds quickly turn to minutes and hours.</p></blockquote>
 
+<p>Pilihannya sekarang tinggal dua, terus mengandalkan atau menambah jumlah pilihan aplikasi untuk mendukung menyelesaikan pekerjaan atau <em>mengupgrade</em> kemampuan kita dalam memahami dan menggunakan sebuah <em>tools</em> agar menjadi lebih produktif, bukan?<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup></p>
 
-<p>Pilihannya sekarang tinggal dua, terus mengandalkan atau menambah jumlah pilihan aplikasi untuk mendukung menyelesaikan pekerjaan atau <em>mengupgrade</em> kemampuan kita dalam memahami dan menggunakan sebuah <em>tools</em> agar menjadi lebih produktif, bukan?<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 <div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Mumpung hari Senin jadi masih boleh serius. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
+  <ol>
+    <li id="fn:fn1">
+      <p>Mumpung hari Senin jadi masih boleh serius.  <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
 </div>
-
 ]]></content>
   </entry>
   
@@ -430,38 +399,38 @@
 
 <!--more-->
 
-
 <p>Meski perangkat iOS saya sudah terjailbreak, namun saya belum memperbaharuinya ke iOS versi 8.1.1. Tweaks yang terinstall pun tak sebanyak dulu sewaktu iOS 7. Kini saya hanya mempunyai sekitar 12 tweak yang terpasang. Kira-kira hanya separuh dari jumlah tweaks yang terinstall pada iOS versi sebelumnya, dan berikut daftar tweaks tersebut:</p>
 
 <ul>
-<li>Activator<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
-<li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
-<li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
-<li>SwipeSelection<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></li>
-<li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
-<li>Springtomize 3: Customize and declutter all the things!</li>
-<li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
-<li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
-<li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
-<li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan &lsquo;memaksa&rsquo; sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan.</li>
-<li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
-<li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
+  <li>Activator<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
+  <li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
+  <li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
+  <li>SwipeSelection<sup id="fnref:fn2"><a href="#fn:fn2" class="footnote">2</a></sup></li>
+  <li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:fn3"><a href="#fn:fn3" class="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
+  <li>Springtomize 3: Customize and declutter all the things!</li>
+  <li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
+  <li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
+  <li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
+  <li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan ‘memaksa’ sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan. </li>
+  <li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
+  <li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
 </ul>
 
-
 <p>Itu dia daftar tweak yang terinstall pada perangkat iOS saya. Jailbreak memang tak <a href="http://sweetdistractions.net/apple-vs-jailbreak">direkomendasikan oleh Apple</a>, bahkan Apple tak akan mengganti kerusakan akibat jailbreak yang dilakukan. Oleh sebab itu, disclaimer Do With Your Own Risk selalu melekat pada sebuah tools jailbreak. Menginstall tweak juga sebaiknya dari sumber yang terpercaya karena bagaimanapun jailbreak adalah membuka akses root dari sebuah perangkat iOS sehingga jika asal menginstall tweak bisa saja tweak tersebut memiliki kode yang berbahaya ataupun malware.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Wajib hukumnya<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-<li id="fn:2">
-<p>Ini juga wajib hukumnya<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
-<li id="fn:3">
-<p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
 
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p>Wajib hukumnya <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn2">
+      <p>Ini juga wajib hukumnya <a href="#fnref:fn2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn3">
+      <p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com <a href="#fnref:fn3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 ]]></content>
   </entry>
   
@@ -471,14 +440,21 @@
     <link href="http://sweetdistraction.github.io/internships-at-top-companies/"/>
     <updated>2014-12-05T16:34:31+07:00</updated>
     <id>http://sweetdistraction.github.io/internships-at-top-companies</id>
-    <content type="html"><![CDATA[<p>Via <a href="http://theultralinx.com">Ultralinx</a>:</p>
+    <content type="html"><![CDATA[<p>Via <a href="http://theultralinx.com">Ultralinx</a>: </p>
 
-<p><img src="http://sweetdistraction.github.io/images/internsalary.png"></p>
+<p><img src="http://sweetdistraction.github.io/images/internsalary.png" /></p>
 
 <blockquote><p>Dropbox tops the list in terms of total takeaway every month at $13,500, with LinkedIn second at $12,600 and Amazon and Foursquare tied at third both offering $11,000.</p></blockquote>
 
+<p>Gile, ndro!<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup></p>
 
-<p>Gile, ndro<img src="" title="menatap slip gaji dengan mata berkaca-kaca" alt="^fn1" /></p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p>menatap slip gaji dengan mata berkaca-kaca <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 ]]></content>
   </entry>
   
@@ -489,9 +465,7 @@
     <updated>2014-12-05T09:16:41+07:00</updated>
     <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>
     <content type="html"><![CDATA[<p><a href="@JeffBenjam">Jeff Benjam</a> via <a href="www.idownloadblog.com">iDownloadblog</a>:</p>
-
-<blockquote><p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy & paste, create and delete folders, delete files, create and extract compressed files, and more.</p></blockquote>
-
+<blockquote><p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy &amp; paste, create and delete folders, delete files, create and extract compressed files, and more.</p></blockquote>
 
 <p>Jika membaca review yang ditulis oleh Jeff, rasanya FileBrowser masih jauh baik secara fitur atau tampilan jika dibandingkan dengan iFile. Hadir secara gratis dengan adanya iklan dalam aplikasinya, FileBrowser bisa jadi alternatif untuk berjelajah antar direktori pada perangkat iOS. Namun jangan lupa bahwa iFile juga dapat digunakan secara gratis meski dengan fitur yang terbatas.</p>
 ]]></content>
@@ -504,13 +478,11 @@
     <updated>2014-12-03T23:49:00+07:00</updated>
     <id>http://sweetdistraction.github.io/byword-i-still-love-you</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/macsparky">David Sparks</a> via <a href="www.macsparky.com">Macsparky</a>:</p>
-
 <blockquote><p>The thing about Byword is that it just delivers. The design is solid and unobtrusive. Its developers understand iteration and avoid change for the sake of change.</p></blockquote>
 
+<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya. </p>
 
-<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya.</p>
-
-<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger.</p>
+<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger. </p>
 ]]></content>
   </entry>
   
@@ -521,15 +493,13 @@
     <updated>2014-12-03T17:09:30+07:00</updated>
     <id>http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro</id>
     <content type="html"><![CDATA[<p><a href="http://twitter.com/viticci">Federico Viticci</a> via <a href="http://www.macstories.net/">Macstories</a>:</p>
-
 <blockquote><p>This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></blockquote>
-
 
 <p>Menulis artikel tips dan trik untuk sebuah blog teknologi lokal terkadang dituntut adanya screenshot untuk mempermudah pemahaman dari topik yang sedang dibahas. Sebelumnya, untuk menggabungkan beberapa screenshot saya akan membuka Pixelmator dan menyusunnya. Hal ini tentu kurang efektif dan memakan waktu.</p>
 
 <p>Hari ini saya gembira karena menemukan artikel mengenai penggunaan Keyboard Maestro untuk melakukan resize screenshot dari iPhone dan menggabungkannya. Jika biasanya saya menggunakan Pixelmator untuk mengedit dan menggabungkan screenshot memakan waktu lebih dari 15 menit maka dengan macro dari <a href="http://twitter.com/macdrifter">Gabe</a> yang dibahas oleh <a href="http://twitter.com/viticci">@viticci</a> tersebut kini hanya perlu waktu kurang dari 5 detik.</p>
 
-<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun.</p>
+<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun. </p>
 ]]></content>
   </entry>
   
@@ -540,13 +510,11 @@
     <updated>2014-12-03T10:31:41+07:00</updated>
     <id>http://sweetdistraction.github.io/javascript-for-automation</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/The_Axx">Alex Guyot</a> via <a href="www.macstories.net">Macstories</a>:</p>
-
 <blockquote><p>Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></blockquote>
-
 
 <p>Jika <a href="https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html">AppleScript</a> dan <a href="http://support.apple.com/en-us/ht2488">Automator</a> dirasa tak cukup untuk mengotomatisasi berbagi pekerjaan pada Mac maka JavaScript for Automation (JXA) boleh dicoba. <a href="https://twitter.com/The_Axx">Alex Guyot</a> melalui Macstories telah memberikan sedikit gambaran dan contoh bagaimana javascript dapat mendukung mempercepat workflow di OS X.</p>
 
-<p>Let&rsquo;s automate all the things!</p>
+<p>Let’s automate all the things!</p>
 ]]></content>
   </entry>
   
@@ -557,10 +525,7 @@
     <updated>2014-12-03T10:25:36+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-watch-website-updates</id>
     <content type="html"><![CDATA[<p><a href="http://www.macstories.net/linked/apple-watch-website-update/">Macstories</a>:</p>
-
 <blockquote><p>The Watch microsite has been updated with more details for timekeeping and fitness features, revealing more details about customizable complications, watch faces, fitness and activity tracking, and more.</p></blockquote>
-
-
 
 ]]></content>
   </entry>
@@ -573,9 +538,13 @@
     <id>http://sweetdistraction.github.io/realmacsoftware-release-typed-text-editor</id>
     <content type="html"><![CDATA[<p><a href="www.realmacsoftware.com">Realmac Software</a>:</p>
 
-<blockquote><h2>Your Best Work Isn’t Written, It’s Typed.</h2>
+<blockquote>
+  <h2 id="your-best-work-isnt-written-its-typed">Your Best Work Isn’t Written, It’s Typed.</h2>
+</blockquote>
 
-<p>Typed is the stunning new writing app for the Mac, and the first that improves your focus so you can create great content. Typed makes writing for the web incredibly easy, and its Zen Mode features relaxing soundtracks that help you concentrate.</p></blockquote>
+<blockquote>
+  <p>Typed is the stunning new writing app for the Mac, and the first that improves your focus so you can create great content. Typed makes writing for the web incredibly easy, and its Zen Mode features relaxing soundtracks that help you concentrate.</p>
+</blockquote>
 
 <p>Realmac Software yang juga pengembang dari aplikasi dari <a href="http://realmacsoftware.com/clear">Clear</a>, <a href="http://realmacsoftware.com/ember">Ember</a>, <a href="http://realmacsoftware.com/rapidweaver">Rapidweaver</a> baru saja merilis aplikasi berupa teks editor yang diberi nama <a href="http://realmacsoftware.com/typed">Typed</a>.</p>
 
@@ -583,7 +552,7 @@
 
 <p>Penghitung kata, fitur export tulisan ke format HTML, RTF, keyboard shortcuts, auto save support merupakan beberapa fitur yang dihadirkan Realmac Software di Typed. Dirilis dengan harga $19,99 untuk waktu yang terbatas (harga asli $24.99), Typed memang lebih mahal daripada beberapa teks editor lain seperti Byword ($9.99) dan iA Writer ($9.99). Namun jangan khawati karena Realmac Software menyediakan trial aplikasinya selama 7 hari bagi pengguna sebelum membelinya. Saya sudah mencobanya dengan menuliskan artikel ini.  Terdapat efek blur pada latar belakang teks editor Typed selaras dengan OS X Yosemite ketika sedang digunakan dan saya sendiri kurang menyukainya karena bisa saja menimbulkan distraksi.</p>
 
-<p>Semakin banyak aplikasi berjenis teks editor yang dirilis di platform Mac. Dengan gimmick berupa fitur zen mode dimana Typed menyediakan soundtrack sebagai teman menulis, rasanya berkompromi dengan harga yang ditawarkan masih bisa dimaklumi.</p>
+<p>Semakin banyak aplikasi berjenis teks editor yang dirilis di platform Mac. Dengan gimmick berupa fitur zen mode dimana Typed menyediakan soundtrack sebagai teman menulis, rasanya berkompromi dengan harga yang ditawarkan masih bisa dimaklumi. </p>
 ]]></content>
   </entry>
   
@@ -594,11 +563,9 @@
     <updated>2014-12-02T10:20:38+07:00</updated>
     <id>http://sweetdistraction.github.io/app-store-rules</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/marcoarment">Marco Arment</a>:</p>
-
 <blockquote><p>If Apple won’t enforce its own standards against spamming and annoying customers — which really isn’t good enough — the least they can do is practice the rules themselves and be a good example.</p></blockquote>
 
-
-<p>Maybe Apple just being consistent to what its CEO said back to WWDC this year: &ldquo;This is something only Apple could do.&rdquo;</p>
+<p>Maybe Apple just being consistent to what its CEO said back to WWDC this year: “This is something only Apple could do.”</p>
 ]]></content>
   </entry>
   
@@ -612,11 +579,9 @@
 
 <blockquote><p>Making unauthorized modifications to the software on an iPhone violates the iPhone software license agreement. The common term for modifying an iPhone is jail-breaking, with a particular emphasis on the second part of that term. That’s why we strongly, almost emphatically, recommend that you do not do so. Really. Should you be unable to use your iPhone due to an unauthorized software modification, its repair will not be covered under the warranty.</p></blockquote>
 
-
 <p>Apple memang sudah lama menentang ataupun tak mengijinkan penggunanya untuk melakukan jailbreak. Pada halaman <em>sales policy</em> di atas bahkan Apple tak bertanggung jawab atas kerusakan yang terjadi akibat modifikasi dari sistem operasi iOS dalam hal ini berarti hangusnya garansi perangkat.</p>
 
 <!--more-->
-
 
 <p>Keputusan untuk melakukan jailbreak memang sepenuhnya ada di tangan pengguna dan tak selamanya jailbreak berdampak buruk. Bagi seorang pengembang ataupun seseorang yang ingin mempelajari tentang sistem operasi terutama iOS, jailbreak bisa saja merupakan sebuah langkah untuk mendukung kegiatannya. Tak hanya itu, jailbreak yang membuka akses <em>root</em> perangkat juga memungkinkan pengguna untuk mengkustomisasi perangkat yang dimiliki mulai dari menginstall tema, mengubah ikon batere atau sinyal, menghilangkan UI yang dianggap mengganggu dan masih banyak lagi. Namun juga tak jarang beberapa orang melakukan jailbreak untuk mengunduh dan menginstall aplikasi bajakan yang tentu saja merugikan bagi pengembang aplikasi padahal banyak cara untuk mendapatkan sebuah aplikasi secara legal, memakai iTunes gift card misalnya.</p>
 
@@ -634,10 +599,9 @@
 
 <blockquote><p>1Writer 2.0 was the most delightful surprise this week and probably the best deal you could make this holiday if you write in your iOS devices. I’m sure it is only a matter of time until more actions pop up and improve the pool of options in this outstanding text editor.</p></blockquote>
 
-
 <p><a href="http://1writerapp.com/">1Writer</a>, salah satu teks editor di iOS baru saja menerima pembaharuan besar. Penambahan <em>javascript action</em>, pengamanan tambahan dengan Touch ID, kustomisasi font serta tampilan, safari extensions, in-app-browser serta <em>today widget</em> untuk mengakses dokumen favorit secara cepat dan masih banyak lagi.</p>
 
-<p>Ngoc Luu juga menambahkan <em><a href="http://1writerapp.com/actiondir">action directory</a></em> bagi pengguna yang ingin menambahkan <em>javascript action</em> dengan mudah ke dalam aplikasi 1Writer. Tak hanya itu, bagi pengguna yang ingin belajar membuat <em>javascript action</em> sendiri, Ngoc Luu juga sudah menyiapkan <a href="http://1writerapp.com/docs/js">dokumen</a> pendukung yang dapat dipelajari dan digunakan.</p>
+<p>Ngoc Luu juga menambahkan <em><a href="http://1writerapp.com/actiondir">action directory</a></em> bagi pengguna yang ingin menambahkan <em>javascript action</em> dengan mudah ke dalam aplikasi 1Writer. Tak hanya itu, bagi pengguna yang ingin belajar membuat <em>javascript action</em> sendiri, Ngoc Luu juga sudah menyiapkan <a href="http://1writerapp.com/docs/js">dokumen</a> pendukung yang dapat dipelajari dan digunakan. </p>
 
 <p>Seperti biasa, Philip Gruneich juga telah membuat artikel mengenai update dari 1Writer di OneTapLess dengan contoh <em>javascript action-nya</em>.</p>
 ]]></content>
@@ -651,10 +615,12 @@
     <id>http://sweetdistraction.github.io/unlock-macbook-with-touch-id</id>
     <content type="html"><![CDATA[<p>Via <a href="www.cultofmac.com">CultofMac</a></p>
 
-<blockquote><p>Called FingerKey, this new utility works by using Bluetooth 4.0 (what else?) to pair with your Mac, then forms a low latency, low energy wireless connection with an extra layer of 256-bit AES encryption on top to keep things secure.<br/><br/>Once you’ve got things paired, unlocking your Mac is as simple as getting into Bluetooth range, opening up the app, and putting your finger against the home button. There’s also a Notification Center Widget that makes things even easier, and FingerKey can actually unlock multiple Macs at a time.</p></blockquote>
-
+<blockquote><p>Called FingerKey, this new utility works by using Bluetooth 4.0 (what else?) to pair with your Mac, then forms a low latency, low energy wireless connection with an extra layer of 256-bit AES encryption on top to keep things secure.
+<br />
+<br />Once you’ve got things paired, unlocking your Mac is as simple as getting into Bluetooth range, opening up the app, and putting your finger against the home button. There’s also a Notification Center Widget that makes things even easier, and FingerKey can actually unlock multiple Macs at a time.</p></blockquote>
 
 <p>Macbook dengan Touch ID bisa saja menjadi inovasi Apple selanjutnya, namun sebelum itu terjadi kini membuka Mac dengan Touch ID yang terdapat di iPhone sudah bisa dilakukan.</p>
+
 ]]></content>
   </entry>
   
@@ -665,9 +631,7 @@
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8.1.1-jailbreak-release</id>
     <content type="html"><![CDATA[<p>Dari <a href="http://iclarified.com">iClarified</a>:</p>
-
-<blockquote><p>MuscleNerd confirmed the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p><p><br/>&#8220;Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case&#8221;</p><p><br/>TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG &#8216;app store&#8217; for cracked apps by default in China.</p></blockquote>
-
+<blockquote><p>MuscleNerd confirmed the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p><p><br />&#8220;Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case&#8221;</p><p><br />TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG &#8216;app store&#8217; for cracked apps by default in China.</p></blockquote>
 ]]></content>
   </entry>
   
@@ -677,13 +641,14 @@
     <link href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/"/>
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:</p>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> di iMore:
+&gt; ## Encrypted identities</p>
 
-<blockquote><h2>Encrypted identities</h2>
+<blockquote>
+  <p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That’ll be used later to identify you in a way that maintains your privacy and security.</p>
+</blockquote>
 
-<p>When AirDrop is turned on, a 2048-bit RSA Identity is created and stored on your iPhone, iPad, or Mac. A hash, based on the phone numbers and/or email addresses associated with your Apple ID, is also created. That&rsquo;ll be used later to identify you in a way that maintains your privacy and security.</p></blockquote>
-
-<p>Security! Security!</p>
+<p>Security! Security! </p>
 ]]></content>
   </entry>
   
@@ -695,13 +660,15 @@
     <id>http://sweetdistraction.github.io/watchboar-apple-watch-springboard-iphone-ipad</id>
     <content type="html"><![CDATA[<p>Jeff Benjamin di <a href="www.idownloadblog.com.">iDownloadblog</a></p>
 
-<blockquote><p>The thing I really like about WatchBoard is that no resprings are required when enabling or disabling the tweak. Yes, even when you want to fully replace the iPhone’s SpringBoard with the Apple Watch UI, no resprings are required, which is one of the best features of WatchBoard.</p></blockquote>
+<blockquote>
+  <p>The thing I really like about WatchBoard is that no resprings are required when enabling or disabling the tweak. Yes, even when you want to fully replace the iPhone’s SpringBoard with the Apple Watch UI, no resprings are required, which is one of the best features of WatchBoard.</p>
+</blockquote>
 
 <p>Jika beberapa waktu sebelumnya Aeternum hadir sebagai jailbreak tweak yang membawa Apple Watch UI ke springboard iPhone atau iPad maka kini giliran WatchBoard dari Aaron Ash yang juga pencipta dari jailbreak tweak ternama, <a href="http://cydia.saurik.com/package/com.aaronash.barrel/">Barrel</a>.</p>
 
 <p>Salah satu kekurangan dari Apple Watch UI di iPhone atau iPad adalah bagaimana dengan cepat membuka sebuah aplikasi yang diinginkan (saya memakai Aeternum dan hal ini juga menjadi salah satu masalah dalam menggunakan Apple Watch UI di keseharian). Namun jangan khawatir karena WatchBoard memiliki fitur untuk mengaktfikan spotlight dengan mudah, caranya tinggal tap di tempat yang kosong.</p>
 
-<p>Ditawarkan dengan sedikit lebih mahal yaitu $3.99 dengan <a href="http://cydia.saurik.com/package/com.spiritoflogic.aeternum/">Aeternum</a>, WatchBoard mungkin dapat menjadi pilihan bagi yang tak sabar untuk mencoba Apple Watch UI di iPhone atau iPadnya.</p>
+<p>Ditawarkan dengan sedikit lebih mahal yaitu $3.99 dengan <a href="http://cydia.saurik.com/package/com.spiritoflogic.aeternum/">Aeternum</a>, WatchBoard mungkin dapat menjadi pilihan bagi yang tak sabar untuk mencoba Apple Watch UI di iPhone atau iPadnya. </p>
 ]]></content>
   </entry>
   
@@ -712,6 +679,7 @@
     <updated>2014-11-28T10:37:54+07:00</updated>
     <id>http://sweetdistraction.github.io/static-site-generators</id>
     <content type="html"><![CDATA[<p>Bingung mau ngeblog pakai apa? Males daftar-daftar di Wordpress, Blogger, Tumblr? Situs yang satu ini punya daftar yang panjang tentang blog statis! Choose your own story lane to start.</p>
+
 ]]></content>
   </entry>
   
@@ -721,15 +689,14 @@
     <link href="http://sweetdistraction.github.io/blackfriday-apps-deal/"/>
     <updated>2014-11-27T09:14:00+07:00</updated>
     <id>http://sweetdistraction.github.io/blackfriday-apps-deal</id>
-    <content type="html"><![CDATA[<p><a href="http://macstories.net">Macstories</a></p>
+    <content type="html"><![CDATA[<p><a href="http://macstories.net">Macstories</a>
+&gt; Black Friday is upon us once again! #MacStoriesDeals is the best place to find great deals for iOS apps and games, Mac software, and more.</p>
 
-<blockquote><p>Black Friday is upon us once again! #MacStoriesDeals is the best place to find great deals for iOS apps and games, Mac software, and more.</p></blockquote>
-
-<p>Macstories telah merangkum beberapa deals diskon aplikasi baik untuk iPhone, iPad hingga Mac menjelang Black Friday.</p>
+<p>Macstories telah merangkum beberapa deals diskon aplikasi baik untuk iPhone, iPad hingga Mac menjelang Black Friday. </p>
 
 <p>Fantastical 2 yang menjadi aplikasi kalender favorit saya juga ada dalam daftar, kini hanya $1.99 untuk iPhone dan $4.99 untuk iPad serta $9.99 untuk Mac. Jika belum yakin untuk mencoba Fantastical 2 maka sebaiknya baca dulu <a href="http://www.macstories.net/reviews/fantastical-2-review/">review</a> dari Macstories.</p>
 
-<p>Selain deals di atas, <a href="http://smilesoftware.com/TextExpander/touch/index.html">Text Expander Touch</a> menjadi Rp. 12 Ribu di App Store Indonesia. Namun ketika saya membuka App Store US, harga dari Text Expander Touch masih sama yaitu $4.99.</p>
+<p>Selain deals di atas, <a href="http://smilesoftware.com/TextExpander/touch/index.html">Text Expander Touch</a> menjadi Rp. 12 Ribu di App Store Indonesia. Namun ketika saya membuka App Store US, harga dari Text Expander Touch masih sama yaitu $4.99. </p>
 
 <p>So, stay update!</p>
 ]]></content>
@@ -743,11 +710,17 @@
     <id>http://sweetdistraction.github.io/iphone-blackberry-trade-up-program</id>
     <content type="html"><![CDATA[<p>Blackberry di situsnya:</p>
 
-<blockquote><p>Trade your iPhone for a BlackBerry Passport and get up to $550!</p>
+<blockquote>
+  <p>Trade your iPhone for a BlackBerry Passport and get up to $550!</p>
+</blockquote>
 
-<p>For a limited time, starting December 1st.</p>
+<blockquote>
+  <p>For a limited time, starting December 1st.</p>
+</blockquote>
 
-<p>Upgrade to a BlackBerry® Passport and get up to $400 back for your iPhone and an additional $150 from BlackBerry.</p></blockquote>
+<blockquote>
+  <p>Upgrade to a BlackBerry® Passport and get up to $400 back for your iPhone and an additional $150 from BlackBerry.</p>
+</blockquote>
 
 <p>Ada yang mau tukar iPhone 6-nya sama Blackberry Passport?</p>
 ]]></content>
@@ -759,9 +732,8 @@
     <link href="http://sweetdistraction.github.io/unread-ipad-jadi-freemium/"/>
     <updated>2014-11-26T01:33:00+07:00</updated>
     <id>http://sweetdistraction.github.io/unread-ipad-jadi-freemium</id>
-    <content type="html"><![CDATA[<p>Dari iDownloadblog:</p>
-
-<blockquote><p>Previously costing five bucks a pop, Unread for iPad is now a free download with In-App Purchases to unlock advanced features. The app sports full-screen reading, has multiple themes for day, night and some such, features rich content sharing via OvershareKit and much more.</p></blockquote>
+    <content type="html"><![CDATA[<p>Dari iDownloadblog:
+&gt; Previously costing five bucks a pop, Unread for iPad is now a free download with In-App Purchases to unlock advanced features. The app sports full-screen reading, has multiple themes for day, night and some such, features rich content sharing via OvershareKit and much more.</p>
 
 <p>Sayang udah ngga punya iPad lagi, ada yang mau kasih?</p>
 ]]></content>
@@ -773,14 +745,13 @@
     <link href="http://sweetdistraction.github.io/san-fransisco-ios-fonts/"/>
     <updated>2014-11-25T22:08:00+07:00</updated>
     <id>http://sweetdistraction.github.io/san-fransisco-ios-fonts</id>
-    <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/settingcomparison.png" title="Settings" ></p>
+    <content type="html"><![CDATA[<p><img src="http://sweetdistraction.github.io/images/settingcomparison.png" title="Settings" /></p>
 
-<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>.</p>
+<p>Sejak Apple mengumumkan Apple Watch SDK, San Fransisco, font yang dibuat Apple secara khusus yang menjadi default font di Apple Watch mulai menjadi perbincangan. Bahkan beberapa orang sudah memportingnya untuk dapat dipakai di <a href="http://sweetdistractions.net/san-fransisco-yosemite-font/">Mac</a>. </p>
 
 <!--more-->
 
-
-<p><img src="http://sweetdistraction.github.io/images/notescomparison.png" title="Notes" >
+<p><img src="http://sweetdistraction.github.io/images/notescomparison.png" title="Notes" />
 Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebagai system font di perangkat iOS. <a href="https://twitter.com/dbk1ng">Daniel B. King</a>, memporting font ini agar dapat digunakan di perangkat iOS. Caranya mudah, cukup install aplikasi Bytafont2 dari Cydia dan unduh San Fransisco font dari repo <code>http://dbk1ng.myrepospace.com</code>. Setelah itu, pilih San Fransisco yang ada di daftar font pada aplikasi Bytafont2 dan perangkat akan secara otomatis respring. Saya sendiri lebih menyukain San Fransisco daripada Helvetica Neue meski baru sebentar menggunakannya. Mungkin saja nantinya Apple berencana mengganti system font iOS 9 ke San Fransisco.</p>
 ]]></content>
   </entry>
@@ -793,13 +764,17 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <id>http://sweetdistraction.github.io/30-tahun-setelah-apple-macintosh-pertama-dirilis</id>
     <content type="html"><![CDATA[<p>Kent Akgungor di <a href="http://thingsofinterest.com/">Things Of Interest</a></p>
 
-<blockquote><p>When first released in 1984, the Apple Macintosh shipped with a black-and-white 512 x 342 display. Fast forward 30 years to the release of the iMac with Retina 5K display, which ships with a 5,120 x 2,880 display with support for millions of colours. That’s an increase from 175,000 pixels to more than 14.7 million – an 8,400% increase. 80 of the original Macintosh displays fit within a single Retina 5K display.</p></blockquote>
+<blockquote>
+  <p>When first released in 1984, the Apple Macintosh shipped with a black-and-white 512 x 342 display. Fast forward 30 years to the release of the iMac with Retina 5K display, which ships with a 5,120 x 2,880 display with support for millions of colours. That’s an increase from 175,000 pixels to more than 14.7 million – an 8,400% increase. 80 of the original Macintosh displays fit within a single Retina 5K display.</p>
+</blockquote>
 
-<p>It&rsquo;s terrific what Apple could&rsquo;ve done in 30 years and still counting.</p>
+<p>It’s terrific what Apple could’ve done in 30 years and still counting. </p>
 
 <p>Mike Salomon di <a href="http://www.thecleverest.com/">The Cleverest</a> mencoba melakukan hal sebaliknya.</p>
 
-<blockquote><p>So I thought I’d take the opposite approach. Below are 1-to-1 pixel mockups of how Mac OSX Yosemite would have appeared on the original Macintosh’s 512×342 pixel screen.</p></blockquote>
+<blockquote>
+  <p>So I thought I’d take the opposite approach. Below are 1-to-1 pixel mockups of how Mac OSX Yosemite would have appeared on the original Macintosh’s 512×342 pixel screen.</p>
+</blockquote>
 ]]></content>
   </entry>
   
@@ -811,9 +786,9 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <id>http://sweetdistraction.github.io/san-fransisco-yosemite-font</id>
     <content type="html"><![CDATA[<p>OS X Yosemite hadir dengan Helvetica Neue sebagai system font namun sayangnya, pada Mac dengan non-retina display font ini akan sedikit susah dibaca dan terkesan <em>blurry</em>. San Fransisco font, yang akan digunakan untuk Apple Watch ini mungkin bisa jadi solusi penganti Helvetica Neue di OS X Yosemite.</p>
 
-<p><img src="http://sweetdistraction.github.io/images/sanfransiscofonts1.png" title="YosemiteSanFransiscoFont1" ></p>
+<p><img src="http://sweetdistraction.github.io/images/sanfransiscofonts1.png" title="YosemiteSanFransiscoFont1" /></p>
 
-<p><img src="http://sweetdistraction.github.io/images/sanfransiscofonts2.png" title="YosemiteSanFransiscoFont2" ></p>
+<p><img src="http://sweetdistraction.github.io/images/sanfransiscofonts2.png" title="YosemiteSanFransiscoFont2" /></p>
 ]]></content>
   </entry>
   
@@ -823,7 +798,9 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown/"/>
     <updated>2014-11-24T22:27:00+07:00</updated>
     <id>http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown</id>
-    <content type="html"><![CDATA[<blockquote><p>The benefit is that now I can select text on a page, hit the hot key and paste to my document, saving a bunch of extra clicks. It’s not the best, but it sped things up a touch for me.</p></blockquote>
+    <content type="html"><![CDATA[<blockquote>
+  <p>The benefit is that now I can select text on a page, hit the hot key and paste to my document, saving a bunch of extra clicks. It’s not the best, but it sped things up a touch for me.</p>
+</blockquote>
 
 <p>Waini! Makin mudah lagi bikin postingan <em>linked list</em>. Tapi kalau pas kerja di Windows tetep aja kudu copy-paste manual.</p>
 ]]></content>
@@ -839,38 +816,34 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <!--more-->
 
-
-<h3>Windows Management</h3>
-
-<ul>
-<li>Mac: <a href="http://www.bettertouchtool.net/">BetterTouchTool</a></li>
-<li>Windows: <a href="http://www.winsplit-revolution.com/">WinSplit</a></li>
-</ul>
-
-
-<p>Melakukan <em>resize</em> jendela aplikasi meski sebentar pastilah tetap membutuhkan waktu, coba sesekali hitung akumulasi waktu tersebut dalam sehari? Bukan jumlah yang sedikit pastinya. <a href="https://twitter.com/sayzlim">Sayzlim</a> lewat tulisan di <a href="http://sayzlim.net/bettertouchtool-windows-management/">blognya</a> memaparkan dengan jelas bagaimana cara mengorganisir jendela aplikasi menggunakan BetterTouchTool dan cara ini saya pakai sampai sekarang ketika bekerja di Mac.</p>
-
-<p>Lain halnya di Windows, meski memiliki fitur Aero Snap untuk pengaturan ukuran jendela aplikasi namun untuk dapat menggunakannya pengguna harus melakukan <em>drag</em> jendela aplikasi ke pinggir layar dan menurut saya solusi ini kurang praktis dibandingkan dengan <em>keyboard shortcuts</em>. Setelah <em>googling</em> akhirnya saya menemukan sebuah aplikasi bernaman WinSplit Revolution yang sayangnya sudah discontinue, namun tenang karena SourceForge memiliki <em>mirror download link</em> (google always know where&rsquo;s the download link, anyway). Penggunaan WinSplit Revolution pun cukup praktis, cukup tekan CTRL+ALT dan angka di NumPad maka ukuran jendela aplikasi akan secara otomatis mengikuti ukuran pengaturan dari aplikasi WinSplit.</p>
-
-<h3>Autotext</h3>
+<h3 id="windows-management">Windows Management</h3>
 
 <ul>
-<li>Mac: <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a></li>
-<li>Windows: <a href="http://www.phraseexpress.com/">PhraseExpress</a></li>
+  <li>Mac: <a href="http://www.bettertouchtool.net/">BetterTouchTool</a></li>
+  <li>Windows: <a href="http://www.winsplit-revolution.com/">WinSplit</a></li>
 </ul>
 
+<p>Melakukan <em>resize</em> jendela aplikasi meski sebentar pastilah tetap membutuhkan waktu, coba sesekali hitung akumulasi waktu tersebut dalam sehari? Bukan jumlah yang sedikit pastinya. <a href="https://twitter.com/sayzlim">Sayzlim</a> lewat tulisan di <a href="http://sayzlim.net/bettertouchtool-windows-management/">blognya</a> memaparkan dengan jelas bagaimana cara mengorganisir jendela aplikasi menggunakan BetterTouchTool dan cara ini saya pakai sampai sekarang ketika bekerja di Mac. </p>
 
-<p>Mungkin sebagian masih ada yang berpikir mengapa masih menggunakan autotext untuk melakukan sebuah pekerjaan. Selain bekerja di kantor, saya juga menulis lepas untuk sebuah blog. Menulis menggunakan <a href="http://daringfireball.net/projects/markdown/">markdown</a> (one of the greatest thing that enhances writing experiences, try it!) akan jauh lebih menyenangkan menggunakan snippets yang berisi <em>markdown formatting syntax</em>. Dengan demikian yang perlu benar-benar dipikirkan adalah bagaimana menyelesaikan sebuah artikel atau tulisan yang sedang dikerjakan.</p>
+<p>Lain halnya di Windows, meski memiliki fitur Aero Snap untuk pengaturan ukuran jendela aplikasi namun untuk dapat menggunakannya pengguna harus melakukan <em>drag</em> jendela aplikasi ke pinggir layar dan menurut saya solusi ini kurang praktis dibandingkan dengan <em>keyboard shortcuts</em>. Setelah <em>googling</em> akhirnya saya menemukan sebuah aplikasi bernaman WinSplit Revolution yang sayangnya sudah discontinue, namun tenang karena SourceForge memiliki <em>mirror download link</em> (google always know where’s the download link, anyway). Penggunaan WinSplit Revolution pun cukup praktis, cukup tekan CTRL+ALT dan angka di NumPad maka ukuran jendela aplikasi akan secara otomatis mengikuti ukuran pengaturan dari aplikasi WinSplit. </p>
+
+<h3 id="autotext">Autotext</h3>
+
+<ul>
+  <li>Mac: <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a></li>
+  <li>Windows: <a href="http://www.phraseexpress.com/">PhraseExpress</a></li>
+</ul>
+
+<p>Mungkin sebagian masih ada yang berpikir mengapa masih menggunakan autotext untuk melakukan sebuah pekerjaan. Selain bekerja di kantor, saya juga menulis lepas untuk sebuah blog. Menulis menggunakan <a href="http://daringfireball.net/projects/markdown/">markdown</a> (one of the greatest thing that enhances writing experiences, try it!) akan jauh lebih menyenangkan menggunakan snippets yang berisi <em>markdown formatting syntax</em>. Dengan demikian yang perlu benar-benar dipikirkan adalah bagaimana menyelesaikan sebuah artikel atau tulisan yang sedang dikerjakan. </p>
 
 <p>Tak hanya snippets yang berisi <em>markdown formatting syntax</em> PhraseExpress ataupun TextExpander juga dapat membantu saya berpindah antar direktori dengan cepat. Terlebih Explorer di Windows memang tak menyenangkan bagi yang sering bekerja dengan banyak folder. Bikin saja snippets yang akan ter-<em>expand</em> menjadi alamat direktori yang sering dikunjungi dan tekan enter. Boom! Tiba deh di direktori atau folder yang diinginkan. Keduanya baik PhraseExpress ataupun TextExpander dapat mengakomodasi kebutuhan saya akan sebuah aplikasi autotext.</p>
 
-<h3>Text Editor</h3>
+<h3 id="text-editor">Text Editor</h3>
 
 <ul>
-<li>Mac: <a href="https://itunes.apple.com/us/app/byword/id420212497?mt=12">Byword</a> dan <a href="https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12&amp;uo=4&amp;at=10l4LV&amp;ct=w">iA Writer</a></li>
-<li>Windows: <a href="https://www.sublimetext.com/">Sublime Text 3</a></li>
+  <li>Mac: <a href="https://itunes.apple.com/us/app/byword/id420212497?mt=12">Byword</a> dan <a href="https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12&amp;uo=4&amp;at=10l4LV&amp;ct=w">iA Writer</a></li>
+  <li>Windows: <a href="https://www.sublimetext.com/">Sublime Text 3</a></li>
 </ul>
-
 
 <p>Menulis memang bukan hal baru lagi bagi saya namun baru akhir-akhir ini saya bekerja paruh waktu menulis untuk sebuah blog teknologi. Platform Mac sendiri tak pernah kehabisan atau sepi dari berbagai <em>text editor</em> yang berkualitas. Favorit saya ada dua Byword dan iA Writer. Byword karena terintegrasi dengan platform publishi seperti Wordpress, Tumblr dan Blogspot juga iA Writer yang memiliki <em>typhography</em> yang apik dalam aplikasinya menjadikan pengalaman menulis jauh lebih menyenangkan.</p>
 
@@ -886,11 +859,10 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang/"/>
     <updated>2014-11-24T18:36:34+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://sweetdistraction.github.io/images/yosemite10102beta.jpg" title="OS X 10.10.2 Beta" >
-3 hari setelah <a href="http://www.macrumors.com/2014/11/17/apple-10-10-1-release/">merilis pembaharuan OS X 10.10.1</a> kepada publik, Apple langsung merilis OS X 10.10.2 beta kepada para pengembang untuk diuji coba.</p>
+    <content type="html"><![CDATA[<p><img class="center" src="http://sweetdistraction.github.io/images/yosemite10102beta.jpg" title="OS X 10.10.2 Beta" />
+3 hari setelah <a href="http://www.macrumors.com/2014/11/17/apple-10-10-1-release/">merilis pembaharuan OS X 10.10.1</a> kepada publik, Apple langsung merilis OS X 10.10.2 beta kepada para pengembang untuk diuji coba. </p>
 
 <!-- more -->
-
 
 <p>OS X Yosemite versi 10.10.1 yang dirilis bertujuan untuk memperbaiki bug yang terdapat pada wifi di OS X Yosemite dimana beberapa pengguna sering mengalami koneksi wifi yang terputus secara tiba-tiba meski nyatanya beberapa pengguna masih melaporkan bug yang sama setelah melakukan update ke OS X 10.10.1. Seperti update sebelumnya <a href="http://www.macrumors.com/2014/11/20/os-x-yosemite-10-10-2-beta/">OS X 10.10.2</a> nampaknya akan hadir sebagai pembaharuan versi minor yang akan lebih banyak bertujuan untuk meningkatkan performa serta stabilitas untuk OS X Yosemite sendiri. Dengan nomor <em>build</em> 14C68k, OS X Yosemite 10.10.2 juga menghadirkan Safari versi 8.0.2 dan aplikasi Mail versi 8.2.</p>
 ]]></content>
@@ -902,24 +874,27 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/apple-red-campaign/"/>
     <updated>2014-11-24T11:12:51+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-red-campaign</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://sweetdistraction.github.io/images/applered.PNG"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="http://sweetdistraction.github.io/images/applered.PNG" /></p>
 
-<blockquote><p>CUPERTINO, California—November 23, 2014— To mark World AIDS Day 2014, Apple® and leading app developers are inviting customers to help (RED) achieve the goal of an AIDS-free generation. For the next two weeks, a special section of the App Store℠ called Apps for (RED) will offer 25 apps with exclusive new content where all proceeds will go directly to the Global Fund to fight AIDS. In addition, Apple will donate a portion of sales at Apple’s retail and online stores around the world on two of the biggest shopping days of the year: Friday, November 28 and Monday, December 1.</p>
+<blockquote>
+  <p>CUPERTINO, California—November 23, 2014— To mark World AIDS Day 2014, Apple® and leading app developers are inviting customers to help (RED) achieve the goal of an AIDS-free generation. For the next two weeks, a special section of the App Store℠ called Apps for (RED) will offer 25 apps with exclusive new content where all proceeds will go directly to the Global Fund to fight AIDS. In addition, Apple will donate a portion of sales at Apple’s retail and online stores around the world on two of the biggest shopping days of the year: Friday, November 28 and Monday, December 1.</p>
+</blockquote>
 
-<p>“Apple is a proud supporter of (RED) because we believe the gift of life is the most important gift anyone can give,” said Tim Cook, Apple’s CEO. “For eight years, our customers have been helping fight AIDS in Africa by funding life-saving treatments which are having a profoundly positive impact. This year we are launching our biggest fundraising push yet with the participation of Apple’s retail and online stores, and some of the brightest minds in the App Store are lending their talents to the effort as well.”</p></blockquote>
+<blockquote>
+  <p>“Apple is a proud supporter of (RED) because we believe the gift of life is the most important gift anyone can give,” said Tim Cook, Apple’s CEO. “For eight years, our customers have been helping fight AIDS in Africa by funding life-saving treatments which are having a profoundly positive impact. This year we are launching our biggest fundraising push yet with the participation of Apple’s retail and online stores, and some of the brightest minds in the App Store are lending their talents to the effort as well.”</p>
+</blockquote>
 
 <p>Dalam memperingati hari AIDS dunia, Apple bekerja sama dengan <a href="http://www.red.org/en/">(RED)</a> menggelar kampanye yang bertujuan untuk mencapai generasi bebas AIDS. Dalam <a href="https://www.apple.com/red/">kampanyenya</a>, Apple akan mendonasikan penjualan yang didapat dari aplikasi atau melalui toko retailnya ke Global Funds untuk melawan AIDS. Beberapa aplikasi yang ikut mendukung kampanye ini adalah:</p>
 
 <ul>
-<li><a href="https://itunes.apple.com/us/app/angry-birds-hd/id364234221?mt=8&amp;ign-mpt=uo%3D4">Angry Birds HD</a></li>
-<li><a href="https://itunes.apple.com/us/app/clear-tasks-reminders-to-do/id493136154?mt=8&amp;ign-mpt=uo%3D4">Clear</a></li>
-<li><a href="https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8&amp;ign-mpt=uo%3D4">Monument Valley</a></li>
-<li><a href="https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Paper</a></li>
-<li><a href="https://itunes.apple.com/us/app/fifa-15-ultimate-team-by-ea/id870794720?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Fifa 15 Ultimate Team</a></li>
-<li><a href="https://itunes.apple.com/us/app/clash-of-clans/id529479190?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Clash Of Clans</a></li>
-<li><a href="https://itunes.apple.com/us/app/rayman-fiesta-run/id657811530?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Rayman Fiesta Run</a></li>
+  <li><a href="https://itunes.apple.com/us/app/angry-birds-hd/id364234221?mt=8&amp;ign-mpt=uo%3D4">Angry Birds HD</a></li>
+  <li><a href="https://itunes.apple.com/us/app/clear-tasks-reminders-to-do/id493136154?mt=8&amp;ign-mpt=uo%3D4">Clear</a></li>
+  <li><a href="https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8&amp;ign-mpt=uo%3D4">Monument Valley</a></li>
+  <li><a href="https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Paper</a></li>
+  <li><a href="https://itunes.apple.com/us/app/fifa-15-ultimate-team-by-ea/id870794720?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Fifa 15 Ultimate Team</a></li>
+  <li><a href="https://itunes.apple.com/us/app/clash-of-clans/id529479190?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Clash Of Clans</a></li>
+  <li><a href="https://itunes.apple.com/us/app/rayman-fiesta-run/id657811530?mt=8&amp;uo=4&amp;at=10l6nh&amp;ct=ms_inline">Rayman Fiesta Run</a></li>
 </ul>
-
 
 <p>serta masih banyak lagi aplikasi yang turut serta. Kampanye ini kan berlangsung selama dua minggu mulai tanggal 24 November hingga 7 Desember 2014.</p>
 ]]></content>
@@ -933,9 +908,12 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <id>http://sweetdistraction.github.io/a-note-to-recode-readers</id>
     <content type="html"><![CDATA[<p>Walt Mossberg and Kara Swisher:</p>
 
-<blockquote><p>We thought about this decision long and hard, since we do value reader opinion. But we concluded that, as social media has continued its robust growth, the bulk of discussion of our stories is increasingly taking place there, making onsite comments less and less used and less and less useful.</p></blockquote>
+<blockquote>
+  <p>We thought about this decision long and hard, since we do value reader opinion. But we concluded that, as social media has continued its robust growth, the bulk of discussion of our stories is increasingly taking place there, making onsite comments less and less used and less and less useful.</p>
+</blockquote>
 
-<p>Ya, Recode mulai menghilangkan kolom komentar untuk para pembacanya dan saya rasa ada benarnya juga. Dengan pesatnya pertumbuhan media sosial yang ada, bukan tak mungkin nantinya kolom komentar akan berganti mentions ke akun Twitter si penulis.</p>
+<p>Ya, Recode mulai menghilangkan kolom komentar untuk para pembacanya dan saya rasa ada benarnya juga. Dengan pesatnya pertumbuhan media sosial yang ada, bukan tak mungkin nantinya kolom komentar akan berganti mentions ke akun Twitter si penulis. </p>
+
 ]]></content>
   </entry>
   
@@ -945,9 +923,12 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/twitter-adds-ability-to-share-tweets-via-dm/"/>
     <updated>2014-11-22T14:43:58+07:00</updated>
     <id>http://sweetdistraction.github.io/twitter-adds-ability-to-share-tweets-via-dm</id>
-    <content type="html"><![CDATA[<blockquote><p>&hellip;the company has now added a shortcut to its web, iPhone, TweetDeck, and Android apps (no iPad, it seems) that lets you easily send a tweet privately to someone else.</p></blockquote>
+    <content type="html"><![CDATA[<blockquote>
+  <p>…the company has now added a shortcut to its web, iPhone, TweetDeck, and Android apps (no iPad, it seems) that lets you easily send a tweet privately to someone else.</p>
+</blockquote>
 
-<p>Wah, ini dia bikin kegiatan gosip dan ngomongin (twit)orang di DM makin seru!</p>
+<p>Wah, ini dia bikin kegiatan gosip dan ngomongin (twit)orang di DM makin seru! </p>
+
 ]]></content>
   </entry>
   
@@ -957,9 +938,12 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/go-get-em/"/>
     <updated>2014-11-22T08:27:08+07:00</updated>
     <id>http://sweetdistraction.github.io/go-get-em</id>
-    <content type="html"><![CDATA[<blockquote><p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p></blockquote>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Browse to your device using the menu on the left. The firmwares you can restore to have a green tick.</p>
+</blockquote>
 
-<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak.</p>
+<p>Setidaknya Apple belum menutup <em>signing window</em> bagi yang ingin restore ke 8.1 dan melakukan jailbreak. </p>
+
 ]]></content>
   </entry>
   
@@ -973,23 +957,21 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
 
 <!-- more -->
 
-
 <p>Pada saat Pangu8 dirilis untuk versi Mac, saya kembali melakukan restore dan jailbreak ulang dengan harapan versi Mac dari Pangu8 lebih stabil. Ternyata benar, setelah restore perangkat via iTunes, menonaktifkan Find My iPhone dan passcode, serta mengaktifkan Airplane Mode, Pangu8 versi Mac berjalan dengan lancar. Setelah Cydia terinstall, saya mulai mengingat-ingat <em>tweaks</em> serta aplikasi apa yang dulu pernah saya install di iOS 7. Jika tak salah, rasanya saya dulu hampir memiliki lebih dari 20 <em>tweaks</em> yang terinstall di iOS 7 dan kini dengan hadirnya iOS 8 yang menghadirkan banyak fitur baru seperti <em>interactive notifications</em>, <em>widgets</em>, <em>extensions</em> saya hanya memiliki 9 <em>tweaks</em> yang terpasang.</p>
 
 <p>Memang tak banyak, tweak quick replay yang di iOS 7 wajib untuk diinstall kini sudah hadir di iOS 8. Sharing data antar aplikasi semakin mudah dengan hadirnya fitur <em>extensions</em>. Tweak di bawah merupakan tweak terpasang di perangkat iOS saya:</p>
 
 <ul>
-<li><a href="http://cydia.saurik.com/package/libactivator/">Activator</a>. Siapa yang tak kenal dengan tweak yang satu ini? A must installed tweak for your jailbroken iOS devices!</li>
-<li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=circletDp">Circlet</a>.  Declutter your status bar! Circlet mengganti indikator sinyal dan battery menggunakan sebuah lingkaran. Much simpler, much cleaner.</li>
-<li><a href="http://rpetri.ch/cydia/littlebrother/">LittleBrother</a>. Dari developer Activator, LittleBrother membuat iPhone 5/5s/5c untuk dapat berjalan pada resolusi iPhone 6.</li>
-<li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=forcegoodfitDp">ForceGoodFit</a>. Karena iPhone saya berjalan dalam resolusi iPhone 6 maka tweak yang satu ini wajib hadir untuk menemani LittleBrother agar aplikasi yang belum diperbaharui untuk dukungan terhadap iPhone 6 dan 6+ dapat menyesuaikan dengan resolusi yang digunakan.</li>
-<li><a href="http://cydia.angelxwind.net/?page/net.angelxwind.mikoto">Mikoto</a>. All in one tweaks! Bisa diunduh di repo <a href="http://cydia.angelxwind.net/">http://cydia.angelxwind.net/</a></li>
-<li><a href="http://cydia.saurik.com/package/com.filippobiga.springtomize3/">Springtomize3</a>. Customize all the things. Menghilangkan nama aplikasi di bawah ikon, <em>resize</em> ikon aplikasi dan masih banyak lagi.</li>
-<li><a href="http://cydia.saurik.com/package/com.marcosinghof.noslowanimations/">NoSlowAnimations</a>. Ya, semenjak iOS 7 animasi yang dihadirkan memang terasa lebih lambat dibandingkan iOS 6. Untung ada tweak ini.</li>
-<li><a href="http://apt.thebigboss.org/onepackage.php?bundleid=com.clezz.tage">Tage</a>. Zephyr alternative for multitasking gesture!</li>
-<li><a href="http://cydia.saurik.com/package/winterboard/">Winterboard</a>. Cause iOS 8 icons are suck, so Ayeris for sure!</li>
+  <li><a href="http://cydia.saurik.com/package/libactivator/">Activator</a>. Siapa yang tak kenal dengan tweak yang satu ini? A must installed tweak for your jailbroken iOS devices!</li>
+  <li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=circletDp">Circlet</a>.  Declutter your status bar! Circlet mengganti indikator sinyal dan battery menggunakan sebuah lingkaran. Much simpler, much cleaner.</li>
+  <li><a href="http://rpetri.ch/cydia/littlebrother/">LittleBrother</a>. Dari developer Activator, LittleBrother membuat iPhone 5/5s/5c untuk dapat berjalan pada resolusi iPhone 6.</li>
+  <li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=forcegoodfitDp">ForceGoodFit</a>. Karena iPhone saya berjalan dalam resolusi iPhone 6 maka tweak yang satu ini wajib hadir untuk menemani LittleBrother agar aplikasi yang belum diperbaharui untuk dukungan terhadap iPhone 6 dan 6+ dapat menyesuaikan dengan resolusi yang digunakan.</li>
+  <li><a href="http://cydia.angelxwind.net/?page/net.angelxwind.mikoto">Mikoto</a>. All in one tweaks! Bisa diunduh di repo http://cydia.angelxwind.net/</li>
+  <li><a href="http://cydia.saurik.com/package/com.filippobiga.springtomize3/">Springtomize3</a>. Customize all the things. Menghilangkan nama aplikasi di bawah ikon, <em>resize</em> ikon aplikasi dan masih banyak lagi.</li>
+  <li><a href="http://cydia.saurik.com/package/com.marcosinghof.noslowanimations/">NoSlowAnimations</a>. Ya, semenjak iOS 7 animasi yang dihadirkan memang terasa lebih lambat dibandingkan iOS 6. Untung ada tweak ini.</li>
+  <li><a href="http://apt.thebigboss.org/onepackage.php?bundleid=com.clezz.tage">Tage</a>. Zephyr alternative for multitasking gesture!</li>
+  <li><a href="http://cydia.saurik.com/package/winterboard/">Winterboard</a>. Cause iOS 8 icons are suck, so Ayeris for sure!</li>
 </ul>
-
 
 <p>Ya. itu dia seluruh tweak yang kini terinstall di perangkat iOS utama saya. Berkurang lumayan banyak jika dibandingkan dengan saat saya melakukan jailbreak sewaktu menggunakan iOS 7. iOS berkembang semakin kompleks dengan fitur baru yang ada dan tak jarang pula mengurangi alasan sebagian orang melakukan jailbreak seperti saya. Namun bukan berarti tak ada alasan untuk tak melakukan jailbreak.</p>
 ]]></content>
@@ -1001,11 +983,13 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/applescript-textexpander-octopress-post/"/>
     <updated>2014-11-18T22:08:00+07:00</updated>
     <id>http://sweetdistraction.github.io/applescript-textexpander-octopress-post</id>
-    <content type="html"><![CDATA[<blockquote><p>Enter my trusty friends, TextExpander + AppleScript.</p></blockquote>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Enter my trusty friends, TextExpander + AppleScript.</p>
+</blockquote>
 
 <p>Meski postingan tersebut sudah ada sejak 2 tahun yang lalu (dan saya entah lagi berada di mana waktu itu) namun rasanya menyenangkan menemukan suatu hal baru untuk dipelajari.</p>
 
-<p>So, let&rsquo;s automate all the things!</p>
+<p>So, let’s automate all the things!</p>
 ]]></content>
   </entry>
   
@@ -1015,24 +999,21 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/ios-8-jailbreak/"/>
     <updated>2014-11-14T22:46:11+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8-jailbreak</id>
-    <content type="html"><![CDATA[<p>Tak lama setelah Apple mengeluarkan pembaharuan iOS 8 ke versi 8.1, Pangu merilis <em>tools</em> untuk melakukan jailbreak pada iOS 8.0-8.1. Meski terkesan terburu-buru dalam merilis <em>tools</em> tersebut, namun <a href="https://twitter.com/PanguTeam">Pangu</a> yang merupakan sekelompok tim pengembang yang berasal dari China berhasil membuktikan bahwa mereka mampu menciptakan sebuah <em>tool</em> jailbreak yang selama ini dimonopoli oleh para iOS hacker yang tergabung dalam <a href="https://twitter.com/evad3rs">@evad3rs</a>, meski <a href="https://twitter.com/i0n1c">@i0n1c</a> mengklaim bahwa Pangu menggunakan exploit miliknya yang didapat dari pelatihan <a href="http://www.sektioneins.de/blog/14-08-05-trainingFrankfurt.html">iOS Kernel Exploitation</a>. Pangu juga sebelumnya telah mengeluarkan <em>tools</em> untuk melakukan <a href="http://en.7.pangu.io/">jailbreak bagi iOS 7.0-7.1.2</a>.</p>
+    <content type="html"><![CDATA[<p>Tak lama setelah Apple mengeluarkan pembaharuan iOS 8 ke versi 8.1, Pangu merilis <em>tools</em> untuk melakukan jailbreak pada iOS 8.0-8.1. Meski terkesan terburu-buru dalam merilis <em>tools</em> tersebut, namun <a href="https://twitter.com/PanguTeam">Pangu</a> yang merupakan sekelompok tim pengembang yang berasal dari China berhasil membuktikan bahwa mereka mampu menciptakan sebuah <em>tool</em> jailbreak yang selama ini dimonopoli oleh para iOS hacker yang tergabung dalam <a href="https://twitter.com/evad3rs">@evad3rs</a>, meski <a href="https://twitter.com/i0n1c">@i0n1c</a> mengklaim bahwa Pangu menggunakan exploit miliknya yang didapat dari pelatihan <a href="http://www.sektioneins.de/blog/14-08-05-trainingFrankfurt.html">iOS Kernel Exploitation</a>. Pangu juga sebelumnya telah mengeluarkan <em>tools</em> untuk melakukan <a href="http://en.7.pangu.io/">jailbreak bagi iOS 7.0-7.1.2</a>.
+<!--more--></p>
 
-<!--more-->
-
-
-<p>Versi awal dari <a href="http://en.pangu.io/">Pangu8</a> sendiri hanya dapat dijalankan di Windows dan hanya merupakan SSH jailbreak yang dikhususkan untuk para developer. Cydia yang menjadi alternatif dari App Store untuk mengunduh <em>tweaks</em>, tema serta aplikasi jailbreak belum secara langsung terinstall karena kurangnya koordinasi antara Pangu dan <a href="https://twitter.com/saurik">@saurik</a>. Pengguna pun sempat mengeluhkan masalah bootloop setelah melakukan jailbreak, terutama bagi mereka yang sebelumnya melakukan update iOS secara OTA(over-the-air).</p>
+<p>Versi awal dari <a href="http://en.pangu.io/">Pangu8</a> sendiri hanya dapat dijalankan di Windows dan hanya merupakan SSH jailbreak yang dikhususkan untuk para developer. Cydia yang menjadi alternatif dari App Store untuk mengunduh <em>tweaks</em>, tema serta aplikasi jailbreak belum secara langsung terinstall karena kurangnya koordinasi antara Pangu dan <a href="https://twitter.com/saurik">@saurik</a>. Pengguna pun sempat mengeluhkan masalah bootloop setelah melakukan jailbreak, terutama bagi mereka yang sebelumnya melakukan update iOS secara OTA(over-the-air). </p>
 
 <p>Kini, bagi yang ingin melakukan jailbreak maka lebih baik segera, karena kabarnya Apple telah melakukan <em>patch</em> sehingga iOS 8.1.1 yang kini sedang dalam tahap testing ke developer tidak bisa dijailbreak menggunakan <em>tools</em> yang ada dari Pangu saat ini. Pangu sendiri juga telah merilis <em>tools</em> jailbreak bagi para pengguna Mac.</p>
 
-<p>@saurik menilai bahwa jailbreak iOS 8 yang sekarang ada sudah <a href="https://twitter.com/saurik/status/530454505994076161">cukup stabil</a> bahkan para pengembang kini bisa menambahkan <a href="https://twitter.com/saurik/status/530454526302908417">kompatibilitas</a> terhadap iOS 8 di tweaks yang dibuatnya. Untuk meminimalkan kemungkinan error serta bootloop yang mungkin terjadi, ada baiknya pengguna melakukan <a href="http://support.apple.com/en-us/HT201252">restore</a> menggunakan iTunes terlebih dahulu sebelum melakukan jailbreak. Tentu saja, backup perangkat iOS tak boleh dilupakan sebelum melakukan restore perangkat iOS agar tak kehilangan data yang dimiliki.</p>
+<p>@saurik menilai bahwa jailbreak iOS 8 yang sekarang ada sudah <a href="https://twitter.com/saurik/status/530454505994076161">cukup stabil</a> bahkan para pengembang kini bisa menambahkan <a href="https://twitter.com/saurik/status/530454526302908417">kompatibilitas</a> terhadap iOS 8 di tweaks yang dibuatnya. Untuk meminimalkan kemungkinan error serta bootloop yang mungkin terjadi, ada baiknya pengguna melakukan <a href="http://support.apple.com/en-us/HT201252">restore</a> menggunakan iTunes terlebih dahulu sebelum melakukan jailbreak. Tentu saja, backup perangkat iOS tak boleh dilupakan sebelum melakukan restore perangkat iOS agar tak kehilangan data yang dimiliki. </p>
 
 <p>Berikut beberapa tutorial jailbreak iOS 8 baik untuk Mac ataupun Windows.</p>
 
 <ul>
-<li><a href="http://www.idownloadblog.com/2014/11/09/how-to-jailbreak-ios-8-1-with-pangu-for-mac/">How To Jailbreak iOS 8.1 with Pangu for Mac</a></li>
-<li><a href="http://www.idownloadblog.com/2014/10/31/how-to-jailbreak-ios-8-and-install-cydia-using-pangu-1-1-0-on-windows-video/">How To Jailbreak Using Pangu for Windows</a></li>
+  <li><a href="http://www.idownloadblog.com/2014/11/09/how-to-jailbreak-ios-8-1-with-pangu-for-mac/">How To Jailbreak iOS 8.1 with Pangu for Mac</a></li>
+  <li><a href="http://www.idownloadblog.com/2014/10/31/how-to-jailbreak-ios-8-and-install-cydia-using-pangu-1-1-0-on-windows-video/">How To Jailbreak Using Pangu for Windows</a></li>
 </ul>
-
 
 <p>Dengan adanya iOS 8.1.1 yang dirilis ke developer, bersamaan dengan <em>patch</em> yang dilakukan oleh Apple terhadap <em>tools</em> jailbreak Pangu8, maka tak ada salahnya untuk segera melakukan upgrade ke iOS 8.1 bagi yang masih menggunakan iOS 7 ataupun 8.0.x.</p>
 ]]></content>
@@ -1044,16 +1025,14 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/ios-8/"/>
     <updated>2014-11-14T22:44:10+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8</id>
-    <content type="html"><![CDATA[<p>Sejak diumumkan oleh Apple pada 2 Juni yang lalu di ajang WWDC, iOS 8 membuat saya semakin yakin bahwa Apple benar-benar ingin memperkaya pengalaman penggunanya lebih lagi. Meski dari tampilan Apple tak membawa perubahan besar dari iOS 7 namun fitur yang dibawa oleh iOS 8 tak bisa dibilang <a href="https://www.apple.com/ios/whats-new/">sedikit</a>. <em><a href="http://www.imore.com/extensibility">Extensibility</a>, <a href="http://www.imore.com/interactive-notifications-ios-8-explained">Interactive Notifications</a>, <a href="http://www.imore.com/handoff-ios-8-os-x-yosemite-explained">Handoff</a>, QuickType, Family Sharing</em> hingga <em>Continuity</em> dan <em><a href="http://www.imore.com/health-ios-8-explained">Health app</a></em> merupakan beberapa fitur teranyar yang hadir.</p>
-
-<!--more-->
-
+    <content type="html"><![CDATA[<p>Sejak diumumkan oleh Apple pada 2 Juni yang lalu di ajang WWDC, iOS 8 membuat saya semakin yakin bahwa Apple benar-benar ingin memperkaya pengalaman penggunanya lebih lagi. Meski dari tampilan Apple tak membawa perubahan besar dari iOS 7 namun fitur yang dibawa oleh iOS 8 tak bisa dibilang <a href="https://www.apple.com/ios/whats-new/">sedikit</a>. <em><a href="http://www.imore.com/extensibility">Extensibility</a>, <a href="http://www.imore.com/interactive-notifications-ios-8-explained">Interactive Notifications</a>, <a href="http://www.imore.com/handoff-ios-8-os-x-yosemite-explained">Handoff</a>, QuickType, Family Sharing</em> hingga <em>Continuity</em> dan <em><a href="http://www.imore.com/health-ios-8-explained">Health app</a></em> merupakan beberapa fitur teranyar yang hadir.
+<!--more--></p>
 
 <p>Tak ketinggalan pula iCloud pun mendapat pembaharuan dan berubah menjadi iCloud Drive yang kini dapat menjadi tempat penyimpanan berbasis cloud layaknya Dropbox ataupun Google Drive yang telah hadir lebih dahulu. Jika saja  meski jujur saja sampai sekarang saya belum memindahkan seluruh berkas saya di Dropbox ke dalam iCloud Drive karena bekerja multi-platform menuntut berkas saya siap untuk diakses di mana saja.</p>
 
 <p>Salah satu yang menarik adalah fitur <em>Extensibility</em>. Meski fitur ini tak langsung dirasakan ataupun digunakan oleh pengguna namun para pengembang aplikasi dapat memanfaatkan fitur ini untuk memperluas serta menambah fitur yang telah ada seperti menambahkan <em>widgets</em> di notifications center, custom sharing dan action options di share sheets, custom filter pada aplikasi Photos yang dapat menggunakan filter dari aplikasi pihak ketiga. Pada iOS, aplikasi dibatasi oleh sebuah limitasi sandboxes yang dibuat oleh Apple sehingga aplikasi tak dapat berinteraksi atau bertukar data baik itu dengan sistem di perangkat ataupun dengan aplikasi yang lain dengan demikian data hanya disimpan dalam sebuah aplikasi tersebut. Hadirnya  <em>extensibility</em>, Apple membuat aplikasi dapat saling berinteraksi, bertukar data dan pada saat yang sama menjaga datanya tetap aman. Kini pengguna bisa langsung menyimpan gambar dari Safari ke Pinterest atau login ke web dengan mudah berkat action extensions dari 1Password.</p>
 
-<p><em>Interactive notifications</em>, salah satu fitur yang dinanti-nantikan di iOS. Jika pada iOS 7 pengguna tak bisa membalas sebuah pesan yang muncul ketika sedang browsing tanpa membuka aplikasi <em>Messages</em> maka kini di iOS 8 pengguna bisa langsung membalas pesan dengan <em>pull-down</em> banner notifications pesan yang muncul. Tak hanya lewat banner yang muncul namun juga pengguna bisa membalas pesan dari notifikasi yang muncul di <em>lock screen</em>. Tak hanya membalas pesan, pengguna juga mengarsip, menghapus ataupun menjadwalkan follow up email di waktu tertentu berkat interactive notifications yang ada di iOS 8.</p>
+<p><em>Interactive notifications</em>, salah satu fitur yang dinanti-nantikan di iOS. Jika pada iOS 7 pengguna tak bisa membalas sebuah pesan yang muncul ketika sedang browsing tanpa membuka aplikasi <em>Messages</em> maka kini di iOS 8 pengguna bisa langsung membalas pesan dengan <em>pull-down</em> banner notifications pesan yang muncul. Tak hanya lewat banner yang muncul namun juga pengguna bisa membalas pesan dari notifikasi yang muncul di <em>lock screen</em>. Tak hanya membalas pesan, pengguna juga mengarsip, menghapus ataupun menjadwalkan follow up email di waktu tertentu berkat interactive notifications yang ada di iOS 8. </p>
 
 <p>Masih banyak lagi fitur yang dibawa oleh iOS 8, jika iOS 7 membawa perubahan besar bagi elemen user interface maka iOS 8 adalah penyempurnaan dari versi iOS 7. Bagaimana menurutmu?</p>
 ]]></content>
@@ -1065,12 +1044,10 @@ Bagi yang melakukan jailbreak maka font San Fransisco kini dapat dinikmati sebag
     <link href="http://sweetdistraction.github.io/hello-world/"/>
     <updated>2014-11-08T00:51:25+07:00</updated>
     <id>http://sweetdistraction.github.io/hello-world</id>
-    <content type="html"><![CDATA[<p><em>Sweet distractions, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar banyak hal baru.</p>
+    <content type="html"><![CDATA[<p><em>Sweet distractions, sounds sweet enough yet, huh?</em> Ya, blog ini memang akan menggantikan blog saya yang lama untuk membahas segala sesuatu tentang teknologi, terutama berita seputar Apple ataupun jailbreak. Lalu postingan yang sudah ada sebelumnya bagaimana? Tenang, saya akan pelan-pelan memindahkannya ke situs ini. Situs ini tak akan hanya menjadi tempat saya menulis tentang teknologi namun juga sebagai tempat belajar banyak hal baru. 
+<!--more--></p>
 
-<!--more-->
-
-
-<p>Bukankah proses belajar bisa dilakukan di mana saja dan kapan saja? Situs ini pun hasil pembelajaran saya akan <a href="http://octopress.org">Octopress</a> sebuah situs statis berbasis Jekyll yang menggunakan bahasa pemrograman Ruby. Beberapa kelebihan dari Octopress yang membuat saya tertarik untuk mempelajarinya adalah sifatnya yang statis, tak perlu ribet mendaftar menggunakan email ataupun setting hosting bahkan bisa hosting gratis di <a href="http://pages.github.com">Github Pages</a> dan postingan cukup ditulis dengan format <a href="fireball.net/projects/markdown/">Markdown</a>.</p>
+<p>Bukankah proses belajar bisa dilakukan di mana saja dan kapan saja? Situs ini pun hasil pembelajaran saya akan <a href="http://octopress.org">Octopress</a> sebuah situs statis berbasis Jekyll yang menggunakan bahasa pemrograman Ruby. Beberapa kelebihan dari Octopress yang membuat saya tertarik untuk mempelajarinya adalah sifatnya yang statis, tak perlu ribet mendaftar menggunakan email ataupun setting hosting bahkan bisa hosting gratis di <a href="http://pages.github.com">Github Pages</a> dan postingan cukup ditulis dengan format <a href="fireball.net/projects/markdown/">Markdown</a>. </p>
 
 <p>Karena blog ini akan lebih banyak diisi ketika ada waktu luang maka menjaganya agar tetap sederhana baik itu dari segi tampilan maupun dalam proses pembuatan artikel hingga mempostingnya adalah hal yang utama. Tanpa berlama-lama lagi, selamat membaca dan semoga bermanfaat!</p>
 ]]></content>

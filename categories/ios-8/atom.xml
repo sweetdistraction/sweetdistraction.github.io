@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios 8 | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ios-8/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-06T13:41:00+07:00</updated>
+  <updated>2015-01-06T15:45:33+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -22,38 +22,38 @@
 
 <!--more-->
 
-
 <p>Meski perangkat iOS saya sudah terjailbreak, namun saya belum memperbaharuinya ke iOS versi 8.1.1. Tweaks yang terinstall pun tak sebanyak dulu sewaktu iOS 7. Kini saya hanya mempunyai sekitar 12 tweak yang terpasang. Kira-kira hanya separuh dari jumlah tweaks yang terinstall pada iOS versi sebelumnya, dan berikut daftar tweaks tersebut:</p>
 
 <ul>
-<li>Activator<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
-<li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
-<li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
-<li>SwipeSelection<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></li>
-<li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
-<li>Springtomize 3: Customize and declutter all the things!</li>
-<li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
-<li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
-<li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
-<li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan &lsquo;memaksa&rsquo; sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan.</li>
-<li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
-<li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
+  <li>Activator<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>: Toggle vibration dengan trigger locked device, schedule Do Not Disturb</li>
+  <li>Circlet: Tweak untuk mengganti indikator batere, wifi dan sinyal dengan sebuah lingkaran, membuat tampilan status bar jauh lebih simpel dan minimalis.</li>
+  <li>Winterboard: Tentu saja, untuk melakukan kustomisasi perangkat iOS dengan sebuah tema. Tema <a href="http://www.surenix.me/ayeris">Ayeris</a> oleh <a href="https://twitter.com/surenix">@surenix</a> yang saya gunakan.</li>
+  <li>SwipeSelection<sup id="fnref:fn2"><a href="#fn:fn2" class="footnote">2</a></sup></li>
+  <li>Bytafont2: Sebenarnya saya tak ada niatan untuk menginstall tweak ini di iOS 8 namun berhubung hadirnya font San Fransisco<sup id="fnref:fn3"><a href="#fn:fn3" class="footnote">3</a></sup> yang diporting untuk <a href="http://sweetdistractions.net/san-fransisco-ios-fonts">iOS</a> maka saya mencobanya, dan saya lebih menyukai font ini daripada Helvetica Neue.</li>
+  <li>Springtomize 3: Customize and declutter all the things!</li>
+  <li>Tage: Pengganti dari Zephyr, setidaknya home button bisa beristirahat untuk sementara waktu.</li>
+  <li>TinyBar: Banner notifikasi iOS 8 memang lebih lebar jika dibandingkan dengan iOS 6, nah dengan TinyBar atur saja lebar banner notifikasi yang diinginkan.</li>
+  <li>LittleBrother: iPhone 6 memang belum hadir secara resmi di Indonesia, namun setidaknya saya masih bisa menikmati resolusinya di iPhone saya dan hasilnya, tampilan UI menjadi jauh lebih lega.</li>
+  <li>ForceGoodFit: Menemani LittleBrother, tweak yang satu ini akan ‘memaksa’ sebuah aplikasi yang belum mendapat update dukungan terhadap iPhone 6 atau 6 plus untuk menyesuaikan tampilannya dengan resolusi yang digunakan. </li>
+  <li>Aeternum: Karena penasarang dengan Apple Watch UI, maka saya mengunduh tweak ini. Namun rasanya kurang praktis jika harus scrolling springboard hanya untuk menjalankan sebuah aplikasi.</li>
+  <li>ShowCase: Apple belum juga memperbaiki tampilan shift pada keyboard bawaan iOS, untuk itu saya menginstall tweak yang satu ini dimana tampilan huruf pada keyboard akan menyesuaikan apakah huruf kapital atau huruf kecil.</li>
 </ul>
 
-
 <p>Itu dia daftar tweak yang terinstall pada perangkat iOS saya. Jailbreak memang tak <a href="http://sweetdistractions.net/apple-vs-jailbreak">direkomendasikan oleh Apple</a>, bahkan Apple tak akan mengganti kerusakan akibat jailbreak yang dilakukan. Oleh sebab itu, disclaimer Do With Your Own Risk selalu melekat pada sebuah tools jailbreak. Menginstall tweak juga sebaiknya dari sumber yang terpercaya karena bagaimanapun jailbreak adalah membuka akses root dari sebuah perangkat iOS sehingga jika asal menginstall tweak bisa saja tweak tersebut memiliki kode yang berbahaya ataupun malware.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Wajib hukumnya<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-<li id="fn:2">
-<p>Ini juga wajib hukumnya<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
-<li id="fn:3">
-<p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
 
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p>Wajib hukumnya <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn2">
+      <p>Ini juga wajib hukumnya <a href="#fnref:fn2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn3">
+      <p>Bisa diunduh di repo: http://dbk1ng.myrepospace.com <a href="#fnref:fn3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 ]]></content>
   </entry>
   
@@ -63,7 +63,7 @@
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8.1.1-jailbreak-release</id>
     <content type="html"><![CDATA[<p>Dari <a href="http://iclarified.com">iClarified</a>:
-<blockquote><p></p></p><p><p>MuscleNerd confirmed the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p></p><p><p>&ldquo;Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case&rdquo;</p></p><p><p>TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG &lsquo;app store&rsquo; for cracked apps by default in China.</p></p><p><p></p></blockquote></p>
+<blockquote><p></p></p><p><p>MuscleNerd confirmed the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p></p><p><p>“Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case”</p></p><p><p>TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG ‘app store’ for cracked apps by default in China.</p></p><p><p></p></blockquote></p>
 ]]></content>
   </entry>
   
@@ -76,23 +76,21 @@
 
 <!-- more -->
 
-
 <p>Pada saat Pangu8 dirilis untuk versi Mac, saya kembali melakukan restore dan jailbreak ulang dengan harapan versi Mac dari Pangu8 lebih stabil. Ternyata benar, setelah restore perangkat via iTunes, menonaktifkan Find My iPhone dan passcode, serta mengaktifkan Airplane Mode, Pangu8 versi Mac berjalan dengan lancar. Setelah Cydia terinstall, saya mulai mengingat-ingat <em>tweaks</em> serta aplikasi apa yang dulu pernah saya install di iOS 7. Jika tak salah, rasanya saya dulu hampir memiliki lebih dari 20 <em>tweaks</em> yang terinstall di iOS 7 dan kini dengan hadirnya iOS 8 yang menghadirkan banyak fitur baru seperti <em>interactive notifications</em>, <em>widgets</em>, <em>extensions</em> saya hanya memiliki 9 <em>tweaks</em> yang terpasang.</p>
 
 <p>Memang tak banyak, tweak quick replay yang di iOS 7 wajib untuk diinstall kini sudah hadir di iOS 8. Sharing data antar aplikasi semakin mudah dengan hadirnya fitur <em>extensions</em>. Tweak di bawah merupakan tweak terpasang di perangkat iOS saya:</p>
 
 <ul>
-<li><a href="http://cydia.saurik.com/package/libactivator/">Activator</a>. Siapa yang tak kenal dengan tweak yang satu ini? A must installed tweak for your jailbroken iOS devices!</li>
-<li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=circletDp">Circlet</a>.  Declutter your status bar! Circlet mengganti indikator sinyal dan battery menggunakan sebuah lingkaran. Much simpler, much cleaner.</li>
-<li><a href="http://rpetri.ch/cydia/littlebrother/">LittleBrother</a>. Dari developer Activator, LittleBrother membuat iPhone 5/5s/5c untuk dapat berjalan pada resolusi iPhone 6.</li>
-<li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=forcegoodfitDp">ForceGoodFit</a>. Karena iPhone saya berjalan dalam resolusi iPhone 6 maka tweak yang satu ini wajib hadir untuk menemani LittleBrother agar aplikasi yang belum diperbaharui untuk dukungan terhadap iPhone 6 dan 6+ dapat menyesuaikan dengan resolusi yang digunakan.</li>
-<li><a href="http://cydia.angelxwind.net/?page/net.angelxwind.mikoto">Mikoto</a>. All in one tweaks! Bisa diunduh di repo <a href="http://cydia.angelxwind.net/">http://cydia.angelxwind.net/</a></li>
-<li><a href="http://cydia.saurik.com/package/com.filippobiga.springtomize3/">Springtomize3</a>. Customize all the things. Menghilangkan nama aplikasi di bawah ikon, <em>resize</em> ikon aplikasi dan masih banyak lagi.</li>
-<li><a href="http://cydia.saurik.com/package/com.marcosinghof.noslowanimations/">NoSlowAnimations</a>. Ya, semenjak iOS 7 animasi yang dihadirkan memang terasa lebih lambat dibandingkan iOS 6. Untung ada tweak ini.</li>
-<li><a href="http://apt.thebigboss.org/onepackage.php?bundleid=com.clezz.tage">Tage</a>. Zephyr alternative for multitasking gesture!</li>
-<li><a href="http://cydia.saurik.com/package/winterboard/">Winterboard</a>. Cause iOS 8 icons are suck, so Ayeris for sure!</li>
+  <li><a href="http://cydia.saurik.com/package/libactivator/">Activator</a>. Siapa yang tak kenal dengan tweak yang satu ini? A must installed tweak for your jailbroken iOS devices!</li>
+  <li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=circletDp">Circlet</a>.  Declutter your status bar! Circlet mengganti indikator sinyal dan battery menggunakan sebuah lingkaran. Much simpler, much cleaner.</li>
+  <li><a href="http://rpetri.ch/cydia/littlebrother/">LittleBrother</a>. Dari developer Activator, LittleBrother membuat iPhone 5/5s/5c untuk dapat berjalan pada resolusi iPhone 6.</li>
+  <li><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=forcegoodfitDp">ForceGoodFit</a>. Karena iPhone saya berjalan dalam resolusi iPhone 6 maka tweak yang satu ini wajib hadir untuk menemani LittleBrother agar aplikasi yang belum diperbaharui untuk dukungan terhadap iPhone 6 dan 6+ dapat menyesuaikan dengan resolusi yang digunakan.</li>
+  <li><a href="http://cydia.angelxwind.net/?page/net.angelxwind.mikoto">Mikoto</a>. All in one tweaks! Bisa diunduh di repo http://cydia.angelxwind.net/</li>
+  <li><a href="http://cydia.saurik.com/package/com.filippobiga.springtomize3/">Springtomize3</a>. Customize all the things. Menghilangkan nama aplikasi di bawah ikon, <em>resize</em> ikon aplikasi dan masih banyak lagi.</li>
+  <li><a href="http://cydia.saurik.com/package/com.marcosinghof.noslowanimations/">NoSlowAnimations</a>. Ya, semenjak iOS 7 animasi yang dihadirkan memang terasa lebih lambat dibandingkan iOS 6. Untung ada tweak ini.</li>
+  <li><a href="http://apt.thebigboss.org/onepackage.php?bundleid=com.clezz.tage">Tage</a>. Zephyr alternative for multitasking gesture!</li>
+  <li><a href="http://cydia.saurik.com/package/winterboard/">Winterboard</a>. Cause iOS 8 icons are suck, so Ayeris for sure!</li>
 </ul>
-
 
 <p>Ya. itu dia seluruh tweak yang kini terinstall di perangkat iOS utama saya. Berkurang lumayan banyak jika dibandingkan dengan saat saya melakukan jailbreak sewaktu menggunakan iOS 7. iOS berkembang semakin kompleks dengan fitur baru yang ada dan tak jarang pula mengurangi alasan sebagian orang melakukan jailbreak seperti saya. Namun bukan berarti tak ada alasan untuk tak melakukan jailbreak.</p>
 ]]></content>
@@ -103,24 +101,21 @@
     <link href="http://sweetdistraction.github.io/ios-8-jailbreak/"/>
     <updated>2014-11-14T22:46:11+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8-jailbreak</id>
-    <content type="html"><![CDATA[<p>Tak lama setelah Apple mengeluarkan pembaharuan iOS 8 ke versi 8.1, Pangu merilis <em>tools</em> untuk melakukan jailbreak pada iOS 8.0-8.1. Meski terkesan terburu-buru dalam merilis <em>tools</em> tersebut, namun <a href="https://twitter.com/PanguTeam">Pangu</a> yang merupakan sekelompok tim pengembang yang berasal dari China berhasil membuktikan bahwa mereka mampu menciptakan sebuah <em>tool</em> jailbreak yang selama ini dimonopoli oleh para iOS hacker yang tergabung dalam <a href="https://twitter.com/evad3rs">@evad3rs</a>, meski <a href="https://twitter.com/i0n1c">@i0n1c</a> mengklaim bahwa Pangu menggunakan exploit miliknya yang didapat dari pelatihan <a href="http://www.sektioneins.de/blog/14-08-05-trainingFrankfurt.html">iOS Kernel Exploitation</a>. Pangu juga sebelumnya telah mengeluarkan <em>tools</em> untuk melakukan <a href="http://en.7.pangu.io/">jailbreak bagi iOS 7.0-7.1.2</a>.</p>
+    <content type="html"><![CDATA[<p>Tak lama setelah Apple mengeluarkan pembaharuan iOS 8 ke versi 8.1, Pangu merilis <em>tools</em> untuk melakukan jailbreak pada iOS 8.0-8.1. Meski terkesan terburu-buru dalam merilis <em>tools</em> tersebut, namun <a href="https://twitter.com/PanguTeam">Pangu</a> yang merupakan sekelompok tim pengembang yang berasal dari China berhasil membuktikan bahwa mereka mampu menciptakan sebuah <em>tool</em> jailbreak yang selama ini dimonopoli oleh para iOS hacker yang tergabung dalam <a href="https://twitter.com/evad3rs">@evad3rs</a>, meski <a href="https://twitter.com/i0n1c">@i0n1c</a> mengklaim bahwa Pangu menggunakan exploit miliknya yang didapat dari pelatihan <a href="http://www.sektioneins.de/blog/14-08-05-trainingFrankfurt.html">iOS Kernel Exploitation</a>. Pangu juga sebelumnya telah mengeluarkan <em>tools</em> untuk melakukan <a href="http://en.7.pangu.io/">jailbreak bagi iOS 7.0-7.1.2</a>.
+<!--more--></p>
 
-<!--more-->
-
-
-<p>Versi awal dari <a href="http://en.pangu.io/">Pangu8</a> sendiri hanya dapat dijalankan di Windows dan hanya merupakan SSH jailbreak yang dikhususkan untuk para developer. Cydia yang menjadi alternatif dari App Store untuk mengunduh <em>tweaks</em>, tema serta aplikasi jailbreak belum secara langsung terinstall karena kurangnya koordinasi antara Pangu dan <a href="https://twitter.com/saurik">@saurik</a>. Pengguna pun sempat mengeluhkan masalah bootloop setelah melakukan jailbreak, terutama bagi mereka yang sebelumnya melakukan update iOS secara OTA(over-the-air).</p>
+<p>Versi awal dari <a href="http://en.pangu.io/">Pangu8</a> sendiri hanya dapat dijalankan di Windows dan hanya merupakan SSH jailbreak yang dikhususkan untuk para developer. Cydia yang menjadi alternatif dari App Store untuk mengunduh <em>tweaks</em>, tema serta aplikasi jailbreak belum secara langsung terinstall karena kurangnya koordinasi antara Pangu dan <a href="https://twitter.com/saurik">@saurik</a>. Pengguna pun sempat mengeluhkan masalah bootloop setelah melakukan jailbreak, terutama bagi mereka yang sebelumnya melakukan update iOS secara OTA(over-the-air). </p>
 
 <p>Kini, bagi yang ingin melakukan jailbreak maka lebih baik segera, karena kabarnya Apple telah melakukan <em>patch</em> sehingga iOS 8.1.1 yang kini sedang dalam tahap testing ke developer tidak bisa dijailbreak menggunakan <em>tools</em> yang ada dari Pangu saat ini. Pangu sendiri juga telah merilis <em>tools</em> jailbreak bagi para pengguna Mac.</p>
 
-<p>@saurik menilai bahwa jailbreak iOS 8 yang sekarang ada sudah <a href="https://twitter.com/saurik/status/530454505994076161">cukup stabil</a> bahkan para pengembang kini bisa menambahkan <a href="https://twitter.com/saurik/status/530454526302908417">kompatibilitas</a> terhadap iOS 8 di tweaks yang dibuatnya. Untuk meminimalkan kemungkinan error serta bootloop yang mungkin terjadi, ada baiknya pengguna melakukan <a href="http://support.apple.com/en-us/HT201252">restore</a> menggunakan iTunes terlebih dahulu sebelum melakukan jailbreak. Tentu saja, backup perangkat iOS tak boleh dilupakan sebelum melakukan restore perangkat iOS agar tak kehilangan data yang dimiliki.</p>
+<p>@saurik menilai bahwa jailbreak iOS 8 yang sekarang ada sudah <a href="https://twitter.com/saurik/status/530454505994076161">cukup stabil</a> bahkan para pengembang kini bisa menambahkan <a href="https://twitter.com/saurik/status/530454526302908417">kompatibilitas</a> terhadap iOS 8 di tweaks yang dibuatnya. Untuk meminimalkan kemungkinan error serta bootloop yang mungkin terjadi, ada baiknya pengguna melakukan <a href="http://support.apple.com/en-us/HT201252">restore</a> menggunakan iTunes terlebih dahulu sebelum melakukan jailbreak. Tentu saja, backup perangkat iOS tak boleh dilupakan sebelum melakukan restore perangkat iOS agar tak kehilangan data yang dimiliki. </p>
 
 <p>Berikut beberapa tutorial jailbreak iOS 8 baik untuk Mac ataupun Windows.</p>
 
 <ul>
-<li><a href="http://www.idownloadblog.com/2014/11/09/how-to-jailbreak-ios-8-1-with-pangu-for-mac/">How To Jailbreak iOS 8.1 with Pangu for Mac</a></li>
-<li><a href="http://www.idownloadblog.com/2014/10/31/how-to-jailbreak-ios-8-and-install-cydia-using-pangu-1-1-0-on-windows-video/">How To Jailbreak Using Pangu for Windows</a></li>
+  <li><a href="http://www.idownloadblog.com/2014/11/09/how-to-jailbreak-ios-8-1-with-pangu-for-mac/">How To Jailbreak iOS 8.1 with Pangu for Mac</a></li>
+  <li><a href="http://www.idownloadblog.com/2014/10/31/how-to-jailbreak-ios-8-and-install-cydia-using-pangu-1-1-0-on-windows-video/">How To Jailbreak Using Pangu for Windows</a></li>
 </ul>
-
 
 <p>Dengan adanya iOS 8.1.1 yang dirilis ke developer, bersamaan dengan <em>patch</em> yang dilakukan oleh Apple terhadap <em>tools</em> jailbreak Pangu8, maka tak ada salahnya untuk segera melakukan upgrade ke iOS 8.1 bagi yang masih menggunakan iOS 7 ataupun 8.0.x.</p>
 ]]></content>
@@ -131,16 +126,14 @@
     <link href="http://sweetdistraction.github.io/ios-8/"/>
     <updated>2014-11-14T22:44:10+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8</id>
-    <content type="html"><![CDATA[<p>Sejak diumumkan oleh Apple pada 2 Juni yang lalu di ajang WWDC, iOS 8 membuat saya semakin yakin bahwa Apple benar-benar ingin memperkaya pengalaman penggunanya lebih lagi. Meski dari tampilan Apple tak membawa perubahan besar dari iOS 7 namun fitur yang dibawa oleh iOS 8 tak bisa dibilang <a href="https://www.apple.com/ios/whats-new/">sedikit</a>. <em><a href="http://www.imore.com/extensibility">Extensibility</a>, <a href="http://www.imore.com/interactive-notifications-ios-8-explained">Interactive Notifications</a>, <a href="http://www.imore.com/handoff-ios-8-os-x-yosemite-explained">Handoff</a>, QuickType, Family Sharing</em> hingga <em>Continuity</em> dan <em><a href="http://www.imore.com/health-ios-8-explained">Health app</a></em> merupakan beberapa fitur teranyar yang hadir.</p>
-
-<!--more-->
-
+    <content type="html"><![CDATA[<p>Sejak diumumkan oleh Apple pada 2 Juni yang lalu di ajang WWDC, iOS 8 membuat saya semakin yakin bahwa Apple benar-benar ingin memperkaya pengalaman penggunanya lebih lagi. Meski dari tampilan Apple tak membawa perubahan besar dari iOS 7 namun fitur yang dibawa oleh iOS 8 tak bisa dibilang <a href="https://www.apple.com/ios/whats-new/">sedikit</a>. <em><a href="http://www.imore.com/extensibility">Extensibility</a>, <a href="http://www.imore.com/interactive-notifications-ios-8-explained">Interactive Notifications</a>, <a href="http://www.imore.com/handoff-ios-8-os-x-yosemite-explained">Handoff</a>, QuickType, Family Sharing</em> hingga <em>Continuity</em> dan <em><a href="http://www.imore.com/health-ios-8-explained">Health app</a></em> merupakan beberapa fitur teranyar yang hadir.
+<!--more--></p>
 
 <p>Tak ketinggalan pula iCloud pun mendapat pembaharuan dan berubah menjadi iCloud Drive yang kini dapat menjadi tempat penyimpanan berbasis cloud layaknya Dropbox ataupun Google Drive yang telah hadir lebih dahulu. Jika saja  meski jujur saja sampai sekarang saya belum memindahkan seluruh berkas saya di Dropbox ke dalam iCloud Drive karena bekerja multi-platform menuntut berkas saya siap untuk diakses di mana saja.</p>
 
 <p>Salah satu yang menarik adalah fitur <em>Extensibility</em>. Meski fitur ini tak langsung dirasakan ataupun digunakan oleh pengguna namun para pengembang aplikasi dapat memanfaatkan fitur ini untuk memperluas serta menambah fitur yang telah ada seperti menambahkan <em>widgets</em> di notifications center, custom sharing dan action options di share sheets, custom filter pada aplikasi Photos yang dapat menggunakan filter dari aplikasi pihak ketiga. Pada iOS, aplikasi dibatasi oleh sebuah limitasi sandboxes yang dibuat oleh Apple sehingga aplikasi tak dapat berinteraksi atau bertukar data baik itu dengan sistem di perangkat ataupun dengan aplikasi yang lain dengan demikian data hanya disimpan dalam sebuah aplikasi tersebut. Hadirnya  <em>extensibility</em>, Apple membuat aplikasi dapat saling berinteraksi, bertukar data dan pada saat yang sama menjaga datanya tetap aman. Kini pengguna bisa langsung menyimpan gambar dari Safari ke Pinterest atau login ke web dengan mudah berkat action extensions dari 1Password.</p>
 
-<p><em>Interactive notifications</em>, salah satu fitur yang dinanti-nantikan di iOS. Jika pada iOS 7 pengguna tak bisa membalas sebuah pesan yang muncul ketika sedang browsing tanpa membuka aplikasi <em>Messages</em> maka kini di iOS 8 pengguna bisa langsung membalas pesan dengan <em>pull-down</em> banner notifications pesan yang muncul. Tak hanya lewat banner yang muncul namun juga pengguna bisa membalas pesan dari notifikasi yang muncul di <em>lock screen</em>. Tak hanya membalas pesan, pengguna juga mengarsip, menghapus ataupun menjadwalkan follow up email di waktu tertentu berkat interactive notifications yang ada di iOS 8.</p>
+<p><em>Interactive notifications</em>, salah satu fitur yang dinanti-nantikan di iOS. Jika pada iOS 7 pengguna tak bisa membalas sebuah pesan yang muncul ketika sedang browsing tanpa membuka aplikasi <em>Messages</em> maka kini di iOS 8 pengguna bisa langsung membalas pesan dengan <em>pull-down</em> banner notifications pesan yang muncul. Tak hanya lewat banner yang muncul namun juga pengguna bisa membalas pesan dari notifikasi yang muncul di <em>lock screen</em>. Tak hanya membalas pesan, pengguna juga mengarsip, menghapus ataupun menjadwalkan follow up email di waktu tertentu berkat interactive notifications yang ada di iOS 8. </p>
 
 <p>Masih banyak lagi fitur yang dibawa oleh iOS 8, jika iOS 7 membawa perubahan besar bagi elemen user interface maka iOS 8 adalah penyempurnaan dari versi iOS 7. Bagaimana menurutmu?</p>
 ]]></content>
