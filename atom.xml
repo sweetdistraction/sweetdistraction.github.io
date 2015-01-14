@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-14T09:50:57+07:00</updated>
+  <updated>2015-01-14T12:03:05+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -21,7 +21,9 @@
     <updated>2015-01-14T09:39:45+07:00</updated>
     <id>http://sweetdistraction.github.io/redesigned-and-reimagined-macintosh</id>
     
-    <content type="html"><![CDATA[<p>What if the original Macintosh is getting redesigned? Maybe this rendering is the answer but from its thinness it looks like a docked iPad, IMHO. </p>
+    <content type="html"><![CDATA[<p><img class="center" src="http://sweetdistraction.github.io/images/macintosh.jpg" /></p>
+
+<p>What if the original Macintosh is getting redesigned? Maybe this rendering is the answer but from its thinness it looks like a docked iPad, IMHO. Anyway, I love the space gray color.</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/redesigned-and-reimagined-macintosh/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
