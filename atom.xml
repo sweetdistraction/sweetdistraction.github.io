@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-14T09:48:53+07:00</updated>
+  <updated>2015-01-14T09:50:57+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Redesigned and Reimagined Macintosh ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="https://curved.de/news/curvedlabs-ein-facelift-fuer-den-macintosh-198570"/>
+  	
+    <updated>2015-01-14T09:39:45+07:00</updated>
+    <id>http://sweetdistraction.github.io/redesigned-and-reimagined-macintosh</id>
+    
+    <content type="html"><![CDATA[<p>What if the original Macintosh is getting redesigned? Maybe this rendering is the answer but from its thinness it looks like a docked iPad, IMHO. </p>
+<a rel="full-article" href="http://sweetdistraction.github.io/redesigned-and-reimagined-macintosh/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -362,19 +375,6 @@
 <p><em>That’s damned truth!</em></p>
 
 <a rel="full-article" href="http://sweetdistraction.github.io/the-perils-of-electronic-communications/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[App Santa 2014 Sale]]></title>
-  	<link href="http://sweetdistraction.github.io/app-santa-2014-sale/"/>
-  	
-    <updated>2014-12-17T08:04:26+07:00</updated>
-    <id>http://sweetdistraction.github.io/app-santa-2014-sale</id>
-    
-    <content type="html"><![CDATA[<p>Guys, <a href="http://appsanta.co/">App Santa</a> ngasih diskon untuk beberapa aplikasi pilihan. Bagi yang mau beli Tweetbot 3, sekarang cuma Rp. 35 Ribu. Cheaper than a cup of Starbucks’ double iced shaken espresso, no? </p>
-]]></content>
   	
   </entry>
   
