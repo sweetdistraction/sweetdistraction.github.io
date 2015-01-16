@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Apps | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/apps/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-16T10:38:29+07:00</updated>
+  <updated>2015-01-16T10:40:42+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Monument Valley in Numbers]]></title>
+    <link href="http://sweetdistraction.github.io/monument-valley-stats/"/>
+    <updated>2015-01-16T10:34:18+07:00</updated>
+    <id>http://sweetdistraction.github.io/monument-valley-stats</id>
+    <content type="html"><![CDATA[<p>Take a look at the statistic and how the revenue from iOS almost dominate all the revenue they get. Also remember that only 40% iOS user <a href="https://twitter.com/ustwogames/status/552136427904184320">paid for the game</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Removing Photo Metadata With Metapho — MacSparky]]></title>
