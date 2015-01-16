@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Macbook Air | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/macbook-air/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-01-16T11:46:45+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Small Screen Productivity]]></title>
+    <link href="http://sweetdistraction.github.io/small-screen-produtivity/"/>
+    <updated>2015-01-16T11:38:33+07:00</updated>
+    <id>http://sweetdistraction.github.io/small-screen-produtivity</id>
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/mattgemmell">Matt Gemmell</a>:
+<blockquote><p></p></p><p><p>There’s something comforting about large screens; I’m well aware of that, and I feel it too. The expanse of screen-space hints at creative possibilities. You probably wouldn’t want to do full-time graphics work or app development without a large and/or additional screen, either. You can, but those are specialised disciplines where you can make a strong argument for two-up or even larger displays.</p></p><p><p>For the vast bulk of stuff that most people will want to do on a computer, though, most of the time you don’t need a desktop monster. I don’t think you even need a 15” screen, which is essentially a portable desktop. You just have to use a small screen productively.</p></p><p><p></p></blockquote></p>
+
+<p>Dear Macbook Air user, you should read this.</p>
+
+]]></content>
+  </entry>
+  
+</feed>
