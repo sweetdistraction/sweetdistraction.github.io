@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Idownloadblog | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/idownloadblog/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-14T12:03:05+07:00</updated>
+  <updated>2015-01-16T08:21:04+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Things for iPhone and iPad Updated With New Notification Center Widget]]></title>
+    <link href="http://sweetdistraction.github.io/things-update/"/>
+    <updated>2015-01-16T07:57:08+07:00</updated>
+    <id>http://sweetdistraction.github.io/things-update</id>
+    <content type="html"><![CDATA[<p>Via <a href="http://www.idownloadblog.com/">iDownloadblog</a>:
+<blockquote><p></p></p><p><p>Popular task managing app Things pushed out an update to its iPhone and iPad clients today, bringing both apps to version 2.6. The symmetrical updates bring improvements to the URI scheme, for better inter-app communication, and a new Notification Center Widget.</p></p><p><p></p></blockquote></p>
+
+<p>Update! Update! I love Things than the other popular task management apps. Its simplicity and easy to use is one of main reason I choose Things. This update makes easier to glance at what you’ve to do through Notification Center. </p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Allarm: A Cleverly Named Tweak That Toggles All Alarm Clocks Simultaneously]]></title>

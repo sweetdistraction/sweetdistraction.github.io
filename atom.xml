@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-14T12:03:05+07:00</updated>
+  <updated>2015-01-16T08:21:04+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Things for iPhone and iPad updated with new Notification Center widget ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.idownloadblog.com/2015/01/15/things-todo-nc-widget/"/>
+  	
+    <updated>2015-01-16T07:57:08+07:00</updated>
+    <id>http://sweetdistraction.github.io/things-update</id>
+    
+    <content type="html"><![CDATA[<p>Via <a href="http://www.idownloadblog.com/">iDownloadblog</a>:</p>
+<blockquote><p>Popular task managing app Things pushed out an update to its iPhone and iPad clients today, bringing both apps to version 2.6. The symmetrical updates bring improvements to the URI scheme, for better inter-app communication, and a new Notification Center Widget.</p></blockquote>
+
+<p>Update! Update! I love Things than the other popular task management apps. Its simplicity and easy to use is one of main reason I choose Things. This update makes easier to glance at what you’ve to do through Notification Center. </p>
+<a rel="full-article" href="http://sweetdistraction.github.io/things-update/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -360,23 +376,6 @@
   </ol>
 </div>
 ]]></content>
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[THE PERILS OF ELECTRONIC COMMUNICATIONS ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://macsparky.com/blog/2014/12/the-perils-of-electronic-communications"/>
-  	
-    <updated>2014-12-17T09:37:58+07:00</updated>
-    <id>http://sweetdistraction.github.io/the-perils-of-electronic-communications</id>
-    
-    <content type="html"><![CDATA[<p>David Sparks via <a href="www.macsparky.com">Macsparky</a>:</p>
-<blockquote><p>I think it runs even deeper than the typical big brother paranoia. Digital communications is permanent and hurtful things said to friends and loved ones via email is equally permanent. If you are pissed at a friend, go confront him. Yell. Scream. Exercise your demons. Bloody noses heal and a shared beer a few hours later heals even better. A rage-filled email however drives a deep, and often permanent, wedge.</p></blockquote>
-
-<p><em>That’s damned truth!</em></p>
-
-<a rel="full-article" href="http://sweetdistraction.github.io/the-perils-of-electronic-communications/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
