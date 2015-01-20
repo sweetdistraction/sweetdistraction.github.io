@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Trik | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/trik/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-01-20T21:22:18+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Write Custom Function in Google Sheets]]></title>
+    <link href="http://sweetdistraction.github.io/google-sheets-custom-functions/"/>
+    <updated>2015-01-20T09:53:39+07:00</updated>
+    <id>http://sweetdistraction.github.io/google-sheets-custom-functions</id>
+    <content type="html"><![CDATA[<p>Nice tips how you can write functions using JavaScript in Google Sheets.</p>
+]]></content>
+  </entry>
+  
+</feed>
