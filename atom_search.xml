@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-20T21:22:18+07:00</updated>
+  <updated>2015-01-22T11:16:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Don't Ever Use This Listed Password]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/don't-use-this-password/"/>
+    <updated>2015-01-22T10:58:39+07:00</updated>
+    <id>http://sweetdistraction.github.io/don&#8217;t-use-this-password</id>
+    <content type="html"><![CDATA[<p>Really, people still use <code>123456</code> as their password in 2014? <em>sigh</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Write Custom Function in Google Sheets]]></title>
