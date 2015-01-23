@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-22T11:46:53+07:00</updated>
+  <updated>2015-01-23T10:34:36+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Favorite App For Shared Lists]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/favorite-shared-list-apps/"/>
+    <updated>2015-01-23T10:35:52+07:00</updated>
+    <id>http://sweetdistraction.github.io/favorite-shared-list-apps</id>
+    <content type="html"><![CDATA[<p>Available in all platform even as browser extensions, syncs pretty well, can add subtask and attach PDF, media, link, easy sharing with others. Well, no wonder they pick Wunderlist. </p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Don't Ever Use This Listed Password]]></title>

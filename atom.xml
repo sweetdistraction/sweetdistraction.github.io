@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-22T11:46:53+07:00</updated>
+  <updated>2015-01-23T10:34:36+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Favorite App For Shared Lists ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://thesweetsetup.com/apps/favorite-app-shared-lists/"/>
+  	
+    <updated>2015-01-23T10:35:52+07:00</updated>
+    <id>http://sweetdistraction.github.io/favorite-shared-list-apps</id>
+    
+    <content type="html"><![CDATA[<p>Available in all platform even as browser extensions, syncs pretty well, can add subtask and attach PDF, media, link, easy sharing with others. Well, no wonder they pick Wunderlist. </p>
+
+<a rel="full-article" href="http://sweetdistraction.github.io/favorite-shared-list-apps/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -325,23 +339,6 @@
 <p>Sekarang, saya memiliki satu alasan kenapa harus menginstall aplikasi resmi Twitter di perangkat iOS saya.</p>
 
 <a rel="full-article" href="http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Allarm: a cleverly named tweak that toggles all alarm clocks simultaneously ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://www.idownloadblog.com/2014/12/21/allarm-toggle-all-alarms/"/>
-  	
-    <updated>2014-12-22T16:09:27+07:00</updated>
-    <id>http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously</id>
-    
-    <content type="html"><![CDATA[<p><a href="http://www.twitter.com/jeffbenjam/">Jeff Benjamin</a> via <a href="www.idownloadblog.com">iDownbloadblog</a>:</p>
-<blockquote><p>Once you install Allarm, simply head over to the alarm clock tab of the Clock app, and you’ll see a brand new Toggle All Alarms toggle at the top of the page.</p></blockquote>
-
-<p>Memiliki sebuah iPhone yang sudah terjailbreak dan suka mengatur alarm dengan selang waktu 15 menit (ehem!)? Tweak ini pastilah sangat berguna.</p>
-
-<a rel="full-article" href="http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
