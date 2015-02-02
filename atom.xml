@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-23T10:34:36+07:00</updated>
+  <updated>2015-02-02T13:41:31+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[If Apple Made Milk ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.adweek.com/adfreak/if-apple-made-milk-and-other-super-cool-imaginary-product-packaging-162398"/>
+  	
+    <updated>2015-01-27T09:15:44+07:00</updated>
+    <id>http://sweetdistraction.github.io/apple-made-milk</id>
+    
+    <content type="html"><![CDATA[<p>What if Apple and others popular brand do packaging to your daily needs at grocery?</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/apple-made-milk/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -322,23 +335,6 @@
 <p>Update! Update!</p>
 
 <a rel="full-article" href="http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Twitter Analytics di Twitter for iPhone ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="https://support.twitter.com/articles/320043-tweet-activity-dashboard"/>
-  	
-    <updated>2014-12-23T09:09:04+07:00</updated>
-    <id>http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone</id>
-    
-    <content type="html"><![CDATA[<p><a href="https://support.twitter.com">Twitter Support Page</a>:</p>
-<blockquote><p>On mobile (currently available on Twitter for iPhone), click on one of your Tweets to get to the Tweet detail page, then tap “View Tweet activity.” Make sure you have installed the latest version of Twitter for iPhone.</p></blockquote>
-
-<p>Sekarang, saya memiliki satu alasan kenapa harus menginstall aplikasi resmi Twitter di perangkat iOS saya.</p>
-
-<a rel="full-article" href="http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   

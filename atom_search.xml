@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-01-23T10:34:36+07:00</updated>
+  <updated>2015-02-02T13:41:31+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[If Apple Made Milk]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/apple-made-milk/"/>
+    <updated>2015-01-27T09:15:44+07:00</updated>
+    <id>http://sweetdistraction.github.io/apple-made-milk</id>
+    <content type="html"><![CDATA[<p>What if Apple and others popular brand do packaging to your daily needs at grocery?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Favorite App For Shared Lists]]></title>
