@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Wordpress | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/wordpress/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-02-03T08:06:27+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Reason You Should Draft Your Blog Posts Outside WordPress]]></title>
+    <link href="http://sweetdistraction.github.io/drafts-wordpress/"/>
+    <updated>2015-02-03T08:04:53+07:00</updated>
+    <id>http://sweetdistraction.github.io/drafts-wordpress</id>
+    <content type="html"><![CDATA[<p><a href="http://john.do">John Saddington</a>
+<blockquote><p></p></p><p><p>The point is this: The reason you draft outside of WordPress is because there’s less of a chance of losing your hard work!</p></p><p><p></p></blockquote></p>
+
+<p>That’s true! Goddamn true! </p>
+
+]]></content>
+  </entry>
+  
+</feed>

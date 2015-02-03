@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-02T13:41:31+07:00</updated>
+  <updated>2015-02-03T08:06:27+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[The Reason You Should Draft Your Blog Posts Outside WordPress]]></title>
+  	<link href="http://sweetdistraction.github.io/drafts-wordpress/"/>
+  	
+    <updated>2015-02-03T08:04:53+07:00</updated>
+    <id>http://sweetdistraction.github.io/drafts-wordpress</id>
+    
+    <content type="html"><![CDATA[<p><a href="http://john.do">John Saddington</a></p>
+<blockquote><p>The point is this: The reason you draft outside of WordPress is because there’s less of a chance of losing your hard work!</p></blockquote>
+
+<p>That’s true! Goddamn true! </p>
+
+]]></content>
+  	
+  </entry>
   
   <entry>
     
@@ -318,23 +335,6 @@
 <blockquote><p>This holiday season I&#8217;ve put all of the MacSparky Field Guides on sale.</p></blockquote>
 <p>SALE! SALE! SALE! Happy holiday, guys!</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/macsparky-field-guides-sale/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Apple Issues Network Time Protocol Security Fix for OS X Users ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://www.macrumors.com/2014/12/22/apple-issues-new-security-fix/"/>
-  	
-    <updated>2014-12-23T09:25:40+07:00</updated>
-    <id>http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix</id>
-    
-    <content type="html"><![CDATA[<p><a href="www.macrumors.com">MacRumors</a>:</p>
-<blockquote><p>Apple today released a new security update that’s designed to address a &#8220;critical security issue&#8221; with the Network Time Protocol service on OS X. Apple recommends that all Yosemite, Mavericks, and Mountain Lion users install the update &#8220;as soon as possible.&#8221;</p></blockquote>
-
-<p>Update! Update!</p>
-
-<a rel="full-article" href="http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
