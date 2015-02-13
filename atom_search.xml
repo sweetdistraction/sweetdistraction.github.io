@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-03T08:53:48+07:00</updated>
+  <updated>2015-02-13T23:06:04+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,12 +14,22 @@
 
   
   <entry>
+    <title type="html"><![CDATA[This is Tim Cook at the Goldman Sachs Conference]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/tim-cook-interview/"/>
+    <updated>2015-02-12T09:25:04+07:00</updated>
+    <id>http://sweetdistraction.github.io/tim-cook-interview</id>
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/settern">Serenity Caldwell</a> made a transcipt for iMore about Tim Cook talks at the Goldman Sachs Conferences. </p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[The Reason You Should Draft Your Blog Posts Outside WordPress]]></title>
     <summary><![CDATA[]]></summary>
     <link href="http://sweetdistraction.github.io/drafts-wordpress/"/>
     <updated>2015-02-03T08:04:53+07:00</updated>
     <id>http://sweetdistraction.github.io/drafts-wordpress</id>
-    <content type="html"><![CDATA[<p><a href="http://john.do">John Saddington</a></p>
+    <content type="html"><![CDATA[<p><a href="http://john.do">John Saddington</a>:</p>
 <blockquote><p>The point is this: The reason you draft outside of WordPress is because there’s less of a chance of losing your hard work!</p></blockquote>
 
 <p>That’s true! Goddamn true! </p>

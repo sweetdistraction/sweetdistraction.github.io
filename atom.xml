@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-03T08:53:48+07:00</updated>
+  <updated>2015-02-13T23:06:04+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -15,18 +15,31 @@
   
   <entry>
     
-  	<title type="html"><![CDATA[The Reason You Should Draft Your Blog Posts Outside WordPress]]></title>
-  	<link href="http://sweetdistraction.github.io/drafts-wordpress/"/>
+  	<title type="html"><![CDATA[This is Tim Cook at the Goldman Sachs Conference ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.imore.com/tim-cook-goldman-sachs-conference"/>
+  	
+    <updated>2015-02-12T09:25:04+07:00</updated>
+    <id>http://sweetdistraction.github.io/tim-cook-interview</id>
+    
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/settern">Serenity Caldwell</a> made a transcipt for iMore about Tim Cook talks at the Goldman Sachs Conferences. </p>
+<a rel="full-article" href="http://sweetdistraction.github.io/tim-cook-interview/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[The Reason You Should Draft Your Blog Posts Outside WordPress ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://john.do/draft/"/>
   	
     <updated>2015-02-03T08:04:53+07:00</updated>
     <id>http://sweetdistraction.github.io/drafts-wordpress</id>
     
-    <content type="html"><![CDATA[<p><a href="http://john.do">John Saddington</a></p>
+    <content type="html"><![CDATA[<p><a href="http://john.do">John Saddington</a>:</p>
 <blockquote><p>The point is this: The reason you draft outside of WordPress is because there’s less of a chance of losing your hard work!</p></blockquote>
 
 <p>That’s true! Goddamn true! </p>
 
-]]></content>
+<a rel="full-article" href="http://sweetdistraction.github.io/drafts-wordpress/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
@@ -320,21 +333,6 @@
 
 <p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba! </p>
 <a rel="full-article" href="http://sweetdistraction.github.io/bretttrepstra-vitag-release/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Happy Holidays! All Field Guides are On Sale — MacSparky ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://macsparky.com/blog/2014/12/happy-holidays-all-field-guides-are-on-sale"/>
-  	
-    <updated>2014-12-25T22:38:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/macsparky-field-guides-sale</id>
-    
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/macsparky">David Sparks</a>:</p>
-<blockquote><p>This holiday season I&#8217;ve put all of the MacSparky Field Guides on sale.</p></blockquote>
-<p>SALE! SALE! SALE! Happy holiday, guys!</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/macsparky-field-guides-sale/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
