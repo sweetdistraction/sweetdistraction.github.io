@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Nasa | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/nasa/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-02-17T11:45:00+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Pale Blue Dot]]></title>
+    <link href="http://sweetdistraction.github.io/pale-blue-dot/"/>
+    <updated>2015-02-17T11:07:58+07:00</updated>
+    <id>http://sweetdistraction.github.io/pale-blue-dot</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/palebluedot.jpg"></p>
+
+<p>Forget about Valentine Days. On February 14, 1990 <a href="http://en.wikipedia.org/wiki/Voyager_1">NASA’s Voyager Spacecraft</a> capture a photo of our solar system. The photo includes Neptune, Uranus, Jupiter, Venus and Earth-which showed up as pale blue dot in the brown light that resembles a beam of sunlight. This year, the photo is turned 25 years old.</p>
+
+<p>The photo was taken when Voyager 1 was 40 astronomical units from the sun which is equivalent to 6000 million kilometers. </p>
+
+<p>Carl Sagan wrote in his “Pale Blue Dot” book: 
+&gt; “That’s here. That’s home. That’s us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. … There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world.”</p>
+
+<p>This photo is kinda a reminder that with all of our passion, all of our love, lucks and sucks, all of our dreams and shits we still isn’t bigger than a dust or even a pixel.</p>
+
+<p>It’s good to be reminded this way once in a while. </p>
+]]></content>
+  </entry>
+  
+</feed>
