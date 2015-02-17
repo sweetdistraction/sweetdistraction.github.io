@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Automation | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/automation/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-17T11:45:00+07:00</updated>
+  <updated>2015-02-17T19:59:07+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,12 +14,27 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Hammerspoon]]></title>
+    <link href="http://sweetdistraction.github.io/hammerspoon/"/>
+    <updated>2015-02-17T17:42:45+07:00</updated>
+    <id>http://sweetdistraction.github.io/hammerspoon</id>
+    <content type="html"><![CDATA[<p>If you’re into workflow automation, then you might want to check this out. Hammerspoon is Lua based scripting engine for OS X. Just write the code in Lua language and it can interact with OS X APIs such as: clipboard, mouse pointers,filesystem objects, audio, batteries, and more.</p>
+
+<p>If your nerdy side is kickin’ out then why not to try this?</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[A Better Way to Combine iPhone Screenshots With Keyboard Maestro]]></title>
     <link href="http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro/"/>
     <updated>2014-12-03T17:09:30+07:00</updated>
     <id>http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro</id>
     <content type="html"><![CDATA[<p><a href="http://twitter.com/viticci">Federico Viticci</a> via <a href="http://www.macstories.net/">Macstories</a>:
-<blockquote><p></p></p><p><p>This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
+{% blockquote %}</p>
+
+<p>This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p>
+
+<p>{% endblockquote %}</p>
 
 <p>Menulis artikel tips dan trik untuk sebuah blog teknologi lokal terkadang dituntut adanya screenshot untuk mempermudah pemahaman dari topik yang sedang dibahas. Sebelumnya, untuk menggabungkan beberapa screenshot saya akan membuka Pixelmator dan menyusunnya. Hal ini tentu kurang efektif dan memakan waktu.</p>
 
@@ -35,7 +50,11 @@
     <updated>2014-12-03T10:31:41+07:00</updated>
     <id>http://sweetdistraction.github.io/javascript-for-automation</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/The_Axx">Alex Guyot</a> via <a href="www.macstories.net">Macstories</a>:
-<blockquote><p></p></p><p><p>Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p></p><p><p></p></blockquote></p>
+{% blockquote %}</p>
+
+<p>Automating applications on OS X is an extremely powerful ability, and can save you huge amounts of time. My simple iTunes automation scripts are just conveniences, but the ideas behind them can be appropriated to other, more powerful apps to great effect. If you take the time to evaluate some of your common Mac workflows and take a look at the built-in methods in the productivity apps you use most, you may find that you can use JXA to greatly enhance your efficiency at certain tasks.</p>
+
+<p>{% endblockquote %}</p>
 
 <p>Jika <a href="https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html">AppleScript</a> dan <a href="http://support.apple.com/en-us/ht2488">Automator</a> dirasa tak cukup untuk mengotomatisasi berbagi pekerjaan pada Mac maka JavaScript for Automation (JXA) boleh dicoba. <a href="https://twitter.com/The_Axx">Alex Guyot</a> melalui Macstories telah memberikan sedikit gambaran dan contoh bagaimana javascript dapat mendukung mempercepat workflow di OS X.</p>
 

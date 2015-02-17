@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Textexpander | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/textexpander/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-17T11:45:00+07:00</updated>
+  <updated>2015-02-17T19:59:07+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -19,7 +19,12 @@
     <updated>2014-12-16T08:46:37+07:00</updated>
     <id>http://sweetdistraction.github.io/phraseexpress-docs</id>
     <content type="html"><![CDATA[<p>PhraseExpress Docs:
-<blockquote><p></p></p><p><h3 id="createalter-a-temporary-variable">Create/Alter a temporary variable</h3><br/><p>Defines or changes the content of a temporary variable with the provided name and contents. You can create an unlimited number of temporary variables with either unformatted text and/or numbers. Such vars can be output with the <code>{#GETTEMP …}</code> macro function.</p></p><p><p></p></blockquote></p>
+{% blockquote %}</p>
+
+<h3 id="createalter-a-temporary-variable">Create/Alter a temporary variable</h3>
+<p>Defines or changes the content of a temporary variable with the provided name and contents. You can create an unlimited number of temporary variables with either unformatted text and/or numbers. Such vars can be output with the <code>{#GETTEMP …}</code> macro function.</p>
+
+<p>{% endblockquote %}</p>
 
 <p>Datang pagi ke kantor dan membuka kembali dokumen pendukung PhraseExpress lalu menemukan dokumentasi yang satu ini. Ketika bekerja di Mac, saya memiliki snippets <code>;ext</code> yang secara otomatis ter-<em>expand</em> menjadi sebuah <em><a href="https://en.wikipedia.org/wiki/Linklog">linklog</a></em> post lengkap dengan <em>YAML front-matternya</em> karena web saya menggunakan <a href="http://octopress.org/">Octopress</a>. Serta berkat adanya dukungan dari AppleScript, semua parameter YAML front-matter seperti judul, url, dan kalimat yang akan dikutip langsung otomatis muncul ketika snippets tersebut diaktifkan. AppleScript secara otomatis mengambil URL dan Title dari tab Safari yang aktif.</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Itunes | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/itunes/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-17T11:45:00+07:00</updated>
+  <updated>2015-02-17T19:59:07+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -19,7 +19,9 @@
     <updated>2015-01-02T21:13:00+07:00</updated>
     <id>http://sweetdistraction.github.io/family-sharing-problem</id>
     <content type="html"><![CDATA[<p><a href="!g" title="twitter macsparky">David Spark</a> menulis tentang Family Sharing:
-<blockquote><p>Family Sharing is a great idea. Families, like mine, have growing children that will one day leave the nest and need iTunes accounts of their own. Moreover, Apple now has multiple device categories resulting in families hitting their head against the 10-device limit as the kids start growing up and iPhones, iPads, and Macs multiply. For a few years now, we’ve had to decide which of our devices get iTunes Match and which don’t. It’s quite frustrating that we can’t share music we’ve paid for across all our devices.</p></blockquote></p>
+{% blockquote %}
+Family Sharing is a great idea. Families, like mine, have growing children that will one day leave the nest and need iTunes accounts of their own. Moreover, Apple now has multiple device categories resulting in families hitting their head against the 10-device limit as the kids start growing up and iPhones, iPads, and Macs multiply. For a few years now, we’ve had to decide which of our devices get iTunes Match and which don’t. It’s quite frustrating that we can’t share music we’ve paid for across all our devices.
+{% endblockquote %}</p>
 
 <p>Bagi sebuah keluarga yang menggunakan perangkat iOS dan Mac menggunakan Family Sharing memang lebih menguntungkan, pasalnya mereka dapat saling berbagi aplikasi, lagu, ataupun film yang cukup dibeli dari satu akun saja. Namun ternyata menggunakan Family Sharing tak semenyenagkan yang dibayangkan. </p>
 ]]></content>
@@ -31,7 +33,11 @@
     <updated>2014-12-16T09:50:50+07:00</updated>
     <id>http://sweetdistraction.github.io/path-update</id>
     <content type="html"><![CDATA[<p>Path via iTunes Store:
-<blockquote><p></p></p><p><p>Muting: Now you can easily mute any moment that you’re tagged in. And, we want you to have even more control — change your settings so only your friends can tag you in moments.</p></p><p><p></p></blockquote></p>
+{% blockquote %}</p>
+
+<p>Muting: Now you can easily mute any moment that you’re tagged in. And, we want you to have even more control — change your settings so only your friends can tag you in moments.</p>
+
+<p>{% endblockquote %}</p>
 
 <p>Bagi yang sering kena tag berjamaah, kini kalian bisa bernapas lega.</p>
 

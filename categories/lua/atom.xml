@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Lua | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/lua/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-02-17T19:57:06+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hammerspoon]]></title>
+    <link href="http://sweetdistraction.github.io/hammerspoon/"/>
+    <updated>2015-02-17T17:42:45+07:00</updated>
+    <id>http://sweetdistraction.github.io/hammerspoon</id>
+    <content type="html"><![CDATA[<p>If you’re into workflow automation, then you might want to check this out. Hammerspoon is Lua based scripting engine for OS X. Just write the code in Lua language and it can interact with OS X APIs such as: clipboard, mouse pointers,filesystem objects, audio, batteries, and more.</p>
+
+<p>If your nerdy side is kickin’ out then why not to try this?</p>
+]]></content>
+  </entry>
+  
+</feed>

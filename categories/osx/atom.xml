@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Osx | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/osx/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-17T11:45:00+07:00</updated>
+  <updated>2015-02-17T19:57:06+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hammerspoon]]></title>
+    <link href="http://sweetdistraction.github.io/hammerspoon/"/>
+    <updated>2015-02-17T17:42:45+07:00</updated>
+    <id>http://sweetdistraction.github.io/hammerspoon</id>
+    <content type="html"><![CDATA[<p>If you’re into workflow automation, then you might want to check this out. Hammerspoon is Lua based scripting engine for OS X. Just write the code in Lua language and it can interact with OS X APIs such as: clipboard, mouse pointers,filesystem objects, audio, batteries, and more.</p>
+
+<p>If your nerdy side is kickin’ out then why not to try this?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Another Perspective]]></title>
@@ -66,19 +77,6 @@
 <blockquote><p></p></p><p><p>Run without arguments it grabs all files and folders in the current directory and opens your text editor with a list of them, each one followed by its current tags (if any) in square brackets. Edit what’s in the brackets, save and close, and those changes are immediately applied.</p></p><p><p></p></blockquote></p>
 
 <p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba! </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple Issues Network Time Protocol Security Fix for OS X Users]]></title>
-    <link href="http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix/"/>
-    <updated>2014-12-23T09:25:40+07:00</updated>
-    <id>http://sweetdistraction.github.io/apple-issues-network-time-protocol-security-fix</id>
-    <content type="html"><![CDATA[<p><a href="www.macrumors.com">MacRumors</a>:
-<blockquote><p></p></p><p><p>Apple today released a new security update that’s designed to address a “critical security issue” with the Network Time Protocol service on OS X. Apple recommends that all Yosemite, Mavericks, and Mountain Lion users install the update “as soon as possible.” </p></p><p><p></p></blockquote></p>
-
-<p>Update! Update!</p>
-
 ]]></content>
   </entry>
   

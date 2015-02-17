@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-17T11:45:00+07:00</updated>
+  <updated>2015-02-17T19:57:06+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Hammerspoon ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.hammerspoon.org/"/>
+  	
+    <updated>2015-02-17T17:42:45+07:00</updated>
+    <id>http://sweetdistraction.github.io/hammerspoon</id>
+    
+    <content type="html"><![CDATA[<p>If you’re into workflow automation, then you might want to check this out. Hammerspoon is Lua based scripting engine for OS X. Just write the code in Lua language and it can interact with OS X APIs such as: clipboard, mouse pointers,filesystem objects, audio, batteries, and more.</p>
+
+<p>If your nerdy side is kickin’ out then why not to try this?</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/hammerspoon/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -27,8 +42,8 @@
 
 <p>The photo was taken when Voyager 1 was 40 astronomical units from the sun which is equivalent to 6000 million kilometers. </p>
 
-<p>Carl Sagan wrote in his “Pale Blue Dot” book: 
-&gt; “That’s here. That’s home. That’s us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. … There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world.”</p>
+<p>Carl Sagan wrote in his “Pale Blue Dot” book: </p>
+<blockquote><p>&#8220;That&#8217;s here. That&#8217;s home. That&#8217;s us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. &#8230; There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world.&#8221;</p></blockquote>
 
 <p>This photo is kinda a reminder that with all of our passion, all of our love, lucks and sucks, all of our dreams and shits we still isn’t bigger than a dust or even a pixel.</p>
 
@@ -324,23 +339,6 @@
 
 <p><em>Let’s have an awesome 2015!</em></p>
 ]]></content>
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[My Must-Have iPhone Apps, 2014 Edition – MacStories ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://www.macstories.net/roundups/my-must-have-iphone-apps-2014-edition/"/>
-  	
-    <updated>2014-12-30T23:47:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/must-have-iphone-apps-2014</id>
-    
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Frederico Viticci</a>:</p>
-<blockquote><p>At the end of the article, you’ll also find my iPhone App of the Year and a Runner-up. Each app has a direct iTunes link, and, where possible, I’ve included links to previous MacStories coverage as well.</p></blockquote>
-
-<p>Saya selalu suka membaca setiap artikel <a href="https://twitter.com/viticci">Frederico Viticci</a> di <a href="http://www.macstories.net">Macstories</a>. Tak hanya menyajikan review, namun <a href="https://twitter.com/viticci">@viticci</a> juga mengulasnya secara komprehensif dan mendalam. </p>
-
-<a rel="full-article" href="http://sweetdistraction.github.io/must-have-iphone-apps-2014/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   

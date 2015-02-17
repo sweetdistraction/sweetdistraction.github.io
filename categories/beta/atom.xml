@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Beta | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/beta/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-17T11:45:00+07:00</updated>
+  <updated>2015-02-17T19:59:07+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -18,7 +18,7 @@
     <link href="http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang/"/>
     <updated>2014-11-24T18:36:34+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-rilis-osx-10.0.2-beta-pengembang</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/yosemite10102beta.jpg" title="OS X 10.10.2 Beta" >
+    <content type="html"><![CDATA[<p>{% img center /images/yosemite10102beta.jpg OS X 10.10.2 Beta %}
 3 hari setelah <a href="http://www.macrumors.com/2014/11/17/apple-10-10-1-release/">merilis pembaharuan OS X 10.10.1</a> kepada publik, Apple langsung merilis OS X 10.10.2 beta kepada para pengembang untuk diuji coba. </p>
 
 <!-- more -->
