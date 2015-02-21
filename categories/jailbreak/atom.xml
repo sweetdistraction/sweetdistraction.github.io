@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Jailbreak | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/jailbreak/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-17T19:59:07+07:00</updated>
+  <updated>2015-02-21T09:20:37+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -63,11 +63,7 @@
     <updated>2014-12-05T09:16:41+07:00</updated>
     <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>
     <content type="html"><![CDATA[<p><a href="@JeffBenjam">Jeff Benjam</a> via <a href="www.idownloadblog.com">iDownloadblog</a>:
-{% blockquote %}</p>
-
-<p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy &amp; paste, create and delete folders, delete files, create and extract compressed files, and more.</p>
-
-<p>{% endblockquote %}</p>
+<blockquote><p></p></p><p><p>FileBrowser allows jailbroken users to browse the entire filesystem of an iPad, iPhone, or iPod touch. It lends the ability to do things like rename, copy &amp; paste, create and delete folders, delete files, create and extract compressed files, and more.</p></p><p><p></p></blockquote></p>
 
 <p>Jika membaca review yang ditulis oleh Jeff, rasanya FileBrowser masih jauh baik secara fitur atau tampilan jika dibandingkan dengan iFile. Hadir secara gratis dengan adanya iklan dalam aplikasinya, FileBrowser bisa jadi alternatif untuk berjelajah antar direktori pada perangkat iOS. Namun jangan lupa bahwa iFile juga dapat digunakan secara gratis meski dengan fitur yang terbatas.</p>
 ]]></content>
@@ -80,9 +76,7 @@
     <id>http://sweetdistraction.github.io/apple-vs-jailbreak</id>
     <content type="html"><![CDATA[<p><a href="http://www.apple.com/legal/sales-support/sales-policies/retail_us.html">Apple</a>:</p>
 
-<p>{% blockquote %}
-Making unauthorized modifications to the software on an iPhone violates the iPhone software license agreement. The common term for modifying an iPhone is jail-breaking, with a particular emphasis on the second part of that term. That’s why we strongly, almost emphatically, recommend that you do not do so. Really. Should you be unable to use your iPhone due to an unauthorized software modification, its repair will not be covered under the warranty.
-{% endblockquote %}</p>
+<p><blockquote><p>Making unauthorized modifications to the software on an iPhone violates the iPhone software license agreement. The common term for modifying an iPhone is jail-breaking, with a particular emphasis on the second part of that term. That’s why we strongly, almost emphatically, recommend that you do not do so. Really. Should you be unable to use your iPhone due to an unauthorized software modification, its repair will not be covered under the warranty.</p></blockquote></p>
 
 <p>Apple memang sudah lama menentang ataupun tak mengijinkan penggunanya untuk melakukan jailbreak. Pada halaman <em>sales policy</em> di atas bahkan Apple tak bertanggung jawab atas kerusakan yang terjadi akibat modifikasi dari sistem operasi iOS dalam hal ini berarti hangusnya garansi perangkat.</p>
 
@@ -100,15 +94,7 @@ Making unauthorized modifications to the software on an iPhone violates the iPho
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/ios-8.1.1-jailbreak-release</id>
     <content type="html"><![CDATA[<p>Dari <a href="http://iclarified.com">iClarified</a>:
-{% blockquote %}</p>
-
-<p>MuscleNerd confirmed the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p>
-
-<p>“Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case”</p>
-
-<p>TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG ‘app store’ for cracked apps by default in China.</p>
-
-<p>{% endblockquote%}</p>
+<blockquote><p></p></p><p><p>MuscleNerd confirmed the jailbreak over Twitter; however, he warns that you should probably wait a couple days before attempting.</p></p><p><p>“Looks like TaiG just released a jailbreak for 8.1.1 (and 8.0,8.1,8.2beta). Best to wait a few days just in case”</p></p><p><p>TaiG was part of the controversial iOS 7 jailbreak from the Evad3rs. The jaibreak included the TaiG ‘app store’ for cracked apps by default in China.</p></p><p><p></p></blockquote></p>
 ]]></content>
   </entry>
   

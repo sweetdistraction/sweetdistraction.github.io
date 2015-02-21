@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-17T19:57:06+07:00</updated>
+  <updated>2015-02-21T09:20:37+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[On the Pricing of Apple Watch ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://daringfireball.net/2015/02/apple_watch_pricing"/>
+  	
+    <updated>2015-02-21T08:42:36+07:00</updated>
+    <id>http://sweetdistraction.github.io/apple-watch-pricing</id>
+    
+    <content type="html"><![CDATA[<p>Interesting thought of<a href="https://twitter.com/gruber">John Gruber</a> about Apple Watch pricing: </p>
+<blockquote><p>Apple Watch Edition is not a tech product, so don’t try to price it like one.</p></blockquote>
+
+<p>I love the footnote of his post: </p>
+
+<blockquote><p>At prices like these, an Apple Watch Edition is not an accessory for your iPhone — your iPhone is an accessory for your Apple Watch Edition.</p></blockquote>
+
+<a rel="full-article" href="http://sweetdistraction.github.io/apple-watch-pricing/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -318,27 +337,6 @@
 
 <p>Perangkat Mac memang tak terbilang murah, untuk itulah pengguna harus pintar-pintar mencari cara bagaimana agar Mac yang telah lama dimiliki tetap memiliki performa yang baik. Biasanya, Mac versi lama memiliki beberapa komponen yang dapat diupgrade sendiri oleh pemiliknya dan mengganti RAM atau hard drive dengan spesifikasi yang lebih baik bisa menjadi alternatif untuk mengembalikan performa Mac yang dirasa sudah mulai menurun.</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/breathe-life-into-old-mac/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Happy New Year, guys!]]></title>
-  	<link href="http://sweetdistraction.github.io/happy-new-year/"/>
-  	
-    <updated>2015-01-01T22:19:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/happy-new-year</id>
-    
-    <content type="html"><![CDATA[<p><em>Happy New Year, guys!</em></p>
-
-<p>Tahun 2014 sudah berlalu dan tentu saja banyak pengalaman serta pembelajaran yang saya dapat. 2014 merupakan tahun yang luar biasa, penuh kesempatan, kejutan serta hal-hal tak terduga sebelumnya. </p>
-
-<p>Mendapat kesempatan untuk bekerja <em>part-time</em> di sebuah blog teknologi ternama di tanah air, belajar membuat blog tentang teknologi menggunakan platform <a href="!g" title="octopress">Octopress</a>, mengetahui serta belajar tentang <em>iOS automation</em> dari berbagai blog dan masih banyak lagi</p>
-
-<p>Jika ditanya tentang harapan di 2015 maka jawabannya adalah konsistensi. Ya, saya ingin punya konsistensi untuk mengerjakan hal yang telah saya mulai seperti halnya rajin menulis di blog ini yang pernah membuat saya tak tertidur di malam hari. Blog yang berisi kumpulan berita serta informasi tentang teknologi.</p>
-
-<p><em>Let’s have an awesome 2015!</em></p>
-]]></content>
   	
   </entry>
   

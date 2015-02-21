@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Twitter | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/twitter/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-17T19:59:07+07:00</updated>
+  <updated>2015-02-21T09:20:37+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -19,11 +19,7 @@
     <updated>2014-12-23T09:09:04+07:00</updated>
     <id>http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone</id>
     <content type="html"><![CDATA[<p><a href="https://support.twitter.com">Twitter Support Page</a>:
-{% blockquote %}</p>
-
-<p>On mobile (currently available on Twitter for iPhone), click on one of your Tweets to get to the Tweet detail page, then tap “View Tweet activity.” Make sure you have installed the latest version of Twitter for iPhone.</p>
-
-<p>{% endblockquote %}</p>
+<blockquote><p></p></p><p><p>On mobile (currently available on Twitter for iPhone), click on one of your Tweets to get to the Tweet detail page, then tap “View Tweet activity.” Make sure you have installed the latest version of Twitter for iPhone.</p></p><p><p></p></blockquote></p>
 
 <p>Sekarang, saya memiliki satu alasan kenapa harus menginstall aplikasi resmi Twitter di perangkat iOS saya.</p>
 
@@ -36,9 +32,7 @@
     <updated>2014-12-11T10:58:41+07:00</updated>
     <id>http://sweetdistraction.github.io/twitter-clients-2014-macstories</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Frederico Viticci</a> via <a href="www.macstories.net">Macstories</a>:
-{% blockquote %}
- Choosing a Twitter client is incredibly personal. This experiment reinforced my belief that most of my criticism for Tweetbot and Twitterrific stems from API limitations that Twitter won’t fix for third-party developers. For this reason, it would be wrong to judge third-party clients solely based on features they can’t implement.
-{% endblockquote %}</p>
+<blockquote><p>Choosing a Twitter client is incredibly personal. This experiment reinforced my belief that most of my criticism for Tweetbot and Twitterrific stems from API limitations that Twitter won’t fix for third-party developers. For this reason, it would be wrong to judge third-party clients solely based on features they can’t implement.</p></blockquote></p>
 
 <p>Seperti biasa, Frederico Viticci melakukan pekerjaan yang mengaggumkan dengan menghadirkan ulasan yang komprehensif tentang berbagai macam <em>twitter client</em> di iOS seperti Tweetbot, Twitterific, dll. Namun meski banyak sekali pilihan aplikasi pihak ketiga untuk bermain Twitter namun bagi saya Tweetbot merupakan aplikasi yang paling pas dan menyenangkan untuk digunakan. Selamat membaca!</p>
 ]]></content>
