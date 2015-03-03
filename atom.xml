@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-02-21T09:20:37+07:00</updated>
+  <updated>2015-03-03T10:12:58+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Workflow 1.1: Deeper iOS Automation ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.macstories.net/reviews/workflow-1-1-deeper-ios-automation/"/>
+  	
+    <updated>2015-03-03T00:00:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/workflow-iOS-automation</id>
+    
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Federico Viticci</a> on <a href="www.macstories.net">MacStories</a>:</p>
+<blockquote><p>In a few months (I first started testing Workflow in August 2014), Workflow has become an essential component of how I get work done on iOS. The improvements and features launched today extend the app&#8217;s capabilities deeper into native iOS frameworks – whether you want to find photos, filter files and calendar events, or save selections from Safari, Workflow is becoming a command center for iOS that can do anything. It&#8217;s powerful, and there are still a few issues to fix, but it&#8217;s useful, and, even better, it&#8217;s fun.</p></blockquote>
+
+<p>I’ve tweeted about Workflow several time and if you need a good place to start then look no further. </p>
+<a rel="full-article" href="http://sweetdistraction.github.io/workflow-iOS-automation/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -321,22 +337,6 @@
 
 <p>Bagi sebuah keluarga yang menggunakan perangkat iOS dan Mac menggunakan Family Sharing memang lebih menguntungkan, pasalnya mereka dapat saling berbagi aplikasi, lagu, ataupun film yang cukup dibeli dari satu akun saja. Namun ternyata menggunakan Family Sharing tak semenyenagkan yang dibayangkan. </p>
 <a rel="full-article" href="http://sweetdistraction.github.io/family-sharing-problem/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Breathe life into an old Mac — 512 Pixels ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://www.512pixels.net/blog/2014/12/breathe-live-into-an-old-mac"/>
-  	
-    <updated>2015-01-01T22:49:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/breathe-life-into-old-mac</id>
-    
-    <content type="html"><![CDATA[<p>Joe Caiati menulis di <a href="http://www.512pixels.net">512 Pixels</a>:</p>
-<blockquote><p>Luckily, older Macs are more flexible with hardware upgrades and coupled with third-party software, you can unlock features that Apple doesn’t support on older models. Here is how to get the most life out of an aging Mac.</p></blockquote>
-
-<p>Perangkat Mac memang tak terbilang murah, untuk itulah pengguna harus pintar-pintar mencari cara bagaimana agar Mac yang telah lama dimiliki tetap memiliki performa yang baik. Biasanya, Mac versi lama memiliki beberapa komponen yang dapat diupgrade sendiri oleh pemiliknya dan mengganti RAM atau hard drive dengan spesifikasi yang lebih baik bisa menjadi alternatif untuk mengembalikan performa Mac yang dirasa sudah mulai menurun.</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/breathe-life-into-old-mac/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
