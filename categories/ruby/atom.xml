@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ruby | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/ruby/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-03-05T11:55:01+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Snippets Creation Day]]></title>
+    <link href="http://sweetdistraction.github.io/text-expander-mass-snippets-generator.markdown/"/>
+    <updated>2015-03-04T22:51:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/text-expander-mass-snippets-generator.markdown</id>
+    <content type="html"><![CDATA[<p><a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows">Working multi-platform</a> operating systems Windows and Mac sometimes give you pain in the ass. You can do something easily on Mac but maybe not in Windows and vice versa. Overmore, I’ve to work in Windows machine with limited user previlege so I can’t install any software I want. </p>
+
+<p>If you know what apps that I miss when working in Windows, I would gladly say it’s TextExpander. I feel I could do anything with with <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a> on my Mac but when it comes to work with my lovely Windows machine, I feel odd. Luckily I found a similar apps, <a href="www.phraseexpress.com">PhraseExpress</a>. </p>
+
+<p>I’m working with thousand files on the network storage at office. The pain is when I’ve to move from a folder to another folder and imagine when you’ve to dig into 4 nested folder to get the files, how many mouse clicks and scroll you need? So I want to make a snippets that expand into a directory address and simulating <code>Enter</code> key so I automatically jump to the destination folder. Luckily I found this <a href="http://brettterpstra.com/2013/01/04/mass-creating-textexpander-snippets/">blog post</a> by Brett Terpstra. </p>
+
+<p>I’ve been long reader of <a href="http://twitter.com/ttscoff">@ttscoff</a> blog. I use some of his projects, nvAlt, <a href="http://brettterpstra.com/projects/bretts-popclip-extensions/">PopClip extensions</a>, <a href="http://brettterpstra.com/projects/searchlink/">SearchLink</a>and his crazy <a href="http://brettterpstra.com/projects/keybindings/">keybindings</a>. So after reading his blog post, I fired up MS Excel and make the .csv files as suggested. The script ran very well and it took less than a 30 seconds to make almost 300 snippets on my CSV file, really a time saver.</p>
+
+<p>I modified the script a bit to put the label for the snippets that would be created. On the .CSV file, put the label on the third row. </p>
+
+<p>Here’s the modified version:
+<div><script src='https://gist.github.com/d51fd7fc137c4951686a.js'></script>
+<noscript><pre><code>#!/usr/bin/ruby
+require &#39;csv&#39;
+require &#39;erb&#39;
+require &#39;cgi&#39;
+
+if ARGV.length == 2
+	input_csv = ARGV[0]
+	output_te = ARGV[1]
+	unless output_te =~ /\.textexpander$/
+		puts &quot;Second argument must have a &#39;.textexpander&#39; extension.&quot;
+		puts &quot;#{File.basename(__FILE__)} input.csv output[.textexpander]&quot;
+		exit
+	end
+else
+	puts &quot;Two arguments are required, input filename and output filename&quot;
+	puts &quot;#{ARGV[0]} input.csv output[.textexpander]&quot;
+	exit
+end
+
+template = ERB.new &lt;&lt;-ENDTEMPLATE
+		&lt;dict&gt;
+			&lt;key&gt;abbreviation&lt;/key&gt;
+			&lt;string&gt;&lt;%= abbr %&gt;&lt;/string&gt;
+			&lt;key&gt;abbreviationMode&lt;/key&gt;
+			&lt;integer&gt;0&lt;/integer&gt;
+			&lt;key&gt;creationDate&lt;/key&gt;
+			&lt;date&gt;2013-01-03T20:17:10Z&lt;/date&gt;
+			&lt;key&gt;flags&lt;/key&gt;
+			&lt;integer&gt;0&lt;/integer&gt;
+			&lt;key&gt;label&lt;/key&gt;
+			&lt;string&gt;&lt;%= label %&gt;&lt;/string&gt;
+			&lt;key&gt;modificationDate&lt;/key&gt;
+			&lt;date&gt;2013-01-03T20:19:04Z&lt;/date&gt;
+			&lt;key&gt;plainText&lt;/key&gt;
+			&lt;string&gt;&lt;%= expansion %&gt;&lt;/string&gt;
+			&lt;key&gt;snippetType&lt;/key&gt;
+			&lt;integer&gt;0&lt;/integer&gt;
+			&lt;key&gt;useCount&lt;/key&gt;
+			&lt;integer&gt;0&lt;/integer&gt;
+			&lt;key&gt;uuidString&lt;/key&gt;
+			&lt;string&gt;&lt;%= uuid %&gt;&lt;/string&gt;
+		&lt;/dict&gt;
+ENDTEMPLATE
+
+header =&lt;&lt;-ENDHEADER
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;dict&gt;
+	&lt;key&gt;groupInfo&lt;/key&gt;
+	&lt;dict&gt;
+		&lt;key&gt;expandAfterMode&lt;/key&gt;
+		&lt;integer&gt;2&lt;/integer&gt;
+		&lt;key&gt;groupName&lt;/key&gt;
+		&lt;string&gt;#{File.basename(output_te).gsub(/\.textexpander$/,&#39;&#39;)}&lt;/string&gt;
+	&lt;/dict&gt;
+	&lt;key&gt;snippetsTE2&lt;/key&gt;
+	&lt;array&gt;
+ENDHEADER
+
+footer =&lt;&lt;-ENDFOOTER
+	&lt;/array&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+ENDFOOTER
+
+fh = File.new(File.expand_path(output_te),&#39;w+&#39;)
+input = CSV.read(File.expand_path(input_csv))
+
+fh.puts header
+
+input.each { |item|
+	abbr = CGI.escapeHTML(item[0].strip)
+	expansion = CGI.escapeHTML(item[1].strip)
+	label = CGI.escapeHTML(item[2].strip)
+	uuid = %x{uuidgen}.strip
+	$stderr.puts &quot;Processed #{abbr} -&gt; #{expansion}&quot;
+	fh.puts template.result(binding)
+}
+
+fh.puts footer
+fh.close
+</code></pre></noscript></div>
+ </p>
+
+<p>The original version of this script can be found on the <a href="http://twitter.com/ttscoff">@ttscoff</a>’s <a href="http://brettterpstra.com/2013/01/04/mass-creating-textexpander-snippets/">blog</a>. This is real time-saver. Thanks, Brett! </p>
+]]></content>
+  </entry>
+  
+</feed>
