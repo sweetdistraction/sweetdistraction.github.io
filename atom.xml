@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-03-05T11:55:01+07:00</updated>
+  <updated>2015-03-05T12:02:33+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -23,7 +23,8 @@
     
     <content type="html"><![CDATA[<p><a href="http://sweetdistractions.net/bekerja-multi-platform-mac-windows">Working multi-platform</a> operating systems Windows and Mac sometimes give you pain in the ass. You can do something easily on Mac but maybe not in Windows and vice versa. Overmore, I’ve to work in Windows machine with limited user previlege so I can’t install any software I want. </p>
 
-<p>If you know what apps that I miss when working in Windows, I would gladly say it’s TextExpander. I feel I could do anything with with <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a> on my Mac but when it comes to work with my lovely Windows machine, I feel odd. Luckily I found a similar apps, <a href="www.phraseexpress.com">PhraseExpress</a>. </p>
+<p>If you know what apps that I miss when working in Windows, I would gladly say it’s TextExpander. I feel I could do anything with with <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a> on my Mac but when it comes to work with my lovely Windows machine, I feel odd. Luckily I found a similar apps, <a href="www.phraseexpress.com">PhraseExpress</a>. 
+<!--more--></p>
 
 <p>I’m working with thousand files on the network storage at office. The pain is when I’ve to move from a folder to another folder and imagine when you’ve to dig into 4 nested folder to get the files, how many mouse clicks and scroll you need? So I want to make a snippets that expand into a directory address and simulating <code>Enter</code> key so I automatically jump to the destination folder. Luckily I found this <a href="http://brettterpstra.com/2013/01/04/mass-creating-textexpander-snippets/">blog post</a> by Brett Terpstra. </p>
 
@@ -32,7 +33,7 @@
 <p>I modified the script a bit to put the label for the snippets that would be created. On the .CSV file, put the label on the third row. </p>
 
 <p>Here’s the modified version:</p>
-<div><script src="https://gist.github.com/d51fd7fc137c4951686a.js"></script>
+<div><script src="https://gist.github.com/d51fd7fc137c4951686a.js?file=textexpander_gen.rb"></script>
 <noscript><pre><code>#!/usr/bin/ruby
 require &#39;csv&#39;
 require &#39;erb&#39;
