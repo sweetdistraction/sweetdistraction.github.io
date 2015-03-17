@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios 8 | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ios-8/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-03-05T14:16:57+07:00</updated>
+  <updated>2015-03-17T16:59:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iOS 8 Changed How I Work on My iPhone and iPad]]></title>
+    <link href="http://sweetdistraction.github.io/iOS8-stories/"/>
+    <updated>2015-03-17T07:42:30+07:00</updated>
+    <id>http://sweetdistraction.github.io/iOS8-stories</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Federico Viticci</a> thought about iOS 8 and bunch of its features last year on Macstories:
+<blockquote><p></p></p><p><p>What I realized in using extensions is how necessary last year’s redesign of iOS was. Imagine if Apple didn’t ship a new design with iOS 7: today, we’d have sheets of stitched leather or shiny metal on top of apps that look like agendas or little robots. The cohesiveness and subdued style that iOS 7 brought with its precise structure and hierarchy allows extensions to integrate nicely with apps, feeling like extra actions rather than eerily realistic objects.</p></p><p><p>The impact of action and share extensions on my workflow has been massive even with only a few apps and bugs left in iOS 8. I use my iPad more because I spend less time switching between apps, copying text around, or moving files between different containers. I’m more efficient thanks to extensions because the quality of the software I use every day has increased considerably. I can’t imagine what we’ll start seeing today with action and share extensions on the App Store.</p></p><p><p></p></blockquote></p>
+
+<p>When iOS 7 came out, I didn’t satisfy with the new UI. I wished there’s a way to downgrade back to iOS 6. The main reason was the unbearable lagging and blindly white all over iOS for that time. Then iOS 8 came out last year, I upgraded. Now when I look at iOS today, I would think many times to downgrade even when there’s a way to do. </p>
+
+<p>Extensions, change how we used iOS. I could easily post to Tumblr, Path, Twitter. I could easily find a inspiring quote, make selection and save it on my Notes folder in Dropbox that also available on my nvAlt. 3rd party keyboard, let us manage multiple clipboard like <a href="https://itunes.apple.com/en/app/clips-copy-paste-anywhere/id917638056?mt=8">Clips</a> does. Finding the right emoji, now become easier, there’s <a href="https://itunes.apple.com/us/app/emoji++-fast-emoji-keyboard/id919234935?mt=8">Emoji++</a>.</p>
+
+<p>And if I look back to iOS 6 (yeah, my friends still use iOS 6.1.3 in her iPhone 4s), it look dull and outdated.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[iOS 8 Tweaks]]></title>
@@ -118,24 +135,6 @@
 </ul>
 
 <p>Dengan adanya iOS 8.1.1 yang dirilis ke developer, bersamaan dengan <em>patch</em> yang dilakukan oleh Apple terhadap <em>tools</em> jailbreak Pangu8, maka tak ada salahnya untuk segera melakukan upgrade ke iOS 8.1 bagi yang masih menggunakan iOS 7 ataupun 8.0.x.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iOS 8]]></title>
-    <link href="http://sweetdistraction.github.io/ios-8/"/>
-    <updated>2014-11-14T22:44:10+07:00</updated>
-    <id>http://sweetdistraction.github.io/ios-8</id>
-    <content type="html"><![CDATA[<p>Sejak diumumkan oleh Apple pada 2 Juni yang lalu di ajang WWDC, iOS 8 membuat saya semakin yakin bahwa Apple benar-benar ingin memperkaya pengalaman penggunanya lebih lagi. Meski dari tampilan Apple tak membawa perubahan besar dari iOS 7 namun fitur yang dibawa oleh iOS 8 tak bisa dibilang <a href="https://www.apple.com/ios/whats-new/">sedikit</a>. <em><a href="http://www.imore.com/extensibility">Extensibility</a>, <a href="http://www.imore.com/interactive-notifications-ios-8-explained">Interactive Notifications</a>, <a href="http://www.imore.com/handoff-ios-8-os-x-yosemite-explained">Handoff</a>, QuickType, Family Sharing</em> hingga <em>Continuity</em> dan <em><a href="http://www.imore.com/health-ios-8-explained">Health app</a></em> merupakan beberapa fitur teranyar yang hadir.
-<!--more--></p>
-
-<p>Tak ketinggalan pula iCloud pun mendapat pembaharuan dan berubah menjadi iCloud Drive yang kini dapat menjadi tempat penyimpanan berbasis cloud layaknya Dropbox ataupun Google Drive yang telah hadir lebih dahulu. Jika saja  meski jujur saja sampai sekarang saya belum memindahkan seluruh berkas saya di Dropbox ke dalam iCloud Drive karena bekerja multi-platform menuntut berkas saya siap untuk diakses di mana saja.</p>
-
-<p>Salah satu yang menarik adalah fitur <em>Extensibility</em>. Meski fitur ini tak langsung dirasakan ataupun digunakan oleh pengguna namun para pengembang aplikasi dapat memanfaatkan fitur ini untuk memperluas serta menambah fitur yang telah ada seperti menambahkan <em>widgets</em> di notifications center, custom sharing dan action options di share sheets, custom filter pada aplikasi Photos yang dapat menggunakan filter dari aplikasi pihak ketiga. Pada iOS, aplikasi dibatasi oleh sebuah limitasi sandboxes yang dibuat oleh Apple sehingga aplikasi tak dapat berinteraksi atau bertukar data baik itu dengan sistem di perangkat ataupun dengan aplikasi yang lain dengan demikian data hanya disimpan dalam sebuah aplikasi tersebut. Hadirnya  <em>extensibility</em>, Apple membuat aplikasi dapat saling berinteraksi, bertukar data dan pada saat yang sama menjaga datanya tetap aman. Kini pengguna bisa langsung menyimpan gambar dari Safari ke Pinterest atau login ke web dengan mudah berkat action extensions dari 1Password.</p>
-
-<p><em>Interactive notifications</em>, salah satu fitur yang dinanti-nantikan di iOS. Jika pada iOS 7 pengguna tak bisa membalas sebuah pesan yang muncul ketika sedang browsing tanpa membuka aplikasi <em>Messages</em> maka kini di iOS 8 pengguna bisa langsung membalas pesan dengan <em>pull-down</em> banner notifications pesan yang muncul. Tak hanya lewat banner yang muncul namun juga pengguna bisa membalas pesan dari notifikasi yang muncul di <em>lock screen</em>. Tak hanya membalas pesan, pengguna juga mengarsip, menghapus ataupun menjadwalkan follow up email di waktu tertentu berkat interactive notifications yang ada di iOS 8. </p>
-
-<p>Masih banyak lagi fitur yang dibawa oleh iOS 8, jika iOS 7 membawa perubahan besar bagi elemen user interface maka iOS 8 adalah penyempurnaan dari versi iOS 7. Bagaimana menurutmu?</p>
 ]]></content>
   </entry>
   

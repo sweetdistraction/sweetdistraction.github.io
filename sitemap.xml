@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sweetdistraction.github.io/iOS8-stories/</loc>
+    <lastmod>2015-03-17T07:42:30+07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://sweetdistraction.github.io/text-expander-mass-snippets-generator.markdown/</loc>
     <lastmod>2015-03-04T22:51:00+07:00</lastmod>
     <priority>0.8</priority>
@@ -377,31 +382,31 @@
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/blog/archives/</loc>
-    <lastmod>2015-03-05T14:16:57+07:00</lastmod>
+    <lastmod>2015-03-17T16:59:10+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/</loc>
-    <lastmod>2015-03-05T14:16:57+07:00</lastmod>
+    <lastmod>2015-03-17T16:59:10+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/archives/</loc>
-    <lastmod>2015-03-05T14:16:57+07:00</lastmod>
+    <lastmod>2015-03-17T16:59:10+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/about/</loc>
-    <lastmod>2015-03-05T14:16:57+07:00</lastmod>
+    <lastmod>2015-03-17T16:59:10+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sweetdistraction.github.io/search.html</loc>
-    <lastmod>2015-03-05T14:16:57+07:00</lastmod>
+    <lastmod>2015-03-17T16:59:10+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

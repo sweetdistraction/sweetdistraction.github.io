@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-03-05T14:16:57+07:00</updated>
+  <updated>2015-03-17T16:59:10+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iOS 8 Changed How I Work on My iPhone and iPad ]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/iOS8-stories/"/>
+    <updated>2015-03-17T07:42:30+07:00</updated>
+    <id>http://sweetdistraction.github.io/iOS8-stories</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Federico Viticci</a> thought about iOS 8 and bunch of its features last year on Macstories:</p>
+<blockquote><p>What I realized in using extensions is how necessary last year&#8217;s redesign of iOS was. Imagine if Apple didn&#8217;t ship a new design with iOS 7: today, we&#8217;d have sheets of stitched leather or shiny metal on top of apps that look like agendas or little robots. The cohesiveness and subdued style that iOS 7 brought with its precise structure and hierarchy allows extensions to integrate nicely with apps, feeling like extra actions rather than eerily realistic objects.
+<br />
+<br />The impact of action and share extensions on my workflow has been massive even with only a few apps and bugs left in iOS 8. I use my iPad more because I spend less time switching between apps, copying text around, or moving files between different containers. I&#8217;m more efficient thanks to extensions because the quality of the software I use every day has increased considerably. I can&#8217;t imagine what we&#8217;ll start seeing today with action and share extensions on the App Store.</p></blockquote>
+
+<p>When iOS 7 came out, I didn’t satisfy with the new UI. I wished there’s a way to downgrade back to iOS 6. The main reason was the unbearable lagging and blindly white all over iOS for that time. Then iOS 8 came out last year, I upgraded. Now when I look at iOS today, I would think many times to downgrade even when there’s a way to do. </p>
+
+<p>Extensions, change how we used iOS. I could easily post to Tumblr, Path, Twitter. I could easily find a inspiring quote, make selection and save it on my Notes folder in Dropbox that also available on my nvAlt. 3rd party keyboard, let us manage multiple clipboard like <a href="https://itunes.apple.com/en/app/clips-copy-paste-anywhere/id917638056?mt=8">Clips</a> does. Finding the right emoji, now become easier, there’s <a href="https://itunes.apple.com/us/app/emoji++-fast-emoji-keyboard/id919234935?mt=8">Emoji++</a>.</p>
+
+<p>And if I look back to iOS 6 (yeah, my friends still use iOS 6.1.3 in her iPhone 4s), it look dull and outdated.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TextExpander Mass Snippets Generator]]></title>
