@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Fast Company | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/fast-company/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-03-28T16:24:24+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tim Cook on Apple's Future: Everything Can Change Except Values]]></title>
+    <link href="http://sweetdistraction.github.io/fast-company-tim-cook-interview/"/>
+    <updated>2015-03-28T16:21:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/fast-company-tim-cook-interview</id>
+    <content type="html"><![CDATA[<p>FastCompany:
+<blockquote><p></p></p><p><p>There’s this thing in technology, almost a disease, where the definition of success is making the most. How many clicks did you get, how many active users do you have, how many units did you sell? Everybody in technology seems to want big numbers. Steve never got carried away with that. He focused on making the best.</p></p><p><p></p></blockquote></p>
+
+<p>GOLD!</p>
+]]></content>
+  </entry>
+  
+</feed>

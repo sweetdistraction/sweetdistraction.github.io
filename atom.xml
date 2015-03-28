@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-03-17T19:36:49+07:00</updated>
+  <updated>2015-03-28T16:24:24+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Tim Cook on Apple's Future: Everything Can Change Except Values ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://www.fastcompany.com/3042435/steves-legacy-tim-looks-ahead"/>
+  	
+    <updated>2015-03-28T16:21:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/fast-company-tim-cook-interview</id>
+    
+    <content type="html"><![CDATA[<p>FastCompany:</p>
+<blockquote><p>There’s this thing in technology, almost a disease, where the definition of success is making the most. How many clicks did you get, how many active users do you have, how many units did you sell? Everybody in technology seems to want big numbers. Steve never got carried away with that. He focused on making the best.</p></blockquote>
+
+<p>GOLD!</p>
+<a rel="full-article" href="http://sweetdistraction.github.io/fast-company-tim-cook-interview/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -420,34 +436,6 @@ fh.close
 
 <p>Couldn’t agree more, dan sudah sepantasnya memang Matt menutup artikelnya dengan: “This, I believe, is why Jony Ive said, “Switzerland is fucked”.”</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/tag-heuer-and-future-luxury-watches/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Another Perspective ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://www.joecieplinski.com/blog/2015/01/05/compromises-have-consequences/"/>
-  	
-    <updated>2015-01-06T11:32:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/another-perspective</id>
-    
-    <content type="html"><![CDATA[<p><a href="http://www.joecieplinski.com/blog/2015/01/05/compromises-have-consequences/">Joe Cieplinski</a> write responses about Marco’s thought:</p>
-<blockquote><p>Almost two years ago, I suggested that Apple would be better off slowing down and taking a year off to fix bugs and enhance already existing features, rather than continue the fevered pace of innovation that it had maintained for so many years. Clearly, Tim Cook ignored my advice. And how could he not? After Jobs’ death, the world consistently questioned Cook’s ability to keep the company in its role as the richest, most powerful, and innovative tech company in the universe. He had a lot to prove. There were expectations that needed to be met, and so he met them.
-<br />
-<br />Unfortunately, meeting those expectations has had consequences.
-<br />
-<br />You can’t have it both ways. You can’t stay way ahead of the curve and not introduce some bugs along the way. This decline in software quality is a side-effect of the current strategy. It’s a compromise Apple has made in order to reassure the general public that the company isn’t “doomed” without Steve Jobs.</p></blockquote>
-
-<p>And he put this before closing paragraph:</p>
-
-<blockquote><p>The unfortunate reality is that “Here’s a new version that’s the same as the old version, except now everything works” is a tough sell.</p></blockquote>
-
-<p><a href="http://twitter.com/viticci">Federico Viticci</a> on <a href="http://www.macstories.net/stories/balance/">Macstories</a>:</p>
-
-<blockquote><p>What it comes down to, really, is balance. I believe that Apple used to be more disciplined at balancing its desire for new features and commitment to refinements.</p></blockquote>
-
-<p>Sure, Apple has a lot of things in their to do list. As I wrote <a href="http://sweetdistractions.net/that-goddamn-truth/">last night</a>, many new features will also bring a new bugs and maybe impact on stability. Does current Apple’s software quality decline? Yes it does. Does it just work like ever before? Yes but I’m not sure I’ll answer it wholeheartedly. </p>
-<a rel="full-article" href="http://sweetdistraction.github.io/another-perspective/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   
