@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-03-28T16:42:22+07:00</updated>
+  <updated>2015-04-12T20:25:13+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Chaining Things and iOS Reminders with IFTTT]]></title>
+  	<link href="http://sweetdistraction.github.io/Chaining-Things-and-iOS-Reminders-with-IFTTT/"/>
+  	
+    <updated>2015-04-12T19:29:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/Chaining-Things-and-iOS-Reminders-with-IFTTT</id>
+    
+    <content type="html"><![CDATA[<p>GTD or <a href="http://gettingthingsdone.com">Getting Things Done®</a> is a stress free productivity technique based on David Allen which is awesome and many of the nerds talk about it. It’s simply take 5 steps to GTD: capture, clarify, organize, reflect and engage. Sounds easy, huh?</p>
+
+<p>I knew it last year. Since then I tried to get many references and tools to support GTD systems. I still failed. Sometimes I still fall into cracks, sometimes I let my lists outdated, and the next week I rebuild it.</p>
+
+<p>I’ve tried <a href="https://www.omnigroup.com/omnifocus">Omnifocus</a>, plain text based <a href="http://www.hogbaysoftware.com/products/taskpaper">Taskpaper</a>, Things for my task management system to implement GTD and the last one is my choice. <a href="http://culturedcode.com">Cultured Code</a> the developer behind Things make a great software even the development pace is too slow according to some people.</p>
+
+<p>I love using Things because of its simplicity. The syncing is also fast and reliable. The ease of using Things is there’s no learning curve instead of GTD itself. I don’t said that Omnifocus isn’t a great tools but I get myself overwhelm everytime I open Omnifocus and try to use it. </p>
+
+<p>One features that makes me envy as Things user from Omnifocus is MailDrop features which you can use to send a task to your inbox just by emailing it. Why I envy this features is the fact that I have to use PC at work and there’s such Things for Windows to easily put the task in. </p>
+
+<p>Luckily there’s service called <a href="https://ifttt.com">IFTTT</a> which we can use to mimic Omnifocus’ Maildrop features. Things have Reminders integrations which can import all the task in the reminder to its inbox. Now all you have to do is just set up a email trigger in IFTTT that would add a body email as a task with preferred tags in subjects to iOS Reminders. I have Things list in my iOS Reminders that Things ready to import. So, all I need is to set up a recipe that will be triggered by an email with #thingstodo as tag in subjects and a task which I want to add in Things in body email. You can get the IFTTT recipe <a href="https://ifttt.com/recipes/278606-thingstodo-email-to-ios-reminders">here</a>.</p>
+
+<p>Now wherever something pops out in my mind while I’m working at work, I just compose email with that tags and send them. At lunch, I will open Things and the list is ready to import. </p>
+
+<p>Sometimes, the recipes don’t start automatically and I have to open IF apps but at least, I become worry less to forget what’s important during works.</p>
+
+]]></content>
+  	
+  </entry>
   
   <entry>
     
@@ -420,22 +448,6 @@ fh.close
 <p>A very nice read about how social media nowadays change how people are reached by each others, but still as my parents said, making call is still the easiest one.</p>
 
 <a rel="full-article" href="http://sweetdistraction.github.io/a-teenagers-view-on-social-media/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[TAG Heuer And The Future Of The Luxury Watch ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://mattrichman.net/post/107317484498/tag-heuer-and-the-future-of-the-luxury-watch"/>
-  	
-    <updated>2015-01-09T17:34:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/tag-heuer-and-future-luxury-watches</id>
-    
-    <content type="html"><![CDATA[<p>Matt Richman:</p>
-<blockquote><p>In order to have even a chance of being as feature-rich as Apple Watch, then, TAG’s smartwatch will have to pair with an Android phone. However, TAG wearers aren’t Android users. Rich people buy TAG watches, but rich people don’t buy Android phones.</p><p>This is TAG’s dilemma. Its smartwatch will need to pair with an Android phone to be anywhere near as feature-rich as Apple Watch, but TAG wearers don’t buy Android phones.</p></blockquote>
-
-<p>Couldn’t agree more, dan sudah sepantasnya memang Matt menutup artikelnya dengan: “This, I believe, is why Jony Ive said, “Switzerland is fucked”.”</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/tag-heuer-and-future-luxury-watches/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   

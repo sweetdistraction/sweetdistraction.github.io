@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ios | sweet distractions]]></title>
+  <title><![CDATA[Category: Ios, | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ios/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-03-28T16:42:22+07:00</updated>
+  <updated>2015-04-12T20:25:13+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,64 +14,25 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Workflow 1.1: Deeper iOS Automation]]></title>
-    <link href="http://sweetdistraction.github.io/workflow-iOS-automation/"/>
-    <updated>2015-03-03T00:00:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/workflow-iOS-automation</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci">Federico Viticci</a> on <a href="www.macstories.net">MacStories</a>:
-<blockquote><p></p></p><p><p>In a few months (I first started testing Workflow in August 2014), Workflow has become an essential component of how I get work done on iOS. The improvements and features launched today extend the app’s capabilities deeper into native iOS frameworks – whether you want to find photos, filter files and calendar events, or save selections from Safari, Workflow is becoming a command center for iOS that can do anything. It’s powerful, and there are still a few issues to fix, but it’s useful, and, even better, it’s fun.</p></p><p><p></p></blockquote></p>
+    <title type="html"><![CDATA[Chaining Things and iOS Reminders With IFTTT]]></title>
+    <link href="http://sweetdistraction.github.io/Chaining-Things-and-iOS-Reminders-with-IFTTT/"/>
+    <updated>2015-04-12T19:29:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/Chaining-Things-and-iOS-Reminders-with-IFTTT</id>
+    <content type="html"><![CDATA[<p>GTD or <a href="http://gettingthingsdone.com">Getting Things Done®</a> is a stress free productivity technique based on David Allen which is awesome and many of the nerds talk about it. It’s simply take 5 steps to GTD: capture, clarify, organize, reflect and engage. Sounds easy, huh?</p>
 
-<p>I’ve tweeted about Workflow several time and if you need a good place to start then look no further. </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Monument Valley in Numbers]]></title>
-    <link href="http://sweetdistraction.github.io/monument-valley-stats/"/>
-    <updated>2015-01-16T10:34:18+07:00</updated>
-    <id>http://sweetdistraction.github.io/monument-valley-stats</id>
-    <content type="html"><![CDATA[<p>Take a look at the statistic and how the revenue from iOS almost dominate all the revenue they get. Also remember that only 40% iOS user <a href="https://twitter.com/ustwogames/status/552136427904184320">paid for the game</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Another Perspective]]></title>
-    <link href="http://sweetdistraction.github.io/another-perspective/"/>
-    <updated>2015-01-06T11:32:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/another-perspective</id>
-    <content type="html"><![CDATA[<p><a href="http://www.joecieplinski.com/blog/2015/01/05/compromises-have-consequences/">Joe Cieplinski</a> write responses about Marco’s thought:
-<blockquote><p>Almost two years ago, I suggested that Apple would be better off slowing down and taking a year off to fix bugs and enhance already existing features, rather than continue the fevered pace of innovation that it had maintained for so many years. Clearly, Tim Cook ignored my advice. And how could he not? After Jobs’ death, the world consistently questioned Cook’s ability to keep the company in its role as the richest, most powerful, and innovative tech company in the universe. He had a lot to prove. There were expectations that needed to be met, and so he met them.</p></p><p><p>Unfortunately, meeting those expectations has had consequences.</p></p><p><p>You can’t have it both ways. You can’t stay way ahead of the curve and not introduce some bugs along the way. This decline in software quality is a side-effect of the current strategy. It’s a compromise Apple has made in order to reassure the general public that the company isn’t “doomed” without Steve Jobs.</p></blockquote></p>
+<p>I knew it last year. Since then I tried to get many references and tools to support GTD systems. I still failed. Sometimes I still fall into cracks, sometimes I let my lists outdated, and the next week I rebuild it.</p>
 
-<p>And he put this before closing paragraph:</p>
+<p>I’ve tried <a href="https://www.omnigroup.com/omnifocus">Omnifocus</a>, plain text based <a href="http://www.hogbaysoftware.com/products/taskpaper">Taskpaper</a>, Things for my task management system to implement GTD and the last one is my choice. <a href="http://culturedcode.com">Cultured Code</a> the developer behind Things make a great software even the development pace is too slow according to some people.</p>
 
-<p><blockquote><p>The unfortunate reality is that “Here’s a new version that’s the same as the old version, except now everything works” is a tough sell.</p></blockquote></p>
+<p>I love using Things because of its simplicity. The syncing is also fast and reliable. The ease of using Things is there’s no learning curve instead of GTD itself. I don’t said that Omnifocus isn’t a great tools but I get myself overwhelm everytime I open Omnifocus and try to use it. </p>
 
-<p><a href="http://twitter.com/viticci">Federico Viticci</a> on <a href="http://www.macstories.net/stories/balance/">Macstories</a>:</p>
+<p>One features that makes me envy as Things user from Omnifocus is MailDrop features which you can use to send a task to your inbox just by emailing it. Why I envy this features is the fact that I have to use PC at work and there’s such Things for Windows to easily put the task in. </p>
 
-<p><blockquote><p>What it comes down to, really, is balance. I believe that Apple used to be more disciplined at balancing its desire for new features and commitment to refinements.</p></blockquote></p>
+<p>Luckily there’s service called <a href="https://ifttt.com">IFTTT</a> which we can use to mimic Omnifocus’ Maildrop features. Things have Reminders integrations which can import all the task in the reminder to its inbox. Now all you have to do is just set up a email trigger in IFTTT that would add a body email as a task with preferred tags in subjects to iOS Reminders. I have Things list in my iOS Reminders that Things ready to import. So, all I need is to set up a recipe that will be triggered by an email with #thingstodo as tag in subjects and a task which I want to add in Things in body email. You can get the IFTTT recipe <a href="https://ifttt.com/recipes/278606-thingstodo-email-to-ios-reminders">here</a>.</p>
 
-<p>Sure, Apple has a lot of things in their to do list. As I wrote <a href="http://sweetdistractions.net/that-goddamn-truth/">last night</a>, many new features will also bring a new bugs and maybe impact on stability. Does current Apple’s software quality decline? Yes it does. Does it just work like ever before? Yes but I’m not sure I’ll answer it wholeheartedly. </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[That Goddamn Truth]]></title>
-    <link href="http://sweetdistraction.github.io/that-goddamn-truth/"/>
-    <updated>2015-01-05T22:12:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/that-goddamn-truth</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/marcoarment">Marco Arment</a>:
-<blockquote><p>I suspect the rapid decline of Apple’s software is a sign that marketing is too high a priority at Apple today: having major new releases every year is clearly impossible for the engineering teams to keep up with while maintaining quality. Maybe it’s an engineering problem, but I suspect not — I doubt that any cohesive engineering team could keep up with these demands and maintain significantly higher quality.</p></p><p><p>The problem seems to be quite simple: they’re doing too much, with unrealistic deadlines.</p></p><p><p>We don’t need major OS releases every year. We don’t need each OS release to have a huge list of new features. We need our computers, phones, and tablets to work well first so we can enjoy new features released at a healthy, gradual, sustainable pace.</p></blockquote></p>
+<p>Now wherever something pops out in my mind while I’m working at work, I just compose email with that tags and send them. At lunch, I will open Things and the list is ready to import. </p>
 
-<p>That goddamn truth! I don’t deny that iOS and OS X are rapidly growing over these 2 years. Many features and improvements they put at their software but it also increase the bugs, crashes and inconsistency. So many things are broken and need to be fixed. At least they need to slow down the software upgrade cycle and start to fix everything they broke.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What Is Drafts for? - All This]]></title>
-    <link href="http://sweetdistraction.github.io/whats-drafts-for/"/>
-    <updated>2014-12-18T22:59:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/whats-drafts-for</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/drdrang">Dr. Drang</a> memberikan dua alasan mengapa <a href="https://itunes.apple.com/id/app/drafts-4-quickly-capture-notes/id905337691?mt=8&amp;uo=4">Drafts 4</a> layak berada di homescreen para pengguna perangkat iOS.</p>
+<p>Sometimes, the recipes don’t start automatically and I have to open IF apps but at least, I become worry less to forget what’s important during works.</p>
 
 ]]></content>
   </entry>

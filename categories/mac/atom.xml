@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Mac | sweet distractions]]></title>
+  <title><![CDATA[Category: Mac, | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/mac/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-03-28T16:42:22+07:00</updated>
+  <updated>2015-04-12T20:25:13+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,76 +14,26 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Breathe Life Into an Old Mac — 512 Pixels]]></title>
-    <link href="http://sweetdistraction.github.io/breathe-life-into-old-mac/"/>
-    <updated>2015-01-01T22:49:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/breathe-life-into-old-mac</id>
-    <content type="html"><![CDATA[<p>Joe Caiati menulis di <a href="http://www.512pixels.net">512 Pixels</a>:
-<blockquote><p></p></p><p><p>Luckily, older Macs are more flexible with hardware upgrades and coupled with third-party software, you can unlock features that Apple doesn’t support on older models. Here is how to get the most life out of an aging Mac.</p></p><p><p></p></blockquote></p>
+    <title type="html"><![CDATA[Chaining Things and iOS Reminders With IFTTT]]></title>
+    <link href="http://sweetdistraction.github.io/Chaining-Things-and-iOS-Reminders-with-IFTTT/"/>
+    <updated>2015-04-12T19:29:00+07:00</updated>
+    <id>http://sweetdistraction.github.io/Chaining-Things-and-iOS-Reminders-with-IFTTT</id>
+    <content type="html"><![CDATA[<p>GTD or <a href="http://gettingthingsdone.com">Getting Things Done®</a> is a stress free productivity technique based on David Allen which is awesome and many of the nerds talk about it. It’s simply take 5 steps to GTD: capture, clarify, organize, reflect and engage. Sounds easy, huh?</p>
 
-<p>Perangkat Mac memang tak terbilang murah, untuk itulah pengguna harus pintar-pintar mencari cara bagaimana agar Mac yang telah lama dimiliki tetap memiliki performa yang baik. Biasanya, Mac versi lama memiliki beberapa komponen yang dapat diupgrade sendiri oleh pemiliknya dan mengganti RAM atau hard drive dengan spesifikasi yang lebih baik bisa menjadi alternatif untuk mengembalikan performa Mac yang dirasa sudah mulai menurun.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Byword Still Gets the Job Done — MacSparky]]></title>
-    <link href="http://sweetdistraction.github.io/byword-i-still-love-you/"/>
-    <updated>2014-12-03T23:49:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/byword-i-still-love-you</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/macsparky">David Sparks</a> via <a href="www.macsparky.com">Macsparky</a>:
-<blockquote><p></p></p><p><p>The thing about Byword is that it just delivers. The design is solid and unobtrusive. Its developers understand iteration and avoid change for the sake of change.</p></p><p><p></p></blockquote></p>
+<p>I knew it last year. Since then I tried to get many references and tools to support GTD systems. I still failed. Sometimes I still fall into cracks, sometimes I let my lists outdated, and the next week I rebuild it.</p>
 
-<p>Byword memang banyak mendapat review positif dari para blogger. Konsistensi serta hadirnya dukungan aplikasi baik di platform iOS dan OS X menjadi salah satu alasannya. </p>
+<p>I’ve tried <a href="https://www.omnigroup.com/omnifocus">Omnifocus</a>, plain text based <a href="http://www.hogbaysoftware.com/products/taskpaper">Taskpaper</a>, Things for my task management system to implement GTD and the last one is my choice. <a href="http://culturedcode.com">Cultured Code</a> the developer behind Things make a great software even the development pace is too slow according to some people.</p>
 
-<p>Sebelum menggunakan Byword, iA Writer menjadi salah satu aplikasi pengolah teks andalan saya. <em>Focus mode</em> serta desain yang minimalis membuat saya betah berlama-lama menulis menggunakan iA Writer dan kursor birunya. Byword mulai menarik perhatian ketika saya mengetahui bahwa terdapat fitur untuk mengunggah tulisan langsung dari aplikasinya tanpa harus copy-paste ke web browser dan semenjak itu saya mulai menggunakan Byword sebagai aplikasi pengolah teks. Konsistensi serta dukungan ketersediaan aplikasi baik di platform iOS ataupun OS X membuatnya mendapat banyak pujian dari para blogger. </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Better Way to Combine iPhone Screenshots With Keyboard Maestro]]></title>
-    <link href="http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro/"/>
-    <updated>2014-12-03T17:09:30+07:00</updated>
-    <id>http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro</id>
-    <content type="html"><![CDATA[<p><a href="http://twitter.com/viticci">Federico Viticci</a> via <a href="http://www.macstories.net/">Macstories</a>:
-<blockquote><p></p></p><p><p>This is one of my most-used Keyboard Maestro macros on a daily basis: it allows me to produce good-looking iPhone screenshots that fit better together with a single keystroke. It literally takes 2 seconds to complete, instead of the couple of minutes you would spend in Acorn or Photoshop to resize, paste, and align.</p></p><p><p></p></blockquote></p>
+<p>I love using Things because of its simplicity. The syncing is also fast and reliable. The ease of using Things is there’s no learning curve instead of GTD itself. I don’t said that Omnifocus isn’t a great tools but I get myself overwhelm everytime I open Omnifocus and try to use it. </p>
 
-<p>Menulis artikel tips dan trik untuk sebuah blog teknologi lokal terkadang dituntut adanya screenshot untuk mempermudah pemahaman dari topik yang sedang dibahas. Sebelumnya, untuk menggabungkan beberapa screenshot saya akan membuka Pixelmator dan menyusunnya. Hal ini tentu kurang efektif dan memakan waktu.</p>
+<p>One features that makes me envy as Things user from Omnifocus is MailDrop features which you can use to send a task to your inbox just by emailing it. Why I envy this features is the fact that I have to use PC at work and there’s such Things for Windows to easily put the task in. </p>
 
-<p>Hari ini saya gembira karena menemukan artikel mengenai penggunaan Keyboard Maestro untuk melakukan resize screenshot dari iPhone dan menggabungkannya. Jika biasanya saya menggunakan Pixelmator untuk mengedit dan menggabungkan screenshot memakan waktu lebih dari 15 menit maka dengan macro dari <a href="http://twitter.com/macdrifter">Gabe</a> yang dibahas oleh <a href="http://twitter.com/viticci">@viticci</a> tersebut kini hanya perlu waktu kurang dari 5 detik.</p>
+<p>Luckily there’s service called <a href="https://ifttt.com">IFTTT</a> which we can use to mimic Omnifocus’ Maildrop features. Things have Reminders integrations which can import all the task in the reminder to its inbox. Now all you have to do is just set up a email trigger in IFTTT that would add a body email as a task with preferred tags in subjects to iOS Reminders. I have Things list in my iOS Reminders that Things ready to import. So, all I need is to set up a recipe that will be triggered by an email with #thingstodo as tag in subjects and a task which I want to add in Things in body email. You can get the IFTTT recipe <a href="https://ifttt.com/recipes/278606-thingstodo-email-to-ios-reminders">here</a>.</p>
 
-<p>Artikel diatas memang sudah cukup lumayan lama mengingat jika dilihat dari published date sudah lebih dari dua tahun berlalu, dan mungkin waktu itu saya masih asik hanya menonton film menggunakan Macbook White yang kini sudah pensiun. </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This App Lets You Unlock Your Mac With Touch ID]]></title>
-    <link href="http://sweetdistraction.github.io/unlock-macbook-with-touch-id/"/>
-    <updated>2014-12-01T13:13:47+07:00</updated>
-    <id>http://sweetdistraction.github.io/unlock-macbook-with-touch-id</id>
-    <content type="html"><![CDATA[<p>Via <a href="www.cultofmac.com">CultofMac</a></p>
+<p>Now wherever something pops out in my mind while I’m working at work, I just compose email with that tags and send them. At lunch, I will open Things and the list is ready to import. </p>
 
-<p><blockquote><p></p></p><p><p>Called FingerKey, this new utility works by using Bluetooth 4.0 (what else?) to pair with your Mac, then forms a low latency, low energy wireless connection with an extra layer of 256-bit AES encryption on top to keep things secure.</p></p><p><p>Once you’ve got things paired, unlocking your Mac is as simple as getting into Bluetooth range, opening up the app, and putting your finger against the home button. There’s also a Notification Center Widget that makes things even easier, and FingerKey can actually unlock multiple Macs at a time.</p></p><p><p></p></blockquote></p>
+<p>Sometimes, the recipes don’t start automatically and I have to open IF apps but at least, I become worry less to forget what’s important during works.</p>
 
-<p>Macbook dengan Touch ID bisa saja menjadi inovasi Apple selanjutnya, namun sebelum itu terjadi kini membuka Mac dengan Touch ID yang terdapat di iPhone sudah bisa dilakukan.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[#MacStoriesDeals Black Friday 2014: Best Deals for iPhone, iPad, and Mac Apps & Games]]></title>
-    <link href="http://sweetdistraction.github.io/blackfriday-apps-deal/"/>
-    <updated>2014-11-27T09:14:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/blackfriday-apps-deal</id>
-    <content type="html"><![CDATA[<p><a href="http://macstories.net">Macstories</a>
-&gt; Black Friday is upon us once again! #MacStoriesDeals is the best place to find great deals for iOS apps and games, Mac software, and more.</p>
-
-<p>Macstories telah merangkum beberapa deals diskon aplikasi baik untuk iPhone, iPad hingga Mac menjelang Black Friday. </p>
-
-<p>Fantastical 2 yang menjadi aplikasi kalender favorit saya juga ada dalam daftar, kini hanya $1.99 untuk iPhone dan $4.99 untuk iPad serta $9.99 untuk Mac. Jika belum yakin untuk mencoba Fantastical 2 maka sebaiknya baca dulu <a href="http://www.macstories.net/reviews/fantastical-2-review/">review</a> dari Macstories.</p>
-
-<p>Selain deals di atas, <a href="http://smilesoftware.com/TextExpander/touch/index.html">Text Expander Touch</a> menjadi Rp. 12 Ribu di App Store Indonesia. Namun ketika saya membuka App Store US, harga dari Text Expander Touch masih sama yaitu $4.99. </p>
-
-<p>So, stay update!</p>
 ]]></content>
   </entry>
   
