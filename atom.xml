@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-12T20:25:13+07:00</updated>
+  <updated>2015-04-12T20:33:49+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -23,7 +23,8 @@
     
     <content type="html"><![CDATA[<p>GTD or <a href="http://gettingthingsdone.com">Getting Things Done®</a> is a stress free productivity technique based on David Allen which is awesome and many of the nerds talk about it. It’s simply take 5 steps to GTD: capture, clarify, organize, reflect and engage. Sounds easy, huh?</p>
 
-<p>I knew it last year. Since then I tried to get many references and tools to support GTD systems. I still failed. Sometimes I still fall into cracks, sometimes I let my lists outdated, and the next week I rebuild it.</p>
+<p>I knew it last year. Since then I tried to get many references and tools to support GTD systems. I still failed. Sometimes I still fall into cracks, sometimes I let my lists outdated, and the next week I rebuild it.
+<!--more--></p>
 
 <p>I’ve tried <a href="https://www.omnigroup.com/omnifocus">Omnifocus</a>, plain text based <a href="http://www.hogbaysoftware.com/products/taskpaper">Taskpaper</a>, Things for my task management system to implement GTD and the last one is my choice. <a href="http://culturedcode.com">Cultured Code</a> the developer behind Things make a great software even the development pace is too slow according to some people.</p>
 
