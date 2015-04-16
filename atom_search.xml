@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-12T20:33:49+07:00</updated>
+  <updated>2015-04-16T18:04:03+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The iPhone Extensions Trick]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/the-iphone-extensions-trick/"/>
+    <updated>2015-04-16T11:22:32+07:00</updated>
+    <id>http://sweetdistraction.github.io/the-iphone-extensions-trick</id>
+    <content type="html"><![CDATA[<p>This is a trick everyone should know.</p>
+<blockquote><p>When creating a contact, instead of this:
+<br />
+<br />Jenny
+<br />866-5309 x1982
+<br />
+<br />Do this:
+<br />
+<br />Jenny
+<br />866-5309;1982
+<br />
+<br />The semicolon is secret code to your iPhone to wait once the call connects and gives you the option to dial the extension when you tap it at the bottom of the screen.</p></blockquote>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Chaining Things and iOS Reminders with IFTTT]]></title>

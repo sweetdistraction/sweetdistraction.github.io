@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Iphone | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/iphone/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-12T20:33:49+07:00</updated>
+  <updated>2015-04-16T18:04:03+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The iPhone Extensions Trick]]></title>
+    <link href="http://sweetdistraction.github.io/the-iphone-extensions-trick/"/>
+    <updated>2015-04-16T11:22:32+07:00</updated>
+    <id>http://sweetdistraction.github.io/the-iphone-extensions-trick</id>
+    <content type="html"><![CDATA[<p>This is a trick everyone should know.
+<blockquote><p></p></p><p><p>When creating a contact, instead of this:</p></p><p><p>Jenny<br/>866-5309 x1982</p></p><p><p>Do this:</p></p><p><p>Jenny<br/>866-5309;1982</p></p><p><p>The semicolon is secret code to your iPhone to wait once the call connects and gives you the option to dial the extension when you tap it at the bottom of the screen.</p></p><p><p></p></blockquote></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Life After Cancer: How the iPhone Helped Me Achieve a Healthier Lifestyle]]></title>
@@ -72,23 +83,6 @@
 <p>Keputusan untuk melakukan jailbreak memang sepenuhnya ada di tangan pengguna dan tak selamanya jailbreak berdampak buruk. Bagi seorang pengembang ataupun seseorang yang ingin mempelajari tentang sistem operasi terutama iOS, jailbreak bisa saja merupakan sebuah langkah untuk mendukung kegiatannya. Tak hanya itu, jailbreak yang membuka akses <em>root</em> perangkat juga memungkinkan pengguna untuk mengkustomisasi perangkat yang dimiliki mulai dari menginstall tema, mengubah ikon batere atau sinyal, menghilangkan UI yang dianggap mengganggu dan masih banyak lagi. Namun juga tak jarang beberapa orang melakukan jailbreak untuk mengunduh dan menginstall aplikasi bajakan yang tentu saja merugikan bagi pengembang aplikasi padahal banyak cara untuk mendapatkan sebuah aplikasi secara legal, memakai iTunes gift card misalnya.</p>
 
 <p>Memang secara teori, jailbreak bisa dihilangkan cukup dengan melakukan restore perangkat menggunakan iTunes apabila ingin melakukan klaim garansi, namun jika terjadi hal yang tak diinginkan semisal <em>brick</em> pada perangkat karena tak sengaja melakukan <em>Reset All Settings</em> maka siapa yang akan bertanggung jawab? Oleh sebab itu mengapa jailbreak selalu disertai dengan <em>disclaimer</em>: DWYOR (Do With Your Own Risk)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The NEW 1WRITER WITH JAVASCRIPT ACTIONS]]></title>
-    <link href="http://sweetdistraction.github.io/the-new-1writer-javascript-actions/"/>
-    <updated>2014-12-01T14:44:17+07:00</updated>
-    <id>http://sweetdistraction.github.io/the-new-1writer-javascript-actions</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/pgruneich">Philip Gruneich</a> di <a href="http://onetapless.com">OneTapLess</a>:</p>
-
-<p><blockquote><p></p></p><p><p>1Writer 2.0 was the most delightful surprise this week and probably the best deal you could make this holiday if you write in your iOS devices. I’m sure it is only a matter of time until more actions pop up and improve the pool of options in this outstanding text editor.</p></p><p><p></p></blockquote></p>
-
-<p><a href="http://1writerapp.com/">1Writer</a>, salah satu teks editor di iOS baru saja menerima pembaharuan besar. Penambahan <em>javascript action</em>, pengamanan tambahan dengan Touch ID, kustomisasi font serta tampilan, safari extensions, in-app-browser serta <em>today widget</em> untuk mengakses dokumen favorit secara cepat dan masih banyak lagi.</p>
-
-<p>Ngoc Luu juga menambahkan <em><a href="http://1writerapp.com/actiondir">action directory</a></em> bagi pengguna yang ingin menambahkan <em>javascript action</em> dengan mudah ke dalam aplikasi 1Writer. Tak hanya itu, bagi pengguna yang ingin belajar membuat <em>javascript action</em> sendiri, Ngoc Luu juga sudah menyiapkan <a href="http://1writerapp.com/docs/js">dokumen</a> pendukung yang dapat dipelajari dan digunakan. </p>
-
-<p>Seperti biasa, Philip Gruneich juga telah membuat artikel mengenai update dari 1Writer di OneTapLess dengan contoh <em>javascript action-nya</em>.</p>
 ]]></content>
   </entry>
   

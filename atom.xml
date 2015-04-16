@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-12T20:33:49+07:00</updated>
+  <updated>2015-04-16T18:04:03+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[The iPhone Extensions Trick ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://macsparky.com/blog/2015/4/the-iphone-extension-trick"/>
+  	
+    <updated>2015-04-16T11:22:32+07:00</updated>
+    <id>http://sweetdistraction.github.io/the-iphone-extensions-trick</id>
+    
+    <content type="html"><![CDATA[<p>This is a trick everyone should know.</p>
+<blockquote><p>When creating a contact, instead of this:
+<br />
+<br />Jenny
+<br />866-5309 x1982
+<br />
+<br />Do this:
+<br />
+<br />Jenny
+<br />866-5309;1982
+<br />
+<br />The semicolon is secret code to your iPhone to wait once the call connects and gives you the option to dial the extension when you tap it at the bottom of the screen.</p></blockquote>
+
+<a rel="full-article" href="http://sweetdistraction.github.io/the-iphone-extensions-trick/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -433,22 +458,6 @@ fh.close
 
 <p>What if the original Macintosh is getting redesigned? Maybe this rendering is the answer but from its thinness it looks like a docked iPad, IMHO. Anyway, I love the space gray color.</p>
 <a rel="full-article" href="http://sweetdistraction.github.io/redesigned-and-reimagined-macintosh/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[A Teenager’s View on Social Media ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6"/>
-  	
-    <updated>2015-01-12T08:46:27+07:00</updated>
-    <id>http://sweetdistraction.github.io/a-teenagers-view-on-social-media</id>
-    
-    <content type="html"><![CDATA[<blockquote><p>Those are some reasons why many people my age tend to use Instagram more than they do Facebook. Everything about the application makes it less commercialized and more focused on the content, meaning more teens are inclined to visit it. When we do visit the application it is a much more pleasant experience so we are more inclined to Like and interact with the posts more. This increases our interaction with the application, meaning we will use it more, etc.</p></blockquote>
-
-<p>A very nice read about how social media nowadays change how people are reached by each others, but still as my parents said, making call is still the easiest one.</p>
-
-<a rel="full-article" href="http://sweetdistraction.github.io/a-teenagers-view-on-social-media/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   

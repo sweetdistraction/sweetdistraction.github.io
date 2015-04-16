@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Trick | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/trick/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-04-16T18:04:03+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The iPhone Extensions Trick]]></title>
+    <link href="http://sweetdistraction.github.io/the-iphone-extensions-trick/"/>
+    <updated>2015-04-16T11:22:32+07:00</updated>
+    <id>http://sweetdistraction.github.io/the-iphone-extensions-trick</id>
+    <content type="html"><![CDATA[<p>This is a trick everyone should know.
+<blockquote><p></p></p><p><p>When creating a contact, instead of this:</p></p><p><p>Jenny<br/>866-5309 x1982</p></p><p><p>Do this:</p></p><p><p>Jenny<br/>866-5309;1982</p></p><p><p>The semicolon is secret code to your iPhone to wait once the call connects and gives you the option to dial the extension when you tap it at the bottom of the screen.</p></p><p><p></p></blockquote></p>
+
+]]></content>
+  </entry>
+  
+</feed>
