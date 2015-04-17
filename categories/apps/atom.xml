@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Apps | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/apps/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-16T18:04:03+07:00</updated>
+  <updated>2015-04-17T11:33:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chrome for iOS Gets Updated With Widget, Gesture and 1Password Support]]></title>
+    <link href="http://sweetdistraction.github.io/chrome-gets-updated-with-widget-gesture-1password-support/"/>
+    <updated>2015-04-17T10:54:19+07:00</updated>
+    <id>http://sweetdistraction.github.io/chrome-gets-updated-with-widget-gesture-1password-support</id>
+    <content type="html"><![CDATA[<p>I don’t know about you guys but I’ve never use any third party browser on iOS. Safari is my main browser but, today, Chrome gets an update that bring widget, gesture and 1Password support. The widget available in the Today View of Notification Center which bring two buttons. One for open a new tab and one for doing voice search within Chrome app.
+<!--more--></p>
+
+<p>There’s also a button which is can be used to open the link you’ve copied into clipboard. That’s handy features when you want to do a quick search over the link you find in the other apps.</p>
+
+<p>The 1Password integration is the one I love which is brought a deeper integration with iOS 8. It allow 1Password to fill logins using action extension. It’s good to see that Google bring attention to its app with extensions support and widgets.</p>
+
+<p>You can download Chrome for iOS version 42 on <a href="https://itunes.apple.com/us/app/chrome-web-browser-by-google/id535886823?mt=8&amp;ign-mpt=uo%3D4">App Store</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Monument Valley in Numbers]]></title>
