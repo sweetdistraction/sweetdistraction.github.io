@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 1password | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/1password/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-04-18T09:54:22+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Switching From Google Authenticator or Authy to 1Password]]></title>
+    <link href="http://sweetdistraction.github.io/switching-from-google-authenticator-or-authy-to-1password/"/>
+    <updated>2015-04-17T18:22:56+07:00</updated>
+    <id>http://sweetdistraction.github.io/switching-from-google-authenticator-or-authy-to-1password</id>
+    <content type="html"><![CDATA[<p>If you have many accounts on this digital age and still isn’t using two factor authentication then you’re doing it wrong and if you want to implement it, then use <a href="https://agilebits.com/onepassword">1Password</a> cause I already ditching Authy.</p>
+
+]]></content>
+  </entry>
+  
+</feed>

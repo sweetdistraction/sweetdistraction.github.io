@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Osx | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/osx/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-18T08:53:12+07:00</updated>
+  <updated>2015-04-18T09:54:22+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How to Play a Power Charging Sound Effect in OS X When a MacBook Is Plugged in (Like iOS)]]></title>
+    <link href="http://sweetdistraction.github.io/play-sound-effect-in-osx-like-iOS/"/>
+    <updated>2015-04-18T08:18:05+07:00</updated>
+    <id>http://sweetdistraction.github.io/play-sound-effect-in-osx-like-iOS</id>
+    <content type="html"><![CDATA[<p>Seems interesting, let’s try!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hammerspoon]]></title>
@@ -65,18 +74,6 @@
 <blockquote><p></p></p><p><p>Luckily, older Macs are more flexible with hardware upgrades and coupled with third-party software, you can unlock features that Apple doesn’t support on older models. Here is how to get the most life out of an aging Mac.</p></p><p><p></p></blockquote></p>
 
 <p>Perangkat Mac memang tak terbilang murah, untuk itulah pengguna harus pintar-pintar mencari cara bagaimana agar Mac yang telah lama dimiliki tetap memiliki performa yang baik. Biasanya, Mac versi lama memiliki beberapa komponen yang dapat diupgrade sendiri oleh pemiliknya dan mengganti RAM atau hard drive dengan spesifikasi yang lebih baik bisa menjadi alternatif untuk mengembalikan performa Mac yang dirasa sudah mulai menurun.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Vitag: Batch Finder Tagging From the Command Line]]></title>
-    <link href="http://sweetdistraction.github.io/bretttrepstra-vitag-release/"/>
-    <updated>2014-12-27T20:44:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/bretttrepstra-vitag-release</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/ttscoff">Brett Trepstra</a>:
-<blockquote><p></p></p><p><p>Run without arguments it grabs all files and folders in the current directory and opens your text editor with a list of them, each one followed by its current tags (if any) in square brackets. Edit what’s in the brackets, save and close, and those changes are immediately applied.</p></p><p><p></p></blockquote></p>
-
-<p>Brett memang tak pernah kehabisan akal tentang bagaimana mengembangkan workflow yang dimiliki serta menjadikannya lebih efektif dan efisien. Kali ini ia merilis sebuah program berupa perintah baris untuk mempercepat tagging files atau folder di OS X 10.9+. Selamat mencoba! </p>
 ]]></content>
   </entry>
   

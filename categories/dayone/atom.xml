@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Dayone | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/dayone/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-04-18T09:54:22+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Day One for Apple Watch]]></title>
+    <link href="http://sweetdistraction.github.io/day-one-for-apple-watch/"/>
+    <updated>2015-04-18T09:35:51+07:00</updated>
+    <id>http://sweetdistraction.github.io/day-one-for-apple-watch</id>
+    <content type="html"><![CDATA[<p>My favorite app for journaling gets updated to support Apple Watch. This will make journaling easier and maybe some people don’t need any reminder to log their journal (hey, that’s me!)</p>
+]]></content>
+  </entry>
+  
+</feed>

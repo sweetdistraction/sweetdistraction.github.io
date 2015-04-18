@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-18T08:53:12+07:00</updated>
+  <updated>2015-04-18T09:54:22+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,71 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Twitterrific for Apple Watch]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/twitterific-apple-watch-support/"/>
+    <updated>2015-04-18T09:38:25+07:00</updated>
+    <id>http://sweetdistraction.github.io/twitterific-apple-watch-support</id>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/us/app/twitterrific-5-for-twitter/id580311103?mt=8&amp;ign-mpt=uo%3D4">Twitterrific</a> also gets updated with Apple Watch support.</p>
+<blockquote><p>Twitterrific’s glance gives you a fun, visual digest of the total number of favorites, retweets and new followers you’ve received over the past 24 hours. Think of it as a lightweight version of the Today View from the iOS app. It also displays the number of unread tweets currently waiting for you the next time you launch the iOS app. Note that Twitterrific’s push notifications (available as a one-time in-app purchase) are needed to take full advantage of the app’s features on Apple Watch.</p></blockquote>
+
+<p>I’ve used Twitterific several times on iOS. There’s no doubt that it’s a great apps but let me wait till <a href="http://tapbots.com/">Tapbots</a> update their Twitter client, <a href="https://itunes.apple.com/us/app/tweetbot-3-for-twitter.-elegant/id722294701?mt=8&amp;at=11l4Hu">Tweetbot 3</a> to support the watch<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>. </p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p>The fact is I don’t know how long till I get the Apple Watch or the Apple Watch gets here. <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Day One for Apple Watch]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/day-one-for-apple-watch/"/>
+    <updated>2015-04-18T09:35:51+07:00</updated>
+    <id>http://sweetdistraction.github.io/day-one-for-apple-watch</id>
+    <content type="html"><![CDATA[<p>My favorite app for journaling gets updated to support Apple Watch. This will make journaling easier and maybe some people don’t need any reminder to log their journal (hey, that’s me!)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Play a Power Charging Sound Effect in OS X When a MacBook is Plugged in (Like iOS)]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/play-sound-effect-in-osx-like-iOS/"/>
+    <updated>2015-04-18T08:18:05+07:00</updated>
+    <id>http://sweetdistraction.github.io/play-sound-effect-in-osx-like-iOS</id>
+    <content type="html"><![CDATA[<p>Seems interesting, let’s try!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Switching from Google Authenticator or Authy to 1Password]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/switching-from-google-authenticator-or-authy-to-1password/"/>
+    <updated>2015-04-17T18:22:56+07:00</updated>
+    <id>http://sweetdistraction.github.io/switching-from-google-authenticator-or-authy-to-1password</id>
+    <content type="html"><![CDATA[<p>If you have many accounts on this digital age and still isn’t using two factor authentication then you’re doing it wrong and if you want to implement it, then use <a href="https://agilebits.com/onepassword">1Password</a> cause I already ditching Authy.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Best Mind Mapping App]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/the-best-mind-mapping-app/"/>
+    <updated>2015-04-17T17:29:01+07:00</updated>
+    <id>http://sweetdistraction.github.io/the-best-mind-mapping-app</id>
+    <content type="html"><![CDATA[<p>The Sweet Setup choose <a href="https://itunes.apple.com/us/app/mindnode-pro/id402398561?mt=12">MindNode</a> for its favorite mind mapping app: </p>
+<blockquote><p>The best thing about MindNode is that it is incredibly easy to use. The UI is simple and intuitive, even if you’re not an experienced mind mapper. In fact, you could probably start using MindNode without even fully understanding the concept of mind mapping because the user interface will actually teach you how to do it.</p></blockquote>
+
+<p>I absolutely agree with that. A months ago when I prepared a presentation about HbA1C, I didn’t know where to start. I searched for every mind mapping apps and choosed MindNode. The app is easy to use and there’s no learning curve at all. You can instantly do mind mapping using MindNode. I think that’s a clear sign that’s MindNode is an awesome app. </p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Chrome for iOS Gets Updated With Widget, Gesture and 1Password Support]]></title>
