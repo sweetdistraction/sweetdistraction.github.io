@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Android | sweet distractions]]></title>
+  <link href="http://sweetdistraction.github.io/categories/android/atom.xml" rel="self"/>
+  <link href="http://sweetdistraction.github.io/"/>
+  <updated>2015-04-20T14:00:17+07:00</updated>
+  <id>http://sweetdistraction.github.io/</id>
+  <author>
+    <name><![CDATA[Aditya Daniel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Android’s 10 Millisecond Problem: The Android Audio Path Latency Explainer]]></title>
+    <link href="http://sweetdistraction.github.io/android-latency-problem/"/>
+    <updated>2015-04-20T13:38:31+07:00</updated>
+    <id>http://sweetdistraction.github.io/android-latency-problem</id>
+    <content type="html"><![CDATA[<p>This post explains why some of popular iOS apps and games aren’t available for Android platform. This problem also reveal why App Store revenue is bigger than Google Play Store<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. You can read the blog post and it has good explanation why it matters.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>I also wrote about this in Bahasa Indonesia <a href="http://www.trenologi.com/2015042064433/app-annie-pendapatan-apple-app-store-lebih-tinggi-dibandingkan-google-play-store/">here</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+</feed>

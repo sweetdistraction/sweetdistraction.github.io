@@ -4,7 +4,7 @@
   <title><![CDATA[sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-18T09:54:22+07:00</updated>
+  <updated>2015-04-20T14:00:17+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,66 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Android’s 10 Millisecond Problem: The Android Audio Path Latency Explainer ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://superpowered.com/androidaudiopathlatency/#axzz3XpQEXpVp"/>
+  	
+    <updated>2015-04-20T13:38:31+07:00</updated>
+    <id>http://sweetdistraction.github.io/android-latency-problem</id>
+    
+    <content type="html"><![CDATA[<p>This post explains why some of popular iOS apps and games aren’t available for Android platform. This problem also reveal why App Store revenue is bigger than Google Play Store<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. You can read the blog post and it has good explanation why it matters.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>I also wrote about this in Bahasa Indonesia <a href="http://www.trenologi.com/2015042064433/app-annie-pendapatan-apple-app-store-lebih-tinggi-dibandingkan-google-play-store/">here</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+<a rel="full-article" href="http://sweetdistraction.github.io/android-latency-problem/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Dated URL]]></title>
+  	<link href="http://sweetdistraction.github.io/dated-url/"/>
+  	
+    <updated>2015-04-20T09:16:07+07:00</updated>
+    <id>http://sweetdistraction.github.io/dated-url</id>
+    
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/@mattgemmell">Mat Gemmell</a> has 5 reasons why <a href="http://mattgemmell.com/permalinks/">dated url on blog</a> is horrible. Furthermore I love how <a href="http://mattgemmell.com/on-blogs/">he takes on it</a>:</p>
+
+<blockquote><p>A blog doesn’t have to be a diary. There doesn’t have to be an explicit or implied chronology, with the attendant ephemerality and fading relevance that date-focused organisation brings. If you want it, great - it’s there. But opt in.</p></blockquote>
+
+<p>I think I’ll get rid of it soon too.</p>
+]]></content>
+  	
+  </entry>
+  
+  <entry>
+    
+  	<title type="html"><![CDATA[Letting go ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+  	<link href="http://mattgemmell.com/letting-go/"/>
+  	
+    <updated>2015-04-20T08:59:04+07:00</updated>
+    <id>http://sweetdistraction.github.io/letting-go</id>
+    
+    <content type="html"><![CDATA[<p>Another fascinating essays </p>
+<blockquote><p>I’ve been trying to let go. It’s a work in progress, and it probably always will be, but I’m trying.
+<br />
+<br />I’m looking for focus, and freedom from noise. More than that, I’m looking for stability; a metaphorical place where I have a chance of doing my best work.
+<br />
+<br />I’m distracted by my interests, but that’s fine. What’s not fine is that I’m also distracted by things I might think are interesting at the time, but are really just opportunities to procrastinate.</p></blockquote>
+
+<p>Find this gems this morning and I think it’s worth to read. My favorite part of this blog post is:</p>
+
+<blockquote><p>It goes beyond that, though. I’m letting go of people, too. I think it’s OK to let people pass you by. Difficult people, demanding people, and people who impose too high a cost against the benefit they provide - or even just people that you can’t reasonably help.</p></blockquote>
+<a rel="full-article" href="http://sweetdistraction.github.io/letting-go/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+  	
+  </entry>
   
   <entry>
     
@@ -425,50 +485,6 @@ fh.close
     
     <content type="html"><![CDATA[<p><a href="http://twitter.com/settern">Serenity Caldwell</a> made a transcipt for iMore about Tim Cook talks at the Goldman Sachs Conferences. </p>
 <a rel="full-article" href="http://sweetdistraction.github.io/tim-cook-interview/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[The Reason You Should Draft Your Blog Posts Outside WordPress ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://john.do/draft/"/>
-  	
-    <updated>2015-02-03T08:04:53+07:00</updated>
-    <id>http://sweetdistraction.github.io/drafts-wordpress</id>
-    
-    <content type="html"><![CDATA[<p><a href="http://john.do">John Saddington</a>:</p>
-<blockquote><p>The point is this: The reason you draft outside of WordPress is because there’s less of a chance of losing your hard work!</p></blockquote>
-
-<p>That’s true! Goddamn true! </p>
-
-<a rel="full-article" href="http://sweetdistraction.github.io/drafts-wordpress/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[If Apple Made Milk ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://www.adweek.com/adfreak/if-apple-made-milk-and-other-super-cool-imaginary-product-packaging-162398"/>
-  	
-    <updated>2015-01-27T09:15:44+07:00</updated>
-    <id>http://sweetdistraction.github.io/apple-made-milk</id>
-    
-    <content type="html"><![CDATA[<p>What if Apple and others popular brand do packaging to your daily needs at grocery?</p>
-<a rel="full-article" href="http://sweetdistraction.github.io/apple-made-milk/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-  	
-  </entry>
-  
-  <entry>
-    
-  	<title type="html"><![CDATA[Favorite App For Shared Lists ∞ ]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-  	<link href="http://thesweetsetup.com/apps/favorite-app-shared-lists/"/>
-  	
-    <updated>2015-01-23T10:35:52+07:00</updated>
-    <id>http://sweetdistraction.github.io/favorite-shared-list-apps</id>
-    
-    <content type="html"><![CDATA[<p>Available in all platform even as browser extensions, syncs pretty well, can add subtask and attach PDF, media, link, easy sharing with others. Well, no wonder they pick Wunderlist. </p>
-
-<a rel="full-article" href="http://sweetdistraction.github.io/favorite-shared-list-apps/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
   	
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | sweet distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/blog/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-18T09:54:22+07:00</updated>
+  <updated>2015-04-20T14:00:17+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dated URL]]></title>
+    <link href="http://sweetdistraction.github.io/dated-url/"/>
+    <updated>2015-04-20T09:16:07+07:00</updated>
+    <id>http://sweetdistraction.github.io/dated-url</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/@mattgemmell">Mat Gemmell</a> has 5 reasons why <a href="http://mattgemmell.com/permalinks/">dated url on blog</a> is horrible. Furthermore I love how <a href="http://mattgemmell.com/on-blogs/">he takes on it</a>:</p>
+
+<p><blockquote><p>A blog doesn’t have to be a diary. There doesn’t have to be an explicit or implied chronology, with the attendant ephemerality and fading relevance that date-focused organisation brings. If you want it, great - it’s there. But opt in.</p></blockquote></p>
+
+<p>I think I’ll get rid of it soon too.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Note to Re/code Readers]]></title>
