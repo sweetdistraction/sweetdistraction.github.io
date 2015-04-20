@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Upgrade | sweet distractions]]></title>
+  <title><![CDATA[Category: upgrade | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/upgrade/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Breathe Life Into an Old Mac — 512 Pixels]]></title>
+    <title type="html"><![CDATA[Breathe life into an old Mac — 512 Pixels]]></title>
     <link href="http://sweetdistraction.github.io/breathe-life-into-old-mac/"/>
     <updated>2015-01-01T22:49:00+07:00</updated>
     <id>http://sweetdistraction.github.io/breathe-life-into-old-mac</id>

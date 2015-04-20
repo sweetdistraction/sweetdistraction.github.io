@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Appstore | sweet distractions]]></title>
+  <title><![CDATA[Category: appstore | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/appstore/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Apps Cannot Use Push Notifications to Send Promotions, Unless You’re Apple or Anyone Else]]></title>
+    <title type="html"><![CDATA[Apps cannot use Push Notifications to send promotions, unless you’re Apple or anyone else]]></title>
     <link href="http://sweetdistraction.github.io/app-store-rules/"/>
     <updated>2014-12-02T10:20:38+07:00</updated>
     <id>http://sweetdistraction.github.io/app-store-rules</id>
@@ -26,7 +26,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[The NEW 1WRITER WITH JAVASCRIPT ACTIONS]]></title>
+    <title type="html"><![CDATA[THE NEW 1WRITER WITH JAVASCRIPT ACTIONS]]></title>
     <link href="http://sweetdistraction.github.io/the-new-1writer-javascript-actions/"/>
     <updated>2014-12-01T14:44:17+07:00</updated>
     <id>http://sweetdistraction.github.io/the-new-1writer-javascript-actions</id>
@@ -43,7 +43,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[This App Lets You Unlock Your Mac With Touch ID]]></title>
+    <title type="html"><![CDATA[This app lets you unlock your Mac with Touch ID]]></title>
     <link href="http://sweetdistraction.github.io/unlock-macbook-with-touch-id/"/>
     <updated>2014-12-01T13:13:47+07:00</updated>
     <id>http://sweetdistraction.github.io/unlock-macbook-with-touch-id</id>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Mobile | sweet distractions]]></title>
+  <title><![CDATA[Category: mobile | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/mobile/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Twitter Analytics Di Twitter for iPhone]]></title>
+    <title type="html"><![CDATA[Twitter Analytics di Twitter for iPhone]]></title>
     <link href="http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone/"/>
     <updated>2014-12-23T09:09:04+07:00</updated>
     <id>http://sweetdistraction.github.io/twitter-analytics-di-twitter-for-iphone</id>

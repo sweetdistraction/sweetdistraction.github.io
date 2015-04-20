@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Touch Id | sweet distractions]]></title>
+  <title><![CDATA[Category: touch id | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/touch-id/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[This App Lets You Unlock Your Mac With Touch ID]]></title>
+    <title type="html"><![CDATA[This app lets you unlock your Mac with Touch ID]]></title>
     <link href="http://sweetdistraction.github.io/unlock-macbook-with-touch-id/"/>
     <updated>2014-12-01T13:13:47+07:00</updated>
     <id>http://sweetdistraction.github.io/unlock-macbook-with-touch-id</id>

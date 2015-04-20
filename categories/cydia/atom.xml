@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Cydia | sweet distractions]]></title>
+  <title><![CDATA[Category: cydia | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/cydia/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Allarm: A Cleverly Named Tweak That Toggles All Alarm Clocks Simultaneously]]></title>
+    <title type="html"><![CDATA[Allarm: a cleverly named tweak that toggles all alarm clocks simultaneously]]></title>
     <link href="http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously/"/>
     <updated>2014-12-22T16:09:27+07:00</updated>
     <id>http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously</id>
@@ -71,7 +71,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[FileBrowser: An Alternative to iFile?]]></title>
+    <title type="html"><![CDATA[FileBrowser: an alternative to iFile?]]></title>
     <link href="http://sweetdistraction.github.io/filebrowser-ifile-alternatives/"/>
     <updated>2014-12-05T09:16:41+07:00</updated>
     <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>
@@ -83,7 +83,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[WatchBoard: A New Apple Watch SpringBoard Replacement for iPhone and iPad]]></title>
+    <title type="html"><![CDATA[WatchBoard: a new Apple Watch SpringBoard replacement for iPhone and iPad]]></title>
     <link href="http://sweetdistraction.github.io/watchboar-apple-watch-springboard-iphone-ipad/"/>
     <updated>2014-11-28T17:31:38+07:00</updated>
     <id>http://sweetdistraction.github.io/watchboar-apple-watch-springboard-iphone-ipad</id>
@@ -102,7 +102,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[San Fransisco Sebagai System Font Di iOS]]></title>
+    <title type="html"><![CDATA[San Fransisco Sebagai System Font di iOS]]></title>
     <link href="http://sweetdistraction.github.io/san-fransisco-ios-fonts/"/>
     <updated>2014-11-25T22:08:00+07:00</updated>
     <id>http://sweetdistraction.github.io/san-fransisco-ios-fonts</id>

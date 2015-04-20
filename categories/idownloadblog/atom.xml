@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Idownloadblog | sweet distractions]]></title>
+  <title><![CDATA[Category: idownloadblog | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/idownloadblog/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Things for iPhone and iPad Updated With New Notification Center Widget]]></title>
+    <title type="html"><![CDATA[Things for iPhone and iPad updated with new Notification Center widget]]></title>
     <link href="http://sweetdistraction.github.io/things-update/"/>
     <updated>2015-01-16T07:57:08+07:00</updated>
     <id>http://sweetdistraction.github.io/things-update</id>
@@ -26,7 +26,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Allarm: A Cleverly Named Tweak That Toggles All Alarm Clocks Simultaneously]]></title>
+    <title type="html"><![CDATA[Allarm: a cleverly named tweak that toggles all alarm clocks simultaneously]]></title>
     <link href="http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously/"/>
     <updated>2014-12-22T16:09:27+07:00</updated>
     <id>http://sweetdistraction.github.io/allarm-toogle-all-alarm-simultaneously</id>
@@ -39,7 +39,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[FileBrowser: An Alternative to iFile?]]></title>
+    <title type="html"><![CDATA[FileBrowser: an alternative to iFile?]]></title>
     <link href="http://sweetdistraction.github.io/filebrowser-ifile-alternatives/"/>
     <updated>2014-12-05T09:16:41+07:00</updated>
     <id>http://sweetdistraction.github.io/filebrowser-ifile-alternatives</id>

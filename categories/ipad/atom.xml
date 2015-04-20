@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ipad | sweet distractions]]></title>
+  <title><![CDATA[Category: ipad | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ipad/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Apple vs Jailbreak]]></title>
+    <title type="html"><![CDATA[Apple VS Jailbreak]]></title>
     <link href="http://sweetdistraction.github.io/apple-vs-jailbreak/"/>
     <updated>2014-12-01T23:03:00+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-vs-jailbreak</id>
@@ -33,7 +33,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[The NEW 1WRITER WITH JAVASCRIPT ACTIONS]]></title>
+    <title type="html"><![CDATA[THE NEW 1WRITER WITH JAVASCRIPT ACTIONS]]></title>
     <link href="http://sweetdistraction.github.io/the-new-1writer-javascript-actions/"/>
     <updated>2014-12-01T14:44:17+07:00</updated>
     <id>http://sweetdistraction.github.io/the-new-1writer-javascript-actions</id>
@@ -50,7 +50,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[How Apple Keeps AirDrop Files Private and Secure | iMore]]></title>
+    <title type="html"><![CDATA[How Apple keeps AirDrop files private and secure | iMore]]></title>
     <link href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/"/>
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>
@@ -84,7 +84,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Unread for iPad Relaunches as a Freemium App]]></title>
+    <title type="html"><![CDATA[Unread for iPad relaunches as a freemium app]]></title>
     <link href="http://sweetdistraction.github.io/unread-ipad-jadi-freemium/"/>
     <updated>2014-11-26T01:33:00+07:00</updated>
     <id>http://sweetdistraction.github.io/unread-ipad-jadi-freemium</id>

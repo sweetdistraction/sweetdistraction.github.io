@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Automation | sweet distractions]]></title>
+  <title><![CDATA[Category: automation | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/automation/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -37,7 +37,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[A Better Way to Combine iPhone Screenshots With Keyboard Maestro]]></title>
+    <title type="html"><![CDATA[A Better Way To Combine iPhone Screenshots with Keyboard Maestro]]></title>
     <link href="http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro/"/>
     <updated>2014-12-03T17:09:30+07:00</updated>
     <id>http://sweetdistraction.github.io/combine-apple-screenshot-using-keyboard-maestro</id>
@@ -53,7 +53,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Getting Started With JavaScript for Automation on Yosemite]]></title>
+    <title type="html"><![CDATA[Getting Started with JavaScript for Automation on Yosemite]]></title>
     <link href="http://sweetdistraction.github.io/javascript-for-automation/"/>
     <updated>2014-12-03T10:31:41+07:00</updated>
     <id>http://sweetdistraction.github.io/javascript-for-automation</id>
@@ -67,7 +67,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Keyboard Maestro Macro: Quoting a Website in Markdown — the Brooks Review]]></title>
+    <title type="html"><![CDATA[Keyboard Maestro Macro: Quoting a Website in Markdown — The Brooks Review]]></title>
     <link href="http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown/"/>
     <updated>2014-11-24T22:27:00+07:00</updated>
     <id>http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown</id>

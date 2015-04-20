@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ios 8 | sweet distractions]]></title>
+  <title><![CDATA[Category: ios 8 | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/ios-8/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[iOS 8 Changed How I Work on My iPhone and iPad]]></title>
+    <title type="html"><![CDATA[iOS 8 Changed How I Work on My iPhone and iPad ]]></title>
     <link href="http://sweetdistraction.github.io/iOS8-stories/"/>
     <updated>2015-03-17T07:42:30+07:00</updated>
     <id>http://sweetdistraction.github.io/iOS8-stories</id>

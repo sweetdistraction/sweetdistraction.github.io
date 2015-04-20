@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Essay | sweet distractions]]></title>
+  <title><![CDATA[Category: essay | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/essay/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Letting Go]]></title>
+    <title type="html"><![CDATA[Letting go]]></title>
     <link href="http://sweetdistraction.github.io/letting-go/"/>
     <updated>2015-04-20T08:59:04+07:00</updated>
     <id>http://sweetdistraction.github.io/letting-go</id>

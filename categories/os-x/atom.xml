@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Os X | sweet distractions]]></title>
+  <title><![CDATA[Category: os x | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/os-x/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -27,7 +27,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Keyboard Maestro Macro: Quoting a Website in Markdown — the Brooks Review]]></title>
+    <title type="html"><![CDATA[Keyboard Maestro Macro: Quoting a Website in Markdown — The Brooks Review]]></title>
     <link href="http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown/"/>
     <updated>2014-11-24T22:27:00+07:00</updated>
     <id>http://sweetdistraction.github.io/keyboard-maestro-quoting-a-website-in-markdown</id>

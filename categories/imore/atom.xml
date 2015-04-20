@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Imore | sweet distractions]]></title>
+  <title><![CDATA[Category: imore | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/imore/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[How Apple Keeps AirDrop Files Private and Secure | iMore]]></title>
+    <title type="html"><![CDATA[How Apple keeps AirDrop files private and secure | iMore]]></title>
     <link href="http://sweetdistraction.github.io/how-apple-keeps-airdrop-files/"/>
     <updated>2014-11-29T00:00:00+07:00</updated>
     <id>http://sweetdistraction.github.io/how-apple-keeps-airdrop-files</id>

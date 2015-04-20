@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Phraseexpress | sweet distractions]]></title>
+  <title><![CDATA[Category: phraseexpress | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/phraseexpress/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-20T14:08:33+07:00</updated>
+  <updated>2015-04-21T01:30:59+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[PhraseExpress V10 Documentation]]></title>
+    <title type="html"><![CDATA[PhraseExpress v10 Documentation]]></title>
     <link href="http://sweetdistraction.github.io/phraseexpress-docs/"/>
     <updated>2014-12-16T08:46:37+07:00</updated>
     <id>http://sweetdistraction.github.io/phraseexpress-docs</id>
