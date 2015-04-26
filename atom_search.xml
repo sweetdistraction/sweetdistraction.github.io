@@ -4,7 +4,7 @@
   <title><![CDATA[Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-21T01:30:59+07:00</updated>
+  <updated>2015-04-26T17:12:25+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sublime Text tips for Markdown table editing]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/sublime-text-tips-for-markdown-table-editing/"/>
+    <updated>2015-04-25T09:10:09+07:00</updated>
+    <id>http://sweetdistraction.github.io/sublime-text-tips-for-markdown-table-editing</id>
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/ttscoff">Brett Terpstra</a> always come with some tips to speed up your workflow. If you haven’t follow his blog yet then now you should.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Create Tasks In Things Using Do Notes]]></title>
@@ -22,7 +33,7 @@
     <content type="html"><![CDATA[<p>A few weeks ago I wrote about how to <a href="http://sweetdistractions.net/Chaining-Things-and-iOS-Reminders-with-IFTTT/">chaining Things and web automation service IFTTT</a>. This workaround comes because I have to use PC at work and since my choice app of GTD is Things then I need to sort this problem out. Even I can pick up my iPhone and write down the task directly to <a href="https://culturedcode.com">Things</a> inbox, it’s not a pleasant things to do. 
 <!--more--></p>
 
-<p>I have <a href="https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8">Drafts</a> installed on my iPhone and since it’s a place where text start on iOS, I mainly used it to save article for a blog post ideas. I also use Drafts for do brain dump and send to Things inbox later but what about if I want to quickly capture ideas that suddenly pop-up and I need to get out of it from my mind soon? This is where <a href="https://itunes.apple.com/us/app/do-note-by-ifttt/id905998379">Do Note</a> by IFTTT take a role.</p>
+<p>I have <a href="https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8&amp;at=1010lDx&amp;ct=sd">Drafts</a> installed on my iPhone and since it’s a place where text start on iOS, I mainly used it to save article for a blog post ideas. I also use Drafts for do brain dump and send to Things inbox later but what about if I want to quickly capture ideas that suddenly pop-up and I need to get out of it from my mind soon? This is where <a href="https://itunes.apple.com/us/app/do-note-by-ifttt/id905998379&amp;at=1010lDx&amp;ct=sd">Do Note</a> by IFTTT take a role.</p>
 
 <p>With my impulsiveness, my mind is unpredictable. Sometimes an idea pop-up in the wrong place and time. To get this idea out of my mind as quickly as possible, I use Do Note. I only need a recipe that makes a task/idea in iOS reminders. Things have reminders integration so whenever I take a note using Do Note and send them to iOS reminders, Things will pick and save it to its inbox. One thing you should pay attention is you have to choose the same iOS reminder list between Do Notes and Things.</p>
 
@@ -89,7 +100,7 @@
     <link href="http://sweetdistraction.github.io/twitterific-apple-watch-support/"/>
     <updated>2015-04-18T09:38:25+07:00</updated>
     <id>http://sweetdistraction.github.io/twitterific-apple-watch-support</id>
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/us/app/twitterrific-5-for-twitter/id580311103?mt=8&amp;ign-mpt=uo%3D4">Twitterrific</a> also gets updated with Apple Watch support.</p>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/us/app/twitterrific-5-for-twitter/id580311103?mt=8&amp;ign-mpt=uo%3D4&amp;at=1010lDx&amp;ct=sd">Twitterrific</a> also gets updated with Apple Watch support.</p>
 <blockquote><p>Twitterrific’s glance gives you a fun, visual digest of the total number of favorites, retweets and new followers you’ve received over the past 24 hours. Think of it as a lightweight version of the Today View from the iOS app. It also displays the number of unread tweets currently waiting for you the next time you launch the iOS app. Note that Twitterrific’s push notifications (available as a one-time in-app purchase) are needed to take full advantage of the app’s features on Apple Watch.</p></blockquote>
 
 <p>I’ve used Twitterific several times on iOS. There’s no doubt that it’s a great apps but let me wait till <a href="http://tapbots.com/">Tapbots</a> update their Twitter client, <a href="https://itunes.apple.com/us/app/tweetbot-3-for-twitter.-elegant/id722294701?mt=8&amp;at=11l4Hu">Tweetbot 3</a> to support the watch<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>. </p>
@@ -141,7 +152,7 @@
     <link href="http://sweetdistraction.github.io/the-best-mind-mapping-app/"/>
     <updated>2015-04-17T17:29:01+07:00</updated>
     <id>http://sweetdistraction.github.io/the-best-mind-mapping-app</id>
-    <content type="html"><![CDATA[<p>The Sweet Setup choose <a href="https://itunes.apple.com/us/app/mindnode-pro/id402398561?mt=12">MindNode</a> for its favorite mind mapping app: </p>
+    <content type="html"><![CDATA[<p>The Sweet Setup choose <a href="https://itunes.apple.com/us/app/mindnode-pro/id402398561?mt=12&amp;at=1010lDx&amp;ct=sd">MindNode</a> for its favorite mind mapping app: </p>
 <blockquote><p>The best thing about MindNode is that it is incredibly easy to use. The UI is simple and intuitive, even if you’re not an experienced mind mapper. In fact, you could probably start using MindNode without even fully understanding the concept of mind mapping because the user interface will actually teach you how to do it.</p></blockquote>
 
 <p>I absolutely agree with that. A months ago when I prepared a presentation about HbA1C, I didn’t know where to start. I searched for every mind mapping apps and choosed MindNode. The app is easy to use and there’s no learning curve at all. You can instantly do mind mapping using MindNode. I think that’s a clear sign that’s MindNode is an awesome app. </p>
@@ -161,7 +172,7 @@
 
 <p>The 1Password integration is the one I love which is brought a deeper integration with iOS 8. It allow 1Password to fill logins using action extension. It’s good to see that Google bring attention to its app with extensions support and widgets.</p>
 
-<p>You can download Chrome for iOS version 42 on <a href="https://itunes.apple.com/us/app/chrome-web-browser-by-google/id535886823?mt=8&amp;ign-mpt=uo%3D4">App Store</a>.</p>
+<p>You can download Chrome for iOS version 42 on <a href="https://itunes.apple.com/us/app/chrome-web-browser-by-google/id535886823?mt=8&amp;ign-mpt=uo%3D4&amp;at=1010lDx&amp;ct=sd">App Store</a>.</p>
 ]]></content>
   </entry>
   
@@ -200,7 +211,7 @@
 
 <p>I’ve tried <a href="https://www.omnigroup.com/omnifocus">Omnifocus</a>, plain text based <a href="http://www.hogbaysoftware.com/products/taskpaper">Taskpaper</a>, Things for my task management system to implement GTD and the last one is my choice. <a href="http://culturedcode.com">Cultured Code</a> the developer behind Things make a great software even the development pace is too slow according to some people.</p>
 
-<p>I love using Things because of its simplicity. The syncing is also fast and reliable. The ease of using Things is there’s no learning curve instead of GTD itself. I don’t said that Omnifocus isn’t a great tools but I get myself overwhelm everytime I open Omnifocus and try to use it. </p>
+<p>I love using Things because of its simplicity. The applications itself available on <a href="https://itunes.apple.com/id/app/things/id284971781?mt=8&amp;uo=4&amp;at=1010lDx&amp;ct=sd">iPhone</a>, <a href="https://itunes.apple.com/id/app/things-for-ipad/id364365411?mt=8&amp;uo=4&amp;at=1010lDx&amp;ct=sd">iPad</a> and <a href="https://itunes.apple.com/us/app/things/id407951449?mt=12&amp;ign-mpt=uo%3D4&amp;at=1010lDx&amp;ct=sd">Mac</a>. The syncing is also fast and reliable. The ease of using Things is there’s no learning curve instead of GTD itself. I don’t said that <a href="https://itunes.apple.com/id/app/omnifocus-2-for-iphone/id690305341?mt=8&amp;uo=4&amp;at=1010lDx&amp;ct=sd">Omnifocus</a> isn’t a great tools but I get myself overwhelm everytime I open Omnifocus and try to use it. </p>
 
 <p>One features that makes me envy as Things user from Omnifocus is MailDrop features which you can use to send a task to your inbox just by emailing it. Why I envy this features is the fact that I have to use PC at work and there’s such Things for Windows to easily put the task in. </p>
 

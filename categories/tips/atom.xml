@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tips | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/tips/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-21T01:30:59+07:00</updated>
+  <updated>2015-04-26T17:12:25+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>A few weeks ago I wrote about how to <a href="http://sweetdistractions.net/Chaining-Things-and-iOS-Reminders-with-IFTTT/">chaining Things and web automation service IFTTT</a>. This workaround comes because I have to use PC at work and since my choice app of GTD is Things then I need to sort this problem out. Even I can pick up my iPhone and write down the task directly to <a href="https://culturedcode.com">Things</a> inbox, it’s not a pleasant things to do. 
 <!--more--></p>
 
-<p>I have <a href="https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8">Drafts</a> installed on my iPhone and since it’s a place where text start on iOS, I mainly used it to save article for a blog post ideas. I also use Drafts for do brain dump and send to Things inbox later but what about if I want to quickly capture ideas that suddenly pop-up and I need to get out of it from my mind soon? This is where <a href="https://itunes.apple.com/us/app/do-note-by-ifttt/id905998379">Do Note</a> by IFTTT take a role.</p>
+<p>I have <a href="https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8&amp;at=1010lDx&amp;ct=sd">Drafts</a> installed on my iPhone and since it’s a place where text start on iOS, I mainly used it to save article for a blog post ideas. I also use Drafts for do brain dump and send to Things inbox later but what about if I want to quickly capture ideas that suddenly pop-up and I need to get out of it from my mind soon? This is where <a href="https://itunes.apple.com/us/app/do-note-by-ifttt/id905998379&amp;at=1010lDx&amp;ct=sd">Do Note</a> by IFTTT take a role.</p>
 
 <p>With my impulsiveness, my mind is unpredictable. Sometimes an idea pop-up in the wrong place and time. To get this idea out of my mind as quickly as possible, I use Do Note. I only need a recipe that makes a task/idea in iOS reminders. Things have reminders integration so whenever I take a note using Do Note and send them to iOS reminders, Things will pick and save it to its inbox. One thing you should pay attention is you have to choose the same iOS reminder list between Do Notes and Things.</p>
 
