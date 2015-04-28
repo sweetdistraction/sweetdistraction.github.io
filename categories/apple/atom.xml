@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-26T17:12:25+07:00</updated>
+  <updated>2015-04-28T09:50:41+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Difference Between Apple and Samsung Industrial Design]]></title>
+    <link href="http://sweetdistraction.github.io/the-difference-between-apple-and-samsung/"/>
+    <updated>2015-04-28T09:30:49+07:00</updated>
+    <id>http://sweetdistraction.github.io/the-difference-between-apple-and-samsung</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> writes for iMore about difference between Apple and Samsung:
+<blockquote><p>To align everything along the edge of a device takes designing and mounting the boards in a certain way, and the ports and speakers, and the buttons and jacks, and the grills and every other detail so they all line up at exactly the right place at the end. Painstaking is likely an understatement.</p></p><p><p>Is it worth the effort? For me, as a customer, knowing that Apple had the consideration and took the time and effort to align their hardware speaks to the overall quality of their work. It reassures me that the same consideration and effort were likely spent making sure not a millimeter nor milliamp of battery space was wasted, not a nanometer of die, not a gap left around the screen, or a dead zone in the capacitive sensor.</p></blockquote></p>
+
+<p>And he sums everything about Samsung’s product design in one sentences: 
+<blockquote><p>Almost nothing is aligned.</p></blockquote></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tim Cook on Apple's Future: Everything Can Change Except Values]]></title>
@@ -55,18 +68,6 @@
     <updated>2015-01-27T09:15:44+07:00</updated>
     <id>http://sweetdistraction.github.io/apple-made-milk</id>
     <content type="html"><![CDATA[<p>What if Apple and others popular brand do packaging to your daily needs at grocery?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TAG Heuer And The Future Of The Luxury Watch]]></title>
-    <link href="http://sweetdistraction.github.io/tag-heuer-and-future-luxury-watches/"/>
-    <updated>2015-01-09T17:34:00+07:00</updated>
-    <id>http://sweetdistraction.github.io/tag-heuer-and-future-luxury-watches</id>
-    <content type="html"><![CDATA[<p>Matt Richman:
-<blockquote><p></p></p><p><p>In order to have even a chance of being as feature-rich as Apple Watch, then, TAG’s smartwatch will have to pair with an Android phone. However, TAG wearers aren’t Android users. Rich people buy TAG watches, but rich people don’t buy Android phones.</p></p><p><p>This is TAG’s dilemma. Its smartwatch will need to pair with an Android phone to be anywhere near as feature-rich as Apple Watch, but TAG wearers don’t buy Android phones.</p></p><p><p></p></blockquote></p>
-
-<p>Couldn’t agree more, dan sudah sepantasnya memang Matt menutup artikelnya dengan: “This, I believe, is why Jony Ive said, “Switzerland is fucked”.”</p>
 ]]></content>
   </entry>
   

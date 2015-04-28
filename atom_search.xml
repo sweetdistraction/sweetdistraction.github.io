@@ -4,7 +4,7 @@
   <title><![CDATA[Sweet Distractions]]></title>
   <link href="http://sweetdistraction.github.io/atom.xml" rel="self"/>
   <link href="http://sweetdistraction.github.io/"/>
-  <updated>2015-04-26T17:12:25+07:00</updated>
+  <updated>2015-04-28T09:50:41+07:00</updated>
   <id>http://sweetdistraction.github.io/</id>
   <author>
     <name><![CDATA[Aditya Daniel]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Difference Between Apple and Samsung Industrial Design]]></title>
+    <summary><![CDATA[]]></summary>
+    <link href="http://sweetdistraction.github.io/the-difference-between-apple-and-samsung/"/>
+    <updated>2015-04-28T09:30:49+07:00</updated>
+    <id>http://sweetdistraction.github.io/the-difference-between-apple-and-samsung</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/reneritchie">Rene Ritchie</a> writes for iMore about difference between Apple and Samsung:</p>
+<blockquote><p>To align everything along the edge of a device takes designing and mounting the boards in a certain way, and the ports and speakers, and the buttons and jacks, and the grills and every other detail so they all line up at exactly the right place at the end. Painstaking is likely an understatement.
+<br />
+<br />Is it worth the effort? For me, as a customer, knowing that Apple had the consideration and took the time and effort to align their hardware speaks to the overall quality of their work. It reassures me that the same consideration and effort were likely spent making sure not a millimeter nor milliamp of battery space was wasted, not a nanometer of die, not a gap left around the screen, or a dead zone in the capacitive sensor.</p></blockquote>
+
+<p>And he sums everything about Samsung’s product design in one sentences: </p>
+<blockquote><p>Almost nothing is aligned.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sublime Text tips for Markdown table editing]]></title>
